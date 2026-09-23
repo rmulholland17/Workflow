@@ -1,0 +1,425 @@
+- generic "Google Maps" [ref=f50e9]:
+  - generic [ref=f50e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f50e10]
+    - search [ref=f50e15]:
+      - generic [ref=f50e16]:
+        - combobox [ref=f50e18]: junk removal san diego ca
+        - button "Search" [ref=f50e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f50e21]: 
+        - button "Close" [ref=f50e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f50e24]: 
+    - region "Available filters for this search" [ref=f50e31]:
+      - generic [ref=f50e34]:
+        - button "Rating" [ref=f50e36] [cursor=pointer]:
+          - generic [ref=f50e37]:
+            - generic [aria-hidden] [ref=f50e38]: 
+            - generic [ref=f50e39]: Rating
+            - generic [aria-hidden] [ref=f50e40]: 
+        - button "Hours" [ref=f50e42] [cursor=pointer]:
+          - generic [ref=f50e43]:
+            - generic [aria-hidden] [ref=f50e44]: 
+            - generic [ref=f50e45]: Hours
+            - generic [aria-hidden] [ref=f50e46]: 
+        - button "All filters" [ref=f50e48] [cursor=pointer]:
+          - generic [ref=f50e49]:
+            - generic [aria-hidden] [ref=f50e50]: 
+            - generic [ref=f50e51]: All filters
+    - generic [ref=f50e52]:
+      - generic [ref=f50e53]:
+        - list [ref=f50e55]:
+          - listitem [ref=f50e56]:
+            - button "Menu" [ref=f50e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f50e59]: 
+          - listitem [ref=f50e60]:
+            - button "Saved" [ref=f50e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f50e63]: 
+          - listitem [ref=f50e66]:
+            - button "Recents" [disabled] [ref=f50e67]:
+              - generic [aria-hidden] [ref=f50e69]: 
+          - listitem [ref=f50e73]:
+            - button "Get app" [ref=f50e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f50e76]: 
+        - main [ref=f50e83]:
+          - generic [ref=f50e84]:
+            - feed "Results for junk removal san diego ca" [ref=f50e85]:
+              - generic [ref=f50e86]:
+                - generic [ref=f50e88]:
+                  - heading "Results" [level=1] [ref=f50e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f50e93]:
+                    - generic [aria-hidden] [ref=f50e97]: 
+                - button "Share" [ref=f50e101]:
+                  - generic [ref=f50e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f50e103]: 
+                    - generic [ref=f50e104]: Share
+              - article [ref=f50e106]:
+                - link "Debris Box" [ref=f50e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Debris+Box/data=!4m7!3m6!1s0x80d955c7681e8d8b:0xcf4f1009eb44ab3d!8m2!3d32.784606!4d-117.102076!16s%2Fg%2F1w0j4gzc!19sChIJi40eaMdV2YARPatE6wkQT88?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f50e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f50e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Debris Box
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 134 Reviews": 4.8(134)
+                            - generic:
+                              - generic:
+                                - generic: Waste management service
+                                - generic: · 10981 San Diego Mission Road
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 209-8619
+                    - generic:
+                      - link "Visit Debris Box's website" [ref=f50e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjhiPb6t4GXAxXoKEQIHdT_EOwYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI4Yj2-reBlwMV6ChECB3U_xDsEBAYASAAEgJAP_D_BwE&cid=CAAS0wHkaEZRd8EhEgQpMcvKzmP6xIbiUV2IHXqBcuUfDvbDNXM4kbTU70gllHlorNYzd6Jz418cGUpE4xajtMr0YcudNGYOuujLai4VEyS7VrQuT_0HZZhtgMXFicCBQMgxktvcULhC29Vp051N0kTHZLdwZsNu6r-o02KoSjeJUU2xaZ2dDfDh3CEnavlxI9EGCsLMwhxyWpykK5GLAURXfzFqJlstbrnD6zHsWUvTcGjkLN-k6Ocw62IRYwWKO8tiE57iyUrv3SZ-LNcauCBaiqnjE4Sz&cce=2&category=acrcp_v1_32&sig=AOD64_2ZMQff8Kq-Bq8hRjt_kVMee6xNhQ&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f50e113]: 
+                        - generic [ref=f50e114]: Website
+                      - button "Get directions to Debris Box" [ref=f50e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f50e117]: 
+                        - generic [ref=f50e118]: Directions
+                  - link "Ad · Junk Hauling Pros · Over 60 Years Of <b>Junk Hauling</b> Expertise. Multiple Box Sizes Available To Suit Your Needs · Visit Site · debrisboxonline.com" [ref=f50e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjhiPb6t4GXAxXoKEQIHdT_EOwYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI4Yj2-reBlwMV6ChECB3U_xDsEBAYASAAEgJAP_D_BwE&cid=CAAS0wHkaEZRd8EhEgQpMcvKzmP6xIbiUV2IHXqBcuUfDvbDNXM4kbTU70gllHlorNYzd6Jz418cGUpE4xajtMr0YcudNGYOuujLai4VEyS7VrQuT_0HZZhtgMXFicCBQMgxktvcULhC29Vp051N0kTHZLdwZsNu6r-o02KoSjeJUU2xaZ2dDfDh3CEnavlxI9EGCsLMwhxyWpykK5GLAURXfzFqJlstbrnD6zHsWUvTcGjkLN-k6Ocw62IRYwWKO8tiE57iyUrv3SZ-LNcauCBaiqnjE4Sz&cce=2&category=acrcp_v1_32&sig=AOD64_2ZMQff8Kq-Bq8hRjt_kVMee6xNhQ&adurl=&rct=j&nis=5
+                    - generic [ref=f50e125]:
+                      - generic [ref=f50e126]:
+                        - generic [ref=f50e127]: Junk Hauling Pros
+                        - generic [ref=f50e128]: Over 60 Years Of Junk Hauling Expertise. Multiple Box Sizes Available To Suit Your Needs
+                      - generic [ref=f50e129]: Visit Site
+              - article [ref=f50e134]:
+                - link "JunkMD" [ref=f50e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/JunkMD/data=!4m7!3m6!1s0x80dc01c25f80dfed:0xe835091abe274149!8m2!3d32.8272113!4d-117.2296725!16s%2Fg%2F1ptz3s9td!19sChIJ7d-AX8IB3IARSUEnvhoJNeg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: JunkMD
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1,443 Reviews": 5.0(1,443)
+                            - generic:
+                              - generic:
+                                - generic: Junk removal service
+                                - generic: "· 4901 Morena Blvd #105"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 869-9448
+                    - generic:
+                      - link "Visit JunkMD's website" [ref=f50e137] [cursor=pointer]:
+                        - /url: https://junkmd.com/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-listing
+                        - generic [aria-hidden] [ref=f50e139]: 
+                        - generic [ref=f50e140]: Website
+                      - button "Get directions to JunkMD" [ref=f50e141] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f50e143]: 
+                        - generic [ref=f50e144]: Directions
+                  - link [ref=f50e145] [cursor=pointer]:
+                    - /url: https://book.housecallpro.com/book/JunkMD/cbbc4ed5b59a42f8803b491591c78555?v2=true&lead_source=google&merchant_id=995b519d-66ea-48b6-8315-6f70020b97fe&rwg_token=AE37R_i7wT2boyNZfDuA62rnsfK9MuQtBtUoTf0Rd3GHn0SNkD9cY28RNVhESJKjIhzE9Z71o_g1t12RDGE2Xj62dGIE263AgA%3D%3D
+                    - generic [ref=f50e146]:
+                      - generic [aria-hidden] [ref=f50e147]: 
+                      - text: Book online
+              - article [ref=f50e150]:
+                - link "24/7 Junk Removal LLC" [ref=f50e151] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/24%2F7+Junk+Removal+LLC/data=!4m7!3m6!1s0x80dbf5bf96683fbb:0xd7048678c1a0f29d!8m2!3d32.8015292!4d-117.1398488!16s%2Fg%2F11fs2zcxn5!19sChIJuz9olr_124ARnfKgwXiGBNc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: 24/7 Junk Removal LLC
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 100 Reviews": 4.9(100)
+                            - generic:
+                              - generic:
+                                - generic: Junk removal service
+                                - generic: "· 3223 Greyling Dr #23672"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (760) 820-5865
+                    - generic:
+                      - link "Visit 24/7 Junk Removal LLC's website" [ref=f50e153] [cursor=pointer]:
+                        - /url: http://www.24-7-junkremoval.com/
+                        - generic [aria-hidden] [ref=f50e155]: 
+                        - generic [ref=f50e156]: Website
+                      - button "Get directions to 24/7 Junk Removal LLC" [ref=f50e157] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f50e159]: 
+                        - generic [ref=f50e160]: Directions
+              - article [ref=f50e163]:
+                - link "We Haul You" [ref=f50e164] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/We+Haul+You/data=!4m7!3m6!1s0x80deab6e4f16953d:0xdbab0c301c10cd5e!8m2!3d32.8055759!4d-117.219323!16s%2Fg%2F11f650ks7w!19sChIJPZUWT26r3oARXs0QHDAMq9s?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: We Haul You
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 9 Reviews": 5.0(9)
+                            - generic:
+                              - generic:
+                                - generic: Garbage collection service
+                                - generic: · 4650 Mission Bay Dr.
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 900-3118
+                    - button "Get directions to We Haul You" [ref=f50e166] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f50e168]: 
+                      - generic [ref=f50e169]: Directions
+              - article [ref=f50e172]:
+                - link "Junk King San Diego Downtown" [ref=f50e173] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Junk+King+San+Diego+Downtown/data=!4m7!3m6!1s0x80d9535c7bf85017:0x9052733f2b8d8495!8m2!3d32.7155142!4d-117.1633673!16s%2Fg%2F11f3ts3r7k!19sChIJF1D4e1xT2YARlYSNKz9zUpA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Junk King San Diego Downtown
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1,531 Reviews": 5.0(1,531)
+                            - generic:
+                              - generic:
+                                - generic: Junk removal service
+                                - generic: · 121 Broadway Ste 357
+                              - generic:
+                                - generic: Closed · Opens 4 AM Tue
+                                - generic: · (619) 404-0315
+                    - generic:
+                      - link "Visit Junk King San Diego Downtown's website" [ref=f50e175] [cursor=pointer]:
+                        - /url: https://www.junk-king.com/locations/san-diego-downtown?cid=LSTL_JKG-US000187&utm_source=gmb&utm_campaign=local&utm_medium=organic
+                        - generic [aria-hidden] [ref=f50e177]: 
+                        - generic [ref=f50e178]: Website
+                      - button "Get directions to Junk King San Diego Downtown" [ref=f50e179] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f50e181]: 
+                        - generic [ref=f50e182]: Directions
+              - article [ref=f50e185]:
+                - link "Mr.Junk & Demo" [ref=f50e186] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Mr.Junk+%26+Demo/data=!4m7!3m6!1s0x80dc016a530ef1e7:0x7dadbc34df363eed!8m2!3d32.819642!4d-117.2041476!16s%2Fg%2F11np_361sp!19sChIJ5_EOU2oB3IAR7T423zS8rX0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Mr.Junk & Demo
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 10 Reviews": 5.0(10)
+                            - generic:
+                              - generic:
+                                - generic: Junk removal service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f50e188] [cursor=pointer]:
+                                    - generic [ref=f50e189]: 
+                                - generic: · 4316 Clairemont Dr
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 737-1306
+                    - generic:
+                      - link "Visit Mr.Junk & Demo's website" [ref=f50e190] [cursor=pointer]:
+                        - /url: https://mrjunkdemo.com/
+                        - generic [aria-hidden] [ref=f50e192]: 
+                        - generic [ref=f50e193]: Website
+                      - button "Get directions to Mr.Junk & Demo" [ref=f50e194] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f50e196]: 
+                        - generic [ref=f50e197]: Directions
+              - article [ref=f50e200]:
+                - link "Hard Hauling & Junk Solutions" [ref=f50e201] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Hard+Hauling+%26+Junk+Solutions/data=!4m7!3m6!1s0xa99221e868a6bf95:0xb5a5a09273ec4ed1!8m2!3d32.8060491!4d-117.2429948!16s%2Fg%2F11zxfbd57_!19sChIJlb-maOghkqkR0U7sc5KgpbU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Hard Hauling & Junk Solutions
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 2 Reviews": 5.0(2)
+                            - generic:
+                              - generic:
+                                - generic: Junk removal service
+                                - generic: · 4884 Ingraham St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 629-4564
+                    - button "Get directions to Hard Hauling & Junk Solutions" [ref=f50e203] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f50e205]: 
+                      - generic [ref=f50e206]: Directions
+              - article [ref=f50e209]:
+                - link "College Hunks Hauling Junk and Moving San Diego" [ref=f50e210] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/College+Hunks+Hauling+Junk+and+Moving+San+Diego/data=!4m7!3m6!1s0x80dbff4484ec3dc1:0xcced6c603093f0c1!8m2!3d32.816688!4d-117.1176352!16s%2Fg%2F11q_9szk61!19sChIJwT3shET_24ARwfCTMGBs7cw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: College Hunks Hauling Junk and Moving San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 484 Reviews": 4.8(484)
+                            - generic:
+                              - generic:
+                                - generic: Mover
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f50e212] [cursor=pointer]:
+                                    - generic [ref=f50e213]: 
+                                - generic: · 3944 Murphy Canyon Rd Ste C102
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 651-9687
+                    - generic:
+                      - link "Visit College Hunks Hauling Junk and Moving San Diego's website" [ref=f50e214] [cursor=pointer]:
+                        - /url: https://www.collegehunkshaulingjunk.com/san-diego/?utm_source=GMB&utm_medium=organic&utm_campaign=ca-san-diego-478
+                        - generic [aria-hidden] [ref=f50e216]: 
+                        - generic [ref=f50e217]: Website
+                      - button "Get directions to College Hunks Hauling Junk and Moving San Diego" [ref=f50e218] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f50e220]: 
+                        - generic [ref=f50e221]: Directions
+              - article [ref=f50e224]:
+                - link "Junk and Trash Hauling San Diego" [ref=f50e225] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Junk+and+Trash+Hauling+San+Diego/data=!4m7!3m6!1s0x80d9535ea5c142fb:0x8d8833c8c95ab46d!8m2!3d32.7113249!4d-117.1550418!16s%2Fg%2F11bbrh0kpn!19sChIJ-0LBpV5T2YARbbRaycgziI0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Junk and Trash Hauling San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 101 Reviews": 5.0(101)
+                            - generic:
+                              - generic:
+                                - generic: Waste management service
+                                - generic: · 1041 Market St Unit 219
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 908-0333
+                    - generic:
+                      - link "Visit Junk and Trash Hauling San Diego's website" [ref=f50e227] [cursor=pointer]:
+                        - /url: https://happyhauling.net/
+                        - generic [aria-hidden] [ref=f50e229]: 
+                        - generic [ref=f50e230]: Website
+                      - button "Get directions to Junk and Trash Hauling San Diego" [ref=f50e231] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f50e233]: 
+                        - generic [ref=f50e234]: Directions
+              - article [ref=f50e237]:
+                - link "1-800-Haul-Out of San Diego" [ref=f50e238] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/1-800-Haul-Out+of+San+Diego/data=!4m7!3m6!1s0x80dc01c1a8d02a6d:0x78474498b0118f6e!8m2!3d32.7972495!4d-117.2415195!16s%2Fg%2F1hhx7kv47!19sChIJbSrQqMEB3IARbo8RsJhER3g?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: 1-800-Haul-Out of San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 3 Reviews": 4.7(3)
+                            - generic:
+                              - generic:
+                                - generic: Waste management service
+                                - generic: · 1519 Grand Ave
+                              - generic:
+                                - generic: Closed · Opens 8:30 AM Tue
+                                - generic: · (800) 349-4599
+                    - generic:
+                      - link "Visit 1-800-Haul-Out of San Diego's website" [ref=f50e240] [cursor=pointer]:
+                        - /url: http://1800haulout.com/san-diego
+                        - generic [aria-hidden] [ref=f50e242]: 
+                        - generic [ref=f50e243]: Website
+                      - button "Get directions to 1-800-Haul-Out of San Diego" [ref=f50e244] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f50e246]: 
+                        - generic [ref=f50e247]: Directions
+              - article [ref=f50e250]:
+                - link "JunkMates - Junk Removal Downtown San Diego" [ref=f50e251] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/JunkMates+-+Junk+Removal+Downtown+San+Diego/data=!4m7!3m6!1s0x80d95308395b563d:0x12573298d7a0d322!8m2!3d32.7097142!4d-117.1505904!16s%2Fg%2F11sk3vt550!19sChIJPVZbOQhT2YARItOg15gyVxI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: JunkMates - Junk Removal Downtown San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 303 Reviews": 5.0(303)
+                            - generic:
+                              - generic:
+                                - generic: Garbage collection service
+                                - generic: "· 424 15th St #209"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 740-4750
+                    - generic:
+                      - link "Visit JunkMates - Junk Removal Downtown San Diego's website" [ref=f50e253] [cursor=pointer]:
+                        - /url: https://junkmatessd.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_content=jm-downtown
+                        - generic [aria-hidden] [ref=f50e255]: 
+                        - generic [ref=f50e256]: Website
+                      - button "Get directions to JunkMates - Junk Removal Downtown San Diego" [ref=f50e257] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f50e259]: 
+                        - generic [ref=f50e260]: Directions
+              - generic [ref=f50e295]:
+                - generic [aria-hidden] [ref=f50e297]: 
+                - generic [ref=f50e298]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f50e299] [cursor=pointer]
+            - checkbox [ref=f50e302] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f50e304]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f50e306] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f50e307]: 
+    - generic [ref=f50e311]:
+      - button "Google apps" [ref=f50e315] [cursor=pointer]
+      - link "Sign in" [ref=f50e319] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fjunk%2Bremoval%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f50e322] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f50e324]: 
+        - generic [ref=f50e326] [cursor=pointer]:
+          - button "Zoom in" [ref=f50e327]:
+            - generic [aria-hidden] [ref=f50e329]: 
+          - button "Zoom out" [ref=f50e330]:
+            - generic [aria-hidden] [ref=f50e332]: 
+      - button "Browse Street View images" [ref=f50e338]
+      - generic [ref=f50e340]:
+        - generic "Interactive map" [ref=f50e341]
+        - generic [ref=f50e345] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f50e346]: 
+          - generic [ref=f50e347]: Layers
+        - button "Layers" [ref=f50e348] [cursor=pointer]
+    - generic [ref=f50e350]:
+      - contentinfo [ref=f50e353]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f50e354] [cursor=pointer]
+        - button "Terms" [ref=f50e355] [cursor=pointer]
+        - button "Privacy" [ref=f50e356] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f50e357] [cursor=pointer]
+      - button "50 mi" [ref=f50e359] [cursor=pointer]

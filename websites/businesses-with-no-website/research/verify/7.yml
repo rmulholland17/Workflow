@@ -1,0 +1,260 @@
+- generic "Google Maps" [ref=f171e9]:
+  - generic [ref=f171e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f171e10]
+    - search [ref=f171e15]:
+      - generic [ref=f171e16]:
+        - combobox [ref=f171e18]: Opal and Ivory Cleaning LLC
+        - button "Search" [ref=f171e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f171e21]: 
+        - button "Close" [ref=f171e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f171e24]: 
+    - region "Available search options for this area" [ref=f171e31]:
+      - generic [ref=f171e34]:
+        - button "Restaurants" [ref=f171e36] [cursor=pointer]:
+          - generic [ref=f171e37]:
+            - generic [aria-hidden] [ref=f171e39]: 
+            - generic [ref=f171e40]: Restaurants
+        - button "Hotels" [ref=f171e42] [cursor=pointer]:
+          - generic [ref=f171e43]:
+            - generic [aria-hidden] [ref=f171e45]: 
+            - generic [ref=f171e46]: Hotels
+        - button "Things to do" [ref=f171e48] [cursor=pointer]:
+          - generic [ref=f171e49]:
+            - generic [aria-hidden] [ref=f171e51]: 
+            - generic [ref=f171e52]: Things to do
+        - button "Transit" [ref=f171e54] [cursor=pointer]:
+          - generic [ref=f171e55]:
+            - generic [aria-hidden] [ref=f171e57]: 
+            - generic [ref=f171e58]: Transit
+        - button "Parking" [ref=f171e60] [cursor=pointer]:
+          - generic [ref=f171e61]:
+            - generic [aria-hidden] [ref=f171e63]: 
+            - generic [ref=f171e64]: Parking
+        - button "Pharmacies" [ref=f171e66] [cursor=pointer]:
+          - generic [ref=f171e67]:
+            - generic [aria-hidden] [ref=f171e69]: 
+            - generic [ref=f171e70]: Pharmacies
+        - button "ATMs" [ref=f171e72] [cursor=pointer]:
+          - generic [ref=f171e73]:
+            - generic [aria-hidden] [ref=f171e75]: 
+            - generic [ref=f171e76]: ATMs
+      - button "Next page" [ref=f171e77] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f171e78]: 
+    - generic [ref=f171e79]:
+      - generic [ref=f171e80]:
+        - list [ref=f171e82]:
+          - listitem [ref=f171e83]:
+            - button "Menu" [ref=f171e84] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f171e86]: 
+          - listitem [ref=f171e87]:
+            - button "Saved" [ref=f171e88] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f171e90]: 
+          - listitem [ref=f171e93]:
+            - button "Recents" [ref=f171e94] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f171e96]: 
+          - listitem [ref=f171e100]:
+            - button "Opal and Ivory Cleaning LLC" [ref=f171e101] [cursor=pointer]
+          - listitem [ref=f171e109]:
+            - button "Get app" [ref=f171e110] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f171e112]: 
+        - main "Opal and Ivory Cleaning LLC" [ref=f171e119]:
+          - generic [ref=f171e120]:
+            - generic [ref=f171e121]:
+              - button "Photo of Opal and Ivory Cleaning LLC" [active] [ref=f171e123] [cursor=pointer]
+              - button "See photos" [ref=f171e125] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f171e126]: 
+            - generic [ref=f171e130]:
+              - heading "Opal and Ivory Cleaning LLC" [level=1] [ref=f171e132]
+              - generic [ref=f171e134]:
+                - generic [ref=f171e136]:
+                  - generic [ref=f171e137]:
+                    - text: "5.0"
+                    - img "5.0 stars" [ref=f171e138]
+                  - img "2 reviews" [ref=f171e146]: (2)
+                - button "House cleaning service" [ref=f171e150]
+            - tablist [ref=f171e153]:
+              - tab "Overview of Opal and Ivory Cleaning LLC" [selected] [ref=f171e154]:
+                - generic [aria-hidden] [ref=f171e156]: Overview
+              - tab "Reviews for Opal and Ivory Cleaning LLC" [ref=f171e158]:
+                - generic [aria-hidden] [ref=f171e160]: Reviews
+            - region "Actions for Opal and Ivory Cleaning LLC" [ref=f171e162]:
+              - button "Save" [ref=f171e164] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f171e166]: 
+              - button "Send to phone" [ref=f171e169] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f171e171]: 
+              - button "Share" [ref=f171e174] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f171e176]: 
+            - region "Information for Opal and Ivory Cleaning LLC" [ref=f171e180]:
+              - button "Hours Closed · Opens 9 AM Show open hours for the week" [ref=f171e182] [cursor=pointer]:
+                - img "Hours" [ref=f171e183]: 
+                - generic [ref=f171e185]:
+                  - generic [ref=f171e186]: Closed · Opens 9 AM
+                  - img "Show open hours for the week" [ref=f171e188]: 
+              - generic [ref=f171e189]:
+                - link "maidily.com" [ref=f171e190] [cursor=pointer]:
+                  - /url: https://clean.maidily.com/host/opal-and-ivory-cleaning-llc-deb9b39c?page=1a01dcef-a4f0-44fb-9b55-05ddc916f6cc
+                  - generic [ref=f171e191]:
+                    - generic [aria-hidden] [ref=f171e193]: 
+                    - generic [ref=f171e194]: maidily.com
+                - link "Open booking link" [ref=f171e198] [cursor=pointer]:
+                  - /url: https://clean.maidily.com/host/opal-and-ivory-cleaning-llc-deb9b39c?page=1a01dcef-a4f0-44fb-9b55-05ddc916f6cc
+                  - generic [aria-hidden] [ref=f171e200]: 
+              - generic [ref=f171e201]:
+                - 'link "Website: clean.maidily.com" [ref=f171e202] [cursor=pointer]':
+                  - /url: https://clean.maidily.com/host/opal-and-ivory-cleaning-llc-deb9b39c?page=e301310c-09c5-4c80-8e5b-ac7c2ec1624a
+                  - generic [ref=f171e203]:
+                    - generic [aria-hidden] [ref=f171e205]: 
+                    - generic [ref=f171e206]: clean.maidily.com
+                - generic [ref=f171e208]:
+                  - link "Open website" [ref=f171e210] [cursor=pointer]:
+                    - /url: https://clean.maidily.com/host/opal-and-ivory-cleaning-llc-deb9b39c?page=e301310c-09c5-4c80-8e5b-ac7c2ec1624a
+                    - generic [aria-hidden] [ref=f171e212]: 
+                  - button "Copy website" [ref=f171e214] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f171e216]: 
+              - generic [ref=f171e217]:
+                - 'button "Phone: (413) 252-8699" [ref=f171e218] [cursor=pointer]':
+                  - generic [ref=f171e219]:
+                    - generic [aria-hidden] [ref=f171e221]: 
+                    - generic [ref=f171e222]: (413) 252-8699
+                - generic [ref=f171e224]:
+                  - button "Copy phone number" [ref=f171e226] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f171e228]: 
+                  - link "Call phone number" [ref=f171e230] [cursor=pointer]:
+                    - /url: tel:+14132528699
+                    - generic [aria-hidden] [ref=f171e232]: 
+              - generic [ref=f171e233]:
+                - link "Identifies as Black-owned" [ref=f171e234] [cursor=pointer]:
+                  - /url: https://support.google.com/maps/?p=businessownership
+                - generic [ref=f171e239]:
+                  - link "Open black-owned business help center link" [ref=f171e241] [cursor=pointer]:
+                    - /url: https://support.google.com/maps/?p=businessownership
+                    - generic [aria-hidden] [ref=f171e243]: 
+                  - button "Copy black-owned business help center link" [ref=f171e245] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f171e247]: 
+              - generic [ref=f171e248]: Identifies as women-owned
+            - button "Suggest an edit" [ref=f171e256] [cursor=pointer]:
+              - generic [ref=f171e257]:
+                - generic [aria-hidden] [ref=f171e258]: 
+                - generic [ref=f171e259]: Suggest an edit
+            - heading "Photos" [level=2] [ref=f171e263]
+            - button "7 Photos" [ref=f171e266] [cursor=pointer]
+            - button "Add photos & videos" [ref=f171e274] [cursor=pointer]:
+              - generic [ref=f171e275]:
+                - generic [aria-hidden] [ref=f171e276]: 
+                - generic [ref=f171e277]: Add photos & videos
+            - generic [ref=f171e280]:
+              - heading "Review summary" [level=2] [ref=f171e281]
+              - button "More information about the review summary" [ref=f171e282] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f171e283]: 
+            - generic [ref=f171e285] [cursor=pointer]:
+              - table [ref=f171e287]:
+                - rowgroup [ref=f171e288]:
+                  - img "5 stars, 2 reviews" [ref=f171e289]: "5"
+                  - img "4 stars, 0 reviews" [ref=f171e292]: "4"
+                  - img "3 stars, 0 reviews" [ref=f171e295]: "3"
+                  - img "2 stars, 0 reviews" [ref=f171e298]: "2"
+                  - img "1 stars, 0 reviews" [ref=f171e301]: "1"
+              - generic [ref=f171e304]:
+                - generic [ref=f171e305]: "5.0"
+                - img "5.0 stars" [ref=f171e306]
+                - button "2 reviews" [ref=f171e312]
+            - button "Write a review" [ref=f171e318] [cursor=pointer]:
+              - generic [ref=f171e319]:
+                - generic [aria-hidden] [ref=f171e320]: 
+                - generic [ref=f171e321]: Write a review
+            - generic [ref=f171e324]:
+              - generic [ref=f171e326]:
+                - heading "Reviews" [level=2] [ref=f171e329]
+                - button "Search reviews" [ref=f171e332] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f171e334]: 
+              - button "Sort reviews" [ref=f171e336] [cursor=pointer]:
+                - generic [ref=f171e337]:
+                  - generic [aria-hidden] [ref=f171e338]: 
+                  - generic [ref=f171e339]: Sort
+            - generic "Reuben Staley" [ref=f171e340]:
+              - generic [ref=f171e342]:
+                - button "Photo of Reuben Staley" [ref=f171e343]
+                - generic [ref=f171e345]:
+                  - button "Reuben Staley 1 review" [ref=f171e347]:
+                    - generic [ref=f171e348]: Reuben Staley
+                    - generic [ref=f171e349]: 1 review
+                  - button "Actions for Reuben Staley's review" [ref=f171e350] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f171e352]: 
+                - generic [ref=f171e353]:
+                  - generic [ref=f171e354]:
+                    - img "5 stars" [ref=f171e355]:
+                      - generic [aria-hidden] [ref=f171e356]: 
+                      - generic [aria-hidden] [ref=f171e357]: 
+                      - generic [aria-hidden] [ref=f171e358]: 
+                      - generic [aria-hidden] [ref=f171e359]: 
+                      - generic [aria-hidden] [ref=f171e360]: 
+                    - generic [ref=f171e361]: 8 months ago
+                  - generic [ref=f171e362]: I can confidently say this cleaning business delivers top-tier results every time. From the moment you book, the communication is clear, respectful, and professional. They show up on time, fully prepared, and take real pride in their work.
+                  - generic [ref=f171e364]:
+                    - button "Like" [ref=f171e365]:
+                      - generic [ref=f171e366] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f171e367]: 
+                        - generic [ref=f171e368]: Like
+                    - button "Share Reuben Staley's review." [ref=f171e370]:
+                      - generic [ref=f171e371] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f171e372]: 
+                        - generic [ref=f171e373]: Share
+            - generic "Joel Staley" [ref=f171e377]:
+              - generic [ref=f171e379]:
+                - button "Photo of Joel Staley" [ref=f171e380]
+                - generic [ref=f171e382]:
+                  - button "Joel Staley 1 review" [ref=f171e384]:
+                    - generic [ref=f171e385]: Joel Staley
+                    - generic [ref=f171e386]: 1 review
+                  - button "Actions for Joel Staley's review" [ref=f171e387] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f171e389]: 
+                - generic [ref=f171e390]:
+                  - generic [ref=f171e391]:
+                    - img "5 stars" [ref=f171e392]:
+                      - generic [aria-hidden] [ref=f171e393]: 
+                      - generic [aria-hidden] [ref=f171e394]: 
+                      - generic [aria-hidden] [ref=f171e395]: 
+                      - generic [aria-hidden] [ref=f171e396]: 
+                      - generic [aria-hidden] [ref=f171e397]: 
+                    - generic [ref=f171e398]: 8 months ago
+                  - generic [ref=f171e399]: This cleaner was amazing! The service was very helpful and professional. The cleaning was quick but also very detailed. I loved the customer service!
+                  - generic [ref=f171e401]:
+                    - button "Like" [ref=f171e402]:
+                      - generic [ref=f171e403] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f171e404]: 
+                        - generic [ref=f171e405]: Like
+                    - button "Share Joel Staley's review." [ref=f171e407]:
+                      - generic [ref=f171e408] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f171e409]: 
+                        - generic [ref=f171e410]: Share
+            - link "About this data" [ref=f171e415] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=en
+            - generic [ref=f171e420]:
+              - generic [aria-hidden] [ref=f171e422]: 
+              - generic [ref=f171e423]:
+                - text: You're seeing a limited view of Google Maps.
+                - button "See more" [ref=f171e424] [cursor=pointer]
+      - button "Collapse side panel" [ref=f171e426] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f171e427]: 
+    - generic [ref=f171e431]:
+      - button "Google apps" [ref=f171e435] [cursor=pointer]
+      - link "Sign in" [ref=f171e439] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FOpal%2Band%2BIvory%2BCleaning%2BLLC%2F%4042.1586666%2C-72.5549056%2C11z%2Fdata%3D!3m1!4b1!4m6!3m5!1s0xa4d79d6a5b439c77%3A0x2633f262bc7a2300!8m2!3d42.1586666!4d-72.5549056!16s%252Fg%252F11mrzdv8yd%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f171e442] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f171e444]: 
+        - generic [ref=f171e446] [cursor=pointer]:
+          - button "Zoom in" [ref=f171e447]:
+            - generic [aria-hidden] [ref=f171e449]: 
+          - button "Zoom out" [ref=f171e450]:
+            - generic [aria-hidden] [ref=f171e452]: 
+      - button "Browse Street View images" [ref=f171e458]
+    - generic [ref=f171e461]:
+      - contentinfo [ref=f171e464]:
+        - text: Map data ©2026 Google
+        - button "United States" [ref=f171e465] [cursor=pointer]
+        - button "Terms" [ref=f171e466] [cursor=pointer]
+        - button "Privacy" [ref=f171e467] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f171e468] [cursor=pointer]
+      - button "2 mi" [ref=f171e470] [cursor=pointer]

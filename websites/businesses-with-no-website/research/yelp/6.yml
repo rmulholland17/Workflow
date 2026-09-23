@@ -1,0 +1,141 @@
+- generic [active] [ref=f132e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f132e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f132e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f132e8]:
+    - search [ref=f132e9]:
+      - generic [ref=f132e11]:
+        - link "Go to Google Home" [ref=f132e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwiNsqybuYGXAxV9q5UCHcLJC48QPHoECAYQBA
+        - generic [ref=f132e21]:
+          - generic [ref=f132e22]:
+            - combobox "Search" [ref=f132e25]: site:yelp.com/biz "Anatoli's Handyman" site:yelp.com/biz "Anatoli's Handyman"
+            - generic [ref=f132e26]:
+              - button "Clear" [ref=f132e28] [cursor=pointer]
+              - generic [ref=f132e33]:
+                - button "Search by voice" [ref=f132e34] [cursor=pointer]
+                - button "Search by image" [ref=f132e37] [cursor=pointer]
+          - button "Search" [ref=f132e40] [cursor=pointer]
+    - generic [ref=f132e45]:
+      - button "Settings" [ref=f132e47] [cursor=pointer]
+      - button "Share" [ref=f132e52] [cursor=pointer]
+      - generic [ref=f132e58]:
+        - button "Google apps" [ref=f132e60] [cursor=pointer]
+        - link "Sign in" [ref=f132e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:yelp.com/biz%2B%2522Anatoli%2527s%2BHandyman%2522&ec=futura_srp_og_si_72236_p
+  - generic [ref=f132e68]:
+    - navigation [ref=f132e74]:
+      - generic [ref=f132e80]:
+        - list [ref=f132e81]:
+          - listitem [ref=f132e82]:
+            - link "AI Mode" [ref=f132e85] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+%22Anatoli%27s+Handyman%22&sca_esv=5e5febaa67db9c78&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKmVML23HcLQCydI7S-9bmoCG_zYVxFUrIL9zrOCdL7ffOvrY2s9kXmuS4l8Dt0X3tvETTL_ZBLetb6bz0xm9OFxwpVINmuLTp16lRTjW6gCkd2XAo6TmY_rXbHhWVhJKGJdBYhK8lgNoxaDAXsfHTb80FPRA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiNsqybuYGXAxV9q5UCHcLJC48Q2J8OegQIFBAD
+          - listitem [ref=f132e89]:
+            - link "All" [disabled] [ref=f132e90]
+          - listitem [ref=f132e93]:
+            - link "Images" [ref=f132e94] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKmVML23HcLQCydI7S-9bmoCG_zYVxFUrIL9zrOCdL7ffOvrY2s9kXmuS4l8Dt0X3tvETTL_ZBLetb6bz0xm9OFxwpVINmuLTp16lRTjW6gCkd2XAo6TmY_rXbHhWVhJKGJdBYhK8lgNoxaDAXsfHTb80FPRA&q=site:yelp.com/biz+%22Anatoli%27s+Handyman%22&sa=X&ved=2ahUKEwiNsqybuYGXAxV9q5UCHcLJC48QtKgLegQIGRAB
+          - listitem [ref=f132e97]:
+            - link "Videos" [ref=f132e98] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKmVML23HcLQCydI7S-9bmoCG_zYVxFUrIL9zrOCdL7ffOvrY2s9kXmuS4l8Dt0X3tvETTL_ZBLetb6bz0xm9OFxwpVINmuLTp16lRTjW6gCkd2XAo6TmY_rXbHhWVhJKGJdBYhK8lgNoxaDAXsfHTb80FPRA&q=site:yelp.com/biz+%22Anatoli%27s+Handyman%22&sa=X&ved=2ahUKEwiNsqybuYGXAxV9q5UCHcLJC48QtKgLegQIGhAB
+          - listitem [ref=f132e101]:
+            - link "Maps" [ref=f132e102] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=5e5febaa67db9c78&output=search&q=site:yelp.com/biz+%22Anatoli's+Handyman%22&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKmVML23HcLQCydI7S-9bmoCG_zYVxFUrIL9zrOCdL7ffOvrY2s9kXmuS4l8Dt0X3tvETTL_ZBLetb6bz0xm9OFxwpVINmuLTp16lRTjW6gCkd2XAo6TmY_rXbHhWVhJKGJdBYhK8lgNoxaDAXsfHTb80FPRA&entry=mc&ved=1t:200715&ictx=111
+          - listitem [ref=f132e105]:
+            - link "Shopping" [ref=f132e106] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKmVML23HcLQCydI7S-9bmoCG_zYVxFUrIL9zrOCdL7ffOvrY2s9kXmuS4l8Dt0X3tvETTL_ZBLetb6bz0xm9OFxwpVINmuLTp16lRTjW6gCkd2XAo6TmY_rXbHhWVhJKGJdBYhK8lgNoxaDAXsfHTb80FPRA&q=site:yelp.com/biz+%22Anatoli%27s+Handyman%22&ved=1t:220175&ictx=111
+          - listitem [ref=f132e109]:
+            - link "Forums" [ref=f132e110] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKmVML23HcLQCydI7S-9bmoCG_zYVxFUrIL9zrOCdL7ffOvrY2s9kXmuS4l8Dt0X3tvETTL_ZBLetb6bz0xm9OFxwpVINmuLTp16lRTjW6gCkd2XAo6TmY_rXbHhWVhJKGJdBYhK8lgNoxaDAXsfHTb80FPRA&q=site:yelp.com/biz+%22Anatoli%27s+Handyman%22&sa=X&ved=2ahUKEwiNsqybuYGXAxV9q5UCHcLJC48Qs6gLegQIFhAB
+          - listitem [ref=f132e113]:
+            - button [ref=f132e114] [cursor=pointer]:
+              - generic "More filters" [ref=f132e115]: More
+        - button "Tools" [ref=f132e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f132e129]
+    - main [ref=f132e135]:
+      - generic [ref=f132e139]:
+        - generic [ref=f132e142]:
+          - heading "Web results" [level=2] [ref=f132e143]
+          - generic [ref=f132e144]:
+            - generic [ref=f132e147]:
+              - link "ANATOLI'S HANDYMAN SERVICE - Yelp Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f132e149] [cursor=pointer]:
+                - /url: /goto?url=CAESdgHrOzAVrGkmfRk-lpoukhaWXjHUPOTMIpY6rjcHH-1TsavhYhKOyNhZ70Z7ydyRNdD-CK6cJegFWykaVYhBsH7hb6GpYLdr_n4f--_Cg2VAcJm2PQQ-v3_DVGSybR4Gt5TvjC5_iuBDVFU9x2wlODk4zeS3fDM
+                - heading "ANATOLI'S HANDYMAN SERVICE - Yelp" [level=3] [ref=f132e150]
+                - generic [ref=f132e156]:
+                  - generic [ref=f132e157]: Yelp
+                  - generic [ref=f132e159]: https://www.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f132e165] [cursor=pointer]
+            - generic [ref=f132e172]:
+              - emphasis [ref=f132e173]: ANATOLI'S HANDYMAN
+              - text: SERVICE, San Diego, CA 92101, 41 Photos, (858) 987-3466, Mon - 6:00 am - 9:00 pm, Tue - 6:00 am - 9:00 pm, Wed - 6:00 am - 9:00 pm, ...
+            - link [aria-hidden] [ref=f132e176] [cursor=pointer]:
+              - /url: /goto?url=CAESdgHrOzAVrGkmfRk-lpoukhaWXjHUPOTMIpY6rjcHH-1TsavhYhKOyNhZ70Z7ydyRNdD-CK6cJegFWykaVYhBsH7hb6GpYLdr_n4f--_Cg2VAcJm2PQQ-v3_DVGSybR4Gt5TvjC5_iuBDVFU9x2wlODk4zeS3fDM
+            - img "Rated 3.9 out of 5, (11) user reviews" [ref=f132e183]: 3.9(11)
+        - generic [ref=f132e190]:
+          - heading "Images" [level=2] [ref=f132e194]
+          - generic [ref=f132e198]:
+            - generic [ref=f132e202] [cursor=pointer]:
+              - link "ANATOLI'S HANDYMAN SERVICE - Updated September 2026 - 41 ... Yelp" [ref=f132e203]:
+                - /url: /goto?url=CAESdAHrOzAVFpgC41OgbtzsFjN0vgsG0UCOncW5bx42UJ29fmwr0RGo2r6YauDzeSUfzMIj18vOHUhaaOpRH3DQU4JfAZ9VXK8eSWk4EJXOWtfjGKPUfFdoVG3rEYi59A0KBCjofvhOMsA4eu0LNm0Fl8HaPYLN
+              - button [ref=f132e205]:
+                - img "ANATOLI'S HANDYMAN SERVICE - Updated September 2026 - 41 ..." [ref=f132e207]
+              - generic [ref=f132e209]:
+                - generic [ref=f132e211]: ANATOLI'S HANDYMAN SERVICE - Updated September 2026 - 41 ...
+                - generic [ref=f132e212]:
+                  - generic [ref=f132e214]: Yelp
+                  - button "About this result" [ref=f132e224]
+            - generic [ref=f132e232] [cursor=pointer]:
+              - link "ANATOLI'S HANDYMAN SERVICE - Updated September 2026 - 41 ... Yelp" [ref=f132e233]:
+                - /url: /goto?url=CAESdAHrOzAVFpgC41OgbtzsFjN0vgsG0UCOncW5bx42UJ29fmwr0RGo2r6YauDzeSUfzMIj18vOHUhaaOpRH3DQU4JfAZ9VXK8eSWk4EJXOWtfjGKPUfFdoVG3rEYi59A0KBCjofvhOMsA4eu0LNm0Fl8HaPYLN
+              - button [ref=f132e235]:
+                - img "ANATOLI'S HANDYMAN SERVICE - Updated September 2026 - 41 ..." [ref=f132e237]
+              - generic [ref=f132e239]:
+                - generic [ref=f132e241]: ANATOLI'S HANDYMAN SERVICE - Updated September 2026 - 41 ...
+                - generic [ref=f132e242]:
+                  - generic [ref=f132e244]: Yelp
+                  - button "About this result" [ref=f132e254]
+            - generic [ref=f132e262] [cursor=pointer]:
+              - link "ANATOLI'S HANDYMAN SERVICE - Updated September 2026 - 41 ... Yelp" [ref=f132e263]:
+                - /url: /goto?url=CAESdAHrOzAVFpgC41OgbtzsFjN0vgsG0UCOncW5bx42UJ29fmwr0RGo2r6YauDzeSUfzMIj18vOHUhaaOpRH3DQU4JfAZ9VXK8eSWk4EJXOWtfjGKPUfFdoVG3rEYi59A0KBCjofvhOMsA4eu0LNm0Fl8HaPYLN
+              - button [ref=f132e265]:
+                - img "ANATOLI'S HANDYMAN SERVICE - Updated September 2026 - 41 ..." [ref=f132e267]
+              - generic [ref=f132e269]:
+                - generic [ref=f132e271]: ANATOLI'S HANDYMAN SERVICE - Updated September 2026 - 41 ...
+                - generic [ref=f132e272]:
+                  - generic [ref=f132e274]: Yelp
+                  - button "About this result" [ref=f132e284]
+          - link "All images" [ref=f132e290] [cursor=pointer]:
+            - /url: /search?sca_esv=5e5febaa67db9c78&q=site:yelp.com/biz+%22Anatoli's+Handyman%22&udm=2&source=univ&fir=NG-nwFaQi6NPnM%252C9Wjjpwdf_iPusM%252C_%253Bmhvz2rEjKVfwtM%252C9Wjjpwdf_iPusM%252C_%253BMabVyqRT-z66AM%252C9Wjjpwdf_iPusM%252C_&usg=AI4_-kSuvfqOMRPchITafbcybv0aH4bkvQ&sa=X&ved=2ahUKEwiNsqybuYGXAxV9q5UCHcLJC48Q7Al6BAgbEAU
+            - separator [aria-hidden] [ref=f132e291]
+      - generic [ref=f132e298]:
+        - generic [ref=f132e303]:
+          - heading "People also search for" [level=2] [ref=f132e305]
+          - generic [ref=f132e307]:
+            - link "Anatoli's handyman services" [ref=f132e312] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&q=Anatoli%27s+handyman+services&sa=X&ved=2ahUKEwiNsqybuYGXAxV9q5UCHcLJC48Q1QJ6BAgSEAE
+            - link "Anatoli's handyman reviews" [ref=f132e327] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&q=Anatoli%27s+handyman+reviews&sa=X&ved=2ahUKEwiNsqybuYGXAxV9q5UCHcLJC48Q1QJ6BAgTEAE
+        - navigation
+      - navigation
+    - contentinfo [ref=f132e338]:
+      - heading "Footer Links" [level=1] [ref=f132e339]
+      - generic [ref=f132e343]:
+        - generic [ref=f132e347]:
+          - button "Pacific Beach, San Diego, CA - From your IP address" [ref=f132e349] [cursor=pointer]:
+            - generic [ref=f132e350]: Pacific Beach, San Diego, CA
+            - generic [ref=f132e352]:
+              - text: "-"
+              - generic [ref=f132e353]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f132e355] [cursor=pointer]
+        - generic [ref=f132e358]:
+          - link "Help" [ref=f132e359] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=f132e360] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f132e361] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f132e362] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

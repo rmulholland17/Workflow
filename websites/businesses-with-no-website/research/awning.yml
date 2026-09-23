@@ -1,0 +1,447 @@
+- generic "Google Maps" [ref=f201e9]:
+  - generic [ref=f201e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f201e10]
+    - search [ref=f201e15]:
+      - generic [ref=f201e16]:
+        - combobox [ref=f201e18]: awning installation san diego ca
+        - button "Search" [ref=f201e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f201e21]: 
+        - button "Close" [ref=f201e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f201e24]: 
+    - region "Available filters for this search" [ref=f201e31]:
+      - generic [ref=f201e34]:
+        - button "Rating" [ref=f201e36] [cursor=pointer]:
+          - generic [ref=f201e37]:
+            - generic [aria-hidden] [ref=f201e38]: 
+            - generic [ref=f201e39]: Rating
+            - generic [aria-hidden] [ref=f201e40]: 
+        - button "Hours" [ref=f201e42] [cursor=pointer]:
+          - generic [ref=f201e43]:
+            - generic [aria-hidden] [ref=f201e44]: 
+            - generic [ref=f201e45]: Hours
+            - generic [aria-hidden] [ref=f201e46]: 
+        - button "All filters" [ref=f201e48] [cursor=pointer]:
+          - generic [ref=f201e49]:
+            - generic [aria-hidden] [ref=f201e50]: 
+            - generic [ref=f201e51]: All filters
+    - generic [ref=f201e52]:
+      - generic [ref=f201e53]:
+        - list [ref=f201e55]:
+          - listitem [ref=f201e56]:
+            - button "Menu" [ref=f201e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f201e59]: 
+          - listitem [ref=f201e60]:
+            - button "Saved" [ref=f201e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f201e63]: 
+          - listitem [ref=f201e66]:
+            - button "Recents" [disabled] [ref=f201e67]:
+              - generic [aria-hidden] [ref=f201e69]: 
+          - listitem [ref=f201e73]:
+            - button "Get app" [ref=f201e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f201e76]: 
+        - main [ref=f201e83]:
+          - generic [ref=f201e84]:
+            - feed "Results for awning installation san diego ca" [ref=f201e85]:
+              - generic [ref=f201e86]:
+                - generic [ref=f201e88]:
+                  - heading "Results" [level=1] [ref=f201e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f201e93]:
+                    - generic [aria-hidden] [ref=f201e97]: 
+                - button "Share" [ref=f201e101]:
+                  - generic [ref=f201e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f201e103]: 
+                    - generic [ref=f201e104]: Share
+              - article [ref=f201e106]:
+                - link "Accent Awnings" [ref=f201e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Accent+Awnings/data=!4m7!3m6!1s0x80dc718fee8b856b:0x91e1a295f15a8f76!8m2!3d32.8895651!4d-117.1442752!16s%2Fg%2F1tgdj8r6!19sChIJa4WL7o9x3IARdo9a8ZWi4ZE?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Accent Awnings
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 210 Reviews": 4.9(210)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e109] [cursor=pointer]:
+                                    - generic [ref=f201e110]: 
+                                - generic: · 8132 Miramar Rd
+                              - generic:
+                                - generic: Closed · Opens 8:30 AM Tue
+                                - generic: · (858) 621-6300
+                    - generic:
+                      - link "Visit Accent Awnings's website" [ref=f201e111] [cursor=pointer]:
+                        - /url: https://www.accentawnings.com/
+                        - generic [aria-hidden] [ref=f201e113]: 
+                        - generic [ref=f201e114]: Website
+                      - button "Get directions to Accent Awnings" [ref=f201e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e117]: 
+                        - generic [ref=f201e118]: Directions
+              - article [ref=f201e121]:
+                - link "Soltech Patio Covers" [ref=f201e122] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Soltech+Patio+Covers/data=!4m7!3m6!1s0x80deab9a5d8a993d:0x6a4098303f734c54!8m2!3d32.7579985!4d-117.2118494!16s%2Fg%2F11j37l22qg!19sChIJPZmKXZqr3oARVExzPzCYQGo?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Soltech Patio Covers
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 44 Reviews": 5.0(44)
+                            - generic:
+                              - generic:
+                                - generic: Patio enclosure supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e124] [cursor=pointer]:
+                                    - generic [ref=f201e125]: 
+                                - generic: · 3760 Hancock St F
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 604-5897
+                    - generic:
+                      - link "Visit Soltech Patio Covers's website" [ref=f201e126] [cursor=pointer]:
+                        - /url: https://www.soltechpatiocovers.com/
+                        - generic [aria-hidden] [ref=f201e128]: 
+                        - generic [ref=f201e129]: Website
+                      - button "Get directions to Soltech Patio Covers" [ref=f201e130] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e132]: 
+                        - generic [ref=f201e133]: Directions
+              - article [ref=f201e136]:
+                - link "Sun Control Products Inc." [ref=f201e137] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Sun+Control+Products+Inc./data=!4m7!3m6!1s0x80dbffac296d0829:0xd4ff4185e9fdea1b!8m2!3d32.8390243!4d-117.1324761!16s%2Fg%2F1tctrzf7!19sChIJKQhtKaz_24ARG-r96YVB_9Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Sun Control Products Inc.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 24 Reviews": 4.7(24)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e139] [cursor=pointer]:
+                                    - generic [ref=f201e140]: 
+                                - generic: · 9107-9109 Chesapeake Dr
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 279-9182
+                    - generic:
+                      - link "Visit Sun Control Products Inc.'s website" [ref=f201e141] [cursor=pointer]:
+                        - /url: https://suncontrolproducts.com/
+                        - generic [aria-hidden] [ref=f201e143]: 
+                        - generic [ref=f201e144]: Website
+                      - button "Get directions to Sun Control Products Inc." [ref=f201e145] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e147]: 
+                        - generic [ref=f201e148]: Directions
+              - article [ref=f201e151]:
+                - link "Awnings San Diego" [ref=f201e152] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Awnings+San+Diego/data=!4m7!3m6!1s0x80dbf9f3d718f5fd:0xbbeeb736ab0a9a8a!8m2!3d32.8944117!4d-117.1287272!16s%2Fg%2F11sq4smb3v!19sChIJ_fUY1_P524ARipoKqza37rs?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Awnings San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1 Reviews": 5.0(1)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e154] [cursor=pointer]:
+                                    - generic [ref=f201e155]: 
+                                - generic: · 9252 Miramar Rd
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (877) 391-0499
+                    - generic:
+                      - link "Visit Awnings San Diego's website" [ref=f201e156] [cursor=pointer]:
+                        - /url: https://awningsandiego.com/
+                        - generic [aria-hidden] [ref=f201e158]: 
+                        - generic [ref=f201e159]: Website
+                      - button "Get directions to Awnings San Diego" [ref=f201e160] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e162]: 
+                        - generic [ref=f201e163]: Directions
+              - article [ref=f201e166]:
+                - link "Custom Awning & Canvas" [ref=f201e167] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Custom+Awning+%26+Canvas/data=!4m7!3m6!1s0x80d954f140a16e13:0x4565ef506fae3004!8m2!3d32.7486068!4d-117.1335413!16s%2Fg%2F1vs1s4zz!19sChIJE26hQPFU2YARBDCub1DvZUU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Custom Awning & Canvas
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.0 stars 12 Reviews": 4.0(12)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e169] [cursor=pointer]:
+                                    - generic [ref=f201e170]: 
+                                - generic: · 2814 University Ave
+                              - generic: (619) 260-1300
+                    - button "Get directions to Custom Awning & Canvas" [ref=f201e171] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f201e173]: 
+                      - generic [ref=f201e174]: Directions
+              - article [ref=f201e177]:
+                - link "Moran Canvas Products" [ref=f201e178] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Moran+Canvas+Products/data=!4m7!3m6!1s0x80d95719b8e4ae1b:0xfd8efad1f12a69ee!8m2!3d32.7715004!4d-117.0221252!16s%2Fg%2F1tddb40m!19sChIJG67kuBlX2YAR7mkq8dH6jv0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Moran Canvas Products
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.6 stars 45 Reviews": 4.6(45)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e180] [cursor=pointer]:
+                                    - generic [ref=f201e181]: 
+                                - generic: · 8135 Center St
+                              - generic:
+                                - generic: Closed · Opens 7:30 AM Tue
+                                - generic: · (619) 462-7778
+                    - generic:
+                      - link "Visit Moran Canvas Products's website" [ref=f201e182] [cursor=pointer]:
+                        - /url: https://morancanvas.com/
+                        - generic [aria-hidden] [ref=f201e184]: 
+                        - generic [ref=f201e185]: Website
+                      - button "Get directions to Moran Canvas Products" [ref=f201e186] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e188]: 
+                        - generic [ref=f201e189]: Directions
+              - article [ref=f201e192]:
+                - link "Shade Co Awning" [ref=f201e193] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Shade+Co+Awning/data=!4m7!3m6!1s0x80d953e85a738d9d:0xe2411b75f4ab04bc!8m2!3d32.6635235!4d-117.1035253!16s%2Fg%2F11xrnf1jzf!19sChIJnY1zWuhT2YARvASr9HUbQeI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Shade Co Awning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 25 Reviews": 5.0(25)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e195] [cursor=pointer]:
+                                    - generic [ref=f201e196]: 
+                                - generic: · 125 W 22nd St
+                              - generic:
+                                - generic: Closed · Opens 6:30 AM Tue
+                                - generic: · (619) 901-5661
+                    - generic:
+                      - link "Visit Shade Co Awning's website" [ref=f201e197] [cursor=pointer]:
+                        - /url: https://www.shadecoawning.com/
+                        - generic [aria-hidden] [ref=f201e199]: 
+                        - generic [ref=f201e200]: Website
+                      - button "Get directions to Shade Co Awning" [ref=f201e201] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e203]: 
+                        - generic [ref=f201e204]: Directions
+              - article [ref=f201e207]:
+                - link "Awning Products Unlimited, Inc." [ref=f201e208] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Awning+Products+Unlimited,+Inc./data=!4m7!3m6!1s0x80d95813b58fba49:0xa8f3778f2582e8ad!8m2!3d32.8304336!4d-116.9660712!16s%2Fg%2F1tcx1tj3!19sChIJSbqPtRNY2YARreiCJY9386g?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Awning Products Unlimited, Inc.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1 Reviews": 5.0(1)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e210] [cursor=pointer]:
+                                    - generic [ref=f201e211]: 
+                                - generic: · 8540 Ablette Rd
+                              - generic:
+                                - generic: Closed · Opens 7:30 AM Tue
+                                - generic: · (619) 548-8919
+                    - generic:
+                      - link "Visit Awning Products Unlimited, Inc.'s website" [ref=f201e212] [cursor=pointer]:
+                        - /url: http://awningproductssd.com/
+                        - generic [aria-hidden] [ref=f201e214]: 
+                        - generic [ref=f201e215]: Website
+                      - button "Get directions to Awning Products Unlimited, Inc." [ref=f201e216] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e218]: 
+                        - generic [ref=f201e219]: Directions
+              - article [ref=f201e222]:
+                - link "Awning Angel, Inc." [ref=f201e223] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Awning+Angel,+Inc./data=!4m7!3m6!1s0x33271163a44d74b:0x67f37316ee5aadf3!8m2!3d32.6577279!4d-117.1045213!16s%2Fg%2F11rqqp4txp!19sChIJS9dEOhZxMgMR861a7hZz82c?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Awning Angel, Inc.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 18 Reviews": 5.0(18)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e225] [cursor=pointer]:
+                                    - generic [ref=f201e226]: 
+                                - generic: · 301 W 28th St U
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 330-0101
+                    - generic:
+                      - link "Visit Awning Angel, Inc.'s website" [ref=f201e227] [cursor=pointer]:
+                        - /url: https://awningangel.com/
+                        - generic [aria-hidden] [ref=f201e229]: 
+                        - generic [ref=f201e230]: Website
+                      - button "Get directions to Awning Angel, Inc." [ref=f201e231] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e233]: 
+                        - generic [ref=f201e234]: Directions
+              - article [ref=f201e237]:
+                - link "ShadePro Inc." [ref=f201e238] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/ShadePro+Inc./data=!4m7!3m6!1s0x80d95f419ea2cdf9:0x47fd95aa97798511!8m2!3d32.725686!4d-116.9652376!16s%2Fg%2F1v6wpm8b!19sChIJ-c2inkFf2YAREYV5l6qV_Uc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: ShadePro Inc.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 525 Reviews": 4.7(525)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e240] [cursor=pointer]:
+                                    - generic [ref=f201e241]: 
+                                - generic: · 2505 Folex Way
+                              - generic:
+                                - generic: Closed · Opens 8:30 AM Tue
+                                - generic: · (800) 328-5100
+                    - generic:
+                      - link "Visit ShadePro Inc.'s website" [ref=f201e242] [cursor=pointer]:
+                        - /url: https://www.shadepro.net/
+                        - generic [aria-hidden] [ref=f201e244]: 
+                        - generic [ref=f201e245]: Website
+                      - button "Get directions to ShadePro Inc." [ref=f201e246] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e248]: 
+                        - generic [ref=f201e249]: Directions
+              - article [ref=f201e252]:
+                - link "Southwest Builders" [ref=f201e253] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Southwest+Builders/data=!4m7!3m6!1s0x827f6a4d8e7c85ef:0xd7c68112892fa597!8m2!3d32.7488795!4d-117.152762!16s%2Fg%2F11vy_6878t!19sChIJ74V8jk1qf4IRl6UviRKBxtc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Southwest Builders
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 46 Reviews": 5.0(46)
+                            - generic:
+                              - generic:
+                                - generic: Awning supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f201e255] [cursor=pointer]:
+                                    - generic [ref=f201e256]: 
+                                - generic: "· 1223 Cleveland Ave #200"
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 514-4349
+                    - generic:
+                      - link "Visit Southwest Builders's website" [ref=f201e257] [cursor=pointer]:
+                        - /url: https://thesouthwestbuilders.com/?utm_source=googlebusinessprofile&utm_medium=organic&utm_campaign=Google%20Business%20Profile
+                        - generic [aria-hidden] [ref=f201e259]: 
+                        - generic [ref=f201e260]: Website
+                      - button "Get directions to Southwest Builders" [ref=f201e261] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f201e263]: 
+                        - generic [ref=f201e264]: Directions
+              - generic [ref=f201e299]:
+                - generic [aria-hidden] [ref=f201e301]: 
+                - generic [ref=f201e302]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f201e303] [cursor=pointer]
+            - checkbox [ref=f201e306] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f201e308]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f201e310] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f201e311]: 
+    - generic [ref=f201e315]:
+      - button "Google apps" [ref=f201e319] [cursor=pointer]
+      - link "Sign in" [ref=f201e323] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fawning%2Binstallation%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f201e326] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f201e328]: 
+        - generic [ref=f201e330] [cursor=pointer]:
+          - button "Zoom in" [ref=f201e331]:
+            - generic [aria-hidden] [ref=f201e333]: 
+          - button "Zoom out" [ref=f201e334]:
+            - generic [aria-hidden] [ref=f201e336]: 
+      - button "Browse Street View images" [ref=f201e342]
+      - generic [ref=f201e344]:
+        - generic "Interactive map" [ref=f201e345]
+        - generic [ref=f201e349] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f201e350]: 
+          - generic [ref=f201e351]: Layers
+        - button "Layers" [ref=f201e352] [cursor=pointer]
+    - generic [ref=f201e354]:
+      - contentinfo [ref=f201e357]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f201e358] [cursor=pointer]
+        - button "Terms" [ref=f201e359] [cursor=pointer]
+        - button "Privacy" [ref=f201e360] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f201e361] [cursor=pointer]
+      - button "5 mi" [ref=f201e363] [cursor=pointer]

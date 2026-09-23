@@ -1,0 +1,434 @@
+- generic "Google Maps" [ref=f29e9]:
+  - generic [ref=f29e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f29e10]
+    - search [ref=f29e15]:
+      - generic [ref=f29e16]:
+        - combobox [ref=f29e18]: landscaping company san diego ca
+        - button "Search" [ref=f29e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f29e21]: 
+        - button "Close" [ref=f29e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f29e24]: 
+    - region "Available filters for this search" [ref=f29e31]:
+      - generic [ref=f29e34]:
+        - button "Rating" [ref=f29e36] [cursor=pointer]:
+          - generic [ref=f29e37]:
+            - generic [aria-hidden] [ref=f29e38]: 
+            - generic [ref=f29e39]: Rating
+            - generic [aria-hidden] [ref=f29e40]: 
+        - button "Hours" [ref=f29e42] [cursor=pointer]:
+          - generic [ref=f29e43]:
+            - generic [aria-hidden] [ref=f29e44]: 
+            - generic [ref=f29e45]: Hours
+            - generic [aria-hidden] [ref=f29e46]: 
+        - button "All filters" [ref=f29e48] [cursor=pointer]:
+          - generic [ref=f29e49]:
+            - generic [aria-hidden] [ref=f29e50]: 
+            - generic [ref=f29e51]: All filters
+    - generic [ref=f29e52]:
+      - generic [ref=f29e53]:
+        - list [ref=f29e55]:
+          - listitem [ref=f29e56]:
+            - button "Menu" [ref=f29e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f29e59]: 
+          - listitem [ref=f29e60]:
+            - button "Saved" [ref=f29e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f29e63]: 
+          - listitem [ref=f29e66]:
+            - button "Recents" [disabled] [ref=f29e67]:
+              - generic [aria-hidden] [ref=f29e69]: 
+          - listitem [ref=f29e73]:
+            - button "Get app" [ref=f29e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f29e76]: 
+        - main [ref=f29e83]:
+          - generic [ref=f29e84]:
+            - feed "Results for landscaping company san diego ca" [ref=f29e85]:
+              - generic [ref=f29e86]:
+                - generic [ref=f29e88]:
+                  - heading "Results" [level=1] [ref=f29e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f29e93]:
+                    - generic [aria-hidden] [ref=f29e97]: 
+                - button "Share" [ref=f29e101]:
+                  - generic [ref=f29e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f29e103]: 
+                    - generic [ref=f29e104]: Share
+              - article [ref=f29e106]:
+                - link "Jakes Construction" [ref=f29e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Jakes+Construction/data=!4m7!3m6!1s0x441a2fd46edce09f:0x112518a6051ba1e0!8m2!3d32.724813!4d-116.910979!16s%2Fg%2F11vl6bwz4q!19sChIJn-DcbtQvGkQR4KEbBaYYJRE?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f29e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f29e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Jakes Construction
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 33 Reviews": 5.0(33)
+                            - generic:
+                              - generic:
+                                - generic: Demolition contractor
+                                - generic: · 3158 Aurora Vista Drive
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 815-5067
+                    - generic:
+                      - link "Visit Jakes Construction's website" [ref=f29e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjb8d_Vt4GXAxW0DkQIHecaAcIYACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMI2_Hf1beBlwMVtA5ECB3nGgHCEBAYASAAEgKftvD_BwE&cid=CAAS0wHkaJIS9IriL1ojJTrOIE2PSfuY3q8K-PZEqJeLlh8Ykyrr31iPLStaNV7ZS2gNiNeCKoCWnLVGhklovSYnk3gnpFnqJFwtJS_EmeExlKyHd5b65tP1Qscqbv-4nvNjpGjVqMshAIU_gsWQURnpWmybhu95eFTMydsoN8V43GZLz-13vxRefB9StaPexwCVp8F7NRZGja6Gcet8zHoQra4J14sqKu72z1kfAxXhKldEbVRmpUgypF5On198G-Sa3hEWkK4a-vhIWpqURNrsTE19elDF&cce=2&category=acrcp_v1_32&sig=AOD64_2G2EzOqBXM5rnoYTicOGqEwJxYNw&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f29e113]: 
+                        - generic [ref=f29e114]: Website
+                      - button "Get directions to Jakes Construction" [ref=f29e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e117]: 
+                        - generic [ref=f29e118]: Directions
+                  - link "Ad · Full-Service Landscaping · Licensed <b>San Diego</b> design-build <b>contractor</b> for landscapes and outdoor living spaces. · Visit Site · jakesconstructionsd.com" [ref=f29e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjb8d_Vt4GXAxW0DkQIHecaAcIYACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMI2_Hf1beBlwMVtA5ECB3nGgHCEBAYASAAEgKftvD_BwE&cid=CAAS0wHkaJIS9IriL1ojJTrOIE2PSfuY3q8K-PZEqJeLlh8Ykyrr31iPLStaNV7ZS2gNiNeCKoCWnLVGhklovSYnk3gnpFnqJFwtJS_EmeExlKyHd5b65tP1Qscqbv-4nvNjpGjVqMshAIU_gsWQURnpWmybhu95eFTMydsoN8V43GZLz-13vxRefB9StaPexwCVp8F7NRZGja6Gcet8zHoQra4J14sqKu72z1kfAxXhKldEbVRmpUgypF5On198G-Sa3hEWkK4a-vhIWpqURNrsTE19elDF&cce=2&category=acrcp_v1_32&sig=AOD64_2G2EzOqBXM5rnoYTicOGqEwJxYNw&adurl=&rct=j&nis=5
+                    - generic [ref=f29e125]:
+                      - generic [ref=f29e126]:
+                        - generic [ref=f29e127]: Full-Service Landscaping
+                        - generic [ref=f29e128]: Licensed San Diego design-build contractor for landscapes and outdoor living spaces.
+                      - generic [ref=f29e129]: Visit Site
+              - article [ref=f29e134]:
+                - link "Nearman Landscaping San Diego" [ref=f29e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Nearman+Landscaping+San+Diego/data=!4m7!3m6!1s0x80dbffcc39eafb49:0x2309bf1791031c0b!8m2!3d32.8107866!4d-117.1192397!16s%2Fg%2F11nqsgxzns!19sChIJSfvqOcz_24ARCxwDkRe_CSM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Nearman Landscaping San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 66 Reviews": 5.0(66)
+                            - generic:
+                              - generic:
+                                - generic: Landscaper
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f29e137] [cursor=pointer]:
+                                    - generic [ref=f29e138]: 
+                                - generic: · 3665 Ruffin Rd
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 295-7951
+                    - generic:
+                      - link "Visit Nearman Landscaping San Diego's website" [ref=f29e139] [cursor=pointer]:
+                        - /url: https://www.nearmanlandscaping.com/
+                        - generic [aria-hidden] [ref=f29e141]: 
+                        - generic [ref=f29e142]: Website
+                      - button "Get directions to Nearman Landscaping San Diego" [ref=f29e143] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e145]: 
+                        - generic [ref=f29e146]: Directions
+              - article [ref=f29e149]:
+                - link "Arcadian Landscape" [ref=f29e150] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Arcadian+Landscape/data=!4m7!3m6!1s0x80dc0103329bffff:0xc770e6f5011f4629!8m2!3d34.530418!4d-118.9260895!16s%2Fg%2F11fx7w2txw!19sChIJ__-bMgMB3IARKUYfAfXmcMc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Arcadian Landscape
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 44 Reviews": 4.9(44)
+                            - generic:
+                              - generic: Landscaper
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 617-9038
+                    - generic:
+                      - link "Visit Arcadian Landscape's website" [ref=f29e152] [cursor=pointer]:
+                        - /url: https://arcadianlandscape.com/
+                        - generic [aria-hidden] [ref=f29e154]: 
+                        - generic [ref=f29e155]: Website
+                      - button "Get directions to Arcadian Landscape" [ref=f29e156] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e158]: 
+                        - generic [ref=f29e159]: Directions
+              - article [ref=f29e162]:
+                - link "Modern Yardz Landscaping San Diego" [ref=f29e163] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Modern+Yardz+Landscaping+San+Diego/data=!4m7!3m6!1s0x80dc01c5310710cf:0x6aa78fdb45e21088!8m2!3d32.8247244!4d-117.1498669!16s%2Fg%2F11ng63x_mc!19sChIJzxAHMcUB3IARiBDiRduPp2o?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Modern Yardz Landscaping San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 105 Reviews": 5.0(105)
+                            - generic:
+                              - generic:
+                                - generic: Landscape designer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f29e165] [cursor=pointer]:
+                                    - generic [ref=f29e166]: 
+                                - generic: · 8133 Engineer Rd
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 775-9554
+                    - generic:
+                      - link "Visit Modern Yardz Landscaping San Diego's website" [ref=f29e167] [cursor=pointer]:
+                        - /url: https://www.modernyardz.com/?utm_source=google-business-profile&utm_medium=maps&utm_campaign=local-directories
+                        - generic [aria-hidden] [ref=f29e169]: 
+                        - generic [ref=f29e170]: Website
+                      - button "Get directions to Modern Yardz Landscaping San Diego" [ref=f29e171] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e173]: 
+                        - generic [ref=f29e174]: Directions
+              - article [ref=f29e177]:
+                - link "EcoDesignSD, INC" [ref=f29e178] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/EcoDesignSD,+INC/data=!4m7!3m6!1s0x80dc0193234d466f:0xcb03fdda9727fd0f!8m2!3d32.8085067!4d-117.2608756!16s%2Fg%2F1hhxp9xrm!19sChIJb0ZNI5MB3IARD_0nl9r9A8s?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: EcoDesignSD, INC
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 21 Reviews": 5.0(21)
+                            - generic:
+                              - generic:
+                                - generic: Landscape designer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f29e180] [cursor=pointer]:
+                                    - generic [ref=f29e181]: 
+                                - generic: · 702-1 Turquoise St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 863-3260
+                    - generic:
+                      - link "Visit EcoDesignSD, INC's website" [ref=f29e182] [cursor=pointer]:
+                        - /url: http://www.ecodesignsd.com/
+                        - generic [aria-hidden] [ref=f29e184]: 
+                        - generic [ref=f29e185]: Website
+                      - button "Get directions to EcoDesignSD, INC" [ref=f29e186] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e188]: 
+                        - generic [ref=f29e189]: Directions
+              - article [ref=f29e192]:
+                - link "Stepping Stone Landscape Design" [ref=f29e193] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Stepping+Stone+Landscape+Design/data=!4m7!3m6!1s0x80deac9c00000001:0xef6bd2b74b387dce!8m2!3d32.774222!4d-117.1586167!16s%2Fg%2F1tdx8_zh!19sChIJAQAAAJys3oARzn04S7fSa-8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Stepping Stone Landscape Design
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 27 Reviews": 5.0(27)
+                            - generic:
+                              - generic:
+                                - generic: Landscape designer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f29e195] [cursor=pointer]:
+                                    - generic [ref=f29e196]: 
+                                - generic: · 1455 Frazee Rd Ste 500
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 762-8988
+                    - generic:
+                      - link "Visit Stepping Stone Landscape Design's website" [ref=f29e197] [cursor=pointer]:
+                        - /url: https://steppingstonelandscape.com/
+                        - generic [aria-hidden] [ref=f29e199]: 
+                        - generic [ref=f29e200]: Website
+                      - button "Get directions to Stepping Stone Landscape Design" [ref=f29e201] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e203]: 
+                        - generic [ref=f29e204]: Directions
+              - article [ref=f29e207]:
+                - link "Intu Nature Landscape Associates" [ref=f29e208] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Intu+Nature+Landscape+Associates/data=!4m7!3m6!1s0x80dc00630b915555:0x9da04e9697c0bdc5!8m2!3d32.8301203!4d-117.1879335!16s%2Fg%2F11t9_t4_mh!19sChIJVVWRC2MA3IARxb3Al5ZOoJ0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Intu Nature Landscape Associates
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 44 Reviews": 5.0(44)
+                            - generic:
+                              - generic:
+                                - generic: Landscaper
+                                - generic: · 4721 Lithrop Pl
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 292-8353
+                    - generic:
+                      - link "Visit Intu Nature Landscape Associates's website" [ref=f29e210] [cursor=pointer]:
+                        - /url: http://www.intunaturelandscape.com/
+                        - generic [aria-hidden] [ref=f29e212]: 
+                        - generic [ref=f29e213]: Website
+                      - button "Get directions to Intu Nature Landscape Associates" [ref=f29e214] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e216]: 
+                        - generic [ref=f29e217]: Directions
+              - article [ref=f29e220]:
+                - link "CJS LANDSCAPE SOLUTIONS" [ref=f29e221] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/CJS+LANDSCAPE+SOLUTIONS/data=!4m7!3m6!1s0x80dc01e241fabe9b:0x37c48aac8d345fd0!8m2!3d32.80043!4d-117.232414!16s%2Fg%2F11trb_9fg5!19sChIJm776QeIB3IAR0F80jayKxDc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: CJS LANDSCAPE SOLUTIONS
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.1 stars 17 Reviews": 4.1(17)
+                            - generic:
+                              - generic:
+                                - generic: Landscaper
+                                - generic: · 2034 Balboa Ave
+                              - generic: (858) 899-3817
+                    - generic:
+                      - link "Visit CJS LANDSCAPE SOLUTIONS's website" [ref=f29e223] [cursor=pointer]:
+                        - /url: http://cjslandscapesolutions.com/
+                        - generic [aria-hidden] [ref=f29e225]: 
+                        - generic [ref=f29e226]: Website
+                      - button "Get directions to CJS LANDSCAPE SOLUTIONS" [ref=f29e227] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e229]: 
+                        - generic [ref=f29e230]: Directions
+              - article [ref=f29e233]:
+                - link "Old World Landscape" [ref=f29e234] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Old+World+Landscape/data=!4m7!3m6!1s0x80d959e31572f837:0xfeaddf66f730f6cf!8m2!3d32.779482!4d-117.207295!16s%2Fg%2F11c5453tbs!19sChIJN_hyFeNZ2YARz_Yw92bfrf4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Old World Landscape
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 3 Reviews": 5.0(3)
+                            - generic:
+                              - generic:
+                                - generic: Landscape designer
+                                - generic: · 1817 Morena Blvd Ste a
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 971-2894
+                    - generic:
+                      - link "Visit Old World Landscape's website" [ref=f29e236] [cursor=pointer]:
+                        - /url: https://oldworldlandscape.com/
+                        - generic [aria-hidden] [ref=f29e238]: 
+                        - generic [ref=f29e239]: Website
+                      - button "Get directions to Old World Landscape" [ref=f29e240] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e242]: 
+                        - generic [ref=f29e243]: Directions
+              - article [ref=f29e246]:
+                - link "Red's Gardening Co." [ref=f29e247] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Red%27s+Gardening+Co./data=!4m7!3m6!1s0x80deaa0905ce5c0d:0xa1d7e5ba76b96f43!8m2!3d32.8059947!4d-117.2322678!16s%2Fg%2F11rkmt2yw0!19sChIJDVzOBQmq3oARQ2-5drrl16E?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Red's Gardening Co.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 3 Reviews": 5.0(3)
+                            - generic:
+                              - generic:
+                                - generic: Contractor
+                                - generic: · 2128 Missouri St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (760) 685-8678
+                    - generic:
+                      - link "Visit Red's Gardening Co.'s website" [ref=f29e249] [cursor=pointer]:
+                        - /url: https://redsgardening.com/contact-us
+                        - generic [aria-hidden] [ref=f29e251]: 
+                        - generic [ref=f29e252]: Website
+                      - button "Get directions to Red's Gardening Co." [ref=f29e253] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e255]: 
+                        - generic [ref=f29e256]: Directions
+              - article [ref=f29e259]:
+                - link "Turf & Sons San Diego" [ref=f29e260] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Turf+%26+Sons+San+Diego/data=!4m7!3m6!1s0x80dc01b23ca03e6b:0xae5297ab9f74acdc!8m2!3d32.7965212!4d-117.2525413!16s%2Fg%2F11tf32fdc2!19sChIJaz6gPLIB3IAR3Kx0n6uXUq4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Turf & Sons San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 18 Reviews": 5.0(18)
+                            - generic:
+                              - generic:
+                                - generic: Landscaper
+                                - generic: · 928 Hornblend St Unit 2
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 878-7911
+                    - generic:
+                      - link "Visit Turf & Sons San Diego's website" [ref=f29e262] [cursor=pointer]:
+                        - /url: http://turfandsons.com/
+                        - generic [aria-hidden] [ref=f29e264]: 
+                        - generic [ref=f29e265]: Website
+                      - button "Get directions to Turf & Sons San Diego" [ref=f29e266] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f29e268]: 
+                        - generic [ref=f29e269]: Directions
+              - generic [ref=f29e304]:
+                - generic [aria-hidden] [ref=f29e306]: 
+                - generic [ref=f29e307]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f29e308] [cursor=pointer]
+            - checkbox [ref=f29e311] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f29e313]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f29e315] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f29e316]: 
+    - generic [ref=f29e320]:
+      - button "Google apps" [ref=f29e324] [cursor=pointer]
+      - link "Sign in" [ref=f29e328] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Flandscaping%2Bcompany%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f29e331] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f29e333]: 
+        - generic [ref=f29e335] [cursor=pointer]:
+          - button "Zoom in" [ref=f29e336]:
+            - generic [aria-hidden] [ref=f29e338]: 
+          - button "Zoom out" [ref=f29e339]:
+            - generic [aria-hidden] [ref=f29e341]: 
+      - button "Browse Street View images" [ref=f29e347]
+      - generic [ref=f29e349]:
+        - generic "Interactive map" [ref=f29e350]
+        - generic [ref=f29e354] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f29e355]: 
+          - generic [ref=f29e356]: Layers
+        - button "Layers" [ref=f29e357] [cursor=pointer]
+    - generic [ref=f29e359]:
+      - contentinfo [ref=f29e362]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f29e363] [cursor=pointer]
+        - button "Terms" [ref=f29e364] [cursor=pointer]
+        - button "Privacy" [ref=f29e365] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f29e366] [cursor=pointer]
+      - button "50 mi" [ref=f29e368] [cursor=pointer]

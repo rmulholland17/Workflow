@@ -1,0 +1,451 @@
+- generic "Google Maps" [ref=f106e9]:
+  - generic [ref=f106e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f106e10]
+    - search [ref=f106e15]:
+      - generic [ref=f106e16]:
+        - combobox [ref=f106e18]: dog grooming san diego ca
+        - button "Search" [ref=f106e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f106e21]: 
+        - button "Close" [ref=f106e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f106e24]: 
+    - region "Available filters for this search" [ref=f106e31]:
+      - generic [ref=f106e34]:
+        - button "Rating" [ref=f106e36] [cursor=pointer]:
+          - generic [ref=f106e37]:
+            - generic [aria-hidden] [ref=f106e38]: 
+            - generic [ref=f106e39]: Rating
+            - generic [aria-hidden] [ref=f106e40]: 
+        - button "Hours" [ref=f106e42] [cursor=pointer]:
+          - generic [ref=f106e43]:
+            - generic [aria-hidden] [ref=f106e44]: 
+            - generic [ref=f106e45]: Hours
+            - generic [aria-hidden] [ref=f106e46]: 
+        - button "All filters" [ref=f106e48] [cursor=pointer]:
+          - generic [ref=f106e49]:
+            - generic [aria-hidden] [ref=f106e50]: 
+            - generic [ref=f106e51]: All filters
+    - generic [ref=f106e52]:
+      - generic [ref=f106e53]:
+        - list [ref=f106e55]:
+          - listitem [ref=f106e56]:
+            - button "Menu" [ref=f106e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f106e59]: 
+          - listitem [ref=f106e60]:
+            - button "Saved" [ref=f106e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f106e63]: 
+          - listitem [ref=f106e66]:
+            - button "Recents" [disabled] [ref=f106e67]:
+              - generic [aria-hidden] [ref=f106e69]: 
+          - listitem [ref=f106e73]:
+            - button "Get app" [ref=f106e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f106e76]: 
+        - main [ref=f106e83]:
+          - generic [ref=f106e84]:
+            - feed "Results for dog grooming san diego ca" [ref=f106e85]:
+              - generic [ref=f106e86]:
+                - generic [ref=f106e88]:
+                  - heading "Results" [level=1] [ref=f106e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f106e93]:
+                    - generic [aria-hidden] [ref=f106e97]: 
+                - button "Share" [ref=f106e101]:
+                  - generic [ref=f106e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f106e103]: 
+                    - generic [ref=f106e104]: Share
+              - article [ref=f106e106]:
+                - link "Nina’s Pet Spa & Grooming" [ref=f106e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Nina%E2%80%99s+Pet+Spa+%26+Grooming/data=!4m7!3m6!1s0x80deaba6af81710b:0x8fbed4318eb0a132!8m2!3d32.7478451!4d-117.2140406!16s%2Fg%2F11lp3xfljh!19sChIJC3GBr6ar3oARMqGwjjHUvo8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Nina’s Pet Spa & Grooming
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 86 Reviews": 5.0(86)
+                            - generic:
+                              - generic:
+                                - generic: Pet groomer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e109] [cursor=pointer]:
+                                    - generic [ref=f106e110]: 
+                                - generic: "· 3405 Kenyon St #102"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 244-4009
+                    - generic:
+                      - link "Visit Nina’s Pet Spa & Grooming's website" [ref=f106e111] [cursor=pointer]:
+                        - /url: https://www.instagram.com/nina.spagrooming?igsh=OGQ5ZDc2ODk2ZA==&utm_source=qr
+                        - generic [aria-hidden] [ref=f106e113]: 
+                        - generic [ref=f106e114]: Website
+                      - button "Get directions to Nina’s Pet Spa & Grooming" [ref=f106e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e117]: 
+                        - generic [ref=f106e118]: Directions
+              - article [ref=f106e121]:
+                - link "Rooney Groom - Mobile Dog Grooming" [ref=f106e122] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Rooney+Groom+-+Mobile+Dog+Grooming/data=!4m7!3m6!1s0x2e0f9ff582f98005:0xa9e963c86b85dc3a!8m2!3d32.813009!4d-117.218994!16s%2Fg%2F11zkswpwp7!19sChIJBYD5gvWfDy4ROtyFa8hj6ak?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Rooney Groom - Mobile Dog Grooming
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 25 Reviews": 5.0(25)
+                            - generic:
+                              - generic:
+                                - generic: Pet groomer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e124] [cursor=pointer]:
+                                    - generic [ref=f106e125]: 
+                                - generic: · 5002 Santa Fe St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 202-0105
+                    - generic:
+                      - link "Visit Rooney Groom - Mobile Dog Grooming's website" [ref=f106e126] [cursor=pointer]:
+                        - /url: https://rooneygroom.com/
+                        - generic [aria-hidden] [ref=f106e128]: 
+                        - generic [ref=f106e129]: Website
+                      - button "Get directions to Rooney Groom - Mobile Dog Grooming" [ref=f106e130] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e132]: 
+                        - generic [ref=f106e133]: Directions
+                  - link [ref=f106e134] [cursor=pointer]:
+                    - /url: https://booking.moego.pet/ol/landing?name=RooneyGroom&source=gr&rwg_token=AE37R_gOZ7UaPsFhNnByhRDail8lhtAmWt_51py-kFjP44tab30R4q5vL3m6nJcjCNdtuX1ZP_US3aN0kik6pSubC8VmtdxC_w%3D%3D
+                    - generic [ref=f106e135]:
+                      - generic [aria-hidden] [ref=f106e136]: 
+                      - text: Book online
+              - article [ref=f106e139]:
+                - link "Diego Dogs Grooming" [ref=f106e140] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Diego+Dogs+Grooming/data=!4m7!3m6!1s0x80dc01903c8fffff:0x9c2e39e7d30c7588!8m2!3d32.7985808!4d-117.2520175!16s%2Fg%2F11ggt31pm_!19sChIJ__-PPJAB3IARiHUM0-c5Lpw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Diego Dogs Grooming
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 82 Reviews": 4.7(82)
+                            - generic:
+                              - generic:
+                                - generic: Pet groomer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e142] [cursor=pointer]:
+                                    - generic [ref=f106e143]: 
+                                - generic: · 4605 Cass St
+                              - generic: (858) 412-5202
+                    - generic:
+                      - link "Visit Diego Dogs Grooming's website" [ref=f106e144] [cursor=pointer]:
+                        - /url: https://www.diegodogsgrooming.com/
+                        - generic [aria-hidden] [ref=f106e146]: 
+                        - generic [ref=f106e147]: Website
+                      - button "Get directions to Diego Dogs Grooming" [ref=f106e148] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e150]: 
+                        - generic [ref=f106e151]: Directions
+              - article [ref=f106e154]:
+                - link "Point Loma Dog Salon N Spa" [ref=f106e155] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Point+Loma+Dog+Salon+N+Spa/data=!4m7!3m6!1s0x80deab8bd0c0dc57:0xb845e81f00b29d27!8m2!3d32.7537896!4d-117.2225294!16s%2Fg%2F11wndyqjs0!19sChIJV9zA0Iur3oARJ52yAB_oRbg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Point Loma Dog Salon N Spa
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 146 Reviews": 4.9(146)
+                            - generic:
+                              - generic:
+                                - generic: Pet groomer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e157] [cursor=pointer]:
+                                    - generic [ref=f106e158]: 
+                                - generic: · 4011 W Point Loma Blvd
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 221-9233
+                    - generic:
+                      - link "Visit Point Loma Dog Salon N Spa's website" [ref=f106e159] [cursor=pointer]:
+                        - /url: https://pointlomadogsalon.weebly.com/
+                        - generic [aria-hidden] [ref=f106e161]: 
+                        - generic [ref=f106e162]: Website
+                      - button "Get directions to Point Loma Dog Salon N Spa" [ref=f106e163] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e165]: 
+                        - generic [ref=f106e166]: Directions
+              - article [ref=f106e169]:
+                - link "DoggoWash" [ref=f106e170] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/DoggoWash/data=!4m7!3m6!1s0x80deab91d5127181:0x17e17317961178c1!8m2!3d32.7765547!4d-117.2070021!16s%2Fg%2F11fqbhtdh3!19sChIJgXES1ZGr3oARwXgRlhdz4Rc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: DoggoWash
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 180 Reviews": 4.7(180)
+                            - generic:
+                              - generic:
+                                - generic: Pet groomer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e172] [cursor=pointer]:
+                                    - generic [ref=f106e173]: 
+                                - generic: · 1675 Morena Blvd
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 208-3299
+                    - generic:
+                      - link "Visit DoggoWash's website" [ref=f106e174] [cursor=pointer]:
+                        - /url: http://doggowash.com/
+                        - generic [aria-hidden] [ref=f106e176]: 
+                        - generic [ref=f106e177]: Website
+                      - button "Get directions to DoggoWash" [ref=f106e178] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e180]: 
+                        - generic [ref=f106e181]: Directions
+              - article [ref=f106e184]:
+                - link "Spawkles Mobile Dog Grooming" [ref=f106e185] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Spawkles+Mobile+Dog+Grooming/data=!4m7!3m6!1s0xa42c6ac4e8a2312d:0x6c9d6b132143bde8!8m2!3d32.8613001!4d-117.1327195!16s%2Fg%2F11yzsx557w!19sChIJLTGi6MRqLKQR6L1DIRNrnWw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Spawkles Mobile Dog Grooming
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 40 Reviews": 4.9(40)
+                            - generic:
+                              - generic: Pet groomer
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 320-8837
+                    - generic:
+                      - link "Visit Spawkles Mobile Dog Grooming's website" [ref=f106e187] [cursor=pointer]:
+                        - /url: https://spawkles.com/
+                        - generic [aria-hidden] [ref=f106e189]: 
+                        - generic [ref=f106e190]: Website
+                      - button "Get directions to Spawkles Mobile Dog Grooming" [ref=f106e191] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e193]: 
+                        - generic [ref=f106e194]: Directions
+              - article [ref=f106e197]:
+                - link "Happy Pet" [ref=f106e198] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Happy+Pet/data=!4m7!3m6!1s0x80dbfdbd8ae66cad:0x22bf801e4514a5f8!8m2!3d32.797004!4d-117.25249!16s%2Fg%2F11vrdcr_jb!19sChIJrWzmir3924AR-KUURR6AvyI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Happy Pet
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 68 Reviews": 5.0(68)
+                            - generic:
+                              - generic:
+                                - generic: Pet supply store
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e200] [cursor=pointer]:
+                                    - generic [ref=f106e201]: 
+                                - generic: · 951 Garnet Ave
+                              - generic:
+                                - generic: Closed · Opens 10 AM Tue
+                                - generic: · (858) 203-7485
+                    - generic:
+                      - link "Visit Happy Pet's website" [ref=f106e202] [cursor=pointer]:
+                        - /url: http://www.happypetpb.com/
+                        - generic [aria-hidden] [ref=f106e204]: 
+                        - generic [ref=f106e205]: Website
+                      - button "Get directions to Happy Pet" [ref=f106e206] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e208]: 
+                        - generic [ref=f106e209]: Directions
+              - article [ref=f106e212]:
+                - link "Petco Grooming" [ref=f106e213] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Petco+Grooming/data=!4m7!3m6!1s0x80dc01b8a9c4cb09:0xd9e05fdd46a8b624!8m2!3d32.8014263!4d-117.2377418!16s%2Fg%2F11f0wjhwrc!19sChIJCcvEqbgB3IARJLaoRt1f4Nk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Petco Grooming
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.5 stars 73 Reviews": 4.5(73)
+                            - generic:
+                              - generic:
+                                - generic: Pet groomer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e215] [cursor=pointer]:
+                                    - generic [ref=f106e216]: 
+                                - generic: · 1780 Garnet Ave
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 270-3499
+                    - generic:
+                      - link "Visit Petco Grooming's website" [ref=f106e217] [cursor=pointer]:
+                        - /url: https://stores.petco.com/ca/san-diego/full-service-grooming-sandiego-ca-2152.html?utm_source=google&utm_campaign=locallist_2152_pg
+                        - generic [aria-hidden] [ref=f106e219]: 
+                        - generic [ref=f106e220]: Website
+                      - button "Get directions to Petco Grooming" [ref=f106e221] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e223]: 
+                        - generic [ref=f106e224]: Directions
+              - article [ref=f106e227]:
+                - link "Dunk'N Dogs" [ref=f106e228] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Dunk%27N+Dogs/data=!4m7!3m6!1s0x80dc00192d160029:0x3a68a070b5d7148!8m2!3d32.7960042!4d-117.1938553!16s%2Fg%2F1td9wdtt!19sChIJKQAWLRkA3IARSHFdCweKpgM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Dunk'N Dogs
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 862 Reviews": 4.8(862)
+                            - generic:
+                              - generic:
+                                - generic: Pet groomer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e230] [cursor=pointer]:
+                                    - generic [ref=f106e231]: 
+                                - generic: · 3056 Clairemont Dr
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 276-3047
+                    - generic:
+                      - link "Visit Dunk'N Dogs's website" [ref=f106e232] [cursor=pointer]:
+                        - /url: https://dunkndogwash.com/
+                        - generic [aria-hidden] [ref=f106e234]: 
+                        - generic [ref=f106e235]: Website
+                      - button "Get directions to Dunk'N Dogs" [ref=f106e236] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e238]: 
+                        - generic [ref=f106e239]: Directions
+              - article [ref=f106e242]:
+                - link "Doggies Divine" [ref=f106e243] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Doggies+Divine/data=!4m7!3m6!1s0x80dc00270b58bd31:0xdf1e32f49cfb1087!8m2!3d32.7892412!4d-117.2054552!16s%2Fg%2F1tkrm2ms!19sChIJMb1YCycA3IARhxD7nPQyHt8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Doggies Divine
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.6 stars 103 Reviews": 4.6(103)
+                            - generic:
+                              - generic:
+                                - generic: Pet groomer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e245] [cursor=pointer]:
+                                    - generic [ref=f106e246]: 
+                                - generic: · 2555 Morena Blvd Unit B
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 276-2555
+                    - generic:
+                      - link "Visit Doggies Divine's website" [ref=f106e247] [cursor=pointer]:
+                        - /url: http://doggiesdivine.com/
+                        - generic [aria-hidden] [ref=f106e249]: 
+                        - generic [ref=f106e250]: Website
+                      - button "Get directions to Doggies Divine" [ref=f106e251] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e253]: 
+                        - generic [ref=f106e254]: Directions
+              - article [ref=f106e257]:
+                - link "Mimo Grooming Studio - La Jolla" [ref=f106e258] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Mimo+Grooming+Studio+-+La+Jolla/data=!4m7!3m6!1s0x80dc034309ff1e33:0xcd9127e99919a28d!8m2!3d32.8164262!4d-117.2715716!16s%2Fg%2F11msp77w66!19sChIJMx7_CUMD3IARjaIZmeknkc0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Mimo Grooming Studio - La Jolla
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 82 Reviews": 4.9(82)
+                            - generic:
+                              - generic:
+                                - generic: Pet groomer
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f106e260] [cursor=pointer]:
+                                    - generic [ref=f106e261]: 
+                                - generic: · 5726 La Jolla Blvd
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (858) 352-6239
+                    - generic:
+                      - link "Visit Mimo Grooming Studio - La Jolla's website" [ref=f106e262] [cursor=pointer]:
+                        - /url: https://www.mimopets.co/
+                        - generic [aria-hidden] [ref=f106e264]: 
+                        - generic [ref=f106e265]: Website
+                      - button "Get directions to Mimo Grooming Studio - La Jolla" [ref=f106e266] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f106e268]: 
+                        - generic [ref=f106e269]: Directions
+              - generic [ref=f106e304]:
+                - generic [aria-hidden] [ref=f106e306]: 
+                - generic [ref=f106e307]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f106e308] [cursor=pointer]
+            - checkbox [ref=f106e311] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f106e313]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f106e315] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f106e316]: 
+    - generic [ref=f106e320]:
+      - button "Google apps" [ref=f106e324] [cursor=pointer]
+      - link "Sign in" [ref=f106e328] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fdog%2Bgrooming%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f106e331] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f106e333]: 
+        - generic [ref=f106e335] [cursor=pointer]:
+          - button "Zoom in" [ref=f106e336]:
+            - generic [aria-hidden] [ref=f106e338]: 
+          - button "Zoom out" [ref=f106e339]:
+            - generic [aria-hidden] [ref=f106e341]: 
+      - button "Browse Street View images" [ref=f106e347]
+      - generic [ref=f106e349]:
+        - generic "Interactive map" [ref=f106e350]
+        - generic [ref=f106e354] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f106e355]: 
+          - generic [ref=f106e356]: Layers
+        - button "Layers" [ref=f106e357] [cursor=pointer]
+    - generic [ref=f106e359]:
+      - contentinfo [ref=f106e362]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f106e363] [cursor=pointer]
+        - button "Terms" [ref=f106e364] [cursor=pointer]
+        - button "Privacy" [ref=f106e365] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f106e366] [cursor=pointer]
+      - button "5 mi" [ref=f106e368] [cursor=pointer]

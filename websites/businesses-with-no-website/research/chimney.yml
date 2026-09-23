@@ -1,0 +1,413 @@
+- generic "Google Maps" [ref=f93e9]:
+  - generic [ref=f93e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f93e10]
+    - search [ref=f93e15]:
+      - generic [ref=f93e16]:
+        - combobox [ref=f93e18]: chimney sweep san diego ca
+        - button "Search" [ref=f93e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f93e21]: 
+        - button "Close" [ref=f93e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f93e24]: 
+    - region "Available filters for this search" [ref=f93e31]:
+      - generic [ref=f93e34]:
+        - button "Rating" [ref=f93e36] [cursor=pointer]:
+          - generic [ref=f93e37]:
+            - generic [aria-hidden] [ref=f93e38]: 
+            - generic [ref=f93e39]: Rating
+            - generic [aria-hidden] [ref=f93e40]: 
+        - button "Hours" [ref=f93e42] [cursor=pointer]:
+          - generic [ref=f93e43]:
+            - generic [aria-hidden] [ref=f93e44]: 
+            - generic [ref=f93e45]: Hours
+            - generic [aria-hidden] [ref=f93e46]: 
+        - button "All filters" [ref=f93e48] [cursor=pointer]:
+          - generic [ref=f93e49]:
+            - generic [aria-hidden] [ref=f93e50]: 
+            - generic [ref=f93e51]: All filters
+    - generic [ref=f93e52]:
+      - generic [ref=f93e53]:
+        - list [ref=f93e55]:
+          - listitem [ref=f93e56]:
+            - button "Menu" [ref=f93e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f93e59]: 
+          - listitem [ref=f93e60]:
+            - button "Saved" [ref=f93e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f93e63]: 
+          - listitem [ref=f93e66]:
+            - button "Recents" [disabled] [ref=f93e67]:
+              - generic [aria-hidden] [ref=f93e69]: 
+          - listitem [ref=f93e73]:
+            - button "Get app" [ref=f93e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f93e76]: 
+        - main [ref=f93e83]:
+          - generic [ref=f93e84]:
+            - feed "Results for chimney sweep san diego ca" [ref=f93e85]:
+              - generic [ref=f93e86]:
+                - generic [ref=f93e88]:
+                  - heading "Results" [level=1] [ref=f93e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f93e93]:
+                    - generic [aria-hidden] [ref=f93e97]: 
+                - button "Share" [ref=f93e101]:
+                  - generic [ref=f93e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f93e103]: 
+                    - generic [ref=f93e104]: Share
+              - article [ref=f93e106]:
+                - link "THE CHIMNEY RELINING COMPANY, LLC" [ref=f93e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/THE+CHIMNEY+RELINING+COMPANY,+LLC/data=!4m7!3m6!1s0x80dc01c73edc0859:0x4072d361878c98a5!8m2!3d32.7995373!4d-117.2394221!16s%2Fg%2F11n4qv73wp!19sChIJWQjcPscB3IARpZiMh2HTckA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: THE CHIMNEY RELINING COMPANY, LLC
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 18 Reviews": 5.0(18)
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f93e109] [cursor=pointer]:
+                                    - generic [ref=f93e110]: 
+                                - generic: · 1675 Garnet Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 935-9128
+                    - button "Get directions to THE CHIMNEY RELINING COMPANY, LLC" [ref=f93e111] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f93e113]: 
+                      - generic [ref=f93e114]: Directions
+              - article [ref=f93e117]:
+                - link "Alan's Chimney Sweep" [ref=f93e118] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Alan%27s+Chimney+Sweep/data=!4m7!3m6!1s0x80dc01b4e3457edd:0xecc4be7cf4d5e5c7!8m2!3d32.807716!4d-117.2014592!16s%2Fg%2F11ty7d7r4p!19sChIJ3X5F47QB3IARx-XV9Hy-xOw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Alan's Chimney Sweep
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 93 Reviews": 4.9(93)
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic: "· 3660 Clairemont Dr #168"
+                              - generic:
+                                - generic: Closed · Opens 5 AM Tue
+                                - generic: · (619) 975-3330
+                    - generic:
+                      - link "Visit Alan's Chimney Sweep's website" [ref=f93e120] [cursor=pointer]:
+                        - /url: https://sandiegochimneys.best/
+                        - generic [aria-hidden] [ref=f93e122]: 
+                        - generic [ref=f93e123]: Website
+                      - button "Get directions to Alan's Chimney Sweep" [ref=f93e124] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f93e126]: 
+                        - generic [ref=f93e127]: Directions
+              - article [ref=f93e130]:
+                - link "Bright Star Chimney Sweeps" [ref=f93e131] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Bright+Star+Chimney+Sweeps/data=!4m7!3m6!1s0x80deab080c71c2f5:0xff5686999e7dea3e!8m2!3d32.7468106!4d-117.1904222!16s%2Fg%2F11kjpslwvf!19sChIJ9cJxDAir3oARPup9npmGVv8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Bright Star Chimney Sweeps
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 130 Reviews": 4.9(130)
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic: "· 2165 San Diego Ave #433"
+                              - generic:
+                                - generic: Closed · Opens 5 AM Tue
+                                - generic: · (619) 391-0003
+                    - generic:
+                      - link "Visit Bright Star Chimney Sweeps's website" [ref=f93e133] [cursor=pointer]:
+                        - /url: https://chimneymaster.pro/
+                        - generic [aria-hidden] [ref=f93e135]: 
+                        - generic [ref=f93e136]: Website
+                      - button "Get directions to Bright Star Chimney Sweeps" [ref=f93e137] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f93e139]: 
+                        - generic [ref=f93e140]: Directions
+              - article [ref=f93e143]:
+                - link "Village Chimney Sweep" [ref=f93e144] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Village+Chimney+Sweep/data=!4m7!3m6!1s0x4c0bc37bbcd7cc1f:0x392a8be12d4ef899!8m2!3d32.7169748!4d-117.1590258!16s%2Fg%2F11zgvq39wx!19sChIJH8zXvHvDC0wRmfhOLeGLKjk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Village Chimney Sweep
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 50 Reviews": 5.0(50)
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic: · 1111 Sixth Ave Ste 523
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (866) 257-5493
+                    - generic:
+                      - link "Visit Village Chimney Sweep's website" [ref=f93e146] [cursor=pointer]:
+                        - /url: https://villagechimneysweeping.com/
+                        - generic [aria-hidden] [ref=f93e148]: 
+                        - generic [ref=f93e149]: Website
+                      - button "Get directions to Village Chimney Sweep" [ref=f93e150] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f93e152]: 
+                        - generic [ref=f93e153]: Directions
+              - article [ref=f93e156]:
+                - link "Golden Crown Chimney" [ref=f93e157] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Golden+Crown+Chimney/data=!4m7!3m6!1s0x80d955056f3e95e1:0xe55fefa741fc6b8b!8m2!3d32.7417365!4d-117.1607117!16s%2Fg%2F11z7hg2bwz!19sChIJ4ZU-bwVV2YARi2v8QafvX-U?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Golden Crown Chimney
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 18 Reviews": 5.0(18)
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f93e159] [cursor=pointer]:
+                                    - generic [ref=f93e160]: 
+                                - generic: · 3500 Fifth Ave Ste 203
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (442) 226-4808
+                    - generic:
+                      - link "Visit Golden Crown Chimney's website" [ref=f93e161] [cursor=pointer]:
+                        - /url: https://goldencrownchimney.com/
+                        - generic [aria-hidden] [ref=f93e163]: 
+                        - generic [ref=f93e164]: Website
+                      - button "Get directions to Golden Crown Chimney" [ref=f93e165] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f93e167]: 
+                        - generic [ref=f93e168]: Directions
+              - article [ref=f93e171]:
+                - link "Top Hat Chimney Care" [ref=f93e172] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Top+Hat+Chimney+Care/data=!4m7!3m6!1s0x80d955c9dc5a415b:0xe3b72edc4a08ee78!8m2!3d32.7412643!4d-117.1606104!16s%2Fg%2F11ywb1ty0f!19sChIJW0Fa3MlV2YAReO4IStwut-M?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Top Hat Chimney Care
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 13 Reviews": 5.0(13)
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f93e174] [cursor=pointer]:
+                                    - generic [ref=f93e175]: 
+                                - generic: · 3430 Fifth Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 604-8840
+                    - generic:
+                      - link "Visit Top Hat Chimney Care's website" [ref=f93e176] [cursor=pointer]:
+                        - /url: http://tophatchimneycare.com/
+                        - generic [aria-hidden] [ref=f93e178]: 
+                        - generic [ref=f93e179]: Website
+                      - button "Get directions to Top Hat Chimney Care" [ref=f93e180] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f93e182]: 
+                        - generic [ref=f93e183]: Directions
+              - article [ref=f93e186]:
+                - link "Johnson Chimney Company San Diego" [ref=f93e187] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Johnson+Chimney+Company+San+Diego/data=!4m7!3m6!1s0x80dc01c4f9d3c97b:0x36529b7c6ab55d82!8m2!3d32.7953017!4d-117.2536609!16s%2Fg%2F11n4nn28hh!19sChIJe8nT-cQB3IARgl21anybUjY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Johnson Chimney Company San Diego
+                            - generic: No reviews
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f93e189] [cursor=pointer]:
+                                    - generic [ref=f93e190]: 
+                                - generic: "· 864 Grand Ave #148"
+                              - generic: Open 24 hours
+                    - button "Get directions to Johnson Chimney Company San Diego" [ref=f93e191] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f93e193]: 
+                      - generic [ref=f93e194]: Directions
+              - article [ref=f93e197]:
+                - link "Best San Diego Chimney Cleaners" [ref=f93e198] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Best+San+Diego+Chimney+Cleaners/data=!4m7!3m6!1s0x80dbf962a7369333:0xbe1c1d2b64aa787c!8m2!3d32.8825865!4d-117.165538!16s%2Fg%2F11ty147gzp!19sChIJM5M2p2L524ARfHiqZCsdHL4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Best San Diego Chimney Cleaners
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 113 Reviews": 4.8(113)
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic: · 8651 Production Ave Ste 186
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 932-5333
+                    - generic:
+                      - link "Visit Best San Diego Chimney Cleaners's website" [ref=f93e200] [cursor=pointer]:
+                        - /url: https://expertchimneys.site/
+                        - generic [aria-hidden] [ref=f93e202]: 
+                        - generic [ref=f93e203]: Website
+                      - button "Get directions to Best San Diego Chimney Cleaners" [ref=f93e204] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f93e206]: 
+                        - generic [ref=f93e207]: Directions
+              - article [ref=f93e210]:
+                - link "Weststar Chimney Sweeps" [ref=f93e211] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Weststar+Chimney+Sweeps/data=!4m7!3m6!1s0x80d94de4b24ffa9d:0x9e5baad1a6c37d0d!8m2!3d33.0172666!4d-116.8460104!16s%2Fg%2F1wbry1qf!19sChIJnfpPsuRN2YARDX3DptGqW54?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Weststar Chimney Sweeps
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 52 Reviews": 4.8(52)
+                            - generic:
+                              - generic: Chimney sweep
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 649-7556
+                    - generic:
+                      - link "Visit Weststar Chimney Sweeps's website" [ref=f93e213] [cursor=pointer]:
+                        - /url: https://weststarchimneys.com/?utm_campaign=GoogleMyBusiness
+                        - generic [aria-hidden] [ref=f93e215]: 
+                        - generic [ref=f93e216]: Website
+                      - button "Get directions to Weststar Chimney Sweeps" [ref=f93e217] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f93e219]: 
+                        - generic [ref=f93e220]: Directions
+              - article [ref=f93e223]:
+                - link "R&S Services" [ref=f93e224] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/R%26S+Services/data=!4m7!3m6!1s0x67212de02b0c9a17:0x12330a2234e7c99b!8m2!3d32.7862571!4d-117.1689532!16s%2Fg%2F11ms7c3j0p!19sChIJF5oMK-AtIWcRm8nnNCIKMxI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: R&S Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 48 Reviews": 5.0(48)
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f93e226] [cursor=pointer]:
+                                    - generic [ref=f93e227]: 
+                                - generic: · 2341 Ulric St
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 289-7601
+                    - generic:
+                      - link "Visit R&S Services's website" [ref=f93e228] [cursor=pointer]:
+                        - /url: https://www.rsservicesinfo.com/
+                        - generic [aria-hidden] [ref=f93e230]: 
+                        - generic [ref=f93e231]: Website
+                      - button "Get directions to R&S Services" [ref=f93e232] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f93e234]: 
+                        - generic [ref=f93e235]: Directions
+              - article [ref=f93e238]:
+                - link "Worry Free Chimney Cleaning" [ref=f93e239] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Worry+Free+Chimney+Cleaning/data=!4m7!3m6!1s0x80dbff8e5634195d:0xb32ea7951f97a982!8m2!3d32.831985!4d-117.116164!16s%2Fg%2F11kjhh_zx6!19sChIJXRk0Vo7_24ARgqmXH5WnLrM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Worry Free Chimney Cleaning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 163 Reviews": 4.8(163)
+                            - generic:
+                              - generic:
+                                - generic: Chimney sweep
+                                - generic: · 9771 Clairemont Mesa Blvd Ste 361
+                              - generic:
+                                - generic: Closed · Opens 5 AM Tue
+                                - generic: · (619) 900-6229
+                    - generic:
+                      - link "Visit Worry Free Chimney Cleaning's website" [ref=f93e241] [cursor=pointer]:
+                        - /url: https://chimneyssandiego.pro/
+                        - generic [aria-hidden] [ref=f93e243]: 
+                        - generic [ref=f93e244]: Website
+                      - button "Get directions to Worry Free Chimney Cleaning" [ref=f93e245] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f93e247]: 
+                        - generic [ref=f93e248]: Directions
+              - generic [ref=f93e283]:
+                - generic [aria-hidden] [ref=f93e285]: 
+                - generic [ref=f93e286]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f93e287] [cursor=pointer]
+            - checkbox [ref=f93e290] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f93e292]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f93e294] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f93e295]: 
+    - generic [ref=f93e299]:
+      - button "Google apps" [ref=f93e303] [cursor=pointer]
+      - link "Sign in" [ref=f93e307] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fchimney%2Bsweep%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f93e310] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f93e312]: 
+        - generic [ref=f93e314] [cursor=pointer]:
+          - button "Zoom in" [ref=f93e315]:
+            - generic [aria-hidden] [ref=f93e317]: 
+          - button "Zoom out" [ref=f93e318]:
+            - generic [aria-hidden] [ref=f93e320]: 
+      - button "Browse Street View images" [ref=f93e326]
+      - generic [ref=f93e328]:
+        - generic "Interactive map" [ref=f93e329]
+        - generic [ref=f93e333] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f93e334]: 
+          - generic [ref=f93e335]: Layers
+        - button "Layers" [ref=f93e336] [cursor=pointer]
+    - generic [ref=f93e338]:
+      - contentinfo [ref=f93e341]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f93e342] [cursor=pointer]
+        - button "Terms" [ref=f93e343] [cursor=pointer]
+        - button "Privacy" [ref=f93e344] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f93e345] [cursor=pointer]
+      - button "10 mi" [ref=f93e347] [cursor=pointer]

@@ -1,0 +1,430 @@
+- generic "Google Maps" [ref=f198e9]:
+  - generic [ref=f198e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f198e10]
+    - search [ref=f198e15]:
+      - generic [ref=f198e16]:
+        - combobox [ref=f198e18]: upholstery repair san diego ca
+        - button "Search" [ref=f198e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f198e21]: 
+        - button "Close" [ref=f198e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f198e24]: 
+    - region "Available filters for this search" [ref=f198e31]:
+      - generic [ref=f198e34]:
+        - button "Rating" [ref=f198e36] [cursor=pointer]:
+          - generic [ref=f198e37]:
+            - generic [aria-hidden] [ref=f198e38]: 
+            - generic [ref=f198e39]: Rating
+            - generic [aria-hidden] [ref=f198e40]: 
+        - button "Hours" [ref=f198e42] [cursor=pointer]:
+          - generic [ref=f198e43]:
+            - generic [aria-hidden] [ref=f198e44]: 
+            - generic [ref=f198e45]: Hours
+            - generic [aria-hidden] [ref=f198e46]: 
+        - button "All filters" [ref=f198e48] [cursor=pointer]:
+          - generic [ref=f198e49]:
+            - generic [aria-hidden] [ref=f198e50]: 
+            - generic [ref=f198e51]: All filters
+    - generic [ref=f198e52]:
+      - generic [ref=f198e53]:
+        - list [ref=f198e55]:
+          - listitem [ref=f198e56]:
+            - button "Menu" [ref=f198e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f198e59]: 
+          - listitem [ref=f198e60]:
+            - button "Saved" [ref=f198e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f198e63]: 
+          - listitem [ref=f198e66]:
+            - button "Recents" [disabled] [ref=f198e67]:
+              - generic [aria-hidden] [ref=f198e69]: 
+          - listitem [ref=f198e73]:
+            - button "Get app" [ref=f198e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f198e76]: 
+        - main [ref=f198e83]:
+          - generic [ref=f198e84]:
+            - feed "Results for upholstery repair san diego ca" [ref=f198e85]:
+              - generic [ref=f198e86]:
+                - generic [ref=f198e88]:
+                  - heading "Results" [level=1] [ref=f198e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f198e93]:
+                    - generic [aria-hidden] [ref=f198e97]: 
+                - button "Share" [ref=f198e101]:
+                  - generic [ref=f198e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f198e103]: 
+                    - generic [ref=f198e104]: Share
+              - article [ref=f198e106]:
+                - link "Quality Interiors & Patio Furniture Repair" [ref=f198e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Quality+Interiors+%26+Patio+Furniture+Repair/data=!4m7!3m6!1s0x80deaa94bbe906d1:0x307838514c53076a!8m2!3d32.7688942!4d-117.201848!16s%2Fg%2F1tff3bhz!19sChIJ0Qbpu5Sq3oARagdTTFE4eDA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Quality Interiors & Patio Furniture Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 18 Reviews": 4.9(18)
+                            - generic:
+                              - generic:
+                                - generic: Upholstery shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f198e109] [cursor=pointer]:
+                                    - generic [ref=f198e110]: 
+                                - generic: · 1181 W Morena Blvd
+                              - generic: Veteran shop for furniture recovering
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 275-5737
+                    - generic:
+                      - link "Visit Quality Interiors & Patio Furniture Repair's website" [ref=f198e111] [cursor=pointer]:
+                        - /url: http://www.sdqualityinteriors.com/
+                        - generic [aria-hidden] [ref=f198e113]: 
+                        - generic [ref=f198e114]: Website
+                      - button "Get directions to Quality Interiors & Patio Furniture Repair" [ref=f198e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f198e117]: 
+                        - generic [ref=f198e118]: Directions
+              - article [ref=f198e121]:
+                - link "Ocean Beach Upholstery" [ref=f198e122] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ocean+Beach+Upholstery/data=!4m7!3m6!1s0x80deab889263375d:0x9b6dd1a46fbab2c!8m2!3d32.7504883!4d-117.2436823!16s%2Fg%2F11krb3ygqx!19sChIJXTdjkoir3oARLKv7Rhrdtgk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ocean Beach Upholstery
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 9 Reviews": 5.0(9)
+                            - generic:
+                              - generic:
+                                - generic: Upholstery shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f198e124] [cursor=pointer]:
+                                    - generic [ref=f198e125]: 
+                                - generic: · 4838 Voltaire St
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 223-9797
+                    - generic:
+                      - link "Visit Ocean Beach Upholstery's website" [ref=f198e126] [cursor=pointer]:
+                        - /url: https://obupholstery.com/
+                        - generic [aria-hidden] [ref=f198e128]: 
+                        - generic [ref=f198e129]: Website
+                      - button "Get directions to Ocean Beach Upholstery" [ref=f198e130] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f198e132]: 
+                        - generic [ref=f198e133]: Directions
+              - article [ref=f198e136]:
+                - link "Elite Upholstery" [ref=f198e137] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Elite+Upholstery/data=!4m7!3m6!1s0x80deaa94c49f4747:0xcf900aff586a3101!8m2!3d32.7691141!4d-117.2008628!16s%2Fg%2F1tp08f24!19sChIJR0efxJSq3oARATFqWP8KkM8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Elite Upholstery
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 18 Reviews": 4.7(18)
+                            - generic:
+                              - generic:
+                                - generic: Upholstery shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f198e139] [cursor=pointer]:
+                                    - generic [ref=f198e140]: 
+                                - generic: · 1150 Morena Blvd
+                              - generic: Fabric source with upholstery services
+                              - generic:
+                                - generic: Closed · Opens 8:30 AM Tue
+                                - generic: · (619) 276-2424
+                    - generic:
+                      - link "Visit Elite Upholstery's website" [ref=f198e141] [cursor=pointer]:
+                        - /url: https://www.eliteupholstery.com/
+                        - generic [aria-hidden] [ref=f198e143]: 
+                        - generic [ref=f198e144]: Website
+                      - button "Get directions to Elite Upholstery" [ref=f198e145] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f198e147]: 
+                        - generic [ref=f198e148]: Directions
+              - article [ref=f198e151]:
+                - link "K.C. UPHOLSTERY" [ref=f198e152] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/K.C.+UPHOLSTERY/data=!4m7!3m6!1s0x80d953bd7380825b:0x292cd49ec3c2eb4d!8m2!3d32.7198968!4d-117.229832!16s%2Fg%2F11h4nhf210!19sChIJW4KAc71T2YARTevCw57ULCk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: K.C. UPHOLSTERY
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 36 Reviews": 4.8(36)
+                            - generic:
+                              - generic:
+                                - generic: Upholstery shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f198e154] [cursor=pointer]:
+                                    - generic [ref=f198e155]: 
+                                - generic: · 1071 Shafter St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 760-6572
+                    - generic:
+                      - link "Visit K.C. UPHOLSTERY's website" [ref=f198e156] [cursor=pointer]:
+                        - /url: http://www.kcupholsterysandiego.com/
+                        - generic [aria-hidden] [ref=f198e158]: 
+                        - generic [ref=f198e159]: Website
+                      - button "Get directions to K.C. UPHOLSTERY" [ref=f198e160] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f198e162]: 
+                        - generic [ref=f198e163]: Directions
+              - article [ref=f198e166]:
+                - link "Fibrenew Coastal San Diego" [ref=f198e167] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Fibrenew+Coastal+San+Diego/data=!4m7!3m6!1s0x80d956df959560bd:0x87b225c88561e0e1!8m2!3d32.8753491!4d-117.1532866!16s%2Fg%2F11c0pzzvqw!19sChIJvWCVld9W2YAR4eBhhcglsoc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Fibrenew Coastal San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 172 Reviews": 5.0(172)
+                            - generic:
+                              - generic: Upholstery shop
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 455-0074
+                    - generic:
+                      - link "Visit Fibrenew Coastal San Diego's website" [ref=f198e169] [cursor=pointer]:
+                        - /url: https://www.fibrenew.com/coastal-san-diego/
+                        - generic [aria-hidden] [ref=f198e171]: 
+                        - generic [ref=f198e172]: Website
+                      - button "Get directions to Fibrenew Coastal San Diego" [ref=f198e173] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f198e175]: 
+                        - generic [ref=f198e176]: Directions
+              - article [ref=f198e179]:
+                - link "Lisa Davis Upholstery" [ref=f198e180] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Lisa+Davis+Upholstery/data=!4m7!3m6!1s0x80d95454fc3fb805:0xce026c40efc8e2e4!8m2!3d32.8262767!4d-117.228616!16s%2Fg%2F11bvt2wspm!19sChIJBbg__FRU2YAR5OLI70BsAs4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Lisa Davis Upholstery
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 7 Reviews": 5.0(7)
+                            - generic:
+                              - generic:
+                                - generic: Upholstery shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f198e182] [cursor=pointer]:
+                                    - generic [ref=f198e183]: 
+                                - generic: · 2640 Financial Ct m
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 298-0165
+                    - button "Get directions to Lisa Davis Upholstery" [ref=f198e184] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f198e186]: 
+                      - generic [ref=f198e187]: Directions
+              - article [ref=f198e190]:
+                - link "Hillcrest Upholstery LLC" [ref=f198e191] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Hillcrest+Upholstery+LLC/data=!4m7!3m6!1s0x80d954da9d10da29:0xafe4b49831f35226!8m2!3d32.7551076!4d-117.1312568!16s%2Fg%2F12lk4zx5j!19sChIJKdoQndpU2YARJlLzMZi05K8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Hillcrest Upholstery LLC
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.6 stars 50 Reviews": 4.6(50)
+                            - generic:
+                              - generic:
+                                - generic: Upholstery shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f198e193] [cursor=pointer]:
+                                    - generic [ref=f198e194]: 
+                                - generic: · 2903 El Cajon Blvd
+                              - generic: Family-run studio offering custom work
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 296-2066
+                    - generic:
+                      - link "Visit Hillcrest Upholstery LLC's website" [ref=f198e195] [cursor=pointer]:
+                        - /url: http://www.hillcrestupholstery.com/
+                        - generic [aria-hidden] [ref=f198e197]: 
+                        - generic [ref=f198e198]: Website
+                      - button "Get directions to Hillcrest Upholstery LLC" [ref=f198e199] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f198e201]: 
+                        - generic [ref=f198e202]: Directions
+              - article [ref=f198e205]:
+                - link "Quality Auto Upholstery" [ref=f198e206] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Quality+Auto+Upholstery/data=!4m7!3m6!1s0x80dbffbdafd9fce7:0x7f30448c6e163450!8m2!3d32.829593!4d-117.147707!16s%2Fg%2F1tfl9z0r!19sChIJ5_zZr73_24ARUDQWboxEMH8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Quality Auto Upholstery
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 33 Reviews": 4.9(33)
+                            - generic:
+                              - generic:
+                                - generic: Auto upholsterer
+                                - generic: · 8148 Ronson Rd Ste p
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (858) 541-0177
+                    - generic:
+                      - link "Visit Quality Auto Upholstery's website" [ref=f198e208] [cursor=pointer]:
+                        - /url: http://www.qualityseats.net/
+                        - generic [aria-hidden] [ref=f198e210]: 
+                        - generic [ref=f198e211]: Website
+                      - button "Get directions to Quality Auto Upholstery" [ref=f198e212] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f198e214]: 
+                        - generic [ref=f198e215]: Directions
+              - article [ref=f198e218]:
+                - link "Alexander's Upholstering" [ref=f198e219] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Alexander%27s+Upholstering/data=!4m7!3m6!1s0x80deaa4d7999d26b:0xf3925f3400b2edf8!8m2!3d32.7421073!4d-117.2333013!16s%2Fg%2F1tftlj7z!19sChIJa9KZeU2q3oAR-O2yADRfkvM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Alexander's Upholstering
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "3.9 stars 8 Reviews": 3.9(8)
+                            - generic:
+                              - generic:
+                                - generic: Upholstery shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f198e221] [cursor=pointer]:
+                                    - generic [ref=f198e222]: 
+                                - generic: · 4034 Wabaska Dr
+                              - generic:
+                                - generic: Closed · Opens 10 AM Tue
+                                - generic: · (619) 222-1345
+                    - generic:
+                      - link "Visit Alexander's Upholstering's website" [ref=f198e223] [cursor=pointer]:
+                        - /url: https://alexandersupholstering.com/
+                        - generic [aria-hidden] [ref=f198e225]: 
+                        - generic [ref=f198e226]: Website
+                      - button "Get directions to Alexander's Upholstering" [ref=f198e227] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f198e229]: 
+                        - generic [ref=f198e230]: Directions
+              - article [ref=f198e233]:
+                - link "AB Auto Upholstery" [ref=f198e234] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/AB+Auto+Upholstery/data=!4m7!3m6!1s0x80dbff98f79e403d:0x5ec92aed182ecd55!8m2!3d32.8356026!4d-117.1513648!16s%2Fg%2F1tfx55f1!19sChIJPUCe95j_24ARVc0uGO0qyV4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: AB Auto Upholstery
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 70 Reviews": 4.7(70)
+                            - generic:
+                              - generic:
+                                - generic: Auto upholsterer
+                                - generic: · 7852 Convoy Ct
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (858) 268-3133
+                    - button "Get directions to AB Auto Upholstery" [ref=f198e236] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f198e238]: 
+                      - generic [ref=f198e239]: Directions
+              - article [ref=f198e242]:
+                - link "Mission Upholstery" [ref=f198e243] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Mission+Upholstery/data=!4m7!3m6!1s0x80d953652c85ffbd:0x91da6b7b4f98ce43!8m2!3d32.7118173!4d-117.1383563!16s%2Fg%2F1tj853tj!19sChIJvf-FLGVT2YARQ86YT3tr2pE?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Mission Upholstery
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 27 Reviews": 4.9(27)
+                            - generic:
+                              - generic:
+                                - generic: Upholstery shop
+                                - generic: · 2592 Market St
+                              - generic: Choice for refurbishing home furnishings
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 297-7748
+                    - generic:
+                      - link "Visit Mission Upholstery's website" [ref=f198e245] [cursor=pointer]:
+                        - /url: http://www.missionupholstery.net/
+                        - generic [aria-hidden] [ref=f198e247]: 
+                        - generic [ref=f198e248]: Website
+                      - button "Get directions to Mission Upholstery" [ref=f198e249] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f198e251]: 
+                        - generic [ref=f198e252]: Directions
+              - generic [ref=f198e287]:
+                - generic [aria-hidden] [ref=f198e289]: 
+                - generic [ref=f198e290]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f198e291] [cursor=pointer]
+            - checkbox [ref=f198e294] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f198e296]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f198e298] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f198e299]: 
+    - generic [ref=f198e303]:
+      - button "Google apps" [ref=f198e307] [cursor=pointer]
+      - link "Sign in" [ref=f198e311] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fupholstery%2Brepair%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f198e314] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f198e316]: 
+        - generic [ref=f198e318] [cursor=pointer]:
+          - button "Zoom in" [ref=f198e319]:
+            - generic [aria-hidden] [ref=f198e321]: 
+          - button "Zoom out" [ref=f198e322]:
+            - generic [aria-hidden] [ref=f198e324]: 
+      - button "Browse Street View images" [ref=f198e330]
+      - generic [ref=f198e332]:
+        - generic "Interactive map" [ref=f198e333]
+        - generic [ref=f198e337] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f198e338]: 
+          - generic [ref=f198e339]: Layers
+        - button "Layers" [ref=f198e340] [cursor=pointer]
+    - generic [ref=f198e342]:
+      - contentinfo [ref=f198e345]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f198e346] [cursor=pointer]
+        - button "Terms" [ref=f198e347] [cursor=pointer]
+        - button "Privacy" [ref=f198e348] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f198e349] [cursor=pointer]
+      - button "10 mi" [ref=f198e351] [cursor=pointer]

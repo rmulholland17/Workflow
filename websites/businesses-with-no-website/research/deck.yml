@@ -1,0 +1,408 @@
+- generic "Google Maps" [ref=f97e9]:
+  - generic [ref=f97e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f97e10]
+    - search [ref=f97e15]:
+      - generic [ref=f97e16]:
+        - combobox [ref=f97e18]: deck builder san diego ca
+        - button "Search" [ref=f97e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f97e21]: 
+        - button "Close" [ref=f97e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f97e24]: 
+    - region "Available filters for this search" [ref=f97e31]:
+      - generic [ref=f97e34]:
+        - button "Rating" [ref=f97e36] [cursor=pointer]:
+          - generic [ref=f97e37]:
+            - generic [aria-hidden] [ref=f97e38]: 
+            - generic [ref=f97e39]: Rating
+            - generic [aria-hidden] [ref=f97e40]: 
+        - button "Hours" [ref=f97e42] [cursor=pointer]:
+          - generic [ref=f97e43]:
+            - generic [aria-hidden] [ref=f97e44]: 
+            - generic [ref=f97e45]: Hours
+            - generic [aria-hidden] [ref=f97e46]: 
+        - button "All filters" [ref=f97e48] [cursor=pointer]:
+          - generic [ref=f97e49]:
+            - generic [aria-hidden] [ref=f97e50]: 
+            - generic [ref=f97e51]: All filters
+    - generic [ref=f97e52]:
+      - generic [ref=f97e53]:
+        - list [ref=f97e55]:
+          - listitem [ref=f97e56]:
+            - button "Menu" [ref=f97e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f97e59]: 
+          - listitem [ref=f97e60]:
+            - button "Saved" [ref=f97e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f97e63]: 
+          - listitem [ref=f97e66]:
+            - button "Recents" [disabled] [ref=f97e67]:
+              - generic [aria-hidden] [ref=f97e69]: 
+          - listitem [ref=f97e73]:
+            - button "Get app" [ref=f97e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f97e76]: 
+        - main [ref=f97e83]:
+          - generic [ref=f97e84]:
+            - feed "Results for deck builder san diego ca" [ref=f97e85]:
+              - generic [ref=f97e86]:
+                - generic [ref=f97e88]:
+                  - heading "Results" [level=1] [ref=f97e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f97e93]:
+                    - generic [aria-hidden] [ref=f97e97]: 
+                - button "Share" [ref=f97e101]:
+                  - generic [ref=f97e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f97e103]: 
+                    - generic [ref=f97e104]: Share
+              - article [ref=f97e106]:
+                - link "West Coast Deck" [ref=f97e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/West+Coast+Deck/data=!4m7!3m6!1s0x80dc01db86b7842b:0x85010895821a47fd!8m2!3d32.813009!4d-117.218994!16s%2Fg%2F11n9dm0nbv!19sChIJK4S3htsB3IAR_UcagpUIAYU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: West Coast Deck
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 14 Reviews": 5.0(14)
+                            - generic:
+                              - generic:
+                                - generic: Deck builder
+                                - generic: · 5002 Santa Fe St 7 suite 7
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 295-0707
+                    - generic:
+                      - link "Visit West Coast Deck's website" [ref=f97e109] [cursor=pointer]:
+                        - /url: http://westcoastdeck.com/
+                        - generic [aria-hidden] [ref=f97e111]: 
+                        - generic [ref=f97e112]: Website
+                      - button "Get directions to West Coast Deck" [ref=f97e113] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e115]: 
+                        - generic [ref=f97e116]: Directions
+              - article [ref=f97e119]:
+                - link "Captain Decks" [ref=f97e120] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Captain+Decks/data=!4m7!3m6!1s0x80d955e7606cf031:0x65b7312ca0af00a8!8m2!3d32.79333!4d-117.1205205!16s%2Fg%2F11s9gsy9g6!19sChIJMfBsYOdV2YARqACvoCwxt2U?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Captain Decks
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 48 Reviews": 5.0(48)
+                            - generic:
+                              - generic:
+                                - generic: Deck builder
+                                - generic: · 2604 Palace Dr
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 943-6440
+                    - generic:
+                      - link "Visit Captain Decks's website" [ref=f97e122] [cursor=pointer]:
+                        - /url: https://captaindecks.com/
+                        - generic [aria-hidden] [ref=f97e124]: 
+                        - generic [ref=f97e125]: Website
+                      - button "Get directions to Captain Decks" [ref=f97e126] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e128]: 
+                        - generic [ref=f97e129]: Directions
+              - article [ref=f97e132]:
+                - link "John Martin Construction" [ref=f97e133] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/John+Martin+Construction/data=!4m7!3m6!1s0x80dc0165142d5a05:0xdff39b2636db9ca!8m2!3d32.7989071!4d-117.2520648!16s%2Fg%2F11j8p6sbcs!19sChIJBVotFGUB3IARyrltY7I5_w0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: John Martin Construction
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 11 Reviews": 5.0(11)
+                            - generic:
+                              - generic:
+                                - generic: Deck builder
+                                - generic: "· 4629 Cass St #236"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 541-1737
+                    - generic:
+                      - link "Visit John Martin Construction's website" [ref=f97e135] [cursor=pointer]:
+                        - /url: https://johnmartinconstruction.com/
+                        - generic [aria-hidden] [ref=f97e137]: 
+                        - generic [ref=f97e138]: Website
+                      - button "Get directions to John Martin Construction" [ref=f97e139] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e141]: 
+                        - generic [ref=f97e142]: Directions
+              - article [ref=f97e145]:
+                - link "Tuff Deck Builders San Diego" [ref=f97e146] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Tuff+Deck+Builders+San+Diego/data=!4m7!3m6!1s0x2269e41e62864f49:0xf08b132708accbf2!8m2!3d32.9171601!4d-117.1470654!16s%2Fg%2F11mzwlbnhb!19sChIJSU-GYh7kaSIR8susCCcTi_A?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Tuff Deck Builders San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 2 Reviews": 5.0(2)
+                            - generic:
+                              - generic: Deck builder
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 903-6535
+                    - generic:
+                      - link "Visit Tuff Deck Builders San Diego's website" [ref=f97e148] [cursor=pointer]:
+                        - /url: https://tuffdeckbuilderssandiego.com/
+                        - generic [aria-hidden] [ref=f97e150]: 
+                        - generic [ref=f97e151]: Website
+                      - button "Get directions to Tuff Deck Builders San Diego" [ref=f97e152] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e154]: 
+                        - generic [ref=f97e155]: Directions
+              - article [ref=f97e158]:
+                - link "SD Deck Restoration" [ref=f97e159] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/SD+Deck+Restoration/data=!4m7!3m6!1s0x62b1da2cbfac2a4b:0x416c98db7286d8d0!8m2!3d32.8586794!4d-117.1327195!16s%2Fg%2F11nhm71b_z!19sChIJSyqsvyzasWIR0NiGctuYbEE?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: SD Deck Restoration
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 16 Reviews": 5.0(16)
+                            - generic:
+                              - generic: Deck builder
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 775-4833
+                    - generic:
+                      - link "Visit SD Deck Restoration's website" [ref=f97e161] [cursor=pointer]:
+                        - /url: https://www.sddeckrestoration.com/
+                        - generic [aria-hidden] [ref=f97e163]: 
+                        - generic [ref=f97e164]: Website
+                      - button "Get directions to SD Deck Restoration" [ref=f97e165] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e167]: 
+                        - generic [ref=f97e168]: Directions
+              - article [ref=f97e171]:
+                - link "In N Out Builders & Home Remodeling" [ref=f97e172] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/In+N+Out+Builders+%26+Home+Remodeling/data=!4m7!3m6!1s0x80dc0108ccf365df:0xed53858de213f3ae!8m2!3d32.7896123!4d-117.203143!16s%2Fg%2F11ntp2jpnk!19sChIJ32XzzAgB3IARrvMT4o2FU-0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: In N Out Builders & Home Remodeling
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 45 Reviews": 4.9(45)
+                            - generic:
+                              - generic:
+                                - generic: General contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f97e174] [cursor=pointer]:
+                                    - generic [ref=f97e175]: 
+                                - generic: "· 2621 Denver St # A3"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 333-7937
+                    - generic:
+                      - link "Visit In N Out Builders & Home Remodeling's website" [ref=f97e176] [cursor=pointer]:
+                        - /url: https://innoutremodeling.com/
+                        - generic [aria-hidden] [ref=f97e178]: 
+                        - generic [ref=f97e179]: Website
+                      - button "Get directions to In N Out Builders & Home Remodeling" [ref=f97e180] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e182]: 
+                        - generic [ref=f97e183]: Directions
+              - article [ref=f97e186]:
+                - link "SOL Design & Build" [ref=f97e187] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/SOL+Design+%26+Build/data=!4m7!3m6!1s0x66cd97fc100da193:0x70a18c5bce06325c!8m2!3d32.7999484!4d-117.2001393!16s%2Fg%2F11z48g1jqy!19sChIJk6ENEPyXzWYRXDIGzluMoXA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: SOL Design & Build
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 25 Reviews": 5.0(25)
+                            - generic:
+                              - generic:
+                                - generic: Deck builder
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f97e189] [cursor=pointer]:
+                                    - generic [ref=f97e190]: 
+                                - generic: · 3231 Fontana Ave
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (858) 877-6391
+                    - generic:
+                      - link "Visit SOL Design & Build's website" [ref=f97e191] [cursor=pointer]:
+                        - /url: https://soldesignandbuild.com/
+                        - generic [aria-hidden] [ref=f97e193]: 
+                        - generic [ref=f97e194]: Website
+                      - button "Get directions to SOL Design & Build" [ref=f97e195] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e197]: 
+                        - generic [ref=f97e198]: Directions
+              - article [ref=f97e201]:
+                - link "Decks Pergolas & Patio Solutions" [ref=f97e202] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Decks+Pergolas+%26+Patio+Solutions/data=!4m7!3m6!1s0x80dc01ecc2f6b2a9:0xc3200e1b40e6de8a!8m2!3d33.0172666!4d-116.8460104!16s%2Fg%2F11pb1rst24!19sChIJqbL2wuwB3IARit7mQBsOIMM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Decks Pergolas & Patio Solutions
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 2 Reviews": 5.0(2)
+                            - generic:
+                              - generic: Deck builder
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 877-2938
+                    - generic:
+                      - link "Visit Decks Pergolas & Patio Solutions's website" [ref=f97e204] [cursor=pointer]:
+                        - /url: https://www.deck-pergola-fence-sandiego.com/
+                        - generic [aria-hidden] [ref=f97e206]: 
+                        - generic [ref=f97e207]: Website
+                      - button "Get directions to Decks Pergolas & Patio Solutions" [ref=f97e208] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e210]: 
+                        - generic [ref=f97e211]: Directions
+              - article [ref=f97e214]:
+                - link "San Diego Deck Builders" [ref=f97e215] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Deck+Builders/data=!4m7!3m6!1s0x80d956e6982922b9:0x7f4be941918eba58!8m2!3d32.7684781!4d-117.0398827!16s%2Fg%2F11c1vkcyt6!19sChIJuSIpmOZW2YARWLqOkUHpS38?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Deck Builders
+                            - generic: No reviews
+                            - generic:
+                              - generic:
+                                - generic: Construction company
+                                - generic: · 7317 El Cajon Blvd
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 457-4090
+                    - generic:
+                      - link "Visit San Diego Deck Builders's website" [ref=f97e217] [cursor=pointer]:
+                        - /url: http://www.decksofsandiego.com/company/contact.aspx
+                        - generic [aria-hidden] [ref=f97e219]: 
+                        - generic [ref=f97e220]: Website
+                      - button "Get directions to San Diego Deck Builders" [ref=f97e221] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e223]: 
+                        - generic [ref=f97e224]: Directions
+              - article [ref=f97e227]:
+                - link "StoneGate Fence and Deck Builder San Diego" [ref=f97e228] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/StoneGate+Fence+and+Deck+Builder+San+Diego/data=!4m7!3m6!1s0xa662f493ccedd74f:0x8387377fdfee78e8!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11z90pfxr0!19sChIJT9ftzJP0YqYR6Hju3383h4M?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: StoneGate Fence and Deck Builder San Diego
+                            - generic: No reviews
+                            - generic:
+                              - generic: Deck builder
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 910-9294
+                    - generic:
+                      - link "Visit StoneGate Fence and Deck Builder San Diego's website" [ref=f97e230] [cursor=pointer]:
+                        - /url: http://stonegatedeckbuilder.com/
+                        - generic [aria-hidden] [ref=f97e232]: 
+                        - generic [ref=f97e233]: Website
+                      - button "Get directions to StoneGate Fence and Deck Builder San Diego" [ref=f97e234] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e236]: 
+                        - generic [ref=f97e237]: Directions
+              - article [ref=f97e240]:
+                - link "Pro Builders and Design" [ref=f97e241] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Pro+Builders+and+Design/data=!4m7!3m6!1s0x4d28ce35e0d6056d:0xbd654e8b68ec526e!8m2!3d32.797787!4d-117.237069!16s%2Fg%2F11ldh3sg8w!19sChIJbQXW4DXOKE0RblLsaItOZb0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Pro Builders and Design
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 41 Reviews": 5.0(41)
+                            - generic:
+                              - generic:
+                                - generic: General contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f97e243] [cursor=pointer]:
+                                    - generic [ref=f97e244]: 
+                                - generic: · 1748 Thomas Ave
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (877) 985-8555
+                    - generic:
+                      - link "Visit Pro Builders and Design's website" [ref=f97e245] [cursor=pointer]:
+                        - /url: https://probuildersanddesign.com/
+                        - generic [aria-hidden] [ref=f97e247]: 
+                        - generic [ref=f97e248]: Website
+                      - button "Get directions to Pro Builders and Design" [ref=f97e249] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f97e251]: 
+                        - generic [ref=f97e252]: Directions
+              - generic [ref=f97e287]:
+                - generic [aria-hidden] [ref=f97e289]: 
+                - generic [ref=f97e290]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f97e291] [cursor=pointer]
+            - checkbox [ref=f97e294] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f97e296]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f97e298] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f97e299]: 
+    - generic [ref=f97e303]:
+      - button "Google apps" [ref=f97e307] [cursor=pointer]
+      - link "Sign in" [ref=f97e311] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fdeck%2Bbuilder%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f97e314] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f97e316]: 
+        - generic [ref=f97e318] [cursor=pointer]:
+          - button "Zoom in" [ref=f97e319]:
+            - generic [aria-hidden] [ref=f97e321]: 
+          - button "Zoom out" [ref=f97e322]:
+            - generic [aria-hidden] [ref=f97e324]: 
+      - button "Browse Street View images" [ref=f97e330]
+      - generic [ref=f97e332]:
+        - generic "Interactive map" [ref=f97e333]
+        - generic [ref=f97e337] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f97e338]: 
+          - generic [ref=f97e339]: Layers
+        - button "Layers" [ref=f97e340] [cursor=pointer]
+    - generic [ref=f97e342]:
+      - contentinfo [ref=f97e345]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f97e346] [cursor=pointer]
+        - button "Terms" [ref=f97e347] [cursor=pointer]
+        - button "Privacy" [ref=f97e348] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f97e349] [cursor=pointer]
+      - button "10 mi" [ref=f97e351] [cursor=pointer]

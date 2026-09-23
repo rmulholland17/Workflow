@@ -1,0 +1,409 @@
+- generic "Google Maps" [ref=f195e9]:
+  - generic [ref=f195e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f195e10]
+    - search [ref=f195e15]:
+      - generic [ref=f195e16]:
+        - combobox [ref=f195e18]: solar panel cleaning san diego ca
+        - button "Search" [ref=f195e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f195e21]: 
+        - button "Close" [ref=f195e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f195e24]: 
+    - region "Available filters for this search" [ref=f195e31]:
+      - generic [ref=f195e34]:
+        - button "Rating" [ref=f195e36] [cursor=pointer]:
+          - generic [ref=f195e37]:
+            - generic [aria-hidden] [ref=f195e38]: 
+            - generic [ref=f195e39]: Rating
+            - generic [aria-hidden] [ref=f195e40]: 
+        - button "Hours" [ref=f195e42] [cursor=pointer]:
+          - generic [ref=f195e43]:
+            - generic [aria-hidden] [ref=f195e44]: 
+            - generic [ref=f195e45]: Hours
+            - generic [aria-hidden] [ref=f195e46]: 
+        - button "All filters" [ref=f195e48] [cursor=pointer]:
+          - generic [ref=f195e49]:
+            - generic [aria-hidden] [ref=f195e50]: 
+            - generic [ref=f195e51]: All filters
+    - generic [ref=f195e52]:
+      - generic [ref=f195e53]:
+        - list [ref=f195e55]:
+          - listitem [ref=f195e56]:
+            - button "Menu" [ref=f195e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f195e59]: 
+          - listitem [ref=f195e60]:
+            - button "Saved" [ref=f195e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f195e63]: 
+          - listitem [ref=f195e66]:
+            - button "Recents" [disabled] [ref=f195e67]:
+              - generic [aria-hidden] [ref=f195e69]: 
+          - listitem [ref=f195e73]:
+            - button "Get app" [ref=f195e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f195e76]: 
+        - main [ref=f195e83]:
+          - generic [ref=f195e84]:
+            - feed "Results for solar panel cleaning san diego ca" [ref=f195e85]:
+              - generic [ref=f195e86]:
+                - generic [ref=f195e88]:
+                  - heading "Results" [level=1] [ref=f195e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f195e93]:
+                    - generic [aria-hidden] [ref=f195e97]: 
+                - button "Share" [ref=f195e101]:
+                  - generic [ref=f195e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f195e103]: 
+                    - generic [ref=f195e104]: Share
+              - article [ref=f195e106]:
+                - link "OnPoint Solar Panel Cleaning Clairemont" [ref=f195e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/OnPoint+Solar+Panel+Cleaning+Clairemont/data=!4m7!3m6!1s0x80deabc220660ebf:0xfbdb1d8f8398fee2!8m2!3d32.7869057!4d-117.1890607!16s%2Fg%2F11lz_z_gwd!19sChIJvw5mIMKr3oAR4v6Yg48d2_s?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: OnPoint Solar Panel Cleaning Clairemont
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 46 Reviews": 5.0(46)
+                            - generic:
+                              - generic:
+                                - generic: Solar panel maintenance service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f195e109] [cursor=pointer]:
+                                    - generic [ref=f195e110]: 
+                                - generic: · 2476 Cowley Way
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 489-2205
+                    - generic:
+                      - link "Visit OnPoint Solar Panel Cleaning Clairemont's website" [ref=f195e111] [cursor=pointer]:
+                        - /url: https://onpointsolarcleaning.com/solar-panel-cleaning-clairemont/
+                        - generic [aria-hidden] [ref=f195e113]: 
+                        - generic [ref=f195e114]: Website
+                      - button "Get directions to OnPoint Solar Panel Cleaning Clairemont" [ref=f195e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e117]: 
+                        - generic [ref=f195e118]: Directions
+              - article [ref=f195e121]:
+                - link "OnPoint Solar Panel Cleaning San Diego" [ref=f195e122] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/OnPoint+Solar+Panel+Cleaning+San+Diego/data=!4m7!3m6!1s0x80d95705718e7063:0xfdd10358b93e9f40!8m2!3d32.7552965!4d-117.0348895!16s%2Fg%2F11j336pxhy!19sChIJY3COcQVX2YARQJ8-uVgD0f0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: OnPoint Solar Panel Cleaning San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 371 Reviews": 5.0(371)
+                            - generic:
+                              - generic:
+                                - generic: Solar panel maintenance service
+                                - generic: "· 4241 Lowell St #103"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 780-7773
+                    - generic:
+                      - link "Visit OnPoint Solar Panel Cleaning San Diego's website" [ref=f195e124] [cursor=pointer]:
+                        - /url: https://onpointsolarcleaning.com/
+                        - generic [aria-hidden] [ref=f195e126]: 
+                        - generic [ref=f195e127]: Website
+                      - button "Get directions to OnPoint Solar Panel Cleaning San Diego" [ref=f195e128] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e130]: 
+                        - generic [ref=f195e131]: Directions
+              - article [ref=f195e134]:
+                - link "Shore Thing External Cleaning San Diego - Windows - Solar Panels - Turf - Gutters - Pressure and Soft Washing" [ref=f195e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Shore+Thing+External+Cleaning+San+Diego+-+Windows+-+Solar+Panels+-+Turf+-+Gutters+-+Pressure+and+Soft+Washing/data=!4m7!3m6!1s0x6111a4359eda06f7:0x5945fb344eefdd5!8m2!3d32.7176588!4d-117.1309504!16s%2Fg%2F11z1vzcpsg!19sChIJ9wbanjWkEWER1f3uRLNflAU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Shore Thing External Cleaning San Diego - Windows - Solar Panels - Turf - Gutters - Pressure and Soft Washing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 63 Reviews": 5.0(63)
+                            - generic:
+                              - generic:
+                                - generic: Window cleaning service
+                                - generic: · 2933 B St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 352-7067
+                    - generic:
+                      - link "Visit Shore Thing External Cleaning San Diego - Windows - Solar Panels - Turf - Gutters - Pressure and Soft Washing's website" [ref=f195e137] [cursor=pointer]:
+                        - /url: http://shorethingexternal.com/
+                        - generic [aria-hidden] [ref=f195e139]: 
+                        - generic [ref=f195e140]: Website
+                      - button "Get directions to Shore Thing External Cleaning San Diego - Windows - Solar Panels - Turf - Gutters - Pressure and Soft Washing" [ref=f195e141] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e143]: 
+                        - generic [ref=f195e144]: Directions
+              - article [ref=f195e147]:
+                - link "Shine Bright San Diego" [ref=f195e148] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Shine+Bright+San+Diego/data=!4m7!3m6!1s0x80dc001ff1d2160f:0x5c4715e30b9d652b!8m2!3d32.8181474!4d-117.2240472!16s%2Fg%2F11bbs_y_t4!19sChIJDxbS8R8A3IARK2WdC-MVR1w?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Shine Bright San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 860 Reviews": 4.9(860)
+                            - generic:
+                              - generic:
+                                - generic: Window cleaning service
+                                - generic: · 5111 Santa Fe St Unit B and C
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 789-4467
+                    - generic:
+                      - link "Visit Shine Bright San Diego's website" [ref=f195e150] [cursor=pointer]:
+                        - /url: http://www.shinebrightsd.com/?utm_source=gmb&utm_medium=organic&utm_campaign=SanDiego
+                        - generic [aria-hidden] [ref=f195e152]: 
+                        - generic [ref=f195e153]: Website
+                      - button "Get directions to Shine Bright San Diego" [ref=f195e154] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e156]: 
+                        - generic [ref=f195e157]: Directions
+              - article [ref=f195e160]:
+                - link "Solar Shine San Diego" [ref=f195e161] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Solar+Shine+San+Diego/data=!4m7!3m6!1s0x2a064cd42f84d7dd:0x8e7ad6cdc24811a5!8m2!3d32.7336016!4d-117.2404502!16s%2Fg%2F11vpzzw1bf!19sChIJ3deEL9RMBioRpRFIws3Weo4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Solar Shine San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 54 Reviews": 5.0(54)
+                            - generic:
+                              - generic:
+                                - generic: Solar energy company
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f195e163] [cursor=pointer]:
+                                    - generic [ref=f195e164]: 
+                                - generic: · 4017 Coronado Ave
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (619) 535-6263
+                    - generic:
+                      - link "Visit Solar Shine San Diego's website" [ref=f195e165] [cursor=pointer]:
+                        - /url: https://www.solarshinesd.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13910375095889983783
+                        - generic [aria-hidden] [ref=f195e167]: 
+                        - generic [ref=f195e168]: Website
+                      - button "Get directions to Solar Shine San Diego" [ref=f195e169] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e171]: 
+                        - generic [ref=f195e172]: Directions
+              - article [ref=f195e175]:
+                - link "Lookout Window Cleaners" [ref=f195e176] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Lookout+Window+Cleaners/data=!4m7!3m6!1s0x80d954e036204277:0x571d4da8f3995f46!8m2!3d32.7933232!4d-117.2402085!16s%2Fg%2F11c3k8wnv3!19sChIJd0IgNuBU2YARRl-Z86hNHVc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Lookout Window Cleaners
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 107 Reviews": 5.0(107)
+                            - generic:
+                              - generic:
+                                - generic: Gutter cleaning service
+                                - generic: · 4066 Promontory St
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 252-9279
+                    - generic:
+                      - link "Visit Lookout Window Cleaners's website" [ref=f195e178] [cursor=pointer]:
+                        - /url: https://lookoutwindowcleaners.com/
+                        - generic [aria-hidden] [ref=f195e180]: 
+                        - generic [ref=f195e181]: Website
+                      - button "Get directions to Lookout Window Cleaners" [ref=f195e182] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e184]: 
+                        - generic [ref=f195e185]: Directions
+              - article [ref=f195e188]:
+                - link "Restored Solar, Window & Pressure Washing" [ref=f195e189] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Restored+Solar,+Window+%26+Pressure+Washing/data=!4m7!3m6!1s0x2baa601696a626dd:0x66975acd987ba06c!8m2!3d33.0128119!4d-117.286085!16s%2Fg%2F11vwrf9_kv!19sChIJ3SamlhZgqisRbKB7mM1al2Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Restored Solar, Window & Pressure Washing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 44 Reviews": 5.0(44)
+                            - generic:
+                              - generic: Solar panel maintenance service
+                              - generic: Closed · Opens 7 AM Tue
+                    - generic:
+                      - link "Visit Restored Solar, Window & Pressure Washing's website" [ref=f195e191] [cursor=pointer]:
+                        - /url: http://restoredsolarclean.com/
+                        - generic [aria-hidden] [ref=f195e193]: 
+                        - generic [ref=f195e194]: Website
+                      - button "Get directions to Restored Solar, Window & Pressure Washing" [ref=f195e195] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e197]: 
+                        - generic [ref=f195e198]: Directions
+              - article [ref=f195e201]:
+                - link "Advanced Solar Cleaning" [ref=f195e202] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Advanced+Solar+Cleaning/data=!4m7!3m6!1s0x80dbe2780c055555:0xb3d3e95ec47c25ac!8m2!3d32.8387055!4d-116.9727246!16s%2Fg%2F11hbw3__hm!19sChIJVVUFDHji24ARrCV8xF7p07M?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Advanced Solar Cleaning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 60 Reviews": 4.9(60)
+                            - generic:
+                              - generic:
+                                - generic: Solar panel maintenance service
+                                - generic: · 10330 Mission Gorge Rd
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 655-2844
+                    - generic:
+                      - link "Visit Advanced Solar Cleaning's website" [ref=f195e204] [cursor=pointer]:
+                        - /url: http://www.advancedsolarcleaninginc.com/
+                        - generic [aria-hidden] [ref=f195e206]: 
+                        - generic [ref=f195e207]: Website
+                      - button "Get directions to Advanced Solar Cleaning" [ref=f195e208] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e210]: 
+                        - generic [ref=f195e211]: Directions
+              - article [ref=f195e214]:
+                - link "Saturn Solar Cleaning" [ref=f195e215] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Saturn+Solar+Cleaning/data=!4m7!3m6!1s0xa56cc3d5a71c081d:0x35a119430198da0!8m2!3d32.6048112!4d-117.0267899!16s%2Fg%2F11jzl04y8x!19sChIJHQgcp9XDbKURoI0ZMJQRWgM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Saturn Solar Cleaning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 164 Reviews": 5.0(164)
+                            - generic:
+                              - generic:
+                                - generic: Solar panel maintenance service
+                                - generic: · 626 Point Caiman Ct
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 663-8067
+                    - generic:
+                      - link "Visit Saturn Solar Cleaning's website" [ref=f195e217] [cursor=pointer]:
+                        - /url: http://www.saturnsolarcleaning.com/
+                        - generic [aria-hidden] [ref=f195e219]: 
+                        - generic [ref=f195e220]: Website
+                      - button "Get directions to Saturn Solar Cleaning" [ref=f195e221] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e223]: 
+                        - generic [ref=f195e224]: Directions
+              - article [ref=f195e227]:
+                - link "Commercial Cleaning of San Diego, Inc" [ref=f195e228] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Commercial+Cleaning+of+San+Diego,+Inc/data=!4m7!3m6!1s0x80dc01cd71b3017b:0x49344b29124621e0!8m2!3d32.7987102!4d-117.2427099!16s%2Fg%2F11fwzsvffh!19sChIJewGzcc0B3IAR4CFGEilLNEk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Commercial Cleaning of San Diego, Inc
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 113 Reviews": 5.0(113)
+                            - generic:
+                              - generic:
+                                - generic: Pressure washing service
+                                - generic: · 1478 Hornblend St
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (858) 224-0088
+                    - generic:
+                      - link "Visit Commercial Cleaning of San Diego, Inc's website" [ref=f195e230] [cursor=pointer]:
+                        - /url: https://www.commercialcleaningsd.com/?utm_source=Google-Business-Profile&utm_medium=GBP-Button&utm_campaign=GBP-Organic-SEO
+                        - generic [aria-hidden] [ref=f195e232]: 
+                        - generic [ref=f195e233]: Website
+                      - button "Get directions to Commercial Cleaning of San Diego, Inc" [ref=f195e234] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e236]: 
+                        - generic [ref=f195e237]: Directions
+              - article [ref=f195e240]:
+                - link "Restored Solar, Window & Pressure Washing" [ref=f195e241] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Restored+Solar,+Window+%26+Pressure+Washing/data=!4m7!3m6!1s0x80dc0152635c8069:0x5947b2445ca1bf55!8m2!3d32.8082272!4d-117.2012616!16s%2Fg%2F11ycs45r5p!19sChIJaYBcY1IB3IARVb-hXESyR1k?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Restored Solar, Window & Pressure Washing
+                            - generic: No reviews
+                            - generic:
+                              - generic:
+                                - generic: Window cleaning service
+                                - generic: · Vista De La Bahia
+                              - generic: (858) 298-4559
+                    - generic:
+                      - link "Visit Restored Solar, Window & Pressure Washing's website" [ref=f195e243] [cursor=pointer]:
+                        - /url: https://restoredsolarclean.com/
+                        - generic [aria-hidden] [ref=f195e245]: 
+                        - generic [ref=f195e246]: Website
+                      - button "Get directions to Restored Solar, Window & Pressure Washing" [ref=f195e247] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f195e249]: 
+                        - generic [ref=f195e250]: Directions
+              - generic [ref=f195e285]:
+                - generic [aria-hidden] [ref=f195e287]: 
+                - generic [ref=f195e288]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f195e289] [cursor=pointer]
+            - checkbox [ref=f195e292] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f195e294]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f195e296] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f195e297]: 
+    - generic [ref=f195e301]:
+      - button "Google apps" [ref=f195e305] [cursor=pointer]
+      - link "Sign in" [ref=f195e309] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fsolar%2Bpanel%2Bcleaning%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f195e312] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f195e314]: 
+        - generic [ref=f195e316] [cursor=pointer]:
+          - button "Zoom in" [ref=f195e317]:
+            - generic [aria-hidden] [ref=f195e319]: 
+          - button "Zoom out" [ref=f195e320]:
+            - generic [aria-hidden] [ref=f195e322]: 
+      - button "Browse Street View images" [ref=f195e328]
+      - generic [ref=f195e330]:
+        - generic "Interactive map" [ref=f195e331]
+        - generic [ref=f195e335] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f195e336]: 
+          - generic [ref=f195e337]: Layers
+        - button "Layers" [ref=f195e338] [cursor=pointer]
+    - generic [ref=f195e340]:
+      - contentinfo [ref=f195e343]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f195e344] [cursor=pointer]
+        - button "Terms" [ref=f195e345] [cursor=pointer]
+        - button "Privacy" [ref=f195e346] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f195e347] [cursor=pointer]
+      - button "10 mi" [ref=f195e349] [cursor=pointer]

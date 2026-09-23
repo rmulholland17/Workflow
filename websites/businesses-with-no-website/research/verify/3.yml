@@ -1,0 +1,64 @@
+- generic "Google Maps" [ref=f156e9]:
+  - generic [ref=f156e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f156e10]
+    - search [ref=f156e15]:
+      - generic [ref=f156e16]:
+        - combobox [ref=f156e18]: (760) 715-2640
+        - button "Search" [ref=f156e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f156e21]: 
+        - button "Close" [ref=f156e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f156e24]: 
+    - generic [ref=f156e25]:
+      - generic [ref=f156e26]:
+        - list [ref=f156e28]:
+          - listitem [ref=f156e29]:
+            - button "Menu" [ref=f156e30] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f156e32]: 
+          - listitem [ref=f156e33]:
+            - button "Saved" [ref=f156e34] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f156e36]: 
+          - listitem [ref=f156e39]:
+            - button "Recents" [disabled] [ref=f156e40]:
+              - generic [aria-hidden] [ref=f156e42]: 
+          - listitem [ref=f156e46]:
+            - button "Get app" [ref=f156e47] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f156e49]: 
+        - main [ref=f156e56]:
+          - generic [ref=f156e58]:
+            - generic [ref=f156e59]: Google Maps can't find (760) 715-2640
+            - generic [ref=f156e60]: Make sure your search is spelled correctly. Try adding a city, state, or zip code.
+            - link "Try Google Search instead" [active] [ref=f156e62] [cursor=pointer]:
+              - /url: /search?q=%28760%29+715-2640&hl=en&authuser=0
+            - generic [ref=f156e63]:
+              - generic [ref=f156e64]: Should this place be on Google Maps?
+              - button "Add a missing place" [ref=f156e65] [cursor=pointer]
+      - button "Collapse side panel" [ref=f156e67] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f156e68]: 
+    - generic [ref=f156e72]:
+      - button "Google apps" [ref=f156e76] [cursor=pointer]
+      - link "Sign in" [ref=f156e80] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F(760)%2B715-2640%2F%4032.7909376%2C-117.2340736%2C14z%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f156e83] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f156e85]: 
+        - generic [ref=f156e87] [cursor=pointer]:
+          - button "Zoom in" [ref=f156e88]:
+            - generic [aria-hidden] [ref=f156e90]: 
+          - button "Zoom out" [ref=f156e91]:
+            - generic [aria-hidden] [ref=f156e93]: 
+      - button "Browse Street View images" [ref=f156e99]
+      - generic [ref=f156e101]:
+        - generic "Interactive map" [ref=f156e102]
+        - generic [ref=f156e106] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f156e107]: 
+          - generic [ref=f156e108]: Layers
+        - button "Layers" [ref=f156e109] [cursor=pointer]
+    - generic [ref=f156e111]:
+      - contentinfo [ref=f156e114]:
+        - text: Map data ©2026 Google
+        - button "United States" [ref=f156e115] [cursor=pointer]
+        - button "Terms" [ref=f156e116] [cursor=pointer]
+        - button "Privacy" [ref=f156e117] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f156e118] [cursor=pointer]
+      - button "2000 ft" [ref=f156e120] [cursor=pointer]

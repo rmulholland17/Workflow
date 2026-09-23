@@ -1,0 +1,218 @@
+- generic "Google Maps" [ref=f192e9]:
+  - generic [ref=f192e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f192e10]
+    - search [ref=f192e15]:
+      - generic [ref=f192e16]:
+        - combobox [ref=f192e18]: LP Electric 4698 Alvarado Canyon Rd San Diego CA
+        - button "Search" [ref=f192e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f192e21]: 
+        - button "Close" [ref=f192e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f192e24]: 
+    - generic [ref=f192e25]:
+      - generic [ref=f192e26]:
+        - list [ref=f192e28]:
+          - listitem [ref=f192e29]:
+            - button "Menu" [ref=f192e30] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f192e32]: 
+          - listitem [ref=f192e33]:
+            - button "Saved" [ref=f192e34] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f192e36]: 
+          - listitem [ref=f192e39]:
+            - button "Recents" [disabled] [ref=f192e40]:
+              - generic [aria-hidden] [ref=f192e42]: 
+          - listitem [ref=f192e46]:
+            - button "Get app" [ref=f192e47] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f192e49]: 
+        - main [ref=f192e56]:
+          - generic [ref=f192e57]:
+            - feed "Results for LP Electric 4698 Alvarado Canyon Rd San Diego CA" [ref=f192e58]:
+              - article [ref=f192e60]:
+                - link "Bright Electric Services" [active] [ref=f192e61] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Bright+Electric+Services/data=!4m7!3m6!1s0x8c35e124e42d90a1:0xb8c47647fbb2b41e!8m2!3d32.958305!4d-117.09069!16s%2Fg%2F11z5yq8nv2!19sChIJoZAt5CThNYwRHrSy-0d2xLg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f192e63] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f192e64]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Bright Electric Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 37 Reviews": 5.0(37)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 11091 Morning Creek Drive North
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 299-5098
+                    - generic:
+                      - link "Visit Bright Electric Services's website" [ref=f192e65] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjn5tq7uoGXAxXjLEQIHXtOKUUYACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMI5-bau7qBlwMV4yxECB17TilFEBAYASAAEgIyj_D_BwE&cid=CAAS0wHkaB7F9j8J4riWoPprEP73tWhyedO8RjMiQTGsV8WDhDdNSOCCG6vs7fUpvrHVgqpxTCZdjKmvN76wMy7ZBzXSFYtrgEudinJU_Pwo3TQnfGQ96JAFu-TNp_b8daY3apcMudgZLIGqGsxmOEc6zgXaQmzaakWKzUdk9ze6M8M3YmTDxp49qdRIVAKajbvvn-UWYJnL99gh5aJhX61CNUpZxDLo_vLJ_61nMJHk4BFjm_el-DRmII1DTO49Ar3n2YC_9wKV3cCIuUrK7VNs6GhTTCBn&cce=2&category=acrcp_v1_32&sig=AOD64_0nq6ddaVKSRoVkBFys1Z_wX8aIcg&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f192e67]: 
+                        - generic [ref=f192e68]: Website
+                      - button "Get directions to Bright Electric Services" [ref=f192e69] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f192e71]: 
+                        - generic [ref=f192e72]: Directions
+                  - link "Ad · Your Electrician For Hire · Our Skilled Electricians Are Ready to Assist You with Any <b>Electrical</b> Job. · Visit Site · business.google.com/bright-electric" [ref=f192e77] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjn5tq7uoGXAxXjLEQIHXtOKUUYACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMI5-bau7qBlwMV4yxECB17TilFEBAYASAAEgIyj_D_BwE&cid=CAAS0wHkaB7F9j8J4riWoPprEP73tWhyedO8RjMiQTGsV8WDhDdNSOCCG6vs7fUpvrHVgqpxTCZdjKmvN76wMy7ZBzXSFYtrgEudinJU_Pwo3TQnfGQ96JAFu-TNp_b8daY3apcMudgZLIGqGsxmOEc6zgXaQmzaakWKzUdk9ze6M8M3YmTDxp49qdRIVAKajbvvn-UWYJnL99gh5aJhX61CNUpZxDLo_vLJ_61nMJHk4BFjm_el-DRmII1DTO49Ar3n2YC_9wKV3cCIuUrK7VNs6GhTTCBn&cce=2&category=acrcp_v1_32&sig=AOD64_0nq6ddaVKSRoVkBFys1Z_wX8aIcg&adurl=&rct=j&nis=5
+                    - generic [ref=f192e79]:
+                      - generic [ref=f192e80]:
+                        - generic [ref=f192e81]: Your Electrician For Hire
+                        - generic [ref=f192e82]: Our Skilled Electricians Are Ready to Assist You with Any Electrical Job.
+                      - generic [ref=f192e83]: Visit Site
+              - article [ref=f192e88]:
+                - link "Solid Electrical Services" [ref=f192e89] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Solid+Electrical+Services/data=!4m7!3m6!1s0xa88ccd0180065393:0x733a2f070c327cfa!8m2!3d32.834346!4d-116.963613!16s%2Fg%2F11s7_65684!19sChIJk1MGgAHNjKgR-nwyDAcvOnM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f192e91] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f192e92]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Solid Electrical Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 72 Reviews": 4.9(72)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 8733 Magnolia Avenue
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 626-3995
+                    - generic:
+                      - link "Visit Solid Electrical Services's website" [ref=f192e93] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjn5tq7uoGXAxXjLEQIHXtOKUUYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI5-bau7qBlwMV4yxECB17TilFEBAYAiAAEgLv0fD_BwE&cid=CAAS0wHkaB7F9j8J4riWoPprEP73tWhyedO8RjMiQTGsV8WDhDdNSOCCG6vs7fUpvrHVgqpxTCZdjKmvN76wMy7ZBzXSFYtrgEudinJU_Pwo3TQnfGQ96JAFu-TNp_b8daY3apcMudgZLIGqGsxmOEc6zgXaQmzaakWKzUdk9ze6M8M3YmTDxp49qdRIVAKajbvvn-UWYJnL99gh5aJhX61CNUpZxDLo_vLJ_61nMJHk4BFjm_el-DRmII1DTO49Ar3n2YC_9wKV3cCIuUrK7VNs6GhTTCBn&cce=2&category=acrcp_v1_32&sig=AOD64_3rCjQ67zvuTQlNcZM1_b0CLWGtBQ&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f192e95]: 
+                        - generic [ref=f192e96]: Website
+                      - button "Get directions to Solid Electrical Services" [ref=f192e97] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f192e99]: 
+                        - generic [ref=f192e100]: Directions
+                  - link "Ad · Electrical Panel Service · <b>Electrical</b> problems don&#39;t wait. We offer emergency services to get you back on track fast. · Visit Site · solidelectricalsd.com" [ref=f192e105] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjn5tq7uoGXAxXjLEQIHXtOKUUYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI5-bau7qBlwMV4yxECB17TilFEBAYAiAAEgLv0fD_BwE&cid=CAAS0wHkaB7F9j8J4riWoPprEP73tWhyedO8RjMiQTGsV8WDhDdNSOCCG6vs7fUpvrHVgqpxTCZdjKmvN76wMy7ZBzXSFYtrgEudinJU_Pwo3TQnfGQ96JAFu-TNp_b8daY3apcMudgZLIGqGsxmOEc6zgXaQmzaakWKzUdk9ze6M8M3YmTDxp49qdRIVAKajbvvn-UWYJnL99gh5aJhX61CNUpZxDLo_vLJ_61nMJHk4BFjm_el-DRmII1DTO49Ar3n2YC_9wKV3cCIuUrK7VNs6GhTTCBn&cce=2&category=acrcp_v1_32&sig=AOD64_3rCjQ67zvuTQlNcZM1_b0CLWGtBQ&adurl=&rct=j&nis=5
+                    - generic [ref=f192e107]:
+                      - generic [ref=f192e108]:
+                        - generic [ref=f192e109]: Electrical Panel Service
+                        - generic [ref=f192e110]: Electrical problems don't wait. We offer emergency services to get you back on track fast.
+                      - generic [ref=f192e111]: Visit Site
+              - article [ref=f192e116]:
+                - link "Point Loma Electric, Plumbing, Heating & Air" [ref=f192e117] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Point+Loma+Electric,+Plumbing,+Heating+%26+Air/data=!4m7!3m6!1s0x80deaaeace53f4f5:0xe64fbf825b30e8fa!8m2!3d32.827698!4d-117.1219674!16s%2Fg%2F1thd2368!19sChIJ9fRTzuqq3oAR-ugwW4K_T-Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Point Loma Electric, Plumbing, Heating & Air
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 1,674 Reviews": 4.9(1,674)
+                            - generic:
+                              - generic:
+                                - generic: Electrical installation service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f192e119] [cursor=pointer]:
+                                    - generic [ref=f192e120]: 
+                                - generic: "· 4990 Viewridge Ave #100"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 738-3101
+                    - generic:
+                      - link "Visit Point Loma Electric, Plumbing, Heating & Air's website" [ref=f192e121] [cursor=pointer]:
+                        - /url: http://pointlomahomepros.com/
+                        - generic [aria-hidden] [ref=f192e123]: 
+                        - generic [ref=f192e124]: Website
+                      - button "Get directions to Point Loma Electric, Plumbing, Heating & Air" [ref=f192e125] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f192e127]: 
+                        - generic [ref=f192e128]: Directions
+                  - link [ref=f192e129] [cursor=pointer]:
+                    - /url: https://www.google.com/maps/reserve/appt/place/ChIJ9fRTzuqq3oAR-ugwW4K_T-Y/mid/%2Fg%2F1thd2368?sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26hl%3Den%26gl%3Dus%26q%3DLP%2BElectric%2B4698%2BAlvarado%2BCanyon%2BRd%2BSan%2BDiego%2BCA%26pb%3D!1sLP%2BElectric%2B4698%2BAlvarado%2BCanyon%2BRd%2BSan%2BDiego%2BCA!7i20!10b1!12m60!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m33!32i1!49b1!63m0!66b1!85b1!114b1!149b1!206b1!209b1!212b1!215b1!216b1!222b1!223b1!232b1!234b1!235b1!239b1!246b1!253b1!260b1!262b1!266b1!270b1!271b1!273b1!277b1!280b1!281b1!291m0!294b1!302i300!303i100!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m5!1sRxKyaqSYO-aikPIP_NrU4Ak!7e81!14m1!3sRxKyaqSYO-aikPIP_NrU4Ak!15i9937!24m107!1m25!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m14!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!90m2!1m1!1e2!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!128m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i768!1m6!1m2!1i974!2i0!2m2!1i1024!2i768!1m6!1m2!1i0!2i0!2m2!1i1024!2i20!1m6!1m2!1i0!2i748!2m2!1i1024!2i768!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i796!77b1
+                    - generic [ref=f192e130]:
+                      - generic [aria-hidden] [ref=f192e131]: 
+                      - text: Book online
+              - article [ref=f192e134]:
+                - link "APL ELECTRICAL INC" [ref=f192e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/APL+ELECTRICAL+INC/data=!4m7!3m6!1s0x80dbf9eb5e3eaef7:0x9d6ce3c2359b0a28!8m2!3d32.9211392!4d-117.0843856!16s%2Fg%2F11zkxkn2m0!19sChIJ964-Xuv524ARKAqbNcLjbJ0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: APL ELECTRICAL INC
+                            - generic: No reviews
+                            - generic:
+                              - generic:
+                                - generic: Electrical supply store
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f192e137] [cursor=pointer]:
+                                    - generic [ref=f192e138]: 
+                                - generic: · 10821 Sunset Ridge Dr
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 567-5875
+                    - generic:
+                      - link "Visit APL ELECTRICAL INC's website" [ref=f192e139] [cursor=pointer]:
+                        - /url: http://electricityhouses.site/
+                        - generic [aria-hidden] [ref=f192e141]: 
+                        - generic [ref=f192e142]: Website
+                      - button "Get directions to APL ELECTRICAL INC" [ref=f192e143] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f192e145]: 
+                        - generic [ref=f192e146]: Directions
+              - paragraph [ref=f192e149]:
+                - generic [ref=f192e150]: You've reached the end of the list.
+              - generic [ref=f192e153]:
+                - generic [aria-hidden] [ref=f192e155]: 
+                - generic [ref=f192e156]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f192e157] [cursor=pointer]
+            - checkbox [ref=f192e160] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f192e162]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f192e164] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f192e165]: 
+    - generic [ref=f192e169]:
+      - button "Google apps" [ref=f192e173] [cursor=pointer]
+      - link "Sign in" [ref=f192e177] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2FLP%2BElectric%2B4698%2BAlvarado%2BCanyon%2BRd%2BSan%2BDiego%2BCA%2F%4032.8744186%2C-117.1031765%2C13z%2Fdata%3D!3m1!4b1%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f192e180] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f192e182]: 
+        - generic [ref=f192e184] [cursor=pointer]:
+          - button "Zoom in" [ref=f192e185]:
+            - generic [aria-hidden] [ref=f192e187]: 
+          - button "Zoom out" [ref=f192e188]:
+            - generic [aria-hidden] [ref=f192e190]: 
+      - button "Browse Street View images" [ref=f192e196]
+      - generic [ref=f192e198]:
+        - generic "Interactive map" [ref=f192e199]
+        - generic [ref=f192e203] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f192e204]: 
+          - generic [ref=f192e205]: Layers
+        - button "Layers" [ref=f192e206] [cursor=pointer]
+    - generic [ref=f192e208]:
+      - contentinfo [ref=f192e211]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f192e212] [cursor=pointer]
+        - button "Terms" [ref=f192e213] [cursor=pointer]
+        - button "Privacy" [ref=f192e214] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f192e215] [cursor=pointer]
+      - button "1 mi" [ref=f192e217] [cursor=pointer]

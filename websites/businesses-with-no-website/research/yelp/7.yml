@@ -1,0 +1,278 @@
+- generic [active] [ref=f137e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f137e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f137e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f137e8]:
+    - search [ref=f137e9]:
+      - generic [ref=f137e11]:
+        - link "Go to Google Home" [ref=f137e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQPHoECAYQBA
+        - generic [ref=f137e21]:
+          - generic [ref=f137e22]:
+            - combobox "Search" [ref=f137e25]: site:yelp.com/biz "Handymen Plus" San Diego site:yelp.com/biz "Handymen Plus" San Diego
+            - generic [ref=f137e26]:
+              - button "Clear" [ref=f137e28] [cursor=pointer]
+              - generic [ref=f137e33]:
+                - button "Search by voice" [ref=f137e34] [cursor=pointer]
+                - button "Search by image" [ref=f137e37] [cursor=pointer]
+          - button "Search" [ref=f137e40] [cursor=pointer]
+    - generic [ref=f137e45]:
+      - button "Settings" [ref=f137e47] [cursor=pointer]
+      - button "Share" [ref=f137e52] [cursor=pointer]
+      - generic [ref=f137e58]:
+        - button "Google apps" [ref=f137e60] [cursor=pointer]
+        - link "Sign in" [ref=f137e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:yelp.com/biz%2B%2522Handymen%2BPlus%2522%2BSan%2BDiego&ec=futura_srp_og_si_72236_p
+  - generic [ref=f137e68]:
+    - navigation [ref=f137e74]:
+      - generic [ref=f137e80]:
+        - list [ref=f137e81]:
+          - listitem [ref=f137e82]:
+            - link "AI Mode" [ref=f137e85] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ2J8OegQIEhAD
+          - listitem [ref=f137e89]:
+            - link "All" [disabled] [ref=f137e90]
+          - listitem [ref=f137e93]:
+            - link "Images" [ref=f137e94] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+Handymen+Plus+San+Diego&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQtKgLegQIGBAB
+          - listitem [ref=f137e97]:
+            - link "Videos" [ref=f137e98] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+Handymen+Plus+San+Diego&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQtKgLegQIFxAB
+          - listitem [ref=f137e101]:
+            - link "Forums" [ref=f137e102] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+Handymen+Plus+San+Diego&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQs6gLegQIFhAB
+          - listitem [ref=f137e105]:
+            - link "Shopping" [ref=f137e106] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+Handymen+Plus+San+Diego&ved=1t:220175&ictx=111
+          - listitem [ref=f137e109]:
+            - link "Short videos" [ref=f137e110] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+Handymen+Plus+San+Diego&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQs6gLegQIFBAB
+          - listitem [ref=f137e113]:
+            - button [ref=f137e114] [cursor=pointer]:
+              - generic "More filters" [ref=f137e115]: More
+        - button "Tools" [ref=f137e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f137e129]
+    - main [ref=f137e135]:
+      - generic [ref=f137e136]:
+        - generic [ref=f137e140]:
+          - heading "No results found for site:yelp.com/biz \"Handymen Plus\" San Diego." [level=2] [ref=f137e141]
+          - text: Results for
+          - link "site:yelp.com/biz Handymen Plus San Diego" [ref=f137e142] [cursor=pointer]:
+            - /url: /search?sca_esv=5e5febaa67db9c78&q=site:yelp.com/biz+Handymen+Plus+San+Diego&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQgwN6BAgREAE
+          - text: "(without quotes):"
+        - generic [ref=f137e145]:
+          - generic [ref=f137e148]:
+            - heading "Web results" [level=2] [ref=f137e149]
+            - generic [ref=f137e150]:
+              - generic [ref=f137e153]:
+                - link "THE SAN DIEGO HANDYMAN - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f137e155] [cursor=pointer]:
+                  - /url: /goto?url=CAEScgHrOzAVl8ryCMJZyDnRqQDp0xagkalYf54pgfVquY8Myk0xk6wxGy9cxZtNE3Jkxh1o_JCjw-ouYZmdNppaYuQ7EuvDOpISIZurQcpLnj13WUeo1irjwkx4T7IsGqGjSHahcm50AECSe0oLvM9IjkMAxg
+                  - heading "THE SAN DIEGO HANDYMAN - Updated September 2026" [level=3] [ref=f137e156]
+                  - generic [ref=f137e162]:
+                    - generic [ref=f137e163]: Yelp
+                    - generic [ref=f137e165]: https://www.yelp.com › ... › Home Services › Handyman
+                - button "About this result" [ref=f137e171] [cursor=pointer]
+              - generic [ref=f137e178]:
+                - text: THE SAN DIEGO HANDYMAN, La Jolla, CA 92037, 85 Photos, (
+                - emphasis [ref=f137e179]: 845) 242-3038
+                - text: ", Mon - 7:00 am - 8:00 pm, Tue - 7:00 am - 8:00 pm, Wed - 7:00 am - 8:00 pm, ..."
+              - img "Rated 5.0 out of 5, (63) user reviews" [ref=f137e184]: 5.0(63)
+          - generic [ref=f137e191]:
+            - generic [ref=f137e194]:
+              - link "THE HANDYMAN - Updated September 2026 Yelp https://www.yelp.com › ... › Handyman › The Handyman" [ref=f137e196] [cursor=pointer]:
+                - /url: /goto?url=CAESjgEB6zswFZKHxDdxpZgFED_-ovcGa4HBW9n1z702Vs_9E5AwiK_8i0g3Ythj7jHXKcTDslEPFnACwOQDSe25PvQt8DF88PraNov3pTUwMt2OQeaVbmQogRpXFPtzU08EGnx1ChE8PgPN079cO9des9gnsIVLDxmDsPluWEEVwFywh4juZ0ZyA_1i_SE90m3K
+                - heading "THE HANDYMAN - Updated September 2026" [level=3] [ref=f137e197]
+                - generic [ref=f137e203]:
+                  - generic [ref=f137e204]: Yelp
+                  - generic [ref=f137e206]: https://www.yelp.com › ... › Handyman › The Handyman
+              - button "About this result" [ref=f137e212] [cursor=pointer]
+            - generic [ref=f137e219]:
+              - text: THE HANDYMAN, San Diego, CA 92104, 46 Photos, (
+              - emphasis [ref=f137e220]: 619) 564-1225
+              - text: ", Mon - 8:00 am - 4:00 pm, Tue - 8:00 am - 4:00 pm, Wed - 8:00 am - 4:00 pm, ..."
+            - img "Rated 4.9 out of 5, (446) user reviews" [ref=f137e225]: 4.9(446)
+          - generic [ref=f137e232]:
+            - generic [ref=f137e235]:
+              - link "SD HANDYMAN SERVICES - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f137e237] [cursor=pointer]:
+                - /url: /goto?url=CAEScQHrOzAVvUYp-9vDsWtV0zZE2LgRMWxrcfulmGOE7j5l8vtPmNMg-h35av7nDJ7sIpJ_DNb7A2OfT-0sHpz7he96acaxzvJYcsl61royQ4p7-fTIYxOfzzFTz64uCxTCE1nWEtzpej_6ViYQbudt-FOX
+                - heading "SD HANDYMAN SERVICES - Updated September 2026" [level=3] [ref=f137e238]
+                - generic [ref=f137e244]:
+                  - generic [ref=f137e245]: Yelp
+                  - generic [ref=f137e247]: https://www.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f137e253] [cursor=pointer]
+            - generic [ref=f137e260]:
+              - text: SD HANDYMAN SERVICES, San Diego, CA 92128, 73 Photos, (
+              - emphasis [ref=f137e261]: 858) 480-6485
+              - text: ", Mon - 8:00 am - 6:00 pm, Tue - 8:00 am - 6:00 pm, Window Replacement Furniture Assembly. ..."
+            - img "Rated 5.0 out of 5, (3) user reviews" [ref=f137e266]: 5.0(3)
+          - generic [ref=f137e273]:
+            - generic [ref=f137e276]:
+              - link "A HELPFUL HANDYMAN - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f137e278] [cursor=pointer]:
+                - /url: /goto?url=CAESbwHrOzAV8YZzbFyrmnzWGauEg0BInOc1Wx9pv9K9n1sKhVusR77Uz6CEWTigvQdOUq9lBVSFLckZtMcXPgvboOd3InFC0QlFxQjrMrrOZBrApdWT9Ki8dmP1mteYgn2e8xDgGqr7ebM8ZDpWtvI2kg
+                - heading "A HELPFUL HANDYMAN - Updated September 2026" [level=3] [ref=f137e279]
+                - generic [ref=f137e285]:
+                  - generic [ref=f137e286]: Yelp
+                  - generic [ref=f137e288]: https://www.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f137e294] [cursor=pointer]
+            - generic [ref=f137e301]:
+              - text: A HELPFUL HANDYMAN, Chula Vista, CA 91910, 79 Photos, (
+              - emphasis [ref=f137e302]: 858) 432-9340
+              - text: ", Mon - 7:30 am - 6:00 pm, Tue - 7:30 am - 6:00 pm, Wed - 7:30 am - 6:00 pm, reliable, and ..."
+            - img "Rated 5.0 out of 5, (22) user reviews" [ref=f137e307]: 5.0(22)
+          - generic [ref=f137e314]:
+            - generic [ref=f137e317]:
+              - link "A PLUS HOME IMPROVEMENT - Updated August 2026 Yelp https://m.yelp.com › ... › Home Services › Handyman" [ref=f137e319] [cursor=pointer]:
+                - /url: /goto?url=CAEScgHrOzAVoYS-cSQwiiO0cLWKBgkB6Yn7hGsV5y6FGiF82DcIdcNtQS2bwkryM04LAs_z0E-UeEg6_n4FB5ypZMzrCp-gv0kK2hbuZSpi3xe7AgISEcizaxjGbWAceUVQnra0xrqLAEpcd-r-9pNdrQIzzA
+                - heading "A PLUS HOME IMPROVEMENT - Updated August 2026" [level=3] [ref=f137e320]
+                - generic [ref=f137e326]:
+                  - generic [ref=f137e327]: Yelp
+                  - generic [ref=f137e329]: https://m.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f137e335] [cursor=pointer]
+            - generic [ref=f137e342]:
+              - text: More info about A
+              - emphasis [ref=f137e343]: Plus
+              - text: Home Improvement. Map.
+              - emphasis [ref=f137e344]: San Diego
+              - text: ", CA 92117. Clairemont. Directions. (619) 246-8929. Call Now. Verify this business for free. People ..."
+          - generic [ref=f137e348]:
+            - generic [ref=f137e351]:
+              - link "OG HANDYMAN SERVICE - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f137e353] [cursor=pointer]:
+                - /url: /goto?url=CAEScAHrOzAVwfSt0oc-rfnXv5AGTRVuK5UNB84y8h1Mcb9LZFntd7qKh6JKwW9fFLeA7_kOaAuIsUMD5F8CU9F63kc8_PG9m4cydvVMOyfdLNobdJwOCOHW0jdldt3Qm3COZu2Vmd7ozXlP4n6oQTQ3pr0
+                - heading "OG HANDYMAN SERVICE - Updated September 2026" [level=3] [ref=f137e354]
+                - generic [ref=f137e360]:
+                  - generic [ref=f137e361]: Yelp
+                  - generic [ref=f137e363]: https://www.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f137e369] [cursor=pointer]
+            - generic [ref=f137e376]:
+              - text: OG
+              - emphasis [ref=f137e377]: HANDYMAN
+              - text: SERVICE,
+              - emphasis [ref=f137e378]: San Diego
+              - text: ", CA 92117, 272 Photos, (808) 777-0362, Mon - Open 24 hours, Tue - Open 24 hours, Wed - Open 24 hours, Thu - Open 24 hours, ..."
+            - img "Rated 4.8 out of 5, (207) user reviews" [ref=f137e383]: 4.8(207)
+          - generic [ref=f137e390]:
+            - generic [ref=f137e393]:
+              - link "ELITE HANDYMAN SERVICE - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f137e395] [cursor=pointer]:
+                - /url: /goto?url=CAEScQHrOzAVBlwtSdXTW5kje-tgDVCyh5zEMWnS4S4DiCHovkaq7G4PemGVE20wJRuUKBaRVXTKUQXOAipflWEhyDsaXkEvNoUf2-yMIjGNZF4M7egFnlPlcMFG2gCBhClFg1YsJ7oZVmeevSq_7-BwLijI
+                - heading "ELITE HANDYMAN SERVICE - Updated September 2026" [level=3] [ref=f137e396]
+                - generic [ref=f137e402]:
+                  - generic [ref=f137e403]: Yelp
+                  - generic [ref=f137e405]: https://www.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f137e411] [cursor=pointer]
+            - generic [ref=f137e418]:
+              - text: ELITE HANDYMAN SERVICE, San Diego, CA 92111, 59 Photos, (
+              - emphasis [ref=f137e419]: 860) 961-3467
+              - text: ", Mon - 8:00 am - 4:00 pm, Tue - 8:00 am - 4:00 pm, tackle any kind of home repair. Visit ..."
+            - img "Rated 5.0 out of 5, (27) user reviews" [ref=f137e424]: 5.0(27)
+          - generic [ref=f137e431]:
+            - generic [ref=f137e434]:
+              - link "North San Diego Handyman Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f137e436] [cursor=pointer]:
+                - /url: /goto?url=CAESdQHrOzAV6XIxUkN8w0nxONcuTIN31UqFC2qXWaNp4otrFO5-WoC1aXyxJGI7hUiAVrgpE3RoEldHAD5fJ1zB0TzrfVkxOSEbx-ewVMmicEG94G8M77J2raCzFUvIIv09DdvwQ_h5kswisByIrK_mSMm2JY1hRw
+                - heading "North San Diego Handyman" [level=3] [ref=f137e437]
+                - generic [ref=f137e443]:
+                  - generic [ref=f137e444]: Yelp
+                  - generic [ref=f137e446]: https://www.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f137e452] [cursor=pointer]
+            - generic [ref=f137e459]:
+              - text: HANDYMAN,
+              - emphasis [ref=f137e460]: 3830 Front St, Ste 3, San Diego, CA 92103
+              - text: ", 133 Photos, (760) 636-9685, Mon - Open 24 hours, Tue - Open 24 hours, Wed. Painting, kitchen, closets, ..."
+            - img "Rated 4.4 out of 5, (43) user reviews" [ref=f137e465]: 4.4(43)
+          - generic [ref=f137e472]:
+            - generic [ref=f137e475]:
+              - link "D&A handymen - Handyman Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f137e477] [cursor=pointer]:
+                - /url: /goto?url=CAESbQHrOzAVIPjwHvM5x7nr4_YtR5BYCWeORMRtIDgzyDqsGtmdQHjDVqrOxGmV0YTwcj1CGStgXhe77zjWCW7aIswNabEMiJg0F2jLO2l9wzATgjBBxwf_72uvzeAHbx42r1xoBDb5muK5PSpW5gU
+                - heading "D&A handymen - Handyman" [level=3] [ref=f137e478]
+                - generic [ref=f137e484]:
+                  - generic [ref=f137e485]: Yelp
+                  - generic [ref=f137e487]: https://www.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f137e493] [cursor=pointer]
+            - generic [ref=f137e500]:
+              - text: D&A HANDYMEN - Explore Popular Services -
+              - emphasis [ref=f137e501]: 4695 Torrey Cir, San Diego , CA 92130
+              - text: ", 67 Photos, +16197392085, Mon - 7:30 AM - 8:00 PM, Tue - 7:30 AM - 8:00 PM, ..."
+            - img "Rated 5.0 out of 5, (39) user reviews" [ref=f137e506]: 5.0(39)
+          - generic [ref=f137e513]:
+            - generic [ref=f137e516]:
+              - link "Mr. Handyman of Inland San Diego Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f137e518] [cursor=pointer]:
+                - /url: /goto?url=CAESeAHrOzAVGZyYtAPRvyOiXyfuPkCJQuwukwkzDMBQz6B6HMo8_0C0VWUFss2B0yW0Kxsp2LLwR3-IIbKd655GqNTMwiQEzuccgTW0ju4CGujK2l9P2xyqV9C7fgqJk1LrwzqhLkZgADa_qftndlBkm5FjJZXWRxQujw
+                - heading "Mr. Handyman of Inland San Diego" [level=3] [ref=f137e519]
+                - generic [ref=f137e525]:
+                  - generic [ref=f137e526]: Yelp
+                  - generic [ref=f137e528]: https://www.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f137e534] [cursor=pointer]
+            - generic [ref=f137e541]:
+              - text: MR. HANDYMAN OF INLAND SAN DIEGO, La Mesa, CA 91941, 53 Photos, (
+              - emphasis [ref=f137e542]: 619) 345-5884
+              - text: ", Mon - Open 24 hours, Tue - Open 24 hours, Wed - Open 24 hours, Thu - Open 24 ..."
+            - img "Rated 4.7 out of 5, (96) user reviews" [ref=f137e547]: 4.7(96)
+      - generic [ref=f137e552]:
+        - generic [ref=f137e557]:
+          - heading "People also search for" [level=2] [ref=f137e559]
+          - generic [ref=f137e561]:
+            - generic [ref=f137e562]:
+              - link "Handymen plus san diego reviews" [ref=f137e566] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Handymen+plus+san+diego+reviews&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ1QJ6BAhDEAE
+              - link "Handymen plus san diego phone number" [ref=f137e580] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Handymen+plus+san+diego+phone+number&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ1QJ6BAhGEAE
+            - generic [ref=f137e591]:
+              - link "Handymen plus san diego services" [ref=f137e595] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Handymen+plus+san+diego+services&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ1QJ6BAhFEAE
+              - link "Handymen plus san diego jobs" [ref=f137e609] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Handymen+plus+san+diego+jobs&sa=X&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ1QJ6BAhEEAE
+        - navigation [ref=f137e620]:
+          - heading "Page Navigation" [level=1] [ref=f137e621]
+          - text: "1"
+          - link "Page 2" [ref=f137e624] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=10&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8tMDegQIQRAE
+            - text: "2"
+          - link "Page 3" [ref=f137e626] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=20&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8tMDegQIQRAG
+            - text: "3"
+          - link "Page 4" [ref=f137e628] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=30&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8tMDegQIQRAI
+            - text: "4"
+          - link "Page 5" [ref=f137e630] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=40&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8tMDegQIQRAK
+            - text: "5"
+          - link "Page 6" [ref=f137e632] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=50&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8tMDegQIQRAM
+            - text: "6"
+          - link "Page 7" [ref=f137e634] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=60&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8tMDegQIQRAO
+            - text: "7"
+          - link "Page 8" [ref=f137e636] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=70&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8tMDegQIQRAQ
+            - text: "8"
+          - link "Page 9" [ref=f137e638] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=80&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8tMDegQIQRAS
+            - text: "9"
+          - link "Page 10" [ref=f137e640] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=90&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8tMDegQIQRAU
+            - text: "10"
+          - heading [level=2] [ref=f137e642]:
+            - link "Next" [ref=f137e643] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+Handymen+Plus+San+Diego&sca_esv=5e5febaa67db9c78&ei=ARGyauaJIfvV1sQPxtXjgAQ&start=10&sa=N&sstk=AS6-VmJe1oNtvOpHWzIdK8rVDdHl7vWBywzdTBweLs6WbUejHaMwSlelfoLfWGBTNnshqcYnCQRR4p-FSslkqyj0jpIU7PMY6x_Gow&ved=2ahUKEwimjvefuYGXAxX7qpUCHcbqGEAQ8NMDegQIQRAW
+      - navigation
+    - contentinfo [ref=f137e646]:
+      - heading "Footer Links" [level=1] [ref=f137e647]
+      - generic [ref=f137e651]:
+        - generic [ref=f137e655]:
+          - button "Pacific Beach, San Diego, CA - From your IP address" [ref=f137e657] [cursor=pointer]:
+            - generic [ref=f137e658]: Pacific Beach, San Diego, CA
+            - generic [ref=f137e660]:
+              - text: "-"
+              - generic [ref=f137e661]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f137e663] [cursor=pointer]
+        - generic [ref=f137e666]:
+          - link "Help" [ref=f137e667] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=f137e668] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f137e669] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f137e670] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

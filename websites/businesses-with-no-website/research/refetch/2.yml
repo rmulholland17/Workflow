@@ -1,0 +1,331 @@
+- generic "Google Maps" [ref=f214e9]:
+  - generic [ref=f214e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f214e10]
+    - search [ref=f214e15]:
+      - generic [ref=f214e16]:
+        - combobox [ref=f214e18]: Pacific Beach Electric
+        - button "Search" [ref=f214e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f214e21]: 
+        - button "Close" [ref=f214e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f214e24]: 
+    - region "Available search options for this area" [ref=f214e31]:
+      - generic [ref=f214e34]:
+        - button "Restaurants" [ref=f214e36] [cursor=pointer]:
+          - generic [ref=f214e37]:
+            - generic [aria-hidden] [ref=f214e39]: 
+            - generic [ref=f214e40]: Restaurants
+        - button "Hotels" [ref=f214e42] [cursor=pointer]:
+          - generic [ref=f214e43]:
+            - generic [aria-hidden] [ref=f214e45]: 
+            - generic [ref=f214e46]: Hotels
+        - button "Things to do" [ref=f214e48] [cursor=pointer]:
+          - generic [ref=f214e49]:
+            - generic [aria-hidden] [ref=f214e51]: 
+            - generic [ref=f214e52]: Things to do
+        - button "Transit" [ref=f214e54] [cursor=pointer]:
+          - generic [ref=f214e55]:
+            - generic [aria-hidden] [ref=f214e57]: 
+            - generic [ref=f214e58]: Transit
+        - button "Parking" [ref=f214e60] [cursor=pointer]:
+          - generic [ref=f214e61]:
+            - generic [aria-hidden] [ref=f214e63]: 
+            - generic [ref=f214e64]: Parking
+        - button "Pharmacies" [ref=f214e66] [cursor=pointer]:
+          - generic [ref=f214e67]:
+            - generic [aria-hidden] [ref=f214e69]: 
+            - generic [ref=f214e70]: Pharmacies
+        - button "ATMs" [ref=f214e72] [cursor=pointer]:
+          - generic [ref=f214e73]:
+            - generic [aria-hidden] [ref=f214e75]: 
+            - generic [ref=f214e76]: ATMs
+      - button "Next page" [ref=f214e77] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f214e78]: 
+    - generic [ref=f214e79]:
+      - generic [ref=f214e80]:
+        - list [ref=f214e82]:
+          - listitem [ref=f214e83]:
+            - button "Menu" [ref=f214e84] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f214e86]: 
+          - listitem [ref=f214e87]:
+            - button "Saved" [ref=f214e88] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f214e90]: 
+          - listitem [ref=f214e93]:
+            - button "Recents" [ref=f214e94] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f214e96]: 
+          - listitem [ref=f214e100]:
+            - button "Pacific Beach Electric" [ref=f214e101] [cursor=pointer]
+          - listitem [ref=f214e109]:
+            - button "Get app" [ref=f214e110] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f214e112]: 
+        - main "Pacific Beach Electric" [ref=f214e119]:
+          - generic [ref=f214e120]:
+            - button "Photo of Pacific Beach Electric" [active] [ref=f214e123] [cursor=pointer]
+            - generic [ref=f214e127]:
+              - heading "Pacific Beach Electric" [level=1] [ref=f214e129]
+              - generic [ref=f214e131]:
+                - generic [ref=f214e133]:
+                  - generic [ref=f214e134]:
+                    - text: "5.0"
+                    - img "5.0 stars" [ref=f214e135]
+                  - img "18 reviews" [ref=f214e143]: (18)
+                - button "Electrician" [ref=f214e147]
+            - tablist [ref=f214e150]:
+              - tab "Overview of Pacific Beach Electric" [selected] [ref=f214e151]:
+                - generic [aria-hidden] [ref=f214e153]: Overview
+              - tab "Reviews for Pacific Beach Electric" [ref=f214e155]:
+                - generic [aria-hidden] [ref=f214e157]: Reviews
+            - region "Actions for Pacific Beach Electric" [ref=f214e159]:
+              - button "Directions" [ref=f214e161] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f214e163]: 
+              - button "Save" [ref=f214e166] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f214e168]: 
+              - button "Nearby" [ref=f214e171] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f214e173]: 
+              - button "Send to phone" [ref=f214e176] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f214e178]: 
+              - button "Share" [ref=f214e181] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f214e183]: 
+            - region "Information for Pacific Beach Electric" [ref=f214e187]:
+              - generic [ref=f214e188]:
+                - 'button "Address: 1252 Missouri St #2661, San Diego, CA 92109" [ref=f214e189] [cursor=pointer]':
+                  - generic [ref=f214e190]:
+                    - generic [aria-hidden] [ref=f214e192]: 
+                    - generic [ref=f214e193]: "1252 Missouri St #2661, San Diego, CA 92109"
+                - button "Copy address" [ref=f214e197] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f214e199]: 
+              - button "Hours Closed · Opens 7 AM Tue Show open hours for the week" [ref=f214e201] [cursor=pointer]:
+                - img "Hours" [ref=f214e202]: 
+                - generic [ref=f214e204]:
+                  - generic [ref=f214e205]: Closed · Opens 7 AM Tue
+                  - img "Show open hours for the week" [ref=f214e207]: 
+              - generic [ref=f214e208]:
+                - 'button "Phone: (858) 483-9201" [ref=f214e209] [cursor=pointer]':
+                  - generic [ref=f214e210]:
+                    - generic [aria-hidden] [ref=f214e212]: 
+                    - generic [ref=f214e213]: (858) 483-9201
+                - generic [ref=f214e215]:
+                  - button "Copy phone number" [ref=f214e217] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f214e219]: 
+                  - link "Call phone number" [ref=f214e221] [cursor=pointer]:
+                    - /url: tel:+18584839201
+                    - generic [aria-hidden] [ref=f214e223]: 
+              - generic [ref=f214e224]:
+                - 'button "Plus code: RQ22+XM San Diego, California" [ref=f214e225] [cursor=pointer]':
+                  - generic [ref=f214e226]:
+                    - generic [aria-hidden] [ref=f214e228]: 
+                    - generic [ref=f214e229]: RQ22+XM San Diego, California
+                - generic [ref=f214e231]:
+                  - button "Copy plus code" [ref=f214e233] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f214e235]: 
+                  - button "Learn more about plus codes" [ref=f214e237] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f214e239]: 
+            - button "Suggest an edit" [ref=f214e243] [cursor=pointer]:
+              - generic [ref=f214e244]:
+                - generic [aria-hidden] [ref=f214e245]: 
+                - generic [ref=f214e246]: Suggest an edit
+            - generic [ref=f214e249]:
+              - heading "Add missing information" [level=2] [ref=f214e250]
+              - button "More info" [ref=f214e251] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f214e252]: 
+            - button "Add website" [ref=f214e254]:
+              - generic [ref=f214e255]:
+                - generic [aria-hidden] [ref=f214e256]: 
+                - generic [ref=f214e257]: Add website
+            - heading "Photos" [level=2] [ref=f214e261]
+            - button "Street View" [ref=f214e264] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f214e269]: 
+            - button "Add photos & videos" [ref=f214e273] [cursor=pointer]:
+              - generic [ref=f214e274]:
+                - generic [aria-hidden] [ref=f214e275]: 
+                - generic [ref=f214e276]: Add photos & videos
+            - generic [ref=f214e279]:
+              - heading "Review summary" [level=2] [ref=f214e280]
+              - button "More information about the review summary" [ref=f214e281] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f214e282]: 
+            - generic [ref=f214e284] [cursor=pointer]:
+              - table [ref=f214e286]:
+                - rowgroup [ref=f214e287]:
+                  - img "5 stars, 18 reviews" [ref=f214e288]: "5"
+                  - img "4 stars, 0 reviews" [ref=f214e291]: "4"
+                  - img "3 stars, 0 reviews" [ref=f214e294]: "3"
+                  - img "2 stars, 0 reviews" [ref=f214e297]: "2"
+                  - img "1 stars, 0 reviews" [ref=f214e300]: "1"
+              - generic [ref=f214e303]:
+                - generic [ref=f214e304]: "5.0"
+                - img "5.0 stars" [ref=f214e305]
+                - button "18 reviews" [ref=f214e311]
+            - generic [ref=f214e315]:
+              - link "Photo of reviewer who wrote \"They performed the work on time and within budget.\"" [ref=f214e316] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/104112832053128932982?hl=en-US
+              - button "\"They performed the work on time and within budget.\"" [ref=f214e317] [cursor=pointer]
+            - generic [ref=f214e320]:
+              - link "Photo of reviewer who wrote \"All in all, a great experience.\"" [ref=f214e321] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/108014828485741661538?hl=en-US
+              - button "\"All in all, a great experience.\"" [ref=f214e322] [cursor=pointer]
+            - button "Write a review" [ref=f214e327] [cursor=pointer]:
+              - generic [ref=f214e328]:
+                - generic [aria-hidden] [ref=f214e329]: 
+                - generic [ref=f214e330]: Write a review
+            - generic [ref=f214e333]:
+              - generic [ref=f214e335]:
+                - heading "Reviews" [level=2] [ref=f214e338]
+                - button "Search reviews" [ref=f214e341] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f214e343]: 
+              - button "Sort reviews" [ref=f214e345] [cursor=pointer]:
+                - generic [ref=f214e346]:
+                  - generic [aria-hidden] [ref=f214e347]: 
+                  - generic [ref=f214e348]: Sort
+            - radiogroup "Refine reviews" [ref=f214e349]:
+              - radio "All reviews" [checked] [ref=f214e351] [cursor=pointer]:
+                - generic [ref=f214e352]:
+                  - generic [aria-hidden] [ref=f214e353]: 
+                  - generic [ref=f214e354]: All
+              - radio "pleasant staff, mentioned in 2 reviews" [ref=f214e356] [cursor=pointer]:
+                - generic [ref=f214e357]:
+                  - generic [ref=f214e358]: pleasant staff
+                  - generic [ref=f214e359]: "2"
+              - radio "reasonable cost, mentioned in 2 reviews" [ref=f214e361] [cursor=pointer]:
+                - generic [ref=f214e362]:
+                  - generic [ref=f214e363]: reasonable cost
+                  - generic [ref=f214e364]: "2"
+              - radio "timeliness, mentioned in 3 reviews" [ref=f214e366] [cursor=pointer]:
+                - generic [ref=f214e367]:
+                  - generic [ref=f214e368]: timeliness
+                  - generic [ref=f214e369]: "3"
+              - radio "reliable, mentioned in 2 reviews" [ref=f214e371] [cursor=pointer]:
+                - generic [ref=f214e372]:
+                  - generic [ref=f214e373]: reliable
+                  - generic [ref=f214e374]: "2"
+              - button "View 4 more Topics" [ref=f214e376] [cursor=pointer]:
+                - generic [ref=f214e377]: "+4"
+            - generic "Jeffrey Grad" [ref=f214e379]:
+              - generic [ref=f214e381]:
+                - button "Photo of Jeffrey Grad" [ref=f214e382]
+                - generic [ref=f214e384]:
+                  - button "Jeffrey Grad Local Guide · 22 reviews · 2 photos" [ref=f214e386]:
+                    - generic [ref=f214e387]: Jeffrey Grad
+                    - generic [ref=f214e388]: Local Guide · 22 reviews · 2 photos
+                  - button "Actions for Jeffrey Grad's review" [ref=f214e389] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f214e391]: 
+                - generic [ref=f214e392]:
+                  - generic [ref=f214e393]:
+                    - img "5 stars" [ref=f214e394]:
+                      - generic [aria-hidden] [ref=f214e395]: 
+                      - generic [aria-hidden] [ref=f214e396]: 
+                      - generic [aria-hidden] [ref=f214e397]: 
+                      - generic [aria-hidden] [ref=f214e398]: 
+                      - generic [aria-hidden] [ref=f214e399]: 
+                    - generic [ref=f214e400]: 7 months ago
+                  - generic [ref=f214e402]:
+                    - text: Declan and his son Damian, who do live in PB have completed multiple Jobs for me and my friends for over 30 Years. From My rental units, pool panels, electrical panels, security lights, pool lights. Declan once said we if we can Fix Space …
+                    - button "See more" [ref=f214e404] [cursor=pointer]: More
+                  - generic [ref=f214e405]:
+                    - button "Like" [ref=f214e406]:
+                      - generic [ref=f214e407] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f214e408]: 
+                        - generic [ref=f214e409]: Like
+                    - button "Share Jeffrey Grad's review." [ref=f214e411]:
+                      - generic [ref=f214e412] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f214e413]: 
+                        - generic [ref=f214e414]: Share
+            - generic "water2color" [ref=f214e418]:
+              - generic [ref=f214e420]:
+                - button "Photo of water2color" [ref=f214e421]
+                - generic [ref=f214e423]:
+                  - button "water2color 11 reviews" [ref=f214e425]:
+                    - generic [ref=f214e426]: water2color
+                    - generic [ref=f214e427]: 11 reviews
+                  - button "Actions for water2color's review" [ref=f214e428] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f214e430]: 
+                - generic [ref=f214e431]:
+                  - generic [ref=f214e432]:
+                    - img "5 stars" [ref=f214e433]:
+                      - generic [aria-hidden] [ref=f214e434]: 
+                      - generic [aria-hidden] [ref=f214e435]: 
+                      - generic [aria-hidden] [ref=f214e436]: 
+                      - generic [aria-hidden] [ref=f214e437]: 
+                      - generic [aria-hidden] [ref=f214e438]: 
+                    - generic [ref=f214e439]: 3 years ago
+                  - generic [ref=f214e441]:
+                    - text: This was the second time we have used Declan for an electrical job in a year and I wouldn't use anyone else. His first job for me was to add outlets in my garage for my tools and lighting and the second time, added a 220 for more tools. …
+                    - button "See more" [ref=f214e443] [cursor=pointer]: More
+                  - generic [ref=f214e444]:
+                    - button "Like" [ref=f214e445]:
+                      - generic [ref=f214e446] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f214e447]: 
+                        - generic [ref=f214e448]: Like
+                    - button "Share water2color's review." [ref=f214e450]:
+                      - generic [ref=f214e451] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f214e452]: 
+                        - generic [ref=f214e453]: Share
+            - generic "Tim McClain" [ref=f214e457]:
+              - generic [ref=f214e459]:
+                - button "Photo of Tim McClain" [ref=f214e460]
+                - generic [ref=f214e462]:
+                  - button "Tim McClain 2 reviews" [ref=f214e464]:
+                    - generic [ref=f214e465]: Tim McClain
+                    - generic [ref=f214e466]: 2 reviews
+                  - button "Actions for Tim McClain's review" [ref=f214e467] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f214e469]: 
+                - generic [ref=f214e470]:
+                  - generic [ref=f214e471]:
+                    - img "5 stars" [ref=f214e472]:
+                      - generic [aria-hidden] [ref=f214e473]: 
+                      - generic [aria-hidden] [ref=f214e474]: 
+                      - generic [aria-hidden] [ref=f214e475]: 
+                      - generic [aria-hidden] [ref=f214e476]: 
+                      - generic [aria-hidden] [ref=f214e477]: 
+                    - generic [ref=f214e478]: 5 years ago
+                  - generic [ref=f214e480]:
+                    - text: We have had quite a bit of electrical work done in the past, but Declan and Mark from Pacific Beach Electric are the best by far. Professionalism and attention to detail are their hallmarks. We asked them to hard-wire and install two wall …
+                    - button "See more" [ref=f214e482] [cursor=pointer]: More
+                  - generic [ref=f214e483]:
+                    - button "Like" [ref=f214e484]:
+                      - generic [ref=f214e485] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f214e486]: 
+                        - generic [ref=f214e487]: Like
+                    - button "Share Tim McClain's review." [ref=f214e489]:
+                      - generic [ref=f214e490] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f214e491]: 
+                        - generic [ref=f214e492]: Share
+            - button "More reviews (15)" [ref=f214e496]
+            - link "About this data" [ref=f214e503] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=en
+            - generic [ref=f214e508]:
+              - generic [aria-hidden] [ref=f214e510]: 
+              - generic [ref=f214e511]:
+                - text: You're seeing a limited view of Google Maps.
+                - button "See more" [ref=f214e512] [cursor=pointer]
+      - button "Collapse side panel" [ref=f214e514] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f214e515]: 
+    - generic [ref=f214e519]:
+      - button "Google apps" [ref=f214e523] [cursor=pointer]
+      - link "Sign in" [ref=f214e527] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FPacific%2BBeach%2BElectric%2F%4032.802398%2C-117.2482807%2C17z%2Fdata%3D!3m1!4b1!4m6!3m5!1s0x80dc019441653ae5%3A0x43e2b0d5f2d41481!8m2!3d32.802398!4d-117.2482807!16s%252Fg%252F1tf4fb2v%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f214e530] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f214e532]: 
+        - generic [ref=f214e534] [cursor=pointer]:
+          - button "Zoom in" [ref=f214e535]:
+            - generic [aria-hidden] [ref=f214e537]: 
+          - button "Zoom out" [ref=f214e538]:
+            - generic [aria-hidden] [ref=f214e540]: 
+      - generic [ref=f214e544]:
+        - button "Browse Street View images" [ref=f214e546]
+        - button "Street View" [ref=f214e548] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f214e551]: 
+      - generic [ref=f214e552]:
+        - generic "Interactive map" [ref=f214e553]
+        - generic [ref=f214e557] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f214e558]: 
+          - generic [ref=f214e559]: Layers
+        - button "Layers" [ref=f214e560] [cursor=pointer]
+    - generic [ref=f214e562]:
+      - contentinfo [ref=f214e565]:
+        - text: Map data ©2026 Google
+        - button "United States" [ref=f214e566] [cursor=pointer]
+        - button "Terms" [ref=f214e567] [cursor=pointer]
+        - button "Privacy" [ref=f214e568] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f214e569] [cursor=pointer]
+      - button "200 ft" [ref=f214e571] [cursor=pointer]

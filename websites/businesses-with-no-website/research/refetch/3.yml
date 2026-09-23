@@ -1,0 +1,221 @@
+- generic "Google Maps" [ref=f217e9]:
+  - generic [ref=f217e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f217e10]
+    - search [ref=f217e15]:
+      - generic [ref=f217e16]:
+        - combobox [ref=f217e18]: E-on Electric San Diego CA
+        - button "Search" [ref=f217e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f217e21]: 
+        - button "Close" [ref=f217e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f217e24]: 
+    - region "Available filters for this search" [ref=f217e31]:
+      - generic [ref=f217e34]:
+        - button "Rating" [ref=f217e36] [cursor=pointer]:
+          - generic [ref=f217e37]:
+            - generic [aria-hidden] [ref=f217e38]: 
+            - generic [ref=f217e39]: Rating
+            - generic [aria-hidden] [ref=f217e40]: 
+        - button "Hours" [ref=f217e42] [cursor=pointer]:
+          - generic [ref=f217e43]:
+            - generic [aria-hidden] [ref=f217e44]: 
+            - generic [ref=f217e45]: Hours
+            - generic [aria-hidden] [ref=f217e46]: 
+        - button "All filters" [ref=f217e48] [cursor=pointer]:
+          - generic [ref=f217e49]:
+            - generic [aria-hidden] [ref=f217e50]: 
+            - generic [ref=f217e51]: All filters
+    - generic [ref=f217e52]:
+      - generic [ref=f217e53]:
+        - list [ref=f217e55]:
+          - listitem [ref=f217e56]:
+            - button "Menu" [ref=f217e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f217e59]: 
+          - listitem [ref=f217e60]:
+            - button "Saved" [ref=f217e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f217e63]: 
+          - listitem [ref=f217e66]:
+            - button "Recents" [disabled] [ref=f217e67]:
+              - generic [aria-hidden] [ref=f217e69]: 
+          - listitem [ref=f217e73]:
+            - button "Get app" [ref=f217e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f217e76]: 
+        - main [ref=f217e83]:
+          - generic [ref=f217e84]:
+            - feed "Results for E-on Electric San Diego CA" [ref=f217e85]:
+              - generic [ref=f217e86]:
+                - generic [ref=f217e88]:
+                  - heading "Results" [level=1] [ref=f217e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f217e93]:
+                    - generic [aria-hidden] [ref=f217e97]: 
+                - button "Share" [ref=f217e101]:
+                  - generic [ref=f217e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f217e103]: 
+                    - generic [ref=f217e104]: Share
+              - article [ref=f217e106]:
+                - link "Bright Electric Services" [ref=f217e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Bright+Electric+Services/data=!4m7!3m6!1s0x8c35e124e42d90a1:0xb8c47647fbb2b41e!8m2!3d32.958305!4d-117.09069!16s%2Fg%2F11z5yq8nv2!19sChIJoZAt5CThNYwRHrSy-0d2xLg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f217e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f217e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Bright Electric Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 37 Reviews": 5.0(37)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 11091 Morning Creek Drive North
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 299-5098
+                    - generic:
+                      - link "Visit Bright Electric Services's website" [ref=f217e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjW7qCSwYGXAxVqI0QIHbbOD-IYACICCAEQBxoCZHo&co=1&ase=2&gclid=EAIaIQobChMI1u6gksGBlwMVaiNECB22zg_iEBAYASAAEgKD6PD_BwE&cid=CAAS0wHkaHvyRm6yjQX7TGsL5Py6kFmT8FFikVm3w0B-EJeQKciuoTxDfk3Pdcc_v08hy5AmvHh-kPbvxJhUOQmGWsT9NC9Hr8yHlGccwE77VoB6idA7WErVKp_-sjwcikLmBINB0xGWO-oZ08atKm6Z5kpPcj-h3fl3eaCq3hyH7JAJFiyCFQYjQRrfjG-xZJBPcXvFYJPpSnwtSI9WH4mhTyQ9ptn6Y21HsswrZaVp6Hz-DtSMNJb0k0OkM9lkuaCV3NEHqAAt5ZoNsMz3oCk7B5C_egi5&cce=2&category=acrcp_v1_32&sig=AOD64_0aCxG8KbWzL2Y025vpiyUexvsaKg&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f217e113]: 
+                        - generic [ref=f217e114]: Website
+                      - button "Get directions to Bright Electric Services" [ref=f217e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f217e117]: 
+                        - generic [ref=f217e118]: Directions
+                  - link "Ad · Electrician In San Diego · Our Skilled Electricians Are Ready to Assist You with Any <b>Electrical</b> Job. · Visit Site · business.google.com/bright-electric" [ref=f217e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjW7qCSwYGXAxVqI0QIHbbOD-IYACICCAEQBxoCZHo&co=1&ase=2&gclid=EAIaIQobChMI1u6gksGBlwMVaiNECB22zg_iEBAYASAAEgKD6PD_BwE&cid=CAAS0wHkaHvyRm6yjQX7TGsL5Py6kFmT8FFikVm3w0B-EJeQKciuoTxDfk3Pdcc_v08hy5AmvHh-kPbvxJhUOQmGWsT9NC9Hr8yHlGccwE77VoB6idA7WErVKp_-sjwcikLmBINB0xGWO-oZ08atKm6Z5kpPcj-h3fl3eaCq3hyH7JAJFiyCFQYjQRrfjG-xZJBPcXvFYJPpSnwtSI9WH4mhTyQ9ptn6Y21HsswrZaVp6Hz-DtSMNJb0k0OkM9lkuaCV3NEHqAAt5ZoNsMz3oCk7B5C_egi5&cce=2&category=acrcp_v1_32&sig=AOD64_0aCxG8KbWzL2Y025vpiyUexvsaKg&adurl=&rct=j&nis=5
+                    - generic [ref=f217e125]:
+                      - generic [ref=f217e126]:
+                        - generic [ref=f217e127]: Electrician In San Diego
+                        - generic [ref=f217e128]: Our Skilled Electricians Are Ready to Assist You with Any Electrical Job.
+                      - generic [ref=f217e129]: Visit Site
+              - article [ref=f217e134]:
+                - link "Solid Electrical Services" [ref=f217e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Solid+Electrical+Services/data=!4m7!3m6!1s0xa88ccd0180065393:0x733a2f070c327cfa!8m2!3d32.834346!4d-116.963613!16s%2Fg%2F11s7_65684!19sChIJk1MGgAHNjKgR-nwyDAcvOnM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f217e137] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f217e138]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Solid Electrical Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 72 Reviews": 4.9(72)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 8733 Magnolia Avenue
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 626-3995
+                    - generic:
+                      - link "Visit Solid Electrical Services's website" [ref=f217e139] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjW7qCSwYGXAxVqI0QIHbbOD-IYACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMI1u6gksGBlwMVaiNECB22zg_iEBAYAiAAEgIhc_D_BwE&cid=CAAS0wHkaHvyRm6yjQX7TGsL5Py6kFmT8FFikVm3w0B-EJeQKciuoTxDfk3Pdcc_v08hy5AmvHh-kPbvxJhUOQmGWsT9NC9Hr8yHlGccwE77VoB6idA7WErVKp_-sjwcikLmBINB0xGWO-oZ08atKm6Z5kpPcj-h3fl3eaCq3hyH7JAJFiyCFQYjQRrfjG-xZJBPcXvFYJPpSnwtSI9WH4mhTyQ9ptn6Y21HsswrZaVp6Hz-DtSMNJb0k0OkM9lkuaCV3NEHqAAt5ZoNsMz3oCk7B5C_egi5&cce=2&category=acrcp_v1_32&sig=AOD64_3PXGc74s3w0uipA89l9fX7jxcWgg&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f217e141]: 
+                        - generic [ref=f217e142]: Website
+                      - button "Get directions to Solid Electrical Services" [ref=f217e143] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f217e145]: 
+                        - generic [ref=f217e146]: Directions
+                  - link "Ad · Licensed Electrician Services · <b>Electrical</b> problems don&#39;t wait. We offer emergency services to get you back on track fast. · Visit Site · solidelectricalsd.com" [ref=f217e151] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjW7qCSwYGXAxVqI0QIHbbOD-IYACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMI1u6gksGBlwMVaiNECB22zg_iEBAYAiAAEgIhc_D_BwE&cid=CAAS0wHkaHvyRm6yjQX7TGsL5Py6kFmT8FFikVm3w0B-EJeQKciuoTxDfk3Pdcc_v08hy5AmvHh-kPbvxJhUOQmGWsT9NC9Hr8yHlGccwE77VoB6idA7WErVKp_-sjwcikLmBINB0xGWO-oZ08atKm6Z5kpPcj-h3fl3eaCq3hyH7JAJFiyCFQYjQRrfjG-xZJBPcXvFYJPpSnwtSI9WH4mhTyQ9ptn6Y21HsswrZaVp6Hz-DtSMNJb0k0OkM9lkuaCV3NEHqAAt5ZoNsMz3oCk7B5C_egi5&cce=2&category=acrcp_v1_32&sig=AOD64_3PXGc74s3w0uipA89l9fX7jxcWgg&adurl=&rct=j&nis=5
+                    - generic [ref=f217e153]:
+                      - generic [ref=f217e154]:
+                        - generic [ref=f217e155]: Licensed Electrician Services
+                        - generic [ref=f217e156]: Electrical problems don't wait. We offer emergency services to get you back on track fast.
+                      - generic [ref=f217e157]: Visit Site
+              - article [ref=f217e162]:
+                - link "E-on Electric" [ref=f217e163] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/E-on+Electric/data=!4m7!3m6!1s0x80deab1b6589a4fb:0xdaaf239be68649e6!8m2!3d32.7685594!4d-117.2002027!16s%2Fg%2F11myldnk2_!19sChIJ-6SJZRur3oAR5kmG5psjr9o?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: E-on Electric
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 11 Reviews": 5.0(11)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 1108 Morena Blvd
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 568-2851
+                    - button "Get directions to E-on Electric" [ref=f217e165] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f217e167]: 
+                      - generic [ref=f217e168]: Directions
+              - article [ref=f217e171]:
+                - link "E-On Electric" [ref=f217e172] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/E-On+Electric/data=!4m7!3m6!1s0x61aa78d4e05c3129:0xa538b3d5aad7af76!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11mr_y28vd!19sChIJKTFc4NR4qmERdq_XqtWzOKU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: E-On Electric
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1 Reviews": 5.0(1)
+                            - generic:
+                              - generic: Electrician
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 568-2851
+                    - button "Get directions to E-On Electric" [ref=f217e174] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f217e176]: 
+                      - generic [ref=f217e177]: Directions
+              - paragraph [ref=f217e180]:
+                - generic [ref=f217e181]: You've reached the end of the list.
+              - generic [ref=f217e184]:
+                - generic [aria-hidden] [ref=f217e186]: 
+                - generic [ref=f217e187]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f217e188] [cursor=pointer]
+            - checkbox [ref=f217e191] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f217e193]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f217e195] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f217e196]: 
+    - generic [ref=f217e200]:
+      - button "Google apps" [ref=f217e204] [cursor=pointer]
+      - link "Sign in" [ref=f217e208] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2FE-on%2BElectric%2BSan%2BDiego%2BCA%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f217e211] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f217e213]: 
+        - generic [ref=f217e215] [cursor=pointer]:
+          - button "Zoom in" [ref=f217e216]:
+            - generic [aria-hidden] [ref=f217e218]: 
+          - button "Zoom out" [ref=f217e219]:
+            - generic [aria-hidden] [ref=f217e221]: 
+      - button "Browse Street View images" [ref=f217e227]
+      - generic [ref=f217e229]:
+        - generic "Interactive map" [ref=f217e230]
+        - generic [ref=f217e234] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f217e235]: 
+          - generic [ref=f217e236]: Layers
+        - button "Layers" [ref=f217e237] [cursor=pointer]
+    - generic [ref=f217e239]:
+      - contentinfo [ref=f217e242]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f217e243] [cursor=pointer]
+        - button "Terms" [ref=f217e244] [cursor=pointer]
+        - button "Privacy" [ref=f217e245] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f217e246] [cursor=pointer]
+      - button "5 mi" [ref=f217e248] [cursor=pointer]

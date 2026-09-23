@@ -1,0 +1,434 @@
+- generic "Google Maps" [ref=f177e9]:
+  - generic [ref=f177e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f177e10]
+    - search [ref=f177e15]:
+      - generic [ref=f177e16]:
+        - combobox [ref=f177e18]: Affordable Painting North Park San Diego CA 92104
+        - button "Search" [ref=f177e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f177e21]: 
+        - button "Close" [ref=f177e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f177e24]: 
+    - region "Available filters for this search" [ref=f177e31]:
+      - generic [ref=f177e34]:
+        - button "Rating" [ref=f177e36] [cursor=pointer]:
+          - generic [ref=f177e37]:
+            - generic [aria-hidden] [ref=f177e38]: 
+            - generic [ref=f177e39]: Rating
+            - generic [aria-hidden] [ref=f177e40]: 
+        - button "Hours" [ref=f177e42] [cursor=pointer]:
+          - generic [ref=f177e43]:
+            - generic [aria-hidden] [ref=f177e44]: 
+            - generic [ref=f177e45]: Hours
+            - generic [aria-hidden] [ref=f177e46]: 
+        - button "All filters" [ref=f177e48] [cursor=pointer]:
+          - generic [ref=f177e49]:
+            - generic [aria-hidden] [ref=f177e50]: 
+            - generic [ref=f177e51]: All filters
+    - generic [ref=f177e52]:
+      - generic [ref=f177e53]:
+        - list [ref=f177e55]:
+          - listitem [ref=f177e56]:
+            - button "Menu" [ref=f177e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f177e59]: 
+          - listitem [ref=f177e60]:
+            - button "Saved" [ref=f177e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f177e63]: 
+          - listitem [ref=f177e66]:
+            - button "Recents" [disabled] [ref=f177e67]:
+              - generic [aria-hidden] [ref=f177e69]: 
+          - listitem [ref=f177e73]:
+            - button "Get app" [ref=f177e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f177e76]: 
+        - main [ref=f177e83]:
+          - generic [ref=f177e84]:
+            - feed "Results for Affordable Painting North Park San Diego CA 92104" [ref=f177e85]:
+              - generic [ref=f177e86]:
+                - generic [ref=f177e88]:
+                  - heading "Results" [level=1] [ref=f177e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f177e93]:
+                    - generic [aria-hidden] [ref=f177e97]: 
+                - button "Share" [ref=f177e101]:
+                  - generic [ref=f177e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f177e103]: 
+                    - generic [ref=f177e104]: Share
+              - article [ref=f177e106]:
+                - link "CertaPro Painters of La Jolla and Central San Diego" [ref=f177e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/CertaPro+Painters+of+La+Jolla+and+Central+San+Diego/data=!4m7!3m6!1s0x80dc01b9a5abaa11:0x23e7d0ab312451d2!8m2!3d32.716181!4d-117.168653!16s%2Fg%2F11b8_n9nbt!19sChIJEaqrpbkB3IAR0lEkMavQ5yM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f177e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f177e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: CertaPro Painters of La Jolla and Central San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 48 Reviews": 4.8(48)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 600 West Broadway
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 728-7826
+                    - generic:
+                      - link "Visit CertaPro Painters of La Jolla and Central San Diego's website" [ref=f177e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwitpaqguoGXAxV1ie4BHcijNWIYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMIraWqoLqBlwMVdYnuAR3IozViEBAYASAAEgJD9_D_BwE&cid=CAAS0wHkaMyII3UtHPVuLK5hGSHWA-YZ-tZijZVSUgvbhffsAc0rgycBJwknz0TMGpt9cbVsNAqe2YfljgLA-54elNVhIxzRa039D_7ElTGlvB7MN7ZoilbBtxjkwHD9oh5guV6pZ9MmifijeqEVv8euqxmToIdtKt8v4i1yR3v_WOErhbbBncypdU9HitOjn_Lx40CfyRLqJPkZRfYkhQJ05bIuI6wg6j3kuL8zlnPJ0tIvWJZGsEtBUSdd7YllOOwMY2Ru54xSXauPWz6qL80TRDpf-_Ae&cce=2&category=acrcp_v1_32&sig=AOD64_3Jor31m_dyKe3rNu0DejKnFUURIA&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f177e113]: 
+                        - generic [ref=f177e114]: Website
+                      - button "Get directions to CertaPro Painters of La Jolla and Central San Diego" [ref=f177e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e117]: 
+                        - generic [ref=f177e118]: Directions
+                  - link "Ad · Professional Painting Services · Professional House <b>Painters</b>. Schedule Your Free Remote Estimate Online or Call Us Today! · Visit Site · certapro.com/la-jolla" [ref=f177e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwitpaqguoGXAxV1ie4BHcijNWIYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMIraWqoLqBlwMVdYnuAR3IozViEBAYASAAEgJD9_D_BwE&cid=CAAS0wHkaMyII3UtHPVuLK5hGSHWA-YZ-tZijZVSUgvbhffsAc0rgycBJwknz0TMGpt9cbVsNAqe2YfljgLA-54elNVhIxzRa039D_7ElTGlvB7MN7ZoilbBtxjkwHD9oh5guV6pZ9MmifijeqEVv8euqxmToIdtKt8v4i1yR3v_WOErhbbBncypdU9HitOjn_Lx40CfyRLqJPkZRfYkhQJ05bIuI6wg6j3kuL8zlnPJ0tIvWJZGsEtBUSdd7YllOOwMY2Ru54xSXauPWz6qL80TRDpf-_Ae&cce=2&category=acrcp_v1_32&sig=AOD64_3Jor31m_dyKe3rNu0DejKnFUURIA&adurl=&rct=j&nis=5
+                    - generic [ref=f177e125]:
+                      - generic [ref=f177e126]:
+                        - generic [ref=f177e127]: Professional Painting Services
+                        - generic [ref=f177e128]: Professional House Painters. Schedule Your Free Remote Estimate Online or Call Us Today!
+                      - generic [ref=f177e129]: Visit Site
+              - article [ref=f177e134]:
+                - link "Lifetime Custom Painting Inc" [ref=f177e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Lifetime+Custom+Painting+Inc/data=!4m7!3m6!1s0x80d94c279c82b869:0x93d1ffd0c6ecd8fe!8m2!3d32.7443651!4d-117.1298877!16s%2Fg%2F1tk6w5xj!19sChIJabiCnCdM2YAR_tjsxtD_0ZM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Lifetime Custom Painting Inc
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 298 Reviews": 4.9(298)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 3601 30th St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 314-8622
+                    - generic:
+                      - link "Visit Lifetime Custom Painting Inc's website" [ref=f177e137] [cursor=pointer]:
+                        - /url: https://lifetimecustom.com/?utm_source=google&utm_medium=business-profile&utm_campaign=google-business-profile
+                        - generic [aria-hidden] [ref=f177e139]: 
+                        - generic [ref=f177e140]: Website
+                      - button "Get directions to Lifetime Custom Painting Inc" [ref=f177e141] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e143]: 
+                        - generic [ref=f177e144]: Directions
+              - article [ref=f177e147]:
+                - link "Affordable Painter" [ref=f177e148] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Affordable+Painter/data=!4m7!3m6!1s0x2ab478ed2661fb0f:0x434b438c9748c62c!8m2!3d32.8244879!4d-117.09152!16s%2Fg%2F11ntlb97xc!19sChIJD_thJu14tCoRLMZIl4xDS0M?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Affordable Painter
+                            - generic: No reviews
+                            - generic:
+                              - generic: Painting
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 372-4556
+                    - generic:
+                      - link "Visit Affordable Painter's website" [ref=f177e150] [cursor=pointer]:
+                        - /url: https://affordablepainterlakeside.com/?utm_source=gbp&utm_medium=organic
+                        - generic [aria-hidden] [ref=f177e152]: 
+                        - generic [ref=f177e153]: Website
+                      - button "Get directions to Affordable Painter" [ref=f177e154] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e156]: 
+                        - generic [ref=f177e157]: Directions
+              - article [ref=f177e160]:
+                - link "Mike's Painting Co." [ref=f177e161] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Mike%27s+Painting+Co./data=!4m7!3m6!1s0x80dc014db1d20ebd:0xee2228be4ca3109c!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11x_j78nct!19sChIJvQ7SsU0B3IARnBCjTL4oIu4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Mike's Painting Co.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 31 Reviews": 5.0(31)
+                            - generic:
+                              - generic: Painter
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 333-0158
+                    - generic:
+                      - link "Visit Mike's Painting Co.'s website" [ref=f177e163] [cursor=pointer]:
+                        - /url: https://www.mikespaintingsd.com/
+                        - generic [aria-hidden] [ref=f177e165]: 
+                        - generic [ref=f177e166]: Website
+                      - button "Get directions to Mike's Painting Co." [ref=f177e167] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e169]: 
+                        - generic [ref=f177e170]: Directions
+              - article [ref=f177e173]:
+                - link "Expressive Arts @ 32nd & Thorn" [ref=f177e174] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Expressive+Arts+@+32nd+%26+Thorn/data=!4m7!3m6!1s0x80d954619264ad49:0x3fbcbd756c79d563!8m2!3d32.7391312!4d-117.1248897!16s%2Fg%2F1q2w5m2vz!19sChIJSa1kkmFU2YARY9V5bHW9vD8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Expressive Arts @ 32nd & Thorn
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.5 stars 30 Reviews": 4.5(30)
+                            - generic:
+                              - generic:
+                                - generic: Art studio
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f177e176] [cursor=pointer]:
+                                    - generic [ref=f177e177]: 
+                                - generic: · 3201 Thorn St
+                              - generic:
+                                - generic: Closed · Opens 7:30 PM Wed
+                                - generic: · (619) 251-8474
+                    - generic:
+                      - link "Visit Expressive Arts @ 32nd & Thorn's website" [ref=f177e178] [cursor=pointer]:
+                        - /url: http://expressiveartssandiego.com/
+                        - generic [aria-hidden] [ref=f177e180]: 
+                        - generic [ref=f177e181]: Website
+                      - button "Get directions to Expressive Arts @ 32nd & Thorn" [ref=f177e182] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e184]: 
+                        - generic [ref=f177e185]: Directions
+              - article [ref=f177e188]:
+                - link "West Coast Auto Body & Paint - North Park" [ref=f177e189] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/West+Coast+Auto+Body+%26+Paint+-+North+Park/data=!4m7!3m6!1s0x80d9548afb4f6e57:0x7c7e64c0ce9c3fc1!8m2!3d32.7411416!4d-117.1290382!16s%2Fg%2F1vxdykmd!19sChIJV25P-4pU2YARwT-czsBkfnw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: West Coast Auto Body & Paint - North Park
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 210 Reviews": 4.8(210)
+                            - generic:
+                              - generic:
+                                - generic: Auto body shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f177e191] [cursor=pointer]:
+                                    - generic [ref=f177e192]: 
+                                - generic: · 3036 Upas St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 285-0809
+                    - generic:
+                      - link "Visit West Coast Auto Body & Paint - North Park's website" [ref=f177e193] [cursor=pointer]:
+                        - /url: https://westcoastautobody.com/
+                        - generic [aria-hidden] [ref=f177e195]: 
+                        - generic [ref=f177e196]: Website
+                      - button "Get directions to West Coast Auto Body & Paint - North Park" [ref=f177e197] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e199]: 
+                        - generic [ref=f177e200]: Directions
+              - article [ref=f177e203]:
+                - link "Ashton Gallery at Art on 30th" [ref=f177e204] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ashton+Gallery+at+Art+on+30th/data=!4m7!3m6!1s0x80d954f936d15555:0xe2d82967d3f7c901!8m2!3d32.7579888!4d-117.1303668!16s%2Fg%2F11d_79fddk!19sChIJVVXRNvlU2YARAcn302cp2OI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ashton Gallery at Art on 30th
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 19 Reviews": 4.7(19)
+                            - generic:
+                              - generic:
+                                - generic: Art gallery
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f177e206] [cursor=pointer]:
+                                    - generic [ref=f177e207]: 
+                                - generic: · 4434 30th St
+                              - generic:
+                                - generic: Closed · Opens 10 AM Tue
+                                - generic: · (619) 894-9009
+                    - generic:
+                      - link "Visit Ashton Gallery at Art on 30th's website" [ref=f177e208] [cursor=pointer]:
+                        - /url: https://www.ashtonartgallery.com/
+                        - generic [aria-hidden] [ref=f177e210]: 
+                        - generic [ref=f177e211]: Website
+                      - button "Get directions to Ashton Gallery at Art on 30th" [ref=f177e212] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e214]: 
+                        - generic [ref=f177e215]: Directions
+              - article [ref=f177e218]:
+                - link "Ron Rice Painting & Consulting" [ref=f177e219] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ron+Rice+Painting+%26+Consulting/data=!4m7!3m6!1s0x80d9580d65b7d741:0x2ef106b747710b0f!8m2!3d32.7689896!4d-117.1352901!16s%2Fg%2F11bwkff6rg!19sChIJQde3ZQ1Y2YARDwtxR7cG8S4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ron Rice Painting & Consulting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 165 Reviews": 5.0(165)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 2667 Camino del Rio S Ste 204-1
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 208-4482
+                    - generic:
+                      - link "Visit Ron Rice Painting & Consulting's website" [ref=f177e221] [cursor=pointer]:
+                        - /url: https://ronricepainting.com/
+                        - generic [aria-hidden] [ref=f177e223]: 
+                        - generic [ref=f177e224]: Website
+                      - button "Get directions to Ron Rice Painting & Consulting" [ref=f177e225] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e227]: 
+                        - generic [ref=f177e228]: Directions
+              - article [ref=f177e231]:
+                - link "Budget Painting" [ref=f177e232] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Budget+Painting/data=!4m7!3m6!1s0x4432695c2d1ad1c9:0xa1e74c035a3ce18b!8m2!3d32.8586794!4d-117.1327195!16s%2Fg%2F11pdy66jv2!19sChIJydEaLVxpMkQRi-E8WgNM56E?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Budget Painting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 4 Reviews": 5.0(4)
+                            - generic:
+                              - generic: Painter
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 417-0162
+                    - generic:
+                      - link "Visit Budget Painting's website" [ref=f177e234] [cursor=pointer]:
+                        - /url: http://budgetpainting.net/
+                        - generic [aria-hidden] [ref=f177e236]: 
+                        - generic [ref=f177e237]: Website
+                      - button "Get directions to Budget Painting" [ref=f177e238] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e240]: 
+                        - generic [ref=f177e241]: Directions
+                  - link [ref=f177e242] [cursor=pointer]:
+                    - /url: https://clienthub.getjobber.com/hubs/11a837c3-a317-4883-bd69-0c9db81540e3/public/requests/735486/new?rwg_token=AE37R_g89GxCXxYvZ7iOC7nWaUGiQVPF6GAQsAUvddUzFmGRTzw2KiPg5T-6vPze1QvT0GSjnZaem3cFxcIBFfwLKoDgiBH-3Q%3D%3D
+                    - generic [ref=f177e243]:
+                      - generic [aria-hidden] [ref=f177e244]: 
+                      - text: Book online
+              - article [ref=f177e247]:
+                - link "Local San Diego Painting" [ref=f177e248] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Local+San+Diego+Painting/data=!4m7!3m6!1s0x80d955c32e4093db:0x2c46af84f8ca524f!8m2!3d32.785163!4d-117.0629147!16s%2Fg%2F11cst0lhh3!19sChIJ25NALsNV2YART1LK-ISvRiw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Local San Diego Painting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 92 Reviews": 4.9(92)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 5814 College Ave
+                              - generic:
+                                - generic: Closed · Opens 7:30 AM Tue
+                                - generic: · (619) 288-0656
+                    - generic:
+                      - link "Visit Local San Diego Painting's website" [ref=f177e250] [cursor=pointer]:
+                        - /url: https://localsandiegopainting.com/
+                        - generic [aria-hidden] [ref=f177e252]: 
+                        - generic [ref=f177e253]: Website
+                      - button "Get directions to Local San Diego Painting" [ref=f177e254] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e256]: 
+                        - generic [ref=f177e257]: Directions
+              - article [ref=f177e260]:
+                - link "Art on 30th & Ashton Gallery" [ref=f177e261] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Art+on+30th+%26+Ashton+Gallery/data=!4m7!3m6!1s0x80d954f936ef5303:0x36a1407572c4b580!8m2!3d32.7579581!4d-117.1303775!16s%2Fg%2F11b6v8fq8x!19sChIJA1PvNvlU2YARgLXEcnVAoTY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Art on 30th & Ashton Gallery
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 48 Reviews": 4.7(48)
+                            - generic:
+                              - generic:
+                                - generic: Art school
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f177e263] [cursor=pointer]:
+                                    - generic [ref=f177e264]: 
+                                - generic: · 4434 30th St
+                              - generic:
+                                - generic: Closed · Opens 10 AM Tue
+                                - generic: · (619) 894-9009
+                    - generic:
+                      - link "Visit Art on 30th & Ashton Gallery's website" [ref=f177e265] [cursor=pointer]:
+                        - /url: https://arton30th.com/
+                        - generic [aria-hidden] [ref=f177e267]: 
+                        - generic [ref=f177e268]: Website
+                      - button "Get directions to Art on 30th & Ashton Gallery" [ref=f177e269] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f177e271]: 
+                        - generic [ref=f177e272]: Directions
+              - generic [ref=f177e307]:
+                - generic [aria-hidden] [ref=f177e309]: 
+                - generic [ref=f177e310]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f177e311] [cursor=pointer]
+            - checkbox [ref=f177e314] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f177e316]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f177e318] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f177e319]: 
+    - generic [ref=f177e323]:
+      - button "Google apps" [ref=f177e327] [cursor=pointer]
+      - link "Sign in" [ref=f177e331] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2FAffordable%2BPainting%2BNorth%2BPark%2BSan%2BDiego%2BCA%2B92104%2F%4032.8586794%2C-117.1164795%2C10z%2Fdata%3D!3m1!4b1%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f177e334] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f177e336]: 
+        - generic [ref=f177e338] [cursor=pointer]:
+          - button "Zoom in" [ref=f177e339]:
+            - generic [aria-hidden] [ref=f177e341]: 
+          - button "Zoom out" [ref=f177e342]:
+            - generic [aria-hidden] [ref=f177e344]: 
+      - button "Browse Street View images" [ref=f177e350]
+      - generic [ref=f177e352]:
+        - generic "Interactive map" [ref=f177e353]
+        - generic [ref=f177e357] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f177e358]: 
+          - generic [ref=f177e359]: Layers
+        - button "Layers" [ref=f177e360] [cursor=pointer]
+    - generic [ref=f177e362]:
+      - contentinfo [ref=f177e365]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f177e366] [cursor=pointer]
+        - button "Terms" [ref=f177e367] [cursor=pointer]
+        - button "Privacy" [ref=f177e368] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f177e369] [cursor=pointer]
+      - button "5 mi" [ref=f177e371] [cursor=pointer]

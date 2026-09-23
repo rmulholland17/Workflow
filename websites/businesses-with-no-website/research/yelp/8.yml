@@ -1,0 +1,272 @@
+- generic [active] [ref=f141e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f141e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f141e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f141e8]:
+    - search [ref=f141e9]:
+      - generic [ref=f141e11]:
+        - link "Go to Google Home" [ref=f141e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQPHoECAYQBA
+        - generic [ref=f141e21]:
+          - generic [ref=f141e22]:
+            - combobox "Search" [ref=f141e25]: site:yelp.com/biz "Easy Go Services" San Diego site:yelp.com/biz "Easy Go Services" San Diego
+            - generic [ref=f141e26]:
+              - button "Clear" [ref=f141e28] [cursor=pointer]
+              - generic [ref=f141e33]:
+                - button "Search by voice" [ref=f141e34] [cursor=pointer]
+                - button "Search by image" [ref=f141e37] [cursor=pointer]
+          - button "Search" [ref=f141e40] [cursor=pointer]
+    - generic [ref=f141e45]:
+      - button "Settings" [ref=f141e47] [cursor=pointer]
+      - button "Share" [ref=f141e52] [cursor=pointer]
+      - generic [ref=f141e58]:
+        - button "Google apps" [ref=f141e60] [cursor=pointer]
+        - link "Sign in" [ref=f141e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:yelp.com/biz%2B%2522Easy%2BGo%2BServices%2522%2BSan%2BDiego&ec=futura_srp_og_si_72236_p
+  - generic [ref=f141e68]:
+    - navigation [ref=f141e74]:
+      - generic [ref=f141e80]:
+        - list [ref=f141e81]:
+          - listitem [ref=f141e82]:
+            - link "AI Mode" [ref=f141e85] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz0DE9hkPgm5pwJD6Y4g4gdUnrwTgnTiuY9xU8D56OFy29ZAJPUHC5zcHChowLmQeX_Ov1vZ01r6NHuVZlVTqQF_wS0qTsha5TGRL7F4VZJhDGPTa_J-DRdoWE6Gs8A_VzQCZMmgAjQMUiKAhn8KH9-Mc6Dmbg&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ2J8OegQIERAD
+          - listitem [ref=f141e89]:
+            - link "All" [disabled] [ref=f141e90]
+          - listitem [ref=f141e93]:
+            - link "Images" [ref=f141e94] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz0DE9hkPgm5pwJD6Y4g4gdUnrwTgnTiuY9xU8D56OFy29ZAJPUHC5zcHChowLmQeX_Ov1vZ01r6NHuVZlVTqQF_wS0qTsha5TGRL7F4VZJhDGPTa_J-DRdoWE6Gs8A_VzQCZMmgAjQMUiKAhn8KH9-Mc6Dmbg&q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sa=X&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQtKgLegQIFxAB
+          - listitem [ref=f141e97]:
+            - link "Forums" [ref=f141e98] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz0DE9hkPgm5pwJD6Y4g4gdUnrwTgnTiuY9xU8D56OFy29ZAJPUHC5zcHChowLmQeX_Ov1vZ01r6NHuVZlVTqQF_wS0qTsha5TGRL7F4VZJhDGPTa_J-DRdoWE6Gs8A_VzQCZMmgAjQMUiKAhn8KH9-Mc6Dmbg&q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sa=X&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQs6gLegQIGBAB
+          - listitem [ref=f141e101]:
+            - link "Videos" [ref=f141e102] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz0DE9hkPgm5pwJD6Y4g4gdUnrwTgnTiuY9xU8D56OFy29ZAJPUHC5zcHChowLmQeX_Ov1vZ01r6NHuVZlVTqQF_wS0qTsha5TGRL7F4VZJhDGPTa_J-DRdoWE6Gs8A_VzQCZMmgAjQMUiKAhn8KH9-Mc6Dmbg&q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sa=X&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQtKgLegQIFhAB
+          - listitem [ref=f141e105]:
+            - link "Shopping" [ref=f141e106] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz0DE9hkPgm5pwJD6Y4g4gdUnrwTgnTiuY9xU8D56OFy29ZAJPUHC5zcHChowLmQeX_Ov1vZ01r6NHuVZlVTqQF_wS0qTsha5TGRL7F4VZJhDGPTa_J-DRdoWE6Gs8A_VzQCZMmgAjQMUiKAhn8KH9-Mc6Dmbg&q=site:yelp.com/biz+Easy+Go+Services+San+Diego&ved=1t:220175&ictx=111
+          - listitem [ref=f141e109]:
+            - link "Short videos" [ref=f141e110] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz0DE9hkPgm5pwJD6Y4g4gdUnrwTgnTiuY9xU8D56OFy29ZAJPUHC5zcHChowLmQeX_Ov1vZ01r6NHuVZlVTqQF_wS0qTsha5TGRL7F4VZJhDGPTa_J-DRdoWE6Gs8A_VzQCZMmgAjQMUiKAhn8KH9-Mc6Dmbg&q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sa=X&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQs6gLegQIFBAB
+          - listitem [ref=f141e113]:
+            - button [ref=f141e114] [cursor=pointer]:
+              - generic "More filters" [ref=f141e115]: More
+        - button "Tools" [ref=f141e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f141e129]
+    - main [ref=f141e135]:
+      - generic [ref=f141e136]:
+        - generic [ref=f141e140]:
+          - heading "No results found for site:yelp.com/biz \"Easy Go Services\" San Diego." [level=2] [ref=f141e141]
+          - text: Results for
+          - link "site:yelp.com/biz Easy Go Services San Diego" [ref=f141e142] [cursor=pointer]:
+            - /url: /search?sca_esv=5e5febaa67db9c78&q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sa=X&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQgwN6BAgTEAE
+          - text: "(without quotes):"
+        - generic [ref=f141e145]:
+          - generic [ref=f141e148]:
+            - heading "Web results" [level=2] [ref=f141e149]
+            - generic [ref=f141e150]:
+              - generic [ref=f141e153]:
+                - link "EASY GO MOVING - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Movers" [ref=f141e155] [cursor=pointer]:
+                  - /url: /goto?url=CAESawHrOzAVLw4A_5wD9yICG5N1Dm757qDZa2E8jHLxfgz4pIH4MYBarRMZF0siRjxc88oLzuBFhyZRDwe4gAQBVlyr0bjZiNwOR7sdQEJqkjQxQXk80e1vxxJByBM5_VEpRURO_s_cGI5d0Eo2
+                  - heading "EASY GO MOVING - Updated September 2026" [level=3] [ref=f141e156]
+                  - generic [ref=f141e162]:
+                    - generic [ref=f141e163]: Yelp
+                    - generic [ref=f141e165]: https://www.yelp.com › ... › Home Services › Movers
+                - button "About this result" [ref=f141e171] [cursor=pointer]
+              - generic [ref=f141e178]:
+                - text: EASY GO MOVING, San Diego, CA 92108, 111 Photos, (
+                - emphasis [ref=f141e179]: 619) 790-6030
+                - text: ", Mon - 8:00 am - 8:00 pm, Tue - 8:00 am - 8:00 pm, Wed - 8:00 am - 8:00 pm, 4.9 (141 reviews) ..."
+              - img "Rated 4.9 out of 5, (141) user reviews" [ref=f141e184]: 4.9(141)
+          - generic [ref=f141e191]:
+            - generic [ref=f141e194]:
+              - link "EASY SAN DIEGO MOVING - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Movers" [ref=f141e196] [cursor=pointer]:
+                - /url: /goto?url=CAEScAHrOzAVUknbCHOu_7eZy8L0_7UQvfNFWIVV1dr1Ve14U9Yju1xDKjebKCqxd68fo8xczqyiykFd32AI1953zmYk78pH6kNDKynDe-IqlcIsSsNdZSB6SawUud-9uNnUR5hufqd4ciKXUmzgaBbHE0Y
+                - heading "EASY SAN DIEGO MOVING - Updated September 2026" [level=3] [ref=f141e197]
+                - generic [ref=f141e203]:
+                  - generic [ref=f141e204]: Yelp
+                  - generic [ref=f141e206]: https://www.yelp.com › ... › Home Services › Movers
+              - button "About this result" [ref=f141e212] [cursor=pointer]
+            - generic [ref=f141e219]:
+              - text: EASY SAN DIEGO MOVING, San Diego, CA 92105, 24 Photos, (
+              - emphasis [ref=f141e220]: 619) 906-6655
+              - text: ", Mon - 8:00 am - 8:00 pm, Tue - 8:00 am - 8:00 pm, Wed - 8:00 am - 8:00 pm, Thu - 8:00 ..."
+            - img "Rated 5.0 out of 5, (5) user reviews" [ref=f141e225]: 5.0(5)
+          - generic [ref=f141e232]:
+            - generic [ref=f141e235]:
+              - link "24/7 MOVING AND STORAGE - San Diego Yelp https://www.yelp.com › ... › 24/7 Moving and Storage" [ref=f141e237] [cursor=pointer]:
+                - /url: /goto?url=CAESfgHrOzAVmqqr6J8aiw6EI94UfQcsdn4OPr3-p_mLHxyB75vBchlZVG5-XX25-5IBzxVTAgsPaNTb86MXb_Xk5tbOfCsu_hJPb-1iIl5cN1XTCXFe5sNsjzHRj1Ty2NFHfGwPbrtCh072gvF24y3AHakfH1DspadJRb_KOzu-mA
+                - heading "24/7 MOVING AND STORAGE - San Diego" [level=3] [ref=f141e238]
+                - generic [ref=f141e244]:
+                  - generic [ref=f141e245]: Yelp
+                  - generic [ref=f141e247]: https://www.yelp.com › ... › 24/7 Moving and Storage
+              - button "About this result" [ref=f141e253] [cursor=pointer]
+            - generic [ref=f141e260]:
+              - text: 24/7 MOVING AND STORAGE,
+              - emphasis [ref=f141e261]: 1501 Frazee Rd, San Diego, CA 92108
+              - text: ", 156 Photos, (888) 296-0078, Mon - 8:00 am - 8:00 pm, Tue - 8:00 am - 8:00 pm, ..."
+            - img "Rated 4.9 out of 5, (848) user reviews" [ref=f141e266]: 4.9(848)
+          - generic [ref=f141e273]:
+            - generic [ref=f141e276]:
+              - link "SAN DIEGO MOVING - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Movers" [ref=f141e278] [cursor=pointer]:
+                - /url: /goto?url=CAESbQHrOzAVlYS5p3flrCeZt1VQclVVLJE5QxwxaF8TZnmeJTCNbrs0BTTVTmiEJiIfv29tvqSXBuFA_Zj1k9EXyPUB_I_IP_niAWkGLdJOQbV0QWAvXnuLTnuvUFou9onfgDs3dI4MBMSjXB3YK5g
+                - heading "SAN DIEGO MOVING - Updated September 2026" [level=3] [ref=f141e279]
+                - generic [ref=f141e285]:
+                  - generic [ref=f141e286]: Yelp
+                  - generic [ref=f141e288]: https://www.yelp.com › ... › Home Services › Movers
+              - button "About this result" [ref=f141e294] [cursor=pointer]
+            - generic [ref=f141e301]:
+              - text: SAN DIEGO MOVING,
+              - emphasis [ref=f141e302]: 7720 Clairemont Mesa Blvd, San Diego, CA 92111
+              - text: ", 83 Photos, (858) 566-2800, Mon - 8:00 am - 6:00 pm, Tue - 8:00 am - 6:00 pm, ..."
+            - img "Rated 4.6 out of 5, (122) user reviews" [ref=f141e307]: 4.6(122)
+          - generic [ref=f141e314]:
+            - generic [ref=f141e317]:
+              - link "EZ MOVING - Updated September 2026 - 133 Photos & ... Yelp https://www.yelp.com › ... › Home Services › Movers" [ref=f141e319] [cursor=pointer]:
+                - /url: /goto?url=CAESZgHrOzAVt3kNa8oqW-HKuy5SWIL4--GEPKFU6xNtrGrIbdmMSgsuKEAs82HP-U6itwUFcXRGgP_c66MdOLe3c5xE1ZInEI_x3oPgpEpn-WuromxbLG9LyZU2qlniIeo93bc6CFfcSw
+                - heading "EZ MOVING - Updated September 2026 - 133 Photos & ..." [level=3] [ref=f141e320]
+                - generic [ref=f141e326]:
+                  - generic [ref=f141e327]: Yelp
+                  - generic [ref=f141e329]: https://www.yelp.com › ... › Home Services › Movers
+              - button "About this result" [ref=f141e335] [cursor=pointer]
+            - generic [ref=f141e342]:
+              - text: EZ MOVING,
+              - emphasis [ref=f141e343]: 10611 Caminito Basswood, San Diego, CA 92131
+              - text: ", 133 Photos, (404) 990-8473, Mon - 8:00 am - 8:00 pm, Tue - 8:00 am - 8:00 pm, Wed - 8:00 am - 8:00& ..."
+            - img "Rated 4.8 out of 5, (276) user reviews" [ref=f141e348]: 4.8(276)
+          - generic [ref=f141e355]:
+            - generic [ref=f141e358]:
+              - link "24/7 MOVING AND STORAGE - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Movers" [ref=f141e360] [cursor=pointer]:
+                - /url: /goto?url=CAESdAHrOzAVt4ixOk7b9Fw_q2917lHmstlLZQHZmtTRmAp9FDRnOZPwZ1-nkKvOzizGmeE6YF0O1Ft8y2ZNhf5vLYmyk7cGgkWEkvdJ1mv93WFYOk7JJZS-qImDFwVB3hmHo7LL8_oBmV49GkQRx9M3BAVHXYcF
+                - heading "24/7 MOVING AND STORAGE - Updated September 2026" [level=3] [ref=f141e361]
+                - generic [ref=f141e367]:
+                  - generic [ref=f141e368]: Yelp
+                  - generic [ref=f141e370]: https://www.yelp.com › ... › Home Services › Movers
+              - button "About this result" [ref=f141e376] [cursor=pointer]
+            - generic [ref=f141e383]:
+              - text: 24/7 MOVING AND STORAGE,
+              - emphasis [ref=f141e384]: 1501 Frazee Rd, San Diego, CA 92108
+              - text: ", 156 Photos, (888) 296-0078, Mon - 8:00 am - 8:00 pm, Tue - 8:00 am - 8:00 pm, ..."
+            - img "Rated 4.9 out of 5, (849) user reviews" [ref=f141e389]: 4.9(849)
+          - generic [ref=f141e396]:
+            - generic [ref=f141e399]:
+              - link "AFFORDABLE AIRPORT TRANSPORTATION SERVICES Yelp https://www.yelp.com › ... › Transportation › Limos" [ref=f141e401] [cursor=pointer]:
+                - /url: /goto?url=CAEShQEB6zswFTYw1xU4YQqJUyVTIIlSKRzoV-sdgSkdA2Npv3-MEx1WvJJY4ME0tRO3yf5_tyakGl__bXqFCP0eJU7GAm1rbJHrA07FZBinmAaCBlJrygO1fvE1QZ1Lkxs4Oek6LXWyumS73GiwlCdGW8iSbeChZNMdVfoDcAs5p7W6KXUxiFK4
+                - heading "AFFORDABLE AIRPORT TRANSPORTATION SERVICES" [level=3] [ref=f141e402]
+                - generic [ref=f141e408]:
+                  - generic [ref=f141e409]: Yelp
+                  - generic [ref=f141e411]: https://www.yelp.com › ... › Transportation › Limos
+              - button "About this result" [ref=f141e417] [cursor=pointer]
+            - generic [ref=f141e424]:
+              - text: AFFORDABLE AIRPORT TRANSPORTATION SERVICES,
+              - emphasis [ref=f141e425]: 9011 Mira Mesa Blvd, Ste 231, San Diego, CA 92126
+              - text: ", 25 Photos, (858) 774-0484, Mon - Open 24 hours, Tue - Open 24 ..."
+            - img "Rated 5.0 out of 5, (29) user reviews" [ref=f141e430]: 5.0(29)
+          - generic [ref=f141e437]:
+            - generic [ref=f141e440]:
+              - link "1st Choice Movers - San Diego Yelp https://www.yelp.com › ... › Home Services › Movers" [ref=f141e442] [cursor=pointer]:
+                - /url: /goto?url=CAESbAHrOzAVtYTM-XEFXL1dFH6M1rWmjl34gxuXfr0-UF5tq7m1wC-i3EKem04aDff0m3SUQnJX19HopKqGUcsvwZUOY8--Sr7F3vdfaGV-cRA4JZEA8JX2SAwnJ0Hti6PExiQD2ODbSfVsphiz8Q
+                - heading "1st Choice Movers - San Diego" [level=3] [ref=f141e443]
+                - generic [ref=f141e449]:
+                  - generic [ref=f141e450]: Yelp
+                  - generic [ref=f141e452]: https://www.yelp.com › ... › Home Services › Movers
+              - button "About this result" [ref=f141e458] [cursor=pointer]
+            - generic [ref=f141e465]:
+              - text: 1ST CHOICE MOVERS,
+              - emphasis [ref=f141e466]: 8250 Miramar Mall, San Diego, CA 92121
+              - text: ", 274 Photos, (714) 654-5343, Mon - 8:00 am - 7:00 pm, Tue - 8:00 am - 7:00 pm, Wed - 8:00 am ..."
+            - img "Rated 4.9 out of 5, (805) user reviews" [ref=f141e471]: 4.9(805)
+          - generic [ref=f141e478]:
+            - generic [ref=f141e481]:
+              - link "MOVE TO GO - Updated September 2026 - 321 Reviews Yelp https://www.yelp.com › ... › Home Services › Movers" [ref=f141e483] [cursor=pointer]:
+                - /url: /goto?url=CAESZwHrOzAVYtoLzju9tKs1yBH4Ggcfadit2Zxx2FlMjwNJPDs0d73DFqrZT-8T4xXYJfY-T43FEpozxkgRhSA2-G9EUNFjboeQA7oUJ0WZKUf93mADwkiwLCs1MTUUaq3W91-Ia2215Ok
+                - heading "MOVE TO GO - Updated September 2026 - 321 Reviews" [level=3] [ref=f141e484]
+                - generic [ref=f141e490]:
+                  - generic [ref=f141e491]: Yelp
+                  - generic [ref=f141e493]: https://www.yelp.com › ... › Home Services › Movers
+              - button "About this result" [ref=f141e499] [cursor=pointer]
+            - generic [ref=f141e506]:
+              - text: MOVE TO GO,
+              - emphasis [ref=f141e507]: 6540 Reflection Dr, San Diego, CA 92124
+              - text: ", 146 Photos, (858) 319-8390, Mon - 8:00 am - 6:00 pm, Tue - 8:00 am - 8:00 pm, Wed - 8:00 am - 6:00 pm, ..."
+            - img "Rated 4.9 out of 5, (321) user reviews" [ref=f141e512]: 4.9(321)
+          - generic [ref=f141e519]:
+            - generic [ref=f141e522]:
+              - link "EZGO CARS - Updated September 2026 Yelp https://www.yelp.com › ... › Automotive › Car Buyers" [ref=f141e524] [cursor=pointer]:
+                - /url: /goto?url=CAESYwHrOzAVj1h3U0aWHWwWXcpRCyfS-lwCJbxr4L2NxzzUSY_lWU0rUUll0tMjFzsSqF5fLWiOrS0z9Uyf0u47bTMUol7p6gY9T6Fg4L7UvEjKdh3zKUgLDYTKpZemhBf6vRXrgg
+                - heading "EZGO CARS - Updated September 2026" [level=3] [ref=f141e525]
+                - generic [ref=f141e531]:
+                  - generic [ref=f141e532]: Yelp
+                  - generic [ref=f141e534]: https://www.yelp.com › ... › Automotive › Car Buyers
+              - button "About this result" [ref=f141e540] [cursor=pointer]
+            - generic [ref=f141e546]:
+              - generic [ref=f141e547]:
+                - text: No fuss, no hassle, and at top dollar.
+                - emphasis [ref=f141e548]: They took care of everything; paperwork, towing, and most importantly, cash payment
+                - text: . Highly, highly recommend.
+              - link "Read more" [ref=f141e549] [cursor=pointer]:
+                - /url: /goto?url=CAESlQEB6zswFfmMkf5nVTd3YkfgWwybI5ogRRKxQFJS_VgFEj1PN1lGVvN36G_yvIkZAGUIbd8T15P9wpWhgdTcj1VnEGtvgvN7z32pKfSlg4WQj23RAGywdaEFgZk6rgbcgGZ3BAr0EwUddZmSgfqZbA4naURnxNBN6Sxs3akavEyePVCAxfr-F-pqlgmqjpzw5tVIikGvnQ
+            - img "Rated 4.9 out of 5, (85) user reviews" [ref=f141e554]: 4.9(85)
+      - generic [ref=f141e559]:
+        - generic [ref=f141e564]:
+          - heading "People also search for" [level=2] [ref=f141e566]
+          - generic [ref=f141e568]:
+            - link "Easy go services san diego reviews" [ref=f141e573] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&q=Easy+go+services+san+diego+reviews&sa=X&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ1QJ6BAhEEAE
+            - link "Easy go services san diego prices" [ref=f141e588] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&q=Easy+go+services+san+diego+prices&sa=X&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ1QJ6BAhFEAE
+        - navigation [ref=f141e599]:
+          - heading "Page Navigation" [level=1] [ref=f141e600]
+          - text: "1"
+          - link "Page 2" [ref=f141e603] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=10&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8tMDegQIQhAE
+            - text: "2"
+          - link "Page 3" [ref=f141e605] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=20&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8tMDegQIQhAG
+            - text: "3"
+          - link "Page 4" [ref=f141e607] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=30&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8tMDegQIQhAI
+            - text: "4"
+          - link "Page 5" [ref=f141e609] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=40&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8tMDegQIQhAK
+            - text: "5"
+          - link "Page 6" [ref=f141e611] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=50&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8tMDegQIQhAM
+            - text: "6"
+          - link "Page 7" [ref=f141e613] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=60&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8tMDegQIQhAO
+            - text: "7"
+          - link "Page 8" [ref=f141e615] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=70&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8tMDegQIQhAQ
+            - text: "8"
+          - link "Page 9" [ref=f141e617] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=80&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8tMDegQIQhAS
+            - text: "9"
+          - link "Page 10" [ref=f141e619] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=90&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8tMDegQIQhAU
+            - text: "10"
+          - heading [level=2] [ref=f141e621]:
+            - link "Next" [ref=f141e622] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+Easy+Go+Services+San+Diego&sca_esv=5e5febaa67db9c78&ei=ChGyavunOdTd1sQP0vL8IA&start=10&sa=N&sstk=AS6-VmIFI9OV7iWjkcndTDpBoida6B93SEDTlERSQI8mwt4fz9bt0-auJCX8VmLJdAgjo-Si5bdBnDbPkdGw-HPqmukXz-JSNOLRoQ&ved=2ahUKEwj71LSkuYGXAxXUrpUCHVI5HwQQ8NMDegQIQhAW
+      - navigation
+    - contentinfo [ref=f141e625]:
+      - heading "Footer Links" [level=1] [ref=f141e626]
+      - generic [ref=f141e630]:
+        - generic [ref=f141e634]:
+          - button "Pacific Beach, San Diego, CA - From your IP address" [ref=f141e636] [cursor=pointer]:
+            - generic [ref=f141e637]: Pacific Beach, San Diego, CA
+            - generic [ref=f141e639]:
+              - text: "-"
+              - generic [ref=f141e640]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f141e642] [cursor=pointer]
+        - generic [ref=f141e645]:
+          - link "Help" [ref=f141e646] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=f141e647] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f141e648] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f141e649] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

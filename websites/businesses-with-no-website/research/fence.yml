@@ -1,0 +1,424 @@
+- generic "Google Maps" [ref=f72e9]:
+  - generic [ref=f72e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f72e10]
+    - search [ref=f72e15]:
+      - generic [ref=f72e16]:
+        - combobox [ref=f72e18]: fence contractor san diego ca
+        - button "Search" [ref=f72e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f72e21]: 
+        - button "Close" [ref=f72e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f72e24]: 
+    - region "Available filters for this search" [ref=f72e31]:
+      - generic [ref=f72e34]:
+        - button "Rating" [ref=f72e36] [cursor=pointer]:
+          - generic [ref=f72e37]:
+            - generic [aria-hidden] [ref=f72e38]: 
+            - generic [ref=f72e39]: Rating
+            - generic [aria-hidden] [ref=f72e40]: 
+        - button "Hours" [ref=f72e42] [cursor=pointer]:
+          - generic [ref=f72e43]:
+            - generic [aria-hidden] [ref=f72e44]: 
+            - generic [ref=f72e45]: Hours
+            - generic [aria-hidden] [ref=f72e46]: 
+        - button "All filters" [ref=f72e48] [cursor=pointer]:
+          - generic [ref=f72e49]:
+            - generic [aria-hidden] [ref=f72e50]: 
+            - generic [ref=f72e51]: All filters
+    - generic [ref=f72e52]:
+      - generic [ref=f72e53]:
+        - list [ref=f72e55]:
+          - listitem [ref=f72e56]:
+            - button "Menu" [ref=f72e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f72e59]: 
+          - listitem [ref=f72e60]:
+            - button "Saved" [ref=f72e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f72e63]: 
+          - listitem [ref=f72e66]:
+            - button "Recents" [disabled] [ref=f72e67]:
+              - generic [aria-hidden] [ref=f72e69]: 
+          - listitem [ref=f72e73]:
+            - button "Get app" [ref=f72e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f72e76]: 
+        - main [ref=f72e83]:
+          - generic [ref=f72e84]:
+            - feed "Results for fence contractor san diego ca" [ref=f72e85]:
+              - generic [ref=f72e86]:
+                - generic [ref=f72e88]:
+                  - heading "Results" [level=1] [ref=f72e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f72e93]:
+                    - generic [aria-hidden] [ref=f72e97]: 
+                - button "Share" [ref=f72e101]:
+                  - generic [ref=f72e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f72e103]: 
+                    - generic [ref=f72e104]: Share
+              - article [ref=f72e106]:
+                - link "VFM - Aluminum and Vinyl Fences Gates Rails and Patio Covers" [ref=f72e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/VFM+-+Aluminum+and+Vinyl+Fences+Gates+Rails+and+Patio+Covers/data=!4m7!3m6!1s0x80dbff810b279209:0x406a73930e792731!8m2!3d32.831918!4d-117.133061!16s%2Fg%2F11q9g24g6v!19sChIJCZInC4H_24ARMSd5DpNzakA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f72e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f72e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: VFM - Aluminum and Vinyl Fences Gates Rails and Patio Covers
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 185 Reviews": 4.9(185)
+                            - generic:
+                              - generic:
+                                - generic: Fence contractor
+                                - generic: · 9072 Clairemont Mesa Boulevard
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 413-9095
+                    - generic:
+                      - link "Visit VFM - Aluminum and Vinyl Fences Gates Rails and Patio Covers's website" [ref=f72e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwiAhJafuIGXAxWGJkQIHSC5EP4YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIgISWn7iBlwMVhiZECB0guRD-EBAYASAAEgLyL_D_BwE&cid=CAAS0wHkaITXatWD7K3r1qAX2TS4q0BrlZRki2OJxabTPY3CpkJFp7Rjbwn2sExRpttaEi_iUrx0EYh6lJLcaPlJHEqbADvJ429BvbL1x4vrFR0eTJANY7mz5Fb6bYEYqjAzKkK54am1lvmouxS9-uZoPg5XkeimnT28-4lx4-QUnDYYd80AlMVZnLYtYK9omvTOTW2i65J_v0aQJVHdiMwJC-Btud5edy15Efvi8FuQT57IweHjOlzy3IiIe2zSyMtQPM55o076FDyLN9CnojuSXWttV7lN&cce=2&category=acrcp_v1_32&sig=AOD64_2V2UiI6kKFmQls1GH46alOMWUTRw&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f72e113]: 
+                        - generic [ref=f72e114]: Website
+                      - button "Get directions to VFM - Aluminum and Vinyl Fences Gates Rails and Patio Covers" [ref=f72e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e117]: 
+                        - generic [ref=f72e118]: Directions
+                  - link "Ad · Exclusive Vendor Services · Get A New Aluminum <b>Fence</b> Installed By Experts Today. Call Now For A Expert Consultation. · Visit Site · vfmvinyl.com" [ref=f72e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiAhJafuIGXAxWGJkQIHSC5EP4YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIgISWn7iBlwMVhiZECB0guRD-EBAYASAAEgLyL_D_BwE&cid=CAAS0wHkaITXatWD7K3r1qAX2TS4q0BrlZRki2OJxabTPY3CpkJFp7Rjbwn2sExRpttaEi_iUrx0EYh6lJLcaPlJHEqbADvJ429BvbL1x4vrFR0eTJANY7mz5Fb6bYEYqjAzKkK54am1lvmouxS9-uZoPg5XkeimnT28-4lx4-QUnDYYd80AlMVZnLYtYK9omvTOTW2i65J_v0aQJVHdiMwJC-Btud5edy15Efvi8FuQT57IweHjOlzy3IiIe2zSyMtQPM55o076FDyLN9CnojuSXWttV7lN&cce=2&category=acrcp_v1_32&sig=AOD64_2V2UiI6kKFmQls1GH46alOMWUTRw&adurl=&rct=j&nis=5
+                    - generic [ref=f72e125]:
+                      - generic [ref=f72e126]:
+                        - generic [ref=f72e127]: Exclusive Vendor Services
+                        - generic [ref=f72e128]: Get A New Aluminum Fence Installed By Experts Today. Call Now For A Expert Consultation.
+                      - generic [ref=f72e129]: Visit Site
+              - article [ref=f72e134]:
+                - link "Access Masters Inc" [ref=f72e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Access+Masters+Inc/data=!4m7!3m6!1s0x80dc01c6d03879df:0x2178dcb6bcf787df!8m2!3d32.8223317!4d-117.1995686!16s%2Fg%2F11hfg_1j11!19sChIJ33k40MYB3IAR34f3vLbceCE?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Access Masters Inc
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 26 Reviews": 4.8(26)
+                            - generic:
+                              - generic:
+                                - generic: Fence contractor
+                                - generic: · 4395 Donald Ave
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 375-2205
+                    - generic:
+                      - link "Visit Access Masters Inc's website" [ref=f72e137] [cursor=pointer]:
+                        - /url: https://accessmastersinc.com/
+                        - generic [aria-hidden] [ref=f72e139]: 
+                        - generic [ref=f72e140]: Website
+                      - button "Get directions to Access Masters Inc" [ref=f72e141] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e143]: 
+                        - generic [ref=f72e144]: Directions
+              - article [ref=f72e147]:
+                - link "VFM - Aluminum and Vinyl Fences Gates Rails and Patio Covers" [ref=f72e148] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/VFM+-+Aluminum+and+Vinyl+Fences+Gates+Rails+and+Patio+Covers/data=!4m7!3m6!1s0x80dbff810b279209:0x406a73930e792731!8m2!3d32.8319183!4d-117.1330608!16s%2Fg%2F11q9g24g6v!19sChIJCZInC4H_24ARMSd5DpNzakA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: VFM - Aluminum and Vinyl Fences Gates Rails and Patio Covers
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 185 Reviews": 4.9(185)
+                            - generic:
+                              - generic:
+                                - generic: Fence contractor
+                                - generic: · 9072 Clairemont Mesa Blvd
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 413-9011
+                    - generic:
+                      - link "Visit VFM - Aluminum and Vinyl Fences Gates Rails and Patio Covers's website" [ref=f72e150] [cursor=pointer]:
+                        - /url: https://www.vfmvinyl.com/
+                        - generic [aria-hidden] [ref=f72e152]: 
+                        - generic [ref=f72e153]: Website
+                      - button "Get directions to VFM - Aluminum and Vinyl Fences Gates Rails and Patio Covers" [ref=f72e154] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e156]: 
+                        - generic [ref=f72e157]: Directions
+                  - link [ref=f72e158] [cursor=pointer]:
+                    - /url: https://clienthub.getjobber.com/hubs/fafe81f9-9f65-4931-beeb-4f3ef833aedb/public/requests/890642/new?rwg_token=AE37R_joI9K1nfvu0BiawEWio1KeoRZvAkRUMHVRp0N-nbrsZGTkhCjeIkH1YjJ_kZw8p-ShzGlONFPgFcJVfmEPNshzyRNBCg%3D%3D
+                    - generic [ref=f72e159]:
+                      - generic [aria-hidden] [ref=f72e160]: 
+                      - text: Book online
+              - article [ref=f72e163]:
+                - link "Coastal Fence" [ref=f72e164] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Coastal+Fence/data=!4m7!3m6!1s0x80deabdad289ec15:0xc2c446387beac91a!8m2!3d32.7664987!4d-117.1821267!16s%2Fg%2F11nvksz8xb!19sChIJFeyJ0tqr3oARGsnqezhGxMI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Coastal Fence
+                            - generic: No reviews
+                            - generic:
+                              - generic:
+                                - generic: Fence contractor
+                                - generic: · 6202 Friars Rd
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (619) 765-8722
+                    - generic:
+                      - link "Visit Coastal Fence's website" [ref=f72e166] [cursor=pointer]:
+                        - /url: https://www.coastal-fence.com/
+                        - generic [aria-hidden] [ref=f72e168]: 
+                        - generic [ref=f72e169]: Website
+                      - button "Get directions to Coastal Fence" [ref=f72e170] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e172]: 
+                        - generic [ref=f72e173]: Directions
+              - article [ref=f72e176]:
+                - link "Bear Fence & Custom Iron Works" [ref=f72e177] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Bear+Fence+%26+Custom+Iron+Works/data=!4m7!3m6!1s0x80dc010794cf104f:0x931b3681a2ba7f61!8m2!3d32.8078842!4d-117.2159498!16s%2Fg%2F126491scp!19sChIJTxDPlAcB3IARYX-6ooE2G5M?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Bear Fence & Custom Iron Works
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "3.8 stars 20 Reviews": 3.8(20)
+                            - generic:
+                              - generic:
+                                - generic: Fence contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f72e179] [cursor=pointer]:
+                                    - generic [ref=f72e180]: 
+                                - generic: · 4626 Santa Fe St
+                              - generic:
+                                - generic: Closed · Opens 6:30 AM Tue
+                                - generic: · (619) 276-2004
+                    - generic:
+                      - link "Visit Bear Fence & Custom Iron Works's website" [ref=f72e181] [cursor=pointer]:
+                        - /url: http://www.bearfence.com/
+                        - generic [aria-hidden] [ref=f72e183]: 
+                        - generic [ref=f72e184]: Website
+                      - button "Get directions to Bear Fence & Custom Iron Works" [ref=f72e185] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e187]: 
+                        - generic [ref=f72e188]: Directions
+              - article [ref=f72e191]:
+                - link "Superior Fence & Rail of North San Diego" [ref=f72e192] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Superior+Fence+%26+Rail+of+North+San+Diego/data=!4m7!3m6!1s0x80d951a5e0e6fa67:0x6ce5de5b496b8772!8m2!3d32.7182758!4d-117.0027997!16s%2Fg%2F11s8zn6zx6!19sChIJZ_rm4KVR2YARcodrSVve5Ww?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Superior Fence & Rail of North San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 112 Reviews": 4.9(112)
+                            - generic:
+                              - generic:
+                                - generic: Fence contractor
+                                - generic: · 9143 Harness St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 359-8680
+                    - generic:
+                      - link "Visit Superior Fence & Rail of North San Diego's website" [ref=f72e194] [cursor=pointer]:
+                        - /url: https://www.superiorfenceandrail.com/north-san-diego/?utm_source=GMB&utm_medium=location&utm_campaign=SFR-North-San-Diego-GMB&utm_content=url-7-6-22
+                        - generic [aria-hidden] [ref=f72e196]: 
+                        - generic [ref=f72e197]: Website
+                      - button "Get directions to Superior Fence & Rail of North San Diego" [ref=f72e198] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e200]: 
+                        - generic [ref=f72e201]: Directions
+              - article [ref=f72e204]:
+                - link "Best Gates & Fence" [ref=f72e205] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Best+Gates+%26+Fence/data=!4m7!3m6!1s0x80d9530d184a9c59:0x5fc008ef291d9073!8m2!3d32.7065017!4d-117.134723!16s%2Fg%2F11n51lrl4r!19sChIJWZxKGA1T2YARc5AdKe8IwF8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Best Gates & Fence
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 3 Reviews": 5.0(3)
+                            - generic:
+                              - generic:
+                                - generic: Fence contractor
+                                - generic: · 2752 Imperial Ave
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 779-2113
+                    - generic:
+                      - link "Visit Best Gates & Fence's website" [ref=f72e207] [cursor=pointer]:
+                        - /url: https://www.instagram.com/best_gateandfence?igsh=NTc4MTIwNjQ2YQ==&utm_source=qr
+                        - generic [aria-hidden] [ref=f72e209]: 
+                        - generic [ref=f72e210]: Website
+                      - button "Get directions to Best Gates & Fence" [ref=f72e211] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e213]: 
+                        - generic [ref=f72e214]: Directions
+              - article [ref=f72e217]:
+                - link "So Cal Fence" [ref=f72e218] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/So+Cal+Fence/data=!4m7!3m6!1s0x80d955e66431fd35:0xa6b8b5f83a27e068!8m2!3d32.7985684!4d-117.0887538!16s%2Fg%2F11c6prd_x7!19sChIJNf0xZOZV2YARaOAnOvi1uKY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: So Cal Fence
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 13 Reviews": 4.9(13)
+                            - generic:
+                              - generic:
+                                - generic: Fence contractor
+                                - generic: · 4872 Alfred Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 917-8363
+                    - generic:
+                      - link "Visit So Cal Fence's website" [ref=f72e220] [cursor=pointer]:
+                        - /url: http://socalfencesd.com/
+                        - generic [aria-hidden] [ref=f72e222]: 
+                        - generic [ref=f72e223]: Website
+                      - button "Get directions to So Cal Fence" [ref=f72e224] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e226]: 
+                        - generic [ref=f72e227]: Directions
+              - article [ref=f72e230]:
+                - link "Ergeon" [ref=f72e231] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ergeon/data=!4m7!3m6!1s0x80deab35dc817443:0x8e926df9257614d7!8m2!3d33.0172666!4d-116.8460104!16s%2Fg%2F11szbr9r_q!19sChIJQ3SB3DWr3oAR1xR2Jfltko4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ergeon
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 273 Reviews": 4.9(273)
+                            - generic:
+                              - generic: Fence contractor
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 374-7780
+                    - generic:
+                      - link "Visit Ergeon's website" [ref=f72e233] [cursor=pointer]:
+                        - /url: https://www.ergeon.com/fences/cities/san-diego-county-san-diego-ca/?utm_source=google&utm_medium=website&utm_campaign=GMB-brand&utm_location=san-diego
+                        - generic [aria-hidden] [ref=f72e235]: 
+                        - generic [ref=f72e236]: Website
+                      - button "Get directions to Ergeon" [ref=f72e237] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e239]: 
+                        - generic [ref=f72e240]: Directions
+              - article [ref=f72e243]:
+                - link "Access Gates" [ref=f72e244] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Access+Gates/data=!4m7!3m6!1s0x80dc0157e5a1c82d:0xfe4fea96dc517324!8m2!3d32.8104105!4d-117.2208599!16s%2Fg%2F11q1n8nr_0!19sChIJLcih5VcB3IARJHNR3JbqT_4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Access Gates
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.4 stars 10 Reviews": 4.4(10)
+                            - generic:
+                              - generic:
+                                - generic: Fence contractor
+                                - generic: · 4855 Bella Pacific Row Unit 125
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 727-5967
+                    - generic:
+                      - link "Visit Access Gates's website" [ref=f72e246] [cursor=pointer]:
+                        - /url: http://accessgatessd.com/
+                        - generic [aria-hidden] [ref=f72e248]: 
+                        - generic [ref=f72e249]: Website
+                      - button "Get directions to Access Gates" [ref=f72e250] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e252]: 
+                        - generic [ref=f72e253]: Directions
+              - article [ref=f72e256]:
+                - link "San Diego Fencing Co" [ref=f72e257] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Fencing+Co/data=!4m7!3m6!1s0x80d9534cc3c2ef69:0x11ef9e8d1773dba6!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11h4c3v9y3!19sChIJae_Cw0xT2YARpttzF42e7xE?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Fencing Co
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.4 stars 7 Reviews": 4.4(7)
+                            - generic:
+                              - generic: Fence contractor
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (619) 765-4352
+                    - generic:
+                      - link "Visit San Diego Fencing Co's website" [ref=f72e259] [cursor=pointer]:
+                        - /url: https://sandiegofencingco.com/
+                        - generic [aria-hidden] [ref=f72e261]: 
+                        - generic [ref=f72e262]: Website
+                      - button "Get directions to San Diego Fencing Co" [ref=f72e263] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f72e265]: 
+                        - generic [ref=f72e266]: Directions
+              - generic [ref=f72e301]:
+                - generic [aria-hidden] [ref=f72e303]: 
+                - generic [ref=f72e304]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f72e305] [cursor=pointer]
+            - checkbox [ref=f72e308] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f72e310]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f72e312] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f72e313]: 
+    - generic [ref=f72e317]:
+      - button "Google apps" [ref=f72e321] [cursor=pointer]
+      - link "Sign in" [ref=f72e325] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Ffence%2Bcontractor%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f72e328] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f72e330]: 
+        - generic [ref=f72e332] [cursor=pointer]:
+          - button "Zoom in" [ref=f72e333]:
+            - generic [aria-hidden] [ref=f72e335]: 
+          - button "Zoom out" [ref=f72e336]:
+            - generic [aria-hidden] [ref=f72e338]: 
+      - button "Browse Street View images" [ref=f72e344]
+      - generic [ref=f72e346]:
+        - generic "Interactive map" [ref=f72e347]
+        - generic [ref=f72e351] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f72e352]: 
+          - generic [ref=f72e353]: Layers
+        - button "Layers" [ref=f72e354] [cursor=pointer]
+    - generic [ref=f72e356]:
+      - contentinfo [ref=f72e359]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f72e360] [cursor=pointer]
+        - button "Terms" [ref=f72e361] [cursor=pointer]
+        - button "Privacy" [ref=f72e362] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f72e363] [cursor=pointer]
+      - button "10 mi" [ref=f72e365] [cursor=pointer]

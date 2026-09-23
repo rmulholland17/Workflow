@@ -1,0 +1,417 @@
+- generic "Google Maps" [ref=f100e9]:
+  - generic [ref=f100e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f100e10]
+    - search [ref=f100e15]:
+      - generic [ref=f100e16]:
+        - combobox [ref=f100e18]: stucco repair san diego ca
+        - button "Search" [ref=f100e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f100e21]: 
+        - button "Close" [ref=f100e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f100e24]: 
+    - region "Available filters for this search" [ref=f100e31]:
+      - generic [ref=f100e34]:
+        - button "Rating" [ref=f100e36] [cursor=pointer]:
+          - generic [ref=f100e37]:
+            - generic [aria-hidden] [ref=f100e38]: 
+            - generic [ref=f100e39]: Rating
+            - generic [aria-hidden] [ref=f100e40]: 
+        - button "Hours" [ref=f100e42] [cursor=pointer]:
+          - generic [ref=f100e43]:
+            - generic [aria-hidden] [ref=f100e44]: 
+            - generic [ref=f100e45]: Hours
+            - generic [aria-hidden] [ref=f100e46]: 
+        - button "All filters" [ref=f100e48] [cursor=pointer]:
+          - generic [ref=f100e49]:
+            - generic [aria-hidden] [ref=f100e50]: 
+            - generic [ref=f100e51]: All filters
+    - generic [ref=f100e52]:
+      - generic [ref=f100e53]:
+        - list [ref=f100e55]:
+          - listitem [ref=f100e56]:
+            - button "Menu" [ref=f100e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f100e59]: 
+          - listitem [ref=f100e60]:
+            - button "Saved" [ref=f100e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f100e63]: 
+          - listitem [ref=f100e66]:
+            - button "Recents" [disabled] [ref=f100e67]:
+              - generic [aria-hidden] [ref=f100e69]: 
+          - listitem [ref=f100e73]:
+            - button "Get app" [ref=f100e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f100e76]: 
+        - main [ref=f100e83]:
+          - generic [ref=f100e84]:
+            - feed "Results for stucco repair san diego ca" [ref=f100e85]:
+              - generic [ref=f100e86]:
+                - generic [ref=f100e88]:
+                  - heading "Results" [level=1] [ref=f100e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f100e93]:
+                    - generic [aria-hidden] [ref=f100e97]: 
+                - button "Share" [ref=f100e101]:
+                  - generic [ref=f100e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f100e103]: 
+                    - generic [ref=f100e104]: Share
+              - article [ref=f100e106]:
+                - link "Stucco Repair Of San Diego" [ref=f100e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Stucco+Repair+Of+San+Diego/data=!4m7!3m6!1s0x80d955a3e51ac9af:0xaa60267ec912e283!8m2!3d32.7175226!4d-117.1560246!16s%2Fg%2F11nvkqwxcz!19sChIJr8ka5aNV2YARg-ISyX4mYKo?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Stucco Repair Of San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 2 Reviews": 5.0(2)
+                            - generic:
+                              - generic:
+                                - generic: Stucco contractor
+                                - generic: · 925 B St Ste 415
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (619) 308-1529
+                    - generic:
+                      - link "Visit Stucco Repair Of San Diego's website" [ref=f100e109] [cursor=pointer]:
+                        - /url: https://stuccorepairofsandiego.com/
+                        - generic [aria-hidden] [ref=f100e111]: 
+                        - generic [ref=f100e112]: Website
+                      - button "Get directions to Stucco Repair Of San Diego" [ref=f100e113] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e115]: 
+                        - generic [ref=f100e116]: Directions
+              - article [ref=f100e119]:
+                - link "Mike's Painting Co." [ref=f100e120] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Mike%27s+Painting+Co./data=!4m7!3m6!1s0x80dc014db1d20ebd:0xee2228be4ca3109c!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11x_j78nct!19sChIJvQ7SsU0B3IARnBCjTL4oIu4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Mike's Painting Co.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 31 Reviews": 5.0(31)
+                            - generic:
+                              - generic: Stucco contractor
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 333-0158
+                    - generic:
+                      - link "Visit Mike's Painting Co.'s website" [ref=f100e122] [cursor=pointer]:
+                        - /url: https://www.mikespaintingsd.com/
+                        - generic [aria-hidden] [ref=f100e124]: 
+                        - generic [ref=f100e125]: Website
+                      - button "Get directions to Mike's Painting Co." [ref=f100e126] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e128]: 
+                        - generic [ref=f100e129]: Directions
+              - article [ref=f100e132]:
+                - link "Sunny Coast Stucco" [ref=f100e133] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Sunny+Coast+Stucco/data=!4m7!3m6!1s0x80d955e188c9e3cb:0x3b48d6ddde5f9f66!8m2!3d32.7627464!4d-117.1067266!16s%2Fg%2F11mvv6m2dt!19sChIJy-PJiOFV2YARZp9f3t3WSDs?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Sunny Coast Stucco
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 123 Reviews": 5.0(123)
+                            - generic:
+                              - generic: Stucco contractor
+                              - generic:
+                                - generic: Closed · Opens 8:30 AM Tue
+                                - generic: · (619) 230-5203
+                    - generic:
+                      - link "Visit Sunny Coast Stucco's website" [ref=f100e135] [cursor=pointer]:
+                        - /url: https://sunnycoaststucco.com/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing
+                        - generic [aria-hidden] [ref=f100e137]: 
+                        - generic [ref=f100e138]: Website
+                      - button "Get directions to Sunny Coast Stucco" [ref=f100e139] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e141]: 
+                        - generic [ref=f100e142]: Directions
+              - article [ref=f100e145]:
+                - link "MR. STUCCO MAN, INC" [ref=f100e146] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/MR.+STUCCO+MAN,+INC/data=!4m7!3m6!1s0x80d95bd2ce28f61d:0x3405de059f273157!8m2!3d32.9173924!4d-117.0465175!16s%2Fg%2F11fzw5kh6_!19sChIJHfYoztJb2YARVzEnnwXeBTQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: MR. STUCCO MAN, INC
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 17 Reviews": 4.7(17)
+                            - generic:
+                              - generic: Stucco contractor
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (877) 755-5694
+                    - generic:
+                      - link "Visit MR. STUCCO MAN, INC's website" [ref=f100e148] [cursor=pointer]:
+                        - /url: http://www.mrstuccoman.com/
+                        - generic [aria-hidden] [ref=f100e150]: 
+                        - generic [ref=f100e151]: Website
+                      - button "Get directions to MR. STUCCO MAN, INC" [ref=f100e152] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e154]: 
+                        - generic [ref=f100e155]: Directions
+              - article [ref=f100e158]:
+                - link "Lemon Grove Stucco Inc" [ref=f100e159] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Lemon+Grove+Stucco+Inc/data=!4m7!3m6!1s0x80d9502f50762fd1:0x96b141d61253389f!8m2!3d32.7140913!4d-117.0151794!16s%2Fg%2F11b778pn2d!19sChIJ0S92UC9Q2YARnzhTEtZBsZY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Lemon Grove Stucco Inc
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 73 Reviews": 4.8(73)
+                            - generic:
+                              - generic:
+                                - generic: Stucco contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f100e161] [cursor=pointer]:
+                                    - generic [ref=f100e162]: 
+                                - generic: · 1057 Elkelton Blvd
+                              - generic:
+                                - generic: Closed · Opens 8:30 AM Tue
+                                - generic: · (619) 482-0022
+                    - generic:
+                      - link "Visit Lemon Grove Stucco Inc's website" [ref=f100e163] [cursor=pointer]:
+                        - /url: https://lemongrovestucco.com/
+                        - generic [aria-hidden] [ref=f100e165]: 
+                        - generic [ref=f100e166]: Website
+                      - button "Get directions to Lemon Grove Stucco Inc" [ref=f100e167] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e169]: 
+                        - generic [ref=f100e170]: Directions
+              - article [ref=f100e173]:
+                - link "J Brown Painting" [ref=f100e174] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/J+Brown+Painting/data=!4m7!3m6!1s0x80dc01f4e3f268f5:0xb6127fa7d7db884c!8m2!3d32.8041222!4d-117.2334673!16s%2Fg%2F11ghfrm9p9!19sChIJ9Wjy4_QB3IARTIjb16d_ErY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: J Brown Painting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 286 Reviews": 5.0(286)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 2037 Diamond St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 356-0830
+                    - generic:
+                      - link "Visit J Brown Painting's website" [ref=f100e176] [cursor=pointer]:
+                        - /url: https://www.jbrownpainting.com/
+                        - generic [aria-hidden] [ref=f100e178]: 
+                        - generic [ref=f100e179]: Website
+                      - button "Get directions to J Brown Painting" [ref=f100e180] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e182]: 
+                        - generic [ref=f100e183]: Directions
+              - article [ref=f100e186]:
+                - link "Ground Up Construction Management Inc." [ref=f100e187] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ground+Up+Construction+Management+Inc./data=!4m7!3m6!1s0x4028dbbe5513fb4b:0xe8135e6b9aae1356!8m2!3d32.8050933!4d-117.2213224!16s%2Fg%2F11vhg0zj66!19sChIJS_sTVb7bKEARVhOummteE-g?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ground Up Construction Management Inc.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 56 Reviews": 5.0(56)
+                            - generic:
+                              - generic:
+                                - generic: Contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f100e189] [cursor=pointer]:
+                                    - generic [ref=f100e190]: 
+                                - generic: · 4560 Bond St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (760) 642-6490
+                    - generic:
+                      - link "Visit Ground Up Construction Management Inc.'s website" [ref=f100e191] [cursor=pointer]:
+                        - /url: https://builtbygroundup.com/
+                        - generic [aria-hidden] [ref=f100e193]: 
+                        - generic [ref=f100e194]: Website
+                      - button "Get directions to Ground Up Construction Management Inc." [ref=f100e195] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e197]: 
+                        - generic [ref=f100e198]: Directions
+              - article [ref=f100e201]:
+                - link "El Cajon Stucco & Plastering" [ref=f100e202] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/El+Cajon+Stucco+%26+Plastering/data=!4m7!3m6!1s0x80d95900bd6d1b85:0xd06281c0c07cf45a!8m2!3d32.8173197!4d-116.9751185!16s%2Fg%2F11n56x03rv!19sChIJhRttvQBZ2YARWvR8wMCBYtA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: El Cajon Stucco & Plastering
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 10 Reviews": 4.9(10)
+                            - generic:
+                              - generic:
+                                - generic: Stucco contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f100e204] [cursor=pointer]:
+                                    - generic [ref=f100e205]: 
+                                - generic: · 1080 W Bradley Ave
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 389-2447
+                    - generic:
+                      - link "Visit El Cajon Stucco & Plastering's website" [ref=f100e206] [cursor=pointer]:
+                        - /url: http://elcajonstucco.com/
+                        - generic [aria-hidden] [ref=f100e208]: 
+                        - generic [ref=f100e209]: Website
+                      - button "Get directions to El Cajon Stucco & Plastering" [ref=f100e210] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e212]: 
+                        - generic [ref=f100e213]: Directions
+              - article [ref=f100e216]:
+                - link "JRP Plastering & Stucco" [ref=f100e217] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/JRP+Plastering+%26+Stucco/data=!4m7!3m6!1s0x80dc00deaaaaaaab:0x6223c571591dbed5!8m2!3d32.8563846!4d-117.2029363!16s%2Fg%2F1vxcwq9g!19sChIJq6qqqt4A3IAR1b4dWXHFI2I?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: JRP Plastering & Stucco
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "3.7 stars 7 Reviews": 3.7(7)
+                            - generic:
+                              - generic: Stucco contractor
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (760) 727-4217
+                    - button "Get directions to JRP Plastering & Stucco" [ref=f100e219] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f100e221]: 
+                      - generic [ref=f100e222]: Directions
+              - article [ref=f100e225]:
+                - link "Apptek Stucco" [ref=f100e226] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Apptek+Stucco/data=!4m7!3m6!1s0x80dcf01abb635385:0x5baef38fc66ae886!8m2!3d32.9110771!4d-117.2315558!16s%2Fg%2F1hhhz8l88!19sChIJhVNjuxrw3IARhuhqxo_zrls?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Apptek Stucco
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 13 Reviews": 4.7(13)
+                            - generic:
+                              - generic:
+                                - generic: Stucco contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f100e228] [cursor=pointer]:
+                                    - generic [ref=f100e229]: 
+                                - generic: · 11526 Sorrento Valley Rd B-3
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 875-1850
+                    - generic:
+                      - link "Visit Apptek Stucco's website" [ref=f100e230] [cursor=pointer]:
+                        - /url: http://www.apptekstucco.com/
+                        - generic [aria-hidden] [ref=f100e232]: 
+                        - generic [ref=f100e233]: Website
+                      - button "Get directions to Apptek Stucco" [ref=f100e234] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e236]: 
+                        - generic [ref=f100e237]: Directions
+              - article [ref=f100e240]:
+                - link "La Mesa Stucco & Plastering" [ref=f100e241] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/La+Mesa+Stucco+%26+Plastering/data=!4m7!3m6!1s0x80d957578dc91c51:0xaa11ac58e1530454!8m2!3d32.7735389!4d-117.0270152!16s%2Fg%2F11z10mvczj!19sChIJURzJjVdX2YARVART4VisEao?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: La Mesa Stucco & Plastering
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 11 Reviews": 5.0(11)
+                            - generic:
+                              - generic:
+                                - generic: Stucco contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f100e243] [cursor=pointer]:
+                                    - generic [ref=f100e244]: 
+                                - generic: · 5175 Baltimore Dr
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 651-9104
+                    - generic:
+                      - link "Visit La Mesa Stucco & Plastering's website" [ref=f100e245] [cursor=pointer]:
+                        - /url: http://lamesastucco.com/
+                        - generic [aria-hidden] [ref=f100e247]: 
+                        - generic [ref=f100e248]: Website
+                      - button "Get directions to La Mesa Stucco & Plastering" [ref=f100e249] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f100e251]: 
+                        - generic [ref=f100e252]: Directions
+              - generic [ref=f100e287]:
+                - generic [aria-hidden] [ref=f100e289]: 
+                - generic [ref=f100e290]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f100e291] [cursor=pointer]
+            - checkbox [ref=f100e294] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f100e296]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f100e298] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f100e299]: 
+    - generic [ref=f100e303]:
+      - button "Google apps" [ref=f100e307] [cursor=pointer]
+      - link "Sign in" [ref=f100e311] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fstucco%2Brepair%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f100e314] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f100e316]: 
+        - generic [ref=f100e318] [cursor=pointer]:
+          - button "Zoom in" [ref=f100e319]:
+            - generic [aria-hidden] [ref=f100e321]: 
+          - button "Zoom out" [ref=f100e322]:
+            - generic [aria-hidden] [ref=f100e324]: 
+      - button "Browse Street View images" [ref=f100e330]
+      - generic [ref=f100e332]:
+        - generic "Interactive map" [ref=f100e333]
+        - generic [ref=f100e337] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f100e338]: 
+          - generic [ref=f100e339]: Layers
+        - button "Layers" [ref=f100e340] [cursor=pointer]
+    - generic [ref=f100e342]:
+      - contentinfo [ref=f100e345]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f100e346] [cursor=pointer]
+        - button "Terms" [ref=f100e347] [cursor=pointer]
+        - button "Privacy" [ref=f100e348] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f100e349] [cursor=pointer]
+      - button "5 mi" [ref=f100e351] [cursor=pointer]

@@ -1,0 +1,245 @@
+- generic "Google Maps" [ref=f168e9]:
+  - generic [ref=f168e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f168e10]
+    - search [ref=f168e15]:
+      - generic [ref=f168e16]:
+        - combobox [ref=f168e18]: Maria's House Cleaning Service San Diego CA 92117
+        - button "Search" [ref=f168e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f168e21]: 
+        - button "Close" [ref=f168e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f168e24]: 
+    - region "Available filters for this search" [ref=f168e31]:
+      - generic [ref=f168e34]:
+        - button "Rating" [ref=f168e36] [cursor=pointer]:
+          - generic [ref=f168e37]:
+            - generic [aria-hidden] [ref=f168e38]: 
+            - generic [ref=f168e39]: Rating
+            - generic [aria-hidden] [ref=f168e40]: 
+        - button "Hours" [ref=f168e42] [cursor=pointer]:
+          - generic [ref=f168e43]:
+            - generic [aria-hidden] [ref=f168e44]: 
+            - generic [ref=f168e45]: Hours
+            - generic [aria-hidden] [ref=f168e46]: 
+        - button "All filters" [ref=f168e48] [cursor=pointer]:
+          - generic [ref=f168e49]:
+            - generic [aria-hidden] [ref=f168e50]: 
+            - generic [ref=f168e51]: All filters
+    - generic [ref=f168e52]:
+      - generic [ref=f168e53]:
+        - list [ref=f168e55]:
+          - listitem [ref=f168e56]:
+            - button "Menu" [ref=f168e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f168e59]: 
+          - listitem [ref=f168e60]:
+            - button "Saved" [ref=f168e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f168e63]: 
+          - listitem [ref=f168e66]:
+            - button "Recents" [disabled] [ref=f168e67]:
+              - generic [aria-hidden] [ref=f168e69]: 
+          - listitem [ref=f168e73]:
+            - button "Get app" [ref=f168e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f168e76]: 
+        - main [ref=f168e83]:
+          - generic [ref=f168e84]:
+            - feed "Results for Maria's House Cleaning Service San Diego CA 92117" [ref=f168e85]:
+              - generic [ref=f168e86]:
+                - generic [ref=f168e88]:
+                  - heading "Results" [level=1] [ref=f168e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f168e93]:
+                    - generic [aria-hidden] [ref=f168e97]: 
+                - button "Share" [ref=f168e101]:
+                  - generic [ref=f168e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f168e103]: 
+                    - generic [ref=f168e104]: Share
+              - article [ref=f168e106]:
+                - link "PuroClean of Clairemont" [ref=f168e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/PuroClean+of+Clairemont/data=!4m7!3m6!1s0x80dbff1c8319e089:0xfcfe2889d78b2faa!8m2!3d32.836995!4d-117.140116!16s%2Fg%2F11ns5t0xq2!19sChIJieAZgxz_24ARqi-L14ko_vw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f168e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f168e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: PuroClean of Clairemont
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 141 Reviews": 5.0(141)
+                            - generic:
+                              - generic:
+                                - generic: Water damage restoration service
+                                - generic: · 5555 Magnatron Boulevard
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 869-1313
+                    - generic:
+                      - link "Visit PuroClean of Clairemont's website" [ref=f168e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjS_dGNuoGXAxX6IkQIHQRwBsYYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI0v3RjbqBlwMV-iJECB0EcAbGEBAYASAAEgJ-SPD_BwE&cid=CAAS0wHkaJrdfL5EvWYNop_EbZyblZ-MXArHobQ8XZVv-Y9VWst4RDa2rMFEqZ498K8JGRx7x7dgOVxPJI18s0Ezj9WS4GIgz2lqVFAQigY4yH-WPZM6n9K8qXfC5OOkkAIa4jKvwDbp4xYsnwwqYgIk7dCXRAY9PXjuL0g-vFP98rlgD3X4oEEUVR-CR0R6EKTHpMo49KMvzRVGAMgB70I02LzsAe3IuYPWC9r8pOF-L9d_x4a9JB4poyVw046PnnI-6caeCLOnrvsmQWDuqLhdqTuby0yL&cce=2&category=acrcp_v1_32&sig=AOD64_1crFHu_KN0mXEukSZSXpa633SuKw&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f168e113]: 
+                        - generic [ref=f168e114]: Website
+                      - button "Get directions to PuroClean of Clairemont" [ref=f168e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f168e117]: 
+                        - generic [ref=f168e118]: Directions
+                  - link "Ad · Mold Restoration Services · We Provide Water Damage Remediation <b>Services</b>. · Visit Site · puroclean.com" [ref=f168e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjS_dGNuoGXAxX6IkQIHQRwBsYYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI0v3RjbqBlwMV-iJECB0EcAbGEBAYASAAEgJ-SPD_BwE&cid=CAAS0wHkaJrdfL5EvWYNop_EbZyblZ-MXArHobQ8XZVv-Y9VWst4RDa2rMFEqZ498K8JGRx7x7dgOVxPJI18s0Ezj9WS4GIgz2lqVFAQigY4yH-WPZM6n9K8qXfC5OOkkAIa4jKvwDbp4xYsnwwqYgIk7dCXRAY9PXjuL0g-vFP98rlgD3X4oEEUVR-CR0R6EKTHpMo49KMvzRVGAMgB70I02LzsAe3IuYPWC9r8pOF-L9d_x4a9JB4poyVw046PnnI-6caeCLOnrvsmQWDuqLhdqTuby0yL&cce=2&category=acrcp_v1_32&sig=AOD64_1crFHu_KN0mXEukSZSXpa633SuKw&adurl=&rct=j&nis=5
+                    - generic [ref=f168e125]:
+                      - generic [ref=f168e126]:
+                        - generic [ref=f168e127]: Mold Restoration Services
+                        - generic [ref=f168e128]: We Provide Water Damage Remediation Services.
+                      - generic [ref=f168e129]: Visit Site
+              - article [ref=f168e134]:
+                - link "MOM MARIA’S ClEANING SERVICES" [ref=f168e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/MOM+MARIA%E2%80%99S+ClEANING+SERVICES/data=!4m7!3m6!1s0x8749183f8614ea23:0x96a515c89314cd63!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11m6yjv5hc!19sChIJI-oUhj8YSYcRY80Uk8gVpZY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: MOM MARIA’S ClEANING SERVICES
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 4 Reviews": 5.0(4)
+                            - generic:
+                              - generic: House cleaning service
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (619) 851-8024
+                    - button "Get directions to MOM MARIA’S ClEANING SERVICES" [ref=f168e137] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f168e139]: 
+                      - generic [ref=f168e140]: Directions
+              - article [ref=f168e143]:
+                - link "Nick and Maria's Cleaning Services" [ref=f168e144] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Nick+and+Maria%27s+Cleaning+Services/data=!4m7!3m6!1s0xaa984fd3a8d95cb7:0x41bd2afabb1f5a76!8m2!3d32.8242556!4d-117.10776!16s%2Fg%2F11m6r0t8h0!19sChIJt1zZqNNPmKoRdlofu_oqvUE?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Nick and Maria's Cleaning Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 28 Reviews": 5.0(28)
+                            - generic:
+                              - generic: House cleaning service
+                              - generic:
+                                - generic: Closed · Opens 5 AM Tue
+                                - generic: · (619) 799-3195
+                    - generic:
+                      - link "Visit Nick and Maria's Cleaning Services's website" [ref=f168e146] [cursor=pointer]:
+                        - /url: https://nickandmariascleaningservice.com/
+                        - generic [aria-hidden] [ref=f168e148]: 
+                        - generic [ref=f168e149]: Website
+                      - button "Get directions to Nick and Maria's Cleaning Services" [ref=f168e150] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f168e152]: 
+                        - generic [ref=f168e153]: Directions
+              - article [ref=f168e156]:
+                - link "Maid 2 Clean San Diego" [ref=f168e157] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Maid+2+Clean+San+Diego/data=!4m7!3m6!1s0x80d955bad4edb6c9:0xe6213f8119a9a526!8m2!3d32.8284325!4d-117.1695111!16s%2Fg%2F11qnvdwkg0!19sChIJybbt1LpV2YARJqWpGYE_IeY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Maid 2 Clean San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 726 Reviews": 5.0(726)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 4745 Printwood Ct
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 461-8680
+                    - generic:
+                      - link "Visit Maid 2 Clean San Diego's website" [ref=f168e159] [cursor=pointer]:
+                        - /url: https://www.maid2cleansd.com/
+                        - generic [aria-hidden] [ref=f168e161]: 
+                        - generic [ref=f168e162]: Website
+                      - button "Get directions to Maid 2 Clean San Diego" [ref=f168e163] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f168e165]: 
+                        - generic [ref=f168e166]: Directions
+              - article [ref=f168e169]:
+                - link "The Cleaning Authority - San Diego" [ref=f168e170] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/The+Cleaning+Authority+-+San+Diego/data=!4m7!3m6!1s0x80dc003ee736dc2f:0xdd99b26b35874536!8m2!3d32.8069935!4d-117.2013458!16s%2Fg%2F11b6hzp_0d!19sChIJL9w25z4A3IARNkWHNWuymd0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: The Cleaning Authority - San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 330 Reviews": 4.9(330)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f168e172] [cursor=pointer]:
+                                    - generic [ref=f168e173]: 
+                                - generic: "· 3650 Clairemont Dr #7"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 633-8335
+                    - generic:
+                      - link "Visit The Cleaning Authority - San Diego's website" [ref=f168e174] [cursor=pointer]:
+                        - /url: https://www.thecleaningauthority.com/sandiego
+                        - generic [aria-hidden] [ref=f168e176]: 
+                        - generic [ref=f168e177]: Website
+                      - button "Get directions to The Cleaning Authority - San Diego" [ref=f168e178] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f168e180]: 
+                        - generic [ref=f168e181]: Directions
+              - paragraph [ref=f168e184]:
+                - generic [ref=f168e185]: You've reached the end of the list.
+              - generic [ref=f168e188]:
+                - generic [aria-hidden] [ref=f168e190]: 
+                - generic [ref=f168e191]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f168e192] [cursor=pointer]
+            - checkbox [ref=f168e195] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f168e197]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f168e199] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f168e200]: 
+    - generic [ref=f168e204]:
+      - button "Google apps" [ref=f168e208] [cursor=pointer]
+      - link "Sign in" [ref=f168e212] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2FMaria's%2BHouse%2BCleaning%2BService%2BSan%2BDiego%2BCA%2B92117%2F%4032.8242556%2C-117.10776%2C10z%2Fdata%3D!3m1!4b1%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f168e215] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f168e217]: 
+        - generic [ref=f168e219] [cursor=pointer]:
+          - button "Zoom in" [ref=f168e220]:
+            - generic [aria-hidden] [ref=f168e222]: 
+          - button "Zoom out" [ref=f168e223]:
+            - generic [aria-hidden] [ref=f168e225]: 
+      - button "Browse Street View images" [ref=f168e231]
+      - generic [ref=f168e233]:
+        - generic "Interactive map" [ref=f168e234]
+        - generic [ref=f168e238] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f168e239]: 
+          - generic [ref=f168e240]: Layers
+        - button "Layers" [ref=f168e241] [cursor=pointer]
+    - generic [ref=f168e243]:
+      - contentinfo [ref=f168e246]:
+        - text: Map data ©2026 INEGI, Google
+        - button "United States" [ref=f168e247] [cursor=pointer]
+        - button "Terms" [ref=f168e248] [cursor=pointer]
+        - button "Privacy" [ref=f168e249] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f168e250] [cursor=pointer]
+      - button "5 mi" [ref=f168e252] [cursor=pointer]

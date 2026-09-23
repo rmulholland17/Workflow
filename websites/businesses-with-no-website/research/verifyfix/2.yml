@@ -1,0 +1,300 @@
+- generic "Google Maps" [ref=f223e9]:
+  - generic [ref=f223e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f223e10]
+    - search [ref=f223e15]:
+      - generic [ref=f223e16]:
+        - combobox [ref=f223e18]: San Diego Small Moves
+        - button "Search" [ref=f223e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f223e21]: 
+        - button "Close" [ref=f223e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f223e24]: 
+    - region "Available search options for this area" [ref=f223e31]:
+      - generic [ref=f223e34]:
+        - button "Restaurants" [ref=f223e36] [cursor=pointer]:
+          - generic [ref=f223e37]:
+            - generic [aria-hidden] [ref=f223e39]: 
+            - generic [ref=f223e40]: Restaurants
+        - button "Hotels" [ref=f223e42] [cursor=pointer]:
+          - generic [ref=f223e43]:
+            - generic [aria-hidden] [ref=f223e45]: 
+            - generic [ref=f223e46]: Hotels
+        - button "Things to do" [ref=f223e48] [cursor=pointer]:
+          - generic [ref=f223e49]:
+            - generic [aria-hidden] [ref=f223e51]: 
+            - generic [ref=f223e52]: Things to do
+        - button "Transit" [ref=f223e54] [cursor=pointer]:
+          - generic [ref=f223e55]:
+            - generic [aria-hidden] [ref=f223e57]: 
+            - generic [ref=f223e58]: Transit
+        - button "Parking" [ref=f223e60] [cursor=pointer]:
+          - generic [ref=f223e61]:
+            - generic [aria-hidden] [ref=f223e63]: 
+            - generic [ref=f223e64]: Parking
+        - button "Pharmacies" [ref=f223e66] [cursor=pointer]:
+          - generic [ref=f223e67]:
+            - generic [aria-hidden] [ref=f223e69]: 
+            - generic [ref=f223e70]: Pharmacies
+        - button "ATMs" [ref=f223e72] [cursor=pointer]:
+          - generic [ref=f223e73]:
+            - generic [aria-hidden] [ref=f223e75]: 
+            - generic [ref=f223e76]: ATMs
+      - button "Next page" [ref=f223e77] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f223e78]: 
+    - generic [ref=f223e79]:
+      - generic [ref=f223e80]:
+        - list [ref=f223e82]:
+          - listitem [ref=f223e83]:
+            - button "Menu" [ref=f223e84] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f223e86]: 
+          - listitem [ref=f223e87]:
+            - button "Saved" [ref=f223e88] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f223e90]: 
+          - listitem [ref=f223e93]:
+            - button "Recents" [ref=f223e94] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f223e96]: 
+          - listitem [ref=f223e100]:
+            - button "San Diego Small Moves" [ref=f223e101] [cursor=pointer]
+          - listitem [ref=f223e109]:
+            - button "Get app" [ref=f223e110] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f223e112]: 
+        - main "San Diego Small Moves" [ref=f223e119]:
+          - generic [ref=f223e120]:
+            - generic [ref=f223e121]:
+              - button "Photo of San Diego Small Moves" [active] [ref=f223e123] [cursor=pointer]
+              - button "See photos" [ref=f223e125] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f223e126]: 
+            - generic [ref=f223e130]:
+              - heading "San Diego Small Moves" [level=1] [ref=f223e132]
+              - generic [ref=f223e134]:
+                - generic [ref=f223e136]:
+                  - generic [ref=f223e137]:
+                    - text: "4.8"
+                    - img "4.8 stars" [ref=f223e138]
+                  - img "73 reviews" [ref=f223e146]: (73)
+                - button "Mover" [ref=f223e150]
+            - tablist [ref=f223e153]:
+              - tab "Overview of San Diego Small Moves" [selected] [ref=f223e154]:
+                - generic [aria-hidden] [ref=f223e156]: Overview
+              - tab "Reviews for San Diego Small Moves" [ref=f223e158]:
+                - generic [aria-hidden] [ref=f223e160]: Reviews
+            - region "Actions for San Diego Small Moves" [ref=f223e162]:
+              - button "Save" [ref=f223e164] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f223e166]: 
+              - button "Send to phone" [ref=f223e169] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f223e171]: 
+              - button "Share" [ref=f223e174] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f223e176]: 
+            - region "Information for San Diego Small Moves" [ref=f223e180]:
+              - button "Hours Closed · Opens 8 AM Tue Show open hours for the week" [ref=f223e182] [cursor=pointer]:
+                - img "Hours" [ref=f223e183]: 
+                - generic [ref=f223e185]:
+                  - generic [ref=f223e186]: Closed · Opens 8 AM Tue
+                  - img "Show open hours for the week" [ref=f223e188]: 
+              - generic [ref=f223e189]:
+                - 'button "Phone: (619) 980-2001" [ref=f223e190] [cursor=pointer]':
+                  - generic [ref=f223e191]:
+                    - generic [aria-hidden] [ref=f223e193]: 
+                    - generic [ref=f223e194]: (619) 980-2001
+                - generic [ref=f223e196]:
+                  - button "Copy phone number" [ref=f223e198] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f223e200]: 
+                  - link "Call phone number" [ref=f223e202] [cursor=pointer]:
+                    - /url: tel:+16199802001
+                    - generic [aria-hidden] [ref=f223e204]: 
+            - button "Suggest an edit" [ref=f223e208] [cursor=pointer]:
+              - generic [ref=f223e209]:
+                - generic [aria-hidden] [ref=f223e210]: 
+                - generic [ref=f223e211]: Suggest an edit
+            - generic [ref=f223e214]:
+              - heading "Add missing information" [level=2] [ref=f223e215]
+              - button "More info" [ref=f223e216] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f223e217]: 
+            - button "Add website" [ref=f223e219]:
+              - generic [ref=f223e220]:
+                - generic [aria-hidden] [ref=f223e221]: 
+                - generic [ref=f223e222]: Add website
+            - heading "Photos" [level=2] [ref=f223e226]
+            - button "29 Photos" [ref=f223e229] [cursor=pointer]
+            - button "Add photos & videos" [ref=f223e237] [cursor=pointer]:
+              - generic [ref=f223e238]:
+                - generic [aria-hidden] [ref=f223e239]: 
+                - generic [ref=f223e240]: Add photos & videos
+            - generic [ref=f223e243]:
+              - heading "Review summary" [level=2] [ref=f223e244]
+              - button "More information about the review summary" [ref=f223e245] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f223e246]: 
+            - generic [ref=f223e248] [cursor=pointer]:
+              - table [ref=f223e250]:
+                - rowgroup [ref=f223e251]:
+                  - img "5 stars, 67 reviews" [ref=f223e252]: "5"
+                  - img "4 stars, 1 review" [ref=f223e255]: "4"
+                  - img "3 stars, 1 review" [ref=f223e258]: "3"
+                  - img "2 stars, 1 review" [ref=f223e261]: "2"
+                  - img "1 stars, 3 reviews" [ref=f223e264]: "1"
+              - generic [ref=f223e267]:
+                - generic [ref=f223e268]: "4.8"
+                - img "4.8 stars" [ref=f223e269]
+                - button "73 reviews" [ref=f223e275]
+            - button "Write a review" [ref=f223e281] [cursor=pointer]:
+              - generic [ref=f223e282]:
+                - generic [aria-hidden] [ref=f223e283]: 
+                - generic [ref=f223e284]: Write a review
+            - generic [ref=f223e287]:
+              - generic [ref=f223e289]:
+                - heading "Reviews" [level=2] [ref=f223e292]
+                - button "Search reviews" [ref=f223e295] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f223e297]: 
+              - button "Sort reviews" [ref=f223e299] [cursor=pointer]:
+                - generic [ref=f223e300]:
+                  - generic [aria-hidden] [ref=f223e301]: 
+                  - generic [ref=f223e302]: Sort
+            - radiogroup "Refine reviews" [ref=f223e303]:
+              - radio "All reviews" [checked] [ref=f223e305] [cursor=pointer]:
+                - generic [ref=f223e306]:
+                  - generic [aria-hidden] [ref=f223e307]: 
+                  - generic [ref=f223e308]: All
+              - radio "small moves, mentioned in 3 reviews" [ref=f223e310] [cursor=pointer]:
+                - generic [ref=f223e311]:
+                  - generic [ref=f223e312]: small moves
+                  - generic [ref=f223e313]: "3"
+              - radio "quick workers, mentioned in 4 reviews" [ref=f223e315] [cursor=pointer]:
+                - generic [ref=f223e316]:
+                  - generic [ref=f223e317]: quick workers
+                  - generic [ref=f223e318]: "4"
+              - radio "personable staff, mentioned in 6 reviews" [ref=f223e320] [cursor=pointer]:
+                - generic [ref=f223e321]:
+                  - generic [ref=f223e322]: personable staff
+                  - generic [ref=f223e323]: "6"
+              - radio "furniture moving, mentioned in 3 reviews" [ref=f223e325] [cursor=pointer]:
+                - generic [ref=f223e326]:
+                  - generic [ref=f223e327]: furniture moving
+                  - generic [ref=f223e328]: "3"
+              - button "View 6 more Topics" [ref=f223e330] [cursor=pointer]:
+                - generic [ref=f223e331]: "+6"
+            - generic "Molly Gavin" [ref=f223e333]:
+              - generic [ref=f223e335]:
+                - button "Photo of Molly Gavin" [ref=f223e336]
+                - generic [ref=f223e338]:
+                  - button "Molly Gavin Local Guide · 90 reviews · 131 photos" [ref=f223e340]:
+                    - generic [ref=f223e341]: Molly Gavin
+                    - generic [ref=f223e342]: Local Guide · 90 reviews · 131 photos
+                  - button "Actions for Molly Gavin's review" [ref=f223e343] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f223e345]: 
+                - generic [ref=f223e346]:
+                  - generic [ref=f223e347]:
+                    - img "5 stars" [ref=f223e348]:
+                      - generic [aria-hidden] [ref=f223e349]: 
+                      - generic [aria-hidden] [ref=f223e350]: 
+                      - generic [aria-hidden] [ref=f223e351]: 
+                      - generic [aria-hidden] [ref=f223e352]: 
+                      - generic [aria-hidden] [ref=f223e353]: 
+                    - generic [ref=f223e354]: 5 years ago
+                  - generic [ref=f223e356]:
+                    - text: San Diego Small Moves was very easy to work with, on time, professional and budget friendly. I had a small move from a storage unit to an apartment in San Diego. Alex and Mario were on time, very professional, moved all my items with care …
+                    - button "See more" [ref=f223e358] [cursor=pointer]: More
+                  - button "Photo 1 on Molly Gavin's review" [ref=f223e360] [cursor=pointer]
+                  - generic [ref=f223e361]:
+                    - button "Like" [ref=f223e362]:
+                      - generic [ref=f223e363] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f223e364]: 
+                        - generic [ref=f223e365]: Like
+                    - button "Share Molly Gavin's review." [ref=f223e367]:
+                      - generic [ref=f223e368] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f223e369]: 
+                        - generic [ref=f223e370]: Share
+            - generic "Terri Jewell" [ref=f223e374]:
+              - generic [ref=f223e376]:
+                - button "Photo of Terri Jewell" [ref=f223e377]
+                - generic [ref=f223e379]:
+                  - button "Terri Jewell 9 reviews · 4 photos" [ref=f223e381]:
+                    - generic [ref=f223e382]: Terri Jewell
+                    - generic [ref=f223e383]: 9 reviews · 4 photos
+                  - button "Actions for Terri Jewell's review" [ref=f223e384] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f223e386]: 
+                - generic [ref=f223e387]:
+                  - generic [ref=f223e388]:
+                    - img "2 stars" [ref=f223e389]:
+                      - generic [aria-hidden] [ref=f223e390]: 
+                      - generic [aria-hidden] [ref=f223e391]: 
+                      - generic [aria-hidden] [ref=f223e392]: 
+                      - generic [aria-hidden] [ref=f223e393]: 
+                      - generic [aria-hidden] [ref=f223e394]: 
+                    - generic [ref=f223e395]: 3 years ago
+                  - generic [ref=f223e397]:
+                    - text: I would love to say I had a great experience, but unfortunately not the case. The movers were on time and polite, but unfortunately, my $1k move cost an additional $1500!after the movers failed to wrap my brand new couch (2 days old) when …
+                    - button "See more" [ref=f223e399] [cursor=pointer]: More
+                  - generic [ref=f223e400]:
+                    - button "Photo 1 on Terri Jewell's review" [ref=f223e401] [cursor=pointer]
+                    - button "Photo 2 on Terri Jewell's review" [ref=f223e402] [cursor=pointer]
+                  - generic [ref=f223e403]:
+                    - button "Like" [ref=f223e404]:
+                      - generic [ref=f223e405] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f223e406]: 
+                        - generic [ref=f223e407]: Like
+                    - button "Share Terri Jewell's review." [ref=f223e409]:
+                      - generic [ref=f223e410] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f223e411]: 
+                        - generic [ref=f223e412]: Share
+            - generic "Tyler Roberts" [ref=f223e416]:
+              - generic [ref=f223e418]:
+                - button "Photo of Tyler Roberts" [ref=f223e419]
+                - generic [ref=f223e421]:
+                  - button "Tyler Roberts 6 reviews · 1 photo" [ref=f223e423]:
+                    - generic [ref=f223e424]: Tyler Roberts
+                    - generic [ref=f223e425]: 6 reviews · 1 photo
+                  - button "Actions for Tyler Roberts's review" [ref=f223e426] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f223e428]: 
+                - generic [ref=f223e429]:
+                  - generic [ref=f223e430]:
+                    - img "5 stars" [ref=f223e431]:
+                      - generic [aria-hidden] [ref=f223e432]: 
+                      - generic [aria-hidden] [ref=f223e433]: 
+                      - generic [aria-hidden] [ref=f223e434]: 
+                      - generic [aria-hidden] [ref=f223e435]: 
+                      - generic [aria-hidden] [ref=f223e436]: 
+                    - generic [ref=f223e437]: 7 years ago
+                  - generic [ref=f223e439]:
+                    - text: Alex and his crew were great to work with. They were responsive the day of the move and came prepared. Even though we had to break down furniture and move heavy pieces, the move was quick and we were able to stay within our moving budget. …
+                    - button "See more" [ref=f223e441] [cursor=pointer]: More
+                  - button "Photo 1 on Tyler Roberts's review" [ref=f223e443] [cursor=pointer]
+                  - generic [ref=f223e444]:
+                    - button "Like" [ref=f223e445]:
+                      - generic [ref=f223e446] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f223e447]: 
+                        - generic [ref=f223e448]: Like
+                    - button "Share Tyler Roberts's review." [ref=f223e450]:
+                      - generic [ref=f223e451] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f223e452]: 
+                        - generic [ref=f223e453]: Share
+            - button "More reviews (70)" [ref=f223e457]
+            - link "About this data" [ref=f223e464] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=en
+            - generic [ref=f223e469]:
+              - generic [aria-hidden] [ref=f223e471]: 
+              - generic [ref=f223e472]:
+                - text: You're seeing a limited view of Google Maps.
+                - button "See more" [ref=f223e473] [cursor=pointer]
+      - button "Collapse side panel" [ref=f223e475] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f223e476]: 
+    - generic [ref=f223e480]:
+      - button "Google apps" [ref=f223e484] [cursor=pointer]
+      - link "Sign in" [ref=f223e488] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2F%25E2%2580%258BSan%2BDiego%2BSmall%2BMoves%2Fdata%3D!4m7!3m6!1s0x80dbffdc74ba47bd%3A0x29291aecde4dc96c!8m2!3d32.9173924!4d-117.1470654!16s%252Fg%252F1hd_km2y2!19sChIJvUe6dNz_24ARbMlN3uwaKSk%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f223e491] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f223e493]: 
+        - generic [ref=f223e495] [cursor=pointer]:
+          - button "Zoom in" [ref=f223e496]:
+            - generic [aria-hidden] [ref=f223e498]: 
+          - button "Zoom out" [ref=f223e499]:
+            - generic [aria-hidden] [ref=f223e501]: 
+      - button "Browse Street View images" [ref=f223e507]
+    - generic [ref=f223e510]:
+      - contentinfo [ref=f223e513]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f223e514] [cursor=pointer]
+        - button "Terms" [ref=f223e515] [cursor=pointer]
+        - button "Privacy" [ref=f223e516] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f223e517] [cursor=pointer]
+      - button "5 mi" [ref=f223e519] [cursor=pointer]

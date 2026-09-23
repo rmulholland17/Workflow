@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Her Story — Jennifer Mulholland</title>
+<meta name="description" content="Soul guide, modern mystic, and author Jennifer Mulholland's story — from a childhood steeped in spiritual practice to decades bridging business and soul-led living." />
+<link rel="icon" type="image/png" href="assets/favicon.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/page-flip@2.0.7/dist/js/page-flip.browser.js"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          teal: { DEFAULT: '#12615F', deep: '#0B3E3D', ink: '#0E4E4D' },
+          gold: { DEFAULT: '#CE9F3E', soft: '#E4C377' },
+          cream: { DEFAULT: '#FBF7EE', card: '#FFFDF8', line: '#E7DFCC' },
+        },
+        fontFamily: {
+          serif: ['Fraunces', 'Georgia', 'serif'],
+          sans: ['Inter', 'sans-serif'],
+        },
+      }
+    }
+  }
+</script>
+<style>
+  body { font-family: 'Inter', sans-serif; background: #FBF7EE; color: #24302C; }
+  .font-serif { font-family: 'Fraunces', Georgia, serif; }
+  .eyebrow { letter-spacing: 0.22em; text-transform: uppercase; font-size: 0.72rem; font-weight: 500; }
+
+  .book { margin: 0 auto; }
+  .book .page { background: #FBF7EE; }
+  .book .page-content {
+    width: 100%; height: 100%; box-sizing: border-box;
+    padding: 2.25rem 1.75rem; display: flex; flex-direction: column;
+    justify-content: center; position: relative; overflow: hidden;
+    box-shadow: inset 0 0 0 1px #E7DFCC;
+  }
+  .book .cover-content { padding: 0; box-shadow: none; }
+  .book .cover-content--back { background: #0B3E3D; align-items: center; justify-content: center; display: flex; }
+  .book .page-content--dark { background: #0E4E4D; box-shadow: none; }
+  .page-eyebrow {
+    font-family: 'Inter', sans-serif; letter-spacing: 0.18em; text-transform: uppercase;
+    font-size: 0.65rem; font-weight: 600; color: #12615F; margin-bottom: 0.9rem;
+  }
+  .page-eyebrow--light { color: #E4C377; }
+  .page-body { font-family: 'Inter', sans-serif; font-size: 0.85rem; line-height: 1.6; color: #24302C; }
+  .page-body--light { color: rgb(251 247 238 / 0.75); margin-top: 0.75rem; }
+  .page-quote {
+    font-family: 'Fraunces', Georgia, serif; font-size: 1.25rem; line-height: 1.4; color: #FBF7EE;
+  }
+  .page-list { font-family: 'Inter', sans-serif; font-size: 0.82rem; line-height: 2; color: #24302C; list-style: none; padding: 0; }
+  .page-badges { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 1.25rem; }
+  .page-badges img { height: 1.1rem; width: auto; }
+  .page-link { font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #12615F; border-bottom: 1px solid rgb(18 97 95 / 0.4); width: fit-content; }
+  .page-number { position: absolute; bottom: 1rem; right: 1.25rem; font-size: 0.7rem; color: rgb(36 48 44 / 0.35); font-family: 'Inter', sans-serif; }
+  .page-number--light { color: rgb(251 247 238 / 0.4); }
+  .book-nav-btn {
+    width: 2.5rem; height: 2.5rem; border-radius: 9999px; border: 1px solid #E7DFCC;
+    color: #0B3E3D; font-size: 1.1rem; display: flex; align-items: center; justify-content: center;
+    background: #FFFDF8; cursor: pointer; transition: background-color .2s;
+  }
+  .book-nav-btn:hover { background: #E4C377; }
+</style>
+</head>
+<body class="antialiased">
+
+  <!-- HEADER -->
+  <header class="sticky top-0 z-50 bg-cream/95 backdrop-blur border-b border-cream-line">
+    <input type="checkbox" id="menu-toggle" class="peer hidden" />
+    <div class="max-w-7xl mx-auto px-6 lg:px-10 flex items-center justify-between h-20">
+      <a href="index.html" class="flex items-center gap-2">
+        <img src="assets/Logo.webp" alt="Jennifer Mulholland" class="h-12 w-auto" />
+      </a>
+      <nav class="hidden lg:flex items-center gap-10 text-[0.8rem] tracking-wide uppercase text-teal-deep font-medium">
+        <a href="about.html" class="text-gold">About</a>
+        <a href="offerings.html" class="hover:text-gold transition-colors">Offerings</a>
+        <a href="events.html" class="hover:text-gold transition-colors">Events</a>
+        <a href="resources.html" class="hover:text-gold transition-colors">Resources</a>
+      </nav>
+      <a href="offerings.html#soul-reading" class="hidden lg:inline-flex items-center rounded-full bg-teal text-cream text-sm font-medium tracking-wide px-6 py-3 hover:bg-teal-deep transition-colors">
+        Book a Soul Reading
+      </a>
+      <label for="menu-toggle" class="lg:hidden flex flex-col justify-center gap-1.5 cursor-pointer p-2 -mr-2 w-9 h-9" aria-label="Toggle menu">
+        <span class="block w-5 h-[1.5px] bg-teal-deep mx-auto"></span>
+        <span class="block w-5 h-[1.5px] bg-teal-deep mx-auto"></span>
+        <span class="block w-5 h-[1.5px] bg-teal-deep mx-auto"></span>
+      </label>
+    </div>
+    <!-- Mobile menu panel -->
+    <div class="hidden peer-checked:flex lg:hidden flex-col gap-1 px-6 pb-6 pt-2 border-t border-cream-line bg-cream">
+      <a href="about.html" class="py-3 text-gold font-medium border-b border-cream-line">About</a>
+      <a href="offerings.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">Offerings</a>
+      <a href="events.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">Events</a>
+      <a href="resources.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">Resources</a>
+      <a href="offerings.html#soul-reading" class="mt-4 inline-flex items-center justify-center rounded-full bg-teal text-cream text-sm font-medium tracking-wide px-6 py-3.5 hover:bg-teal-deep transition-colors">
+        Book a Soul Reading
+      </a>
+    </div>
+  </header>
+
+  <!-- PAGE HERO -->
+  <section class="py-20 lg:py-28">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10 grid lg:grid-cols-2 gap-16 items-center">
+      <div>
+        <p class="eyebrow text-teal mb-5">Her Story</p>
+        <h1 class="font-serif font-medium text-4xl sm:text-5xl lg:text-6xl text-teal-deep leading-[1.1] mb-6">
+          Listening &amp; leaping.
+        </h1>
+        <p class="text-teal-ink/80 leading-relaxed text-lg">
+          Jennifer Mulholland is a soul guide, modern mystic, spiritual teacher, retreat leader, author,
+          and craftswoman of sacred containers. Her mission: helping people embody their light, trust
+          their inner knowing, and live attuned to the wisdom of their own soul.
+        </p>
+      </div>
+      <div class="rounded-2xl overflow-hidden">
+        <img src="assets/Jennifer-Vertical-HeartSpace.jpeg" alt="Jennifer Mulholland standing in her Park City studio" class="w-full h-auto object-cover" />
+      </div>
+    </div>
+  </section>
+
+  <!-- ORIGIN STORY -->
+  <section class="py-16 lg:py-24 border-t border-cream-line">
+    <div class="max-w-4xl mx-auto px-6 lg:px-10">
+      <p class="eyebrow text-teal mb-5">The Beginning</p>
+      <p class="font-serif text-2xl sm:text-3xl text-teal-deep leading-snug mb-8">
+        Her spiritual journey began early. Her grandmother was a third-degree Reiki healer, and her
+        mother introduced her to spiritual traditions in childhood — by age ten, Jennifer was already
+        exploring meditation, energy work, and intuitive development.
+      </p>
+      <p class="text-teal-ink/75 leading-relaxed text-lg mb-6">
+        A Division I lacrosse player and team captain at the University of Delaware, she felt an inner
+        pull toward the West. Trusting that inner knowing, she followed it to the University of Utah —
+        where she met a Jungian psychologist who became her mentor in meditation, vision quests,
+        intuitive development, dreamwork, and past-life integration.
+      </p>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-6 lg:px-10">
+    <div class="rounded-2xl overflow-hidden max-w-2xl mx-auto">
+      <img src="assets/20230919-MOT24231-1.png" alt="Portrait of Jennifer Mulholland" class="w-full h-auto" />
+    </div>
+  </div>
+
+  <!-- KEY LESSON -->
+  <section class="relative bg-teal-deep py-24 lg:py-28 mt-20">
+    <div class="max-w-3xl mx-auto px-6 lg:px-10 text-center">
+      <h2 class="font-serif text-3xl sm:text-4xl text-cream mb-6 leading-snug">
+        "When we learn to truly listen, life speaks."
+      </h2>
+      <p class="text-cream/70 leading-relaxed max-w-xl mx-auto">
+        That lesson crystallized for Jennifer the day her son experienced a leg injury. Trusting her
+        intuition, she followed it to exactly the neurosurgeon who restored his movement — a turning
+        point that continues to shape how she teaches others to listen to their own inner senses.
+      </p>
+    </div>
+  </section>
+
+  <!-- PROFESSIONAL BACKGROUND -->
+  <section class="py-24 lg:py-32">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10 grid lg:grid-cols-2 gap-16 items-center">
+      <div>
+        <p class="eyebrow text-teal mb-5">Business &amp; Spirit</p>
+        <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep leading-snug mb-6">
+          Decades bridging business and spirit.
+        </h2>
+        <p class="text-teal-ink/80 leading-relaxed mb-6">
+          Before her full-time work as a soul guide, Jennifer spent decades in corporate leadership —
+          serving as Chief Innovation Officer for a Fortune 500 company and co-leading Plenty Consulting,
+          where she facilitated the Lantern Leadership Retreat and the Meridian Strategic Planning
+          Process for executives. Her clients included global organizations like Fidelity Charitable,
+          World Wildlife Fund, Wounded Warrior Project, and PBS.
+        </p>
+        <p class="text-teal-ink/80 leading-relaxed">
+          She co-authored <em>Leading with Light: Choosing Conscious Leadership When You're Ready for
+          More</em> — the book that lays the foundation for soul-led living, in business and beyond.
+        </p>
+        <a href="index.html#book" class="mt-8 inline-flex items-center text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Explore the book →</a>
+      </div>
+      <div class="flex flex-col items-center">
+        <p class="eyebrow text-teal/60 mb-5 text-center">A Preview — Flip to Meet Jennifer</p>
+        <div id="book" class="book">
+          <div class="page page-cover" data-density="hard">
+            <div class="page-content cover-content">
+              <img src="assets/book-cover.png" alt="Leading with Light book cover, by Jennifer Mulholland and Jeff Shuck" class="w-full h-full object-cover" />
+            </div>
+          </div>
+          <div class="page">
+            <div class="page-content">
+              <p class="page-eyebrow">Meet Jennifer</p>
+              <p class="page-body">
+                Jennifer Mulholland is a soul guide, modern mystic, spiritual teacher, retreat leader,
+                author, and craftswoman of sacred containers — helping people embody their light and
+                trust their inner knowing.
+              </p>
+              <span class="page-number">1</span>
+            </div>
+          </div>
+          <div class="page">
+            <div class="page-content">
+              <p class="page-eyebrow">Her Story</p>
+              <p class="page-body">
+                Guided by intuition since childhood, Jennifer followed an inner pull from a Division I
+                lacrosse career at Delaware to the University of Utah, where a Jungian psychologist
+                mentored her in meditation, dreamwork, and past-life integration.
+              </p>
+              <span class="page-number">2</span>
+            </div>
+          </div>
+          <div class="page">
+            <div class="page-content page-content--dark">
+              <p class="page-eyebrow page-eyebrow--light">Her Philosophy</p>
+              <p class="page-quote">
+                "Business and spirit are not separate. Transformation emerges when we slow down, listen
+                more deeply, and reconnect with ourselves."
+              </p>
+              <span class="page-number page-number--light">3</span>
+            </div>
+          </div>
+          <div class="page">
+            <div class="page-content">
+              <p class="page-eyebrow">Training &amp; Modalities</p>
+              <ul class="page-list">
+                <li>Reiki</li>
+                <li>Soul Reading</li>
+                <li>Shamanic Energy Medicine</li>
+                <li>Quantum &amp; Theta Healing</li>
+                <li>Mediumship</li>
+                <li>Past-Life Regression</li>
+                <li>Sound Therapy</li>
+                <li>Matrix Energetics</li>
+              </ul>
+              <span class="page-number">4</span>
+            </div>
+          </div>
+          <div class="page">
+            <div class="page-content page-content--dark">
+              <p class="page-eyebrow page-eyebrow--light">In Her Words</p>
+              <p class="page-quote">"When we learn to truly listen, life speaks."</p>
+              <p class="page-body page-body--light">
+                A lesson that crystallized the day her intuition led her family to exactly the care her
+                son needed.
+              </p>
+              <span class="page-number page-number--light">5</span>
+            </div>
+          </div>
+          <div class="page">
+            <div class="page-content">
+              <p class="page-eyebrow">Continue Her Story</p>
+              <p class="page-body mb-4">
+                Leading with Light is available wherever you get your books.
+              </p>
+              <div class="page-badges">
+                <img src="assets/book-badge.jpg" alt="Amazon Books" />
+                <img src="assets/audible.jpg" alt="Audible" />
+                <img src="assets/kindle.jpg" alt="Kindle" />
+              </div>
+              <a href="index.html#book" class="page-link">Get the book →</a>
+              <span class="page-number">6</span>
+            </div>
+          </div>
+          <div class="page page-cover" data-density="hard">
+            <div class="page-content cover-content cover-content--back">
+              <img src="assets/Jennifer-Mulholland-HD-Logo-name-white-1.png" alt="Jennifer Mulholland" class="w-40 h-auto" />
+            </div>
+          </div>
+        </div>
+        <div class="flex items-center gap-8 mt-8">
+          <button id="book-prev" aria-label="Previous page" class="book-nav-btn">‹</button>
+          <p class="text-xs text-teal-ink/50 tracking-wide uppercase">Drag or tap to flip</p>
+          <button id="book-next" aria-label="Next page" class="book-nav-btn">›</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRAINING & MODALITIES -->
+  <section class="py-24 lg:py-32 bg-cream-card border-y border-cream-line">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <p class="eyebrow text-teal mb-4">Training &amp; Modalities</p>
+      <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep max-w-xl mb-4">
+        A practice built on decades of study.
+      </h2>
+      <p class="text-teal-ink/70 max-w-2xl mb-12">
+        Educated in Exercise &amp; Sports Science, Psychology, and Coaching — and trained across a wide
+        range of healing modalities:
+      </p>
+      <div class="flex flex-wrap gap-3">
+        <span class="px-5 py-2.5 rounded-full border border-teal-deep/20 text-teal-deep text-sm bg-white">Reiki</span>
+        <span class="px-5 py-2.5 rounded-full border border-teal-deep/20 text-teal-deep text-sm bg-white">Soul Reading</span>
+        <span class="px-5 py-2.5 rounded-full border border-teal-deep/20 text-teal-deep text-sm bg-white">Shamanic Energy Medicine</span>
+        <span class="px-5 py-2.5 rounded-full border border-teal-deep/20 text-teal-deep text-sm bg-white">Quantum Healing</span>
+        <span class="px-5 py-2.5 rounded-full border border-teal-deep/20 text-teal-deep text-sm bg-white">Theta Healing</span>
+        <span class="px-5 py-2.5 rounded-full border border-teal-deep/20 text-teal-deep text-sm bg-white">Mediumship</span>
+        <span class="px-5 py-2.5 rounded-full border border-teal-deep/20 text-teal-deep text-sm bg-white">Past-Life Regression</span>
+        <span class="px-5 py-2.5 rounded-full border border-teal-deep/20 text-teal-deep text-sm bg-white">Sound Therapy</span>
+        <span class="px-5 py-2.5 rounded-full border border-teal-deep/20 text-teal-deep text-sm bg-white">Matrix Energetics</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- PHILOSOPHY QUOTE -->
+  <section class="py-24 lg:py-28">
+    <div class="max-w-4xl mx-auto px-6 lg:px-10 text-center">
+      <p class="font-serif text-2xl sm:text-3xl text-teal-deep leading-snug">
+        "Business and spirit are not separate. Transformation emerges when we slow down, listen more
+        deeply, and reconnect with ourselves."
+      </p>
+    </div>
+  </section>
+
+  <!-- CURRENT LIFE -->
+  <section class="py-24 lg:py-32 bg-cream-card border-y border-cream-line">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10 grid lg:grid-cols-2 gap-16 items-center">
+      <div class="rounded-2xl overflow-hidden order-2 lg:order-1">
+        <img src="assets/family-photo.png" alt="Jennifer Mulholland with her family at home in Park City" class="w-full h-auto" />
+      </div>
+      <div class="order-1 lg:order-2">
+        <p class="eyebrow text-teal mb-5">Today</p>
+        <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep leading-snug mb-6">
+          My life is my practice. My work is my calling.
+        </h2>
+        <p class="text-teal-ink/80 leading-relaxed">
+          Jennifer lives in Park City, Utah, with her husband Kristian, their two children, and their
+          goldendoodle, Toby. It's a life built around the same practice she teaches — presence,
+          listening, and trusting what she already knows.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- TESTIMONIAL TEASER -->
+  <section class="py-24 lg:py-28">
+    <div class="max-w-4xl mx-auto px-6 lg:px-10 text-center">
+      <img src="assets/Suzanne-Graney-headshot-scaled.jpg" alt="Suzanne Graney" class="w-16 h-16 rounded-full object-cover mx-auto mb-6" />
+      <p class="font-serif text-xl sm:text-2xl text-teal-deep leading-snug mb-4">
+        "She has a talent for gently posing deep questions that prompt self-awareness and self-discovery."
+      </p>
+      <p class="text-sm text-teal-ink/60 mb-8">Suzanne Graney</p>
+      <a href="reflections.html" class="text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Read more client reflections →</a>
+    </div>
+  </section>
+
+  <!-- CLOSING CTA -->
+  <section class="relative py-28 lg:py-36 bg-teal-deep overflow-hidden">
+    <div class="max-w-3xl mx-auto px-6 text-center relative">
+      <h2 class="font-serif font-medium text-4xl sm:text-5xl text-cream mb-6 leading-tight">
+        Begin the return to yourself.
+      </h2>
+      <p class="text-cream/70 mb-10 max-w-lg mx-auto">
+        Soul Notes — monthly essays, meditations, and practices for soul-led living, delivered straight to your inbox.
+      </p>
+      <form data-newsletter class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
+        <input type="email" required placeholder="Your email address" class="flex-1 rounded-full px-6 py-4 bg-cream/10 border border-cream/25 text-cream placeholder:text-cream/50 focus:outline-none focus:border-gold" />
+        <button type="submit" class="rounded-full bg-gold text-teal-deep font-medium px-7 py-4 hover:bg-gold-soft transition-colors">Subscribe</button>
+      </form>
+      <p data-newsletter-success hidden class="text-cream/80 text-sm mt-2"></p>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-teal-deep pt-16 pb-10 border-t border-cream/10">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <div class="grid md:grid-cols-4 gap-12 mb-14">
+        <div class="md:col-span-2">
+          <img src="assets/Jennifer-Mulholland-HD-Logo-name-white-1.png" alt="Jennifer Mulholland" class="h-14 w-auto mb-5" />
+          <p class="text-cream/60 text-sm max-w-sm leading-relaxed">
+            Soul guide, author, and retreat leader based in Park City, Utah — helping people trust their
+            inner knowing and live attuned to the wisdom of their soul.
+          </p>
+        </div>
+        <div>
+          <p class="eyebrow text-gold-soft mb-4">Explore</p>
+          <ul class="space-y-2 text-cream/70 text-sm">
+            <li><a href="about.html" class="hover:text-cream">About</a></li>
+            <li><a href="offerings.html" class="hover:text-cream">Offerings</a></li>
+            <li><a href="events.html" class="hover:text-cream">Events</a></li>
+            <li><a href="resources.html" class="hover:text-cream">Resources</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="eyebrow text-gold-soft mb-4">Connect</p>
+          <ul class="space-y-2 text-cream/70 text-sm">
+            <li><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jennifer@jennifermulholland.com" target="_blank" rel="noopener" class="hover:text-cream">jennifer@jennifermulholland.com</a></li>
+            <li><a href="https://www.instagram.com/jennifermulholland.soulguide/" target="_blank" rel="noopener" class="hover:text-cream">Instagram</a></li>
+            <li><a href="https://www.facebook.com/jennifer.h.mulholland" target="_blank" rel="noopener" class="hover:text-cream">Facebook</a></li>
+            <li><a href="https://www.linkedin.com/in/jennifermulholland/" target="_blank" rel="noopener" class="hover:text-cream">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="border-t border-cream/10 pt-8 flex flex-col sm:flex-row justify-between gap-4 text-xs text-cream/40">
+        <p>© 2026 Jennifer Mulholland. All rights reserved.</p>
+        <p>Park City, Utah</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var el = document.getElementById('book');
+      if (!el || !window.St) return;
+
+      function buildBook() {
+        var isNarrow = window.innerWidth < 640;
+        var pageFlip = new St.PageFlip(el, {
+          width: 320,
+          height: 460,
+          size: 'stretch',
+          minWidth: 240,
+          maxWidth: 420,
+          minHeight: 345,
+          maxHeight: 600,
+          maxShadowOpacity: 0.4,
+          showCover: true,
+          usePortrait: isNarrow,
+          mobileScrollSupport: false,
+          useMouseEvents: true,
+        });
+        pageFlip.loadFromHTML(document.querySelectorAll('#book .page'));
+
+        var prevBtn = document.getElementById('book-prev');
+        var nextBtn = document.getElementById('book-next');
+        if (prevBtn) prevBtn.addEventListener('click', function () { pageFlip.flipPrev(); });
+        if (nextBtn) nextBtn.addEventListener('click', function () { pageFlip.flipNext(); });
+      }
+
+      buildBook();
+    })();
+  </script>
+
+  <script src="assets/site.js"></script>
+
+</body>
+</html>

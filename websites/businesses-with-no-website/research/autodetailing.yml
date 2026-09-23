@@ -1,0 +1,448 @@
+- generic "Google Maps" [ref=f75e9]:
+  - generic [ref=f75e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f75e10]
+    - search [ref=f75e15]:
+      - generic [ref=f75e16]:
+        - combobox [ref=f75e18]: mobile auto detailing san diego ca
+        - button "Search" [ref=f75e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f75e21]: 
+        - button "Close" [ref=f75e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f75e24]: 
+    - region "Available filters for this search" [ref=f75e31]:
+      - generic [ref=f75e34]:
+        - button "Rating" [ref=f75e36] [cursor=pointer]:
+          - generic [ref=f75e37]:
+            - generic [aria-hidden] [ref=f75e38]: 
+            - generic [ref=f75e39]: Rating
+            - generic [aria-hidden] [ref=f75e40]: 
+        - button "Hours" [ref=f75e42] [cursor=pointer]:
+          - generic [ref=f75e43]:
+            - generic [aria-hidden] [ref=f75e44]: 
+            - generic [ref=f75e45]: Hours
+            - generic [aria-hidden] [ref=f75e46]: 
+        - button "All filters" [ref=f75e48] [cursor=pointer]:
+          - generic [ref=f75e49]:
+            - generic [aria-hidden] [ref=f75e50]: 
+            - generic [ref=f75e51]: All filters
+    - generic [ref=f75e52]:
+      - generic [ref=f75e53]:
+        - list [ref=f75e55]:
+          - listitem [ref=f75e56]:
+            - button "Menu" [ref=f75e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f75e59]: 
+          - listitem [ref=f75e60]:
+            - button "Saved" [ref=f75e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f75e63]: 
+          - listitem [ref=f75e66]:
+            - button "Recents" [disabled] [ref=f75e67]:
+              - generic [aria-hidden] [ref=f75e69]: 
+          - listitem [ref=f75e73]:
+            - button "Get app" [ref=f75e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f75e76]: 
+        - main [ref=f75e83]:
+          - generic [ref=f75e84]:
+            - feed "Results for mobile auto detailing san diego ca" [ref=f75e85]:
+              - generic [ref=f75e86]:
+                - generic [ref=f75e88]:
+                  - heading "Results" [level=1] [ref=f75e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f75e93]:
+                    - generic [aria-hidden] [ref=f75e97]: 
+                - button "Share" [ref=f75e101]:
+                  - generic [ref=f75e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f75e103]: 
+                    - generic [ref=f75e104]: Share
+              - article [ref=f75e106]:
+                - link "Blueberry Mobile Detailing - San Diego" [ref=f75e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Blueberry+Mobile+Detailing+-+San+Diego/data=!4m7!3m6!1s0x469ad6ce2557e4bd:0xea04608774a2ca3a!8m2!3d32.823956!4d-117.25547!16s%2Fg%2F11vxl_q6tb!19sChIJveRXJc7WmkYROsqidIdgBOo?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f75e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f75e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Blueberry Mobile Detailing - San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 546 Reviews": 5.0(546)
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic: · 5961 La Jolla Scenic South Drive
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 639-4169
+                    - generic:
+                      - link "Visit Blueberry Mobile Detailing - San Diego's website" [ref=f75e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwixkqejuIGXAxU5JkQIHZnxEo4YACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMIsZKno7iBlwMVOSZECB2Z8RKOEBAYASAAEgKSFPD_BwE&cid=CAAS0wHkaFHu7nH9lYTlDtepPJ0Jb3DRq1L2jmzOk6-JNyOWwEOJbdIKq01PKhDY3vUbyPiLDcq1Fb9QNaKZuOghcAfhLH9BWU0F_le28Kec4qIo0FAjFwa-3n05RTb1WxJ2VZMyiqtlt9qn3-VQ5Q0VGX78jJjfyO5qf-DWj7PILY8YQRuzkLpZ_EO_DLSHZaf6gjtTo-ogmXD7aMGDJPFiIarQEzwa2WI2gUO5ZVmyFKlKmbFsQqPNfeZbAxobJ18UT_HFJ7Z6_Dn04RkEtSNMQsEuKnRK&cce=2&category=acrcp_v1_32&sig=AOD64_1OFZMUB2VoWrumm4hQ8n8Lp-m4iA&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f75e113]: 
+                        - generic [ref=f75e114]: Website
+                      - button "Get directions to Blueberry Mobile Detailing - San Diego" [ref=f75e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e117]: 
+                        - generic [ref=f75e118]: Directions
+                  - link "Ad · Award Winning Mobile Detailing · <b>Mobile Auto Detailing</b> in <b>San Diego</b> &amp; Surrounding Areas. Interior <b>Detail</b>. Exterior <b>Detail</b> · Visit Site · blueberrydetail.com/mobile/detailing" [ref=f75e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwixkqejuIGXAxU5JkQIHZnxEo4YACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMIsZKno7iBlwMVOSZECB2Z8RKOEBAYASAAEgKSFPD_BwE&cid=CAAS0wHkaFHu7nH9lYTlDtepPJ0Jb3DRq1L2jmzOk6-JNyOWwEOJbdIKq01PKhDY3vUbyPiLDcq1Fb9QNaKZuOghcAfhLH9BWU0F_le28Kec4qIo0FAjFwa-3n05RTb1WxJ2VZMyiqtlt9qn3-VQ5Q0VGX78jJjfyO5qf-DWj7PILY8YQRuzkLpZ_EO_DLSHZaf6gjtTo-ogmXD7aMGDJPFiIarQEzwa2WI2gUO5ZVmyFKlKmbFsQqPNfeZbAxobJ18UT_HFJ7Z6_Dn04RkEtSNMQsEuKnRK&cce=2&category=acrcp_v1_32&sig=AOD64_1OFZMUB2VoWrumm4hQ8n8Lp-m4iA&adurl=&rct=j&nis=5
+                    - generic [ref=f75e125]:
+                      - generic [ref=f75e126]:
+                        - generic [ref=f75e127]: Award Winning Mobile Detailing
+                        - generic [ref=f75e128]: Mobile Auto Detailing in San Diego & Surrounding Areas. Interior Detail. Exterior Detail
+                      - generic [ref=f75e129]: Visit Site
+              - article [ref=f75e134]:
+                - link "Blueberry Mobile Detailing - San Diego" [ref=f75e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Blueberry+Mobile+Detailing+-+San+Diego/data=!4m7!3m6!1s0x469ad6ce2557e4bd:0xea04608774a2ca3a!8m2!3d32.8239556!4d-117.2554698!16s%2Fg%2F11vxl_q6tb!19sChIJveRXJc7WmkYROsqidIdgBOo?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Blueberry Mobile Detailing - San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 547 Reviews": 5.0(547)
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f75e137] [cursor=pointer]:
+                                    - generic [ref=f75e138]: 
+                                - generic: · 5961 La Jolla Scenic S Dr
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 639-4169
+                    - generic:
+                      - link "Visit Blueberry Mobile Detailing - San Diego's website" [ref=f75e139] [cursor=pointer]:
+                        - /url: https://www.blueberrydetail.com/
+                        - generic [aria-hidden] [ref=f75e141]: 
+                        - generic [ref=f75e142]: Website
+                      - button "Get directions to Blueberry Mobile Detailing - San Diego" [ref=f75e143] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e145]: 
+                        - generic [ref=f75e146]: Directions
+              - article [ref=f75e149]:
+                - link "San Diego Select Car Detailing" [ref=f75e150] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Select+Car+Detailing/data=!4m7!3m6!1s0x80dc01ae560657ef:0x812b6ac50b9a7d37!8m2!3d32.8036448!4d-117.2355733!16s%2Fg%2F11qpr75ctm!19sChIJ71cGVq4B3IARN32aC8VqK4E?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Select Car Detailing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 456 Reviews": 4.9(456)
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f75e152] [cursor=pointer]:
+                                    - generic [ref=f75e153]: 
+                                - generic: · 1921 Diamond St
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 815-1605
+                    - generic:
+                      - link "Visit San Diego Select Car Detailing's website" [ref=f75e154] [cursor=pointer]:
+                        - /url: https://www.sandiegoselect.com/
+                        - generic [aria-hidden] [ref=f75e156]: 
+                        - generic [ref=f75e157]: Website
+                      - button "Get directions to San Diego Select Car Detailing" [ref=f75e158] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e160]: 
+                        - generic [ref=f75e161]: Directions
+              - article [ref=f75e164]:
+                - link "So Kleen Mobile Detailing Co" [ref=f75e165] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/So+Kleen+Mobile+Detailing+Co/data=!4m7!3m6!1s0x820027117a60d41b:0xc5a382bf6ecf1f81!8m2!3d32.8227047!4d-117.2142835!16s%2Fg%2F11mypyt119!19sChIJG9RgehEnAIIRgR_Pbr-Co8U?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: So Kleen Mobile Detailing Co
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 25 Reviews": 5.0(25)
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f75e167] [cursor=pointer]:
+                                    - generic [ref=f75e168]: 
+                                - generic: · 4365 Kamloop Ave
+                              - generic:
+                                - generic: Closed · Opens 8:30 AM Tue
+                                - generic: · (619) 458-1363
+                    - generic:
+                      - link "Visit So Kleen Mobile Detailing Co's website" [ref=f75e169] [cursor=pointer]:
+                        - /url: https://carsokleen.com/
+                        - generic [aria-hidden] [ref=f75e171]: 
+                        - generic [ref=f75e172]: Website
+                      - button "Get directions to So Kleen Mobile Detailing Co" [ref=f75e173] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e175]: 
+                        - generic [ref=f75e176]: Directions
+              - article [ref=f75e179]:
+                - link "Done Right Mobile Car Detailing of Pacific Beach" [ref=f75e180] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Done+Right+Mobile+Car+Detailing+of+Pacific+Beach/data=!4m7!3m6!1s0x80dc01b0edb58819:0xe396b5ee660ed002!8m2!3d32.8011186!4d-117.2392848!16s%2Fg%2F11zc77pgn9!19sChIJGYi17bAB3IARAtAOZu61luM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Done Right Mobile Car Detailing of Pacific Beach
+                            - generic: No reviews
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f75e182] [cursor=pointer]:
+                                    - generic [ref=f75e183]: 
+                                - generic: · 4558 Jewell St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 367-8528
+                    - generic:
+                      - link "Visit Done Right Mobile Car Detailing of Pacific Beach's website" [ref=f75e184] [cursor=pointer]:
+                        - /url: https://donerightmobilecardetailing.lovable.app/
+                        - generic [aria-hidden] [ref=f75e186]: 
+                        - generic [ref=f75e187]: Website
+                      - button "Get directions to Done Right Mobile Car Detailing of Pacific Beach" [ref=f75e188] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e190]: 
+                        - generic [ref=f75e191]: Directions
+              - article [ref=f75e194]:
+                - link "Blueline Mobile Car Detailing of San Diego" [ref=f75e195] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Blueline+Mobile+Car+Detailing+of+San+Diego/data=!4m7!3m6!1s0x80deaba0b83ca3ad:0x53104dc2632f6511!8m2!3d32.7479255!4d-117.21404!16s%2Fg%2F11z1w7r2zw!19sChIJraM8uKCr3oAREWUvY8JNEFM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Blueline Mobile Car Detailing of San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 9 Reviews": 5.0(9)
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f75e197] [cursor=pointer]:
+                                    - generic [ref=f75e198]: 
+                                - generic: · 3405 Kenyon St 3rd floor suite 303
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 304-9798
+                    - button "Get directions to Blueline Mobile Car Detailing of San Diego" [ref=f75e199] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f75e201]: 
+                      - generic [ref=f75e202]: Directions
+              - article [ref=f75e205]:
+                - link "Fresh Layer Mobile Detailing" [ref=f75e206] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Fresh+Layer+Mobile+Detailing/data=!4m7!3m6!1s0x80d953919eeadb6d:0xeafb3553dc7dbca3!8m2!3d32.7077793!4d-117.1547868!16s%2Fg%2F11fn7jts6t!19sChIJbdvqnpFT2YARo7x93FM1--o?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Fresh Layer Mobile Detailing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 286 Reviews": 4.9(286)
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f75e208] [cursor=pointer]:
+                                    - generic [ref=f75e209]: 
+                                - generic: · 206 Park Blvd
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 874-4115
+                    - generic:
+                      - link "Visit Fresh Layer Mobile Detailing's website" [ref=f75e210] [cursor=pointer]:
+                        - /url: https://www.fresh-layer.com/mobile-auto-detailing-services
+                        - generic [aria-hidden] [ref=f75e212]: 
+                        - generic [ref=f75e213]: Website
+                      - button "Get directions to Fresh Layer Mobile Detailing" [ref=f75e214] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e216]: 
+                        - generic [ref=f75e217]: Directions
+              - article [ref=f75e220]:
+                - link "Ryan's Mobile Detailing" [ref=f75e221] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ryan%27s+Mobile+Detailing/data=!4m7!3m6!1s0x80d95741a8ae97c1:0x75089d8af4b3c1d1!8m2!3d32.8384372!4d-117.1050981!16s%2Fg%2F11yr3ddnr4!19sChIJwZeuqEFX2YAR0cGz9IqdCHU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ryan's Mobile Detailing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 67 Reviews": 5.0(67)
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic:
+                                  - text: ·
+                                  - img "No wheelchair accessible entrance" [ref=f75e223] [cursor=pointer]:
+                                    - generic [ref=f75e224]: 
+                                - generic: · 5820 La Morada Ct
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 866-3119
+                    - generic:
+                      - link "Visit Ryan's Mobile Detailing's website" [ref=f75e225] [cursor=pointer]:
+                        - /url: https://ryansmobiledetailsd.com/
+                        - generic [aria-hidden] [ref=f75e227]: 
+                        - generic [ref=f75e228]: Website
+                      - button "Get directions to Ryan's Mobile Detailing" [ref=f75e229] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e231]: 
+                        - generic [ref=f75e232]: Directions
+              - article [ref=f75e235]:
+                - link "Auto Detail Now Pacific Beach" [ref=f75e236] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Auto+Detail+Now+Pacific+Beach/data=!4m7!3m6!1s0x80dc018ef2aebfe3:0xd06147a92d8fece6!8m2!3d32.7977357!4d-117.2373127!16s%2Fg%2F11yq21tshh!19sChIJ47-u8o4B3IAR5uyPLalHYdA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Auto Detail Now Pacific Beach
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 3 Reviews": 5.0(3)
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f75e238] [cursor=pointer]:
+                                    - generic [ref=f75e239]: 
+                                - generic: · 1740 Thomas Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 907-0262
+                    - generic:
+                      - link "Visit Auto Detail Now Pacific Beach's website" [ref=f75e240] [cursor=pointer]:
+                        - /url: http://autodetailnow.com/
+                        - generic [aria-hidden] [ref=f75e242]: 
+                        - generic [ref=f75e243]: Website
+                      - button "Get directions to Auto Detail Now Pacific Beach" [ref=f75e244] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e246]: 
+                        - generic [ref=f75e247]: Directions
+              - article [ref=f75e250]:
+                - link "SoCal Mobile Auto Detail & Wash" [ref=f75e251] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/SoCal+Mobile+Auto+Detail+%26+Wash/data=!4m7!3m6!1s0x80d954c7c1fd38d5:0x6ccf45a3d1261159!8m2!3d33.0172666!4d-116.8460104!16s%2Fg%2F12ll10swh!19sChIJ1Tj9wcdU2YARWREm0aNFz2w?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: SoCal Mobile Auto Detail & Wash
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 235 Reviews": 4.7(235)
+                            - generic:
+                              - generic: Car detailing service
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 906-6598
+                    - generic:
+                      - link "Visit SoCal Mobile Auto Detail & Wash's website" [ref=f75e253] [cursor=pointer]:
+                        - /url: https://thesocalway.com/
+                        - generic [aria-hidden] [ref=f75e255]: 
+                        - generic [ref=f75e256]: Website
+                      - button "Get directions to SoCal Mobile Auto Detail & Wash" [ref=f75e257] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e259]: 
+                        - generic [ref=f75e260]: Directions
+              - article [ref=f75e263]:
+                - link "CarTek Mobile Detailing San Diego" [ref=f75e264] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/CarTek+Mobile+Detailing+San+Diego/data=!4m7!3m6!1s0x80d955a3b863df6f:0x82809bd7e14dff90!8m2!3d32.7766878!4d-117.1388608!16s%2Fg%2F11wnf8np48!19sChIJb99juKNV2YARkP9N4debgII?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: CarTek Mobile Detailing San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 30 Reviews": 4.9(30)
+                            - generic:
+                              - generic:
+                                - generic: Car detailing service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f75e266] [cursor=pointer]:
+                                    - generic [ref=f75e267]: 
+                                - generic: "· 8880 Rio San Diego Dr 8th floor #2029"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 986-8336
+                    - generic:
+                      - link "Visit CarTek Mobile Detailing San Diego's website" [ref=f75e268] [cursor=pointer]:
+                        - /url: https://cartekmobiledetailing.com/mobile-detailing-san-diego
+                        - generic [aria-hidden] [ref=f75e270]: 
+                        - generic [ref=f75e271]: Website
+                      - button "Get directions to CarTek Mobile Detailing San Diego" [ref=f75e272] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f75e274]: 
+                        - generic [ref=f75e275]: Directions
+              - generic [ref=f75e310]:
+                - generic [aria-hidden] [ref=f75e312]: 
+                - generic [ref=f75e313]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f75e314] [cursor=pointer]
+            - checkbox [ref=f75e317] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f75e319]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f75e321] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f75e322]: 
+    - generic [ref=f75e326]:
+      - button "Google apps" [ref=f75e330] [cursor=pointer]
+      - link "Sign in" [ref=f75e334] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fmobile%2Bauto%2Bdetailing%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f75e337] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f75e339]: 
+        - generic [ref=f75e341] [cursor=pointer]:
+          - button "Zoom in" [ref=f75e342]:
+            - generic [aria-hidden] [ref=f75e344]: 
+          - button "Zoom out" [ref=f75e345]:
+            - generic [aria-hidden] [ref=f75e347]: 
+      - button "Browse Street View images" [ref=f75e353]
+      - generic [ref=f75e355]:
+        - generic "Interactive map" [ref=f75e356]
+        - generic [ref=f75e360] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f75e361]: 
+          - generic [ref=f75e362]: Layers
+        - button "Layers" [ref=f75e363] [cursor=pointer]
+    - generic [ref=f75e365]:
+      - contentinfo [ref=f75e368]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f75e369] [cursor=pointer]
+        - button "Terms" [ref=f75e370] [cursor=pointer]
+        - button "Privacy" [ref=f75e371] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f75e372] [cursor=pointer]
+      - button "10 mi" [ref=f75e374] [cursor=pointer]

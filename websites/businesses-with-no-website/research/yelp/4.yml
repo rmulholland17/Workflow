@@ -1,0 +1,286 @@
+- generic [active] [ref=f124e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f124e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f124e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f124e8]:
+    - search [ref=f124e9]:
+      - generic [ref=f124e11]:
+        - link "Go to Google Home" [ref=f124e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQPHoECAYQBA
+        - generic [ref=f124e21]:
+          - generic [ref=f124e22]:
+            - combobox "Search" [ref=f124e25]: site:yelp.com/biz "Elite Ridge Roofing" San Diego site:yelp.com/biz "Elite Ridge Roofing" San Diego
+            - generic [ref=f124e26]:
+              - button "Clear" [ref=f124e28] [cursor=pointer]
+              - generic [ref=f124e33]:
+                - button "Search by voice" [ref=f124e34] [cursor=pointer]
+                - button "Search by image" [ref=f124e37] [cursor=pointer]
+          - button "Search" [ref=f124e40] [cursor=pointer]
+    - generic [ref=f124e45]:
+      - button "Settings" [ref=f124e47] [cursor=pointer]
+      - button "Share" [ref=f124e52] [cursor=pointer]
+      - generic [ref=f124e58]:
+        - button "Google apps" [ref=f124e60] [cursor=pointer]
+        - link "Sign in" [ref=f124e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:yelp.com/biz%2B%2522Elite%2BRidge%2BRoofing%2522%2BSan%2BDiego&ec=futura_srp_og_si_72236_p
+  - generic [ref=f124e68]:
+    - navigation [ref=f124e74]:
+      - generic [ref=f124e80]:
+        - list [ref=f124e81]:
+          - listitem [ref=f124e82]:
+            - link "AI Mode" [ref=f124e85] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nrruedQ0d32Et2kDhW_DVrEfmexCwyVncqqJWDU0VvgxX3iEDPybK1uNDy8j8Tqn9Poz2Z5TPYn9RpUVjD-ZF907q59bWDQ0ThsvVPt4uOUgvKqGW9EB-n2LNG52DFKfT35S91O2wp8CJW6gO1FnrLkC045QQ&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ2J8OegQIERAD
+          - listitem [ref=f124e89]:
+            - link "All" [disabled] [ref=f124e90]
+          - listitem [ref=f124e93]:
+            - link "Images" [ref=f124e94] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nrruedQ0d32Et2kDhW_DVrEfmexCwyVncqqJWDU0VvgxX3iEDPybK1uNDy8j8Tqn9Poz2Z5TPYn9RpUVjD-ZF907q59bWDQ0ThsvVPt4uOUgvKqGW9EB-n2LNG52DFKfT35S91O2wp8CJW6gO1FnrLkC045QQ&q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQtKgLegQIGBAB
+          - listitem [ref=f124e97]:
+            - link "Videos" [ref=f124e98] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nrruedQ0d32Et2kDhW_DVrEfmexCwyVncqqJWDU0VvgxX3iEDPybK1uNDy8j8Tqn9Poz2Z5TPYn9RpUVjD-ZF907q59bWDQ0ThsvVPt4uOUgvKqGW9EB-n2LNG52DFKfT35S91O2wp8CJW6gO1FnrLkC045QQ&q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQtKgLegQIFxAB
+          - listitem [ref=f124e101]:
+            - link "Shopping" [ref=f124e102] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nrruedQ0d32Et2kDhW_DVrEfmexCwyVncqqJWDU0VvgxX3iEDPybK1uNDy8j8Tqn9Poz2Z5TPYn9RpUVjD-ZF907q59bWDQ0ThsvVPt4uOUgvKqGW9EB-n2LNG52DFKfT35S91O2wp8CJW6gO1FnrLkC045QQ&q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&ved=1t:220175&ictx=111
+          - listitem [ref=f124e105]:
+            - link "Forums" [ref=f124e106] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nrruedQ0d32Et2kDhW_DVrEfmexCwyVncqqJWDU0VvgxX3iEDPybK1uNDy8j8Tqn9Poz2Z5TPYn9RpUVjD-ZF907q59bWDQ0ThsvVPt4uOUgvKqGW9EB-n2LNG52DFKfT35S91O2wp8CJW6gO1FnrLkC045QQ&q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQs6gLegQIFRAB
+          - listitem [ref=f124e109]:
+            - link "News" [ref=f124e110] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nrruedQ0d32Et2kDhW_DVrEfmexCwyVncqqJWDU0VvgxX3iEDPybK1uNDy8j8Tqn9Poz2Z5TPYn9RpUVjD-ZF907q59bWDQ0ThsvVPt4uOUgvKqGW9EB-n2LNG52DFKfT35S91O2wp8CJW6gO1FnrLkC045QQ&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ0pQJegQIFBAB
+          - listitem [ref=f124e113]:
+            - button [ref=f124e114] [cursor=pointer]:
+              - generic "More filters" [ref=f124e115]: More
+        - button "Tools" [ref=f124e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f124e129]
+    - main [ref=f124e135]:
+      - generic [ref=f124e136]:
+        - generic [ref=f124e140]:
+          - heading "No results found for site:yelp.com/biz \"Elite Ridge Roofing\" San Diego." [level=2] [ref=f124e141]
+          - text: Results for
+          - link "site:yelp.com/biz Elite Ridge Roofing San Diego" [ref=f124e142] [cursor=pointer]:
+            - /url: /search?sca_esv=5e5febaa67db9c78&q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQgwN6BAgSEAE
+          - text: "(without quotes):"
+        - generic [ref=f124e145]:
+          - generic [ref=f124e148]:
+            - heading "Web results" [level=2] [ref=f124e149]
+            - generic [ref=f124e150]:
+              - generic [ref=f124e153]:
+                - link "ELITE ROOF SERVICES - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Roofing" [ref=f124e155] [cursor=pointer]:
+                  - /url: /goto?url=CAEScgHrOzAVUruOtJ3QdOcbhcGWMRCovjbtwRmEyVKpAYGTB8IOo6k4Vw55bSGSi5HBco9kj3NEt_ay5lO8C7324Mr5sl6R2_AcJYENGF0WCdeXiD6WC7WJ4iA_DE2jk7qsO10CCuc13RMLzkTxP4DGbPMjoQ
+                  - heading "ELITE ROOF SERVICES - Updated September 2026" [level=3] [ref=f124e156]
+                  - generic [ref=f124e162]:
+                    - generic [ref=f124e163]: Yelp
+                    - generic [ref=f124e165]: https://www.yelp.com › ... › Home Services › Roofing
+                - button "About this result" [ref=f124e171] [cursor=pointer]
+              - generic [ref=f124e178]:
+                - text: ELITE ROOF SERVICES,
+                - emphasis [ref=f124e179]: 725 Main St, Chula Vista, CA 91911
+                - text: ", 37 Photos, (619) 659-8632, Mon - 8:00 am - 5:00 pm, Tue - 8:00 am - 5:00 pm, Wed - 8:00 am - 5:00 ..."
+              - img "Rated 4.1 out of 5, (33) user reviews" [ref=f124e184]: 4.1(33)
+          - generic [ref=f124e191]:
+            - generic [ref=f124e194]:
+              - link "SAN DIEGO ROOFING - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Roofing" [ref=f124e196] [cursor=pointer]:
+                - /url: /goto?url=CAESbgHrOzAVm6qpnO8NQ5u5oBfRvOKD4k9MRCCvxT4EKs5ohI_u_yPO-QKt84xxJ2a7NEV_Gw6rxczkW-T631Y_uy1MpEmrpQy-mqSJwpZ8eS24orPuMuCSWED1JqQtdUk819GWxCW_RWG4v2pfZWjV
+                - heading "SAN DIEGO ROOFING - Updated September 2026" [level=3] [ref=f124e197]
+                - generic [ref=f124e203]:
+                  - generic [ref=f124e204]: Yelp
+                  - generic [ref=f124e206]: https://www.yelp.com › ... › Home Services › Roofing
+              - button "About this result" [ref=f124e212] [cursor=pointer]
+            - generic [ref=f124e219]:
+              - text: SAN DIEGO ROOFING,
+              - emphasis [ref=f124e220]: 4887 Ronson Ct, Ste D, San Diego, CA 92111
+              - text: ", 15 Photos, (619) 280-1000, Mon - Open 24 hours, Tue - Open 24. Elite Roof fix our 30 years roof ..."
+            - img "Rated 4.0 out of 5, (72) user reviews" [ref=f124e225]: 4.0(72)
+          - generic [ref=f124e232]:
+            - generic [ref=f124e235]:
+              - link "ELITE ROOFING SHEET METAL & WATERPROOFING ... Yelp https://www.yelp.com › ... › Home Services › Roofing" [ref=f124e237] [cursor=pointer]:
+                - /url: /goto?url=CAESkQEB6zswFQXaQWIIPuZZGSfmxNVxdPeumxmGH6ydvHBB9qYxdzb-psQ1VEz09z8RDTb0KJmFJPsN5e3iTmt107Orqemu_L41mK_pYcPUES22CX_Jt9e-BId0SbmgOSTm9LCjoAwlj3NXBonyN9Fc4x1IY_YKAgC9j54lS_BqhYH3MmghzvYu7rp7KD4pEacu2_T0
+                - heading "ELITE ROOFING SHEET METAL & WATERPROOFING ..." [level=3] [ref=f124e238]
+                - generic [ref=f124e244]:
+                  - generic [ref=f124e245]: Yelp
+                  - generic [ref=f124e247]: https://www.yelp.com › ... › Home Services › Roofing
+              - button "About this result" [ref=f124e253] [cursor=pointer]
+            - generic [ref=f124e260]:
+              - text: ELITE ROOFING SHEET METAL & WATERPROOFING SERVICES, Los Angeles, CA 91342, (
+              - emphasis [ref=f124e261]: 818) 276-5376
+              - text: ", Mon - 8:00 am - 6:00 pm, Tue - 8:00 am - 6:00 pm, ..."
+            - img "Rated 5.0 out of 5, (1) user reviews" [ref=f124e266]: 5.0(1)
+            - generic [ref=f124e270]: "Missing: San ‎Diego"
+          - generic [ref=f124e275]:
+            - generic [ref=f124e278]:
+              - link "Resilient Roofing - 7950 Dunbrook Rd, San Diego, California Yelp https://www.yelp.com › ... › Home Services › Roofing" [ref=f124e280] [cursor=pointer]:
+                - /url: /goto?url=CAESbAHrOzAVEljwzNnexsPy_3fWwCSmmWOJKxJZ0O2p2XtxJun7De8oAbya0Z-LX1GnAaFwLdsBVhiQVQMxXMuvEB9jO-nMCFDTYA4XKGLOyvfWBq7C9Ir96pKNyZ_4FhC6avHfmkkbtFTBJ7gQHw
+                - heading "Resilient Roofing - 7950 Dunbrook Rd, San Diego, California" [level=3] [ref=f124e281]
+                - generic [ref=f124e287]:
+                  - generic [ref=f124e288]: Yelp
+                  - generic [ref=f124e290]: https://www.yelp.com › ... › Home Services › Roofing
+              - button "About this result" [ref=f124e296] [cursor=pointer]
+            - generic [ref=f124e303]:
+              - text: RESILIENT ROOFING,
+              - emphasis [ref=f124e304]: 7950 Dunbrook Rd, San Diego, CA 92126
+              - text: ", 106 Photos, (619) 501-2138, Mon - 7:00 am - 7:00 pm, Tue - 7:00 am - 7:00 pm, Wed - 7:00 am - 7:00 ..."
+            - img "Rated 4.4 out of 5, (101) user reviews" [ref=f124e309]: 4.4(101)
+          - generic [ref=f124e316]:
+            - generic [ref=f124e319]:
+              - link "ELITE ROOFING SUPPLY - Updated September 2026 Yelp https://www.yelp.com › ... › Building Supplies" [ref=f124e321] [cursor=pointer]:
+                - /url: /goto?url=CAESbAHrOzAVsdAXXaPCkQquDNpxhWbx1KlwShUbTKmTbC90Ds6HzfoJMOCXinhVFU1Zdsz6EqvyGl-NMP_L_Y-2PP7vcViXa79BPs0_c057KwqtY2wr1BHe0KTjk8vvg8PCNoY7lvXgaWWyyL1Q5w
+                - heading "ELITE ROOFING SUPPLY - Updated September 2026" [level=3] [ref=f124e322]
+                - generic [ref=f124e328]:
+                  - generic [ref=f124e329]: Yelp
+                  - generic [ref=f124e331]: https://www.yelp.com › ... › Building Supplies
+              - button "About this result" [ref=f124e337] [cursor=pointer]
+            - generic [ref=f124e343]:
+              - generic [ref=f124e344]:
+                - emphasis [ref=f124e345]: Great customer service
+                - text: . Great prices. Load roofs for you with a great crew. Would recommend for all your roofing needs. Clean showroom and easily accessible ...
+              - link "Read more" [ref=f124e346] [cursor=pointer]:
+                - /url: /goto?url=CAESrgEB6zswFbrBQxfUqqNuUk1yoKPG7VzP3Vdt-1GMCww50HqV6mFM5erLTYJs0LJpy2gZsVj2yeRoJ1pS7SXyZfzGWZNLFY8bcSwx35vYMLbggwxqD8qLWURh0zcl_0VChnNFNyOVyWFyUzckTPRUQX0o5D_8NFvoL_5i6xg29_mJm84R44WEZxJjHmZSxP9JvmGAyhc6bt_nLZyHg1NNerPghIWuwfSeeTS4D4JudC4
+            - img "Rated 5.0 out of 5, (5) user reviews" [ref=f124e351]: 5.0(5)
+            - generic [ref=f124e355]: "Missing: San ‎Diego"
+          - generic [ref=f124e360]:
+            - generic [ref=f124e363]:
+              - link "ALL-TECH ROOFING - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Roofing" [ref=f124e365] [cursor=pointer]:
+                - /url: /goto?url=CAESbwHrOzAVhMKHtAm5xLUP-PDjm1epKCqemllhScRzaVVJPANEG3a6j17UaUBqJMa9n6CLejkhuzb0YhLWhk-lgBukiGTRtn8LT1oe-kSEa9qUkZs54agOYRIH3PInhJQYquUyshN88900SrW8wyZx7g
+                - heading "ALL-TECH ROOFING - Updated September 2026" [level=3] [ref=f124e366]
+                - generic [ref=f124e372]:
+                  - generic [ref=f124e373]: Yelp
+                  - generic [ref=f124e375]: https://www.yelp.com › ... › Home Services › Roofing
+              - button "About this result" [ref=f124e381] [cursor=pointer]
+            - generic [ref=f124e387]:
+              - generic [ref=f124e388]:
+                - text: A true innovator and problem-solver who seeks the best approach to prevent future
+                - emphasis [ref=f124e389]: roofing
+                - text: problems. Very reasonable and absolutely fair pricing given the ...
+              - link "Read more" [ref=f124e390] [cursor=pointer]:
+                - /url: /goto?url=CAES0AEB6zswFSwLmcYQLJbXKYhGQpiFRG6sEu05dG3W9A6CTOw8fOMMUhZZOypeNQfzO7eV-50ozf0h3-GCgrRv5krJTqG-X97z4rbsXPU8KwZFUn7fGEZXR1gWZ3HyqVjzCHTqOaewVTHwbdWpp37C7WKDgpGE3eDJofStF2TtX0vpEWzCjfJkkbnSEbYz_1r87-wT9pxJ0_tY2ggiokwwkcm3_TSKfc7m5S9Ops1mzHVEO8AYpUjkaaRCCeehO_rk4hmwTtsZWHeY9p2JSFU6zO7u
+            - img "Rated 4.9 out of 5, (72) user reviews" [ref=f124e395]: 4.9(72)
+          - generic [ref=f124e402]:
+            - generic [ref=f124e405]:
+              - link "A PLUS ROOFING & CONSTRUCTION Yelp https://www.yelp.com › ... › Home Services › Roofing" [ref=f124e407] [cursor=pointer]:
+                - /url: /goto?url=CAESfAHrOzAVInDAh6rgWbvT6_DFXmIIE8hVh9Ku14EbuKlXgkVOhZN4j9dBX_hFhaSIEQiJ41XA2QDJHHbNM1Mo3xHlrrMbggD4fnBLwcskK4mejGQMNvgaXietoYEuw25IltPSTfdbgo2PLn_yxeLz3ciDMErkNuJZhVPEgh0
+                - heading "A PLUS ROOFING & CONSTRUCTION" [level=3] [ref=f124e408]
+                - generic [ref=f124e414]:
+                  - generic [ref=f124e415]: Yelp
+                  - generic [ref=f124e417]: https://www.yelp.com › ... › Home Services › Roofing
+              - button "About this result" [ref=f124e423] [cursor=pointer]
+            - generic [ref=f124e430]:
+              - text: A PLUS ROOFING. San Diego, CA 92107, 24 Photos, (
+              - emphasis [ref=f124e431]: 619) 527-2227
+              - text: ", Mon - 7:00 am - 4:00 pm, (619) 527-2227 Call Now plusrnc.com. Very pleased with Elite Roofing."
+            - img "Rated 5.0 out of 5, (1) user reviews" [ref=f124e436]: 5.0(1)
+          - generic [ref=f124e443]:
+            - generic [ref=f124e446]:
+              - link "PREMAN ROOFING - Updated September 2026 - 53 Photos Yelp https://www.yelp.com › ... › Home Services › Roofing" [ref=f124e448] [cursor=pointer]:
+                - /url: /goto?url=CAESawHrOzAVGuqlo6E7cIAK6aon0c8SgyN3A7OwVJcx1aCTM0yl5DSQ9rYsg31-pcmXVQKUsiJNpfrUy7nBx9ugw_tlJHE_qkmd7YcsLNJJCRLQqfFnGKUTDvIh-zbbCl7LIfDLCNVCUPmVRq06
+                - heading "PREMAN ROOFING - Updated September 2026 - 53 Photos" [level=3] [ref=f124e449]
+                - generic [ref=f124e455]:
+                  - generic [ref=f124e456]: Yelp
+                  - generic [ref=f124e458]: https://www.yelp.com › ... › Home Services › Roofing
+              - button "About this result" [ref=f124e464] [cursor=pointer]
+            - generic [ref=f124e471]:
+              - text: PREMAN ROOFING,
+              - emphasis [ref=f124e472]: 875 34th St, San Diego, CA 92102
+              - text: ", 53 Photos, (619) 514-3690, Mon - 8:00 am - 5:00 pm, (619) 514-3690. Team specializes in both commercial and ..."
+            - img "Rated 3.9 out of 5, (82) user reviews" [ref=f124e477]: 3.9(82)
+          - generic [ref=f124e484]:
+            - generic [ref=f124e487]:
+              - link "ASCENT ROOFING - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Roofing" [ref=f124e489] [cursor=pointer]:
+                - /url: /goto?url=CAESbQHrOzAVcUXHVq6eBtfCHtzCg9HdklZe_yNKiP83c5roXmCsvfMOOba6Gcj--TpBmuAPHHeic1XVr45VoVLkES1mxfpufgbU7liFjPqnlI3K0giO6KsqfeTC4Zeh7gtxabJPEJ9SGD0lYxi9DKA
+                - heading "ASCENT ROOFING - Updated September 2026" [level=3] [ref=f124e490]
+                - generic [ref=f124e496]:
+                  - generic [ref=f124e497]: Yelp
+                  - generic [ref=f124e499]: https://www.yelp.com › ... › Home Services › Roofing
+              - button "About this result" [ref=f124e505] [cursor=pointer]
+            - generic [ref=f124e511]:
+              - generic [ref=f124e512]:
+                - text: We're a family-owned and operated
+                - emphasis [ref=f124e513]: San Diego roofing company
+                - text: built on excellent customer service, professional and top-quality results, and competitive pricing.
+              - link "Read more" [ref=f124e514] [cursor=pointer]:
+                - /url: /goto?url=CAESgQEB6zswFeJth-HSZVjLSFm4KO_IiOzBFy6GeOFlkdUWZOdUWBKBmo0XtgS-2x2X1uSmR2DXSYtYNBCju3E1sLIC1uOoas1f_b9ws0yYpVslf6opZRXYNANabfP6KoDllgKOt69b7bFqsFeAFQckXJjwFEOB27es-Uq_ttHhXHky9v4
+            - img "Rated 4.3 out of 5, (35) user reviews" [ref=f124e519]: 4.3(35)
+          - generic [ref=f124e526]:
+            - generic [ref=f124e529]:
+              - link "SUPERIOR ROOFING AND WATERPROOFING Yelp https://www.yelp.com › ... › Home Services › Roofing" [ref=f124e531] [cursor=pointer]:
+                - /url: /goto?url=CAESfQHrOzAVXWBaNjO3pJaQh44r0O4VqY92J7cteD4KnRjA6RQRdk06B3RZ4wyQw1LZ6C-LYEioNSP1ETzwb7XRcoPbO7RYK_GSJZUEc2mnIjavTFlaPOe6hr5bigcektW0BvNBcyOdZ__rl4SZvnG--pB3n52xPa31GAbgs6Lw
+                - heading "SUPERIOR ROOFING AND WATERPROOFING" [level=3] [ref=f124e532]
+                - generic [ref=f124e538]:
+                  - generic [ref=f124e539]: Yelp
+                  - generic [ref=f124e541]: https://www.yelp.com › ... › Home Services › Roofing
+              - button "About this result" [ref=f124e547] [cursor=pointer]
+            - generic [ref=f124e554]:
+              - emphasis [ref=f124e555]: SUPERIOR ROOFING AND WATERPROOFING, San Diego, CA 92154
+              - text: ", 86 Photos, (619) 947-2115, Mon - 7:00 am - 5:00 pm, Tue - 7:00 am - 5:00 pm, Wed - 7:00 am - 5:00 ..."
+            - img "Rated 4.7 out of 5, (27) user reviews" [ref=f124e560]: 4.7(27)
+      - generic [ref=f124e565]:
+        - generic [ref=f124e570]:
+          - heading "People also search for" [level=2] [ref=f124e572]
+          - generic [ref=f124e574]:
+            - generic [ref=f124e575]:
+              - link "Elite ridge roofing san diego reviews" [ref=f124e579] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Elite+ridge+roofing+san+diego+reviews&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ1QJ6BAg3EAE
+              - link "Elite ridge roofing san diego phone number" [ref=f124e593] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Elite+ridge+roofing+san+diego+phone+number&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ1QJ6BAg5EAE
+              - link "Elite ridge roofing san diego complaints" [ref=f124e607] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Elite+ridge+roofing+san+diego+complaints&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ1QJ6BAg4EAE
+            - generic [ref=f124e618]:
+              - link "Elite ridge roofing san diego photos" [ref=f124e622] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Elite+ridge+roofing+san+diego+photos&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ1QJ6BAg1EAE
+              - link "Elite ridge roofing san diego address" [ref=f124e636] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Elite+ridge+roofing+san+diego+address&sa=X&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ1QJ6BAg2EAE
+        - navigation [ref=f124e647]:
+          - heading "Page Navigation" [level=1] [ref=f124e648]
+          - text: "1"
+          - link "Page 2" [ref=f124e651] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=10&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8tMDegQIMxAE
+            - text: "2"
+          - link "Page 3" [ref=f124e653] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=20&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8tMDegQIMxAG
+            - text: "3"
+          - link "Page 4" [ref=f124e655] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=30&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8tMDegQIMxAI
+            - text: "4"
+          - link "Page 5" [ref=f124e657] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=40&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8tMDegQIMxAK
+            - text: "5"
+          - link "Page 6" [ref=f124e659] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=50&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8tMDegQIMxAM
+            - text: "6"
+          - link "Page 7" [ref=f124e661] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=60&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8tMDegQIMxAO
+            - text: "7"
+          - link "Page 8" [ref=f124e663] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=70&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8tMDegQIMxAQ
+            - text: "8"
+          - link "Page 9" [ref=f124e665] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=80&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8tMDegQIMxAS
+            - text: "9"
+          - link "Page 10" [ref=f124e667] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=90&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8tMDegQIMxAU
+            - text: "10"
+          - heading [level=2] [ref=f124e669]:
+            - link "Next" [ref=f124e670] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+Elite+Ridge+Roofing+San+Diego&sca_esv=5e5febaa67db9c78&ei=5RCyasLLLs7K1sQPvYuOyQQ&start=10&sa=N&sstk=AS6-VmIgUn1yf5kuOwrfQuP172YipphwJyeLHNOwHOdoFl4YjvgWwfMwNGl0JRbG7H8bVywI3xyHxDwBu20au6fs9eyHOiSsq4c3Ww&ved=2ahUKEwiC0teSuYGXAxVOpZUCHb2FI0kQ8NMDegQIMxAW
+      - navigation
+    - contentinfo [ref=f124e673]:
+      - heading "Footer Links" [level=1] [ref=f124e674]
+      - generic [ref=f124e678]:
+        - generic [ref=f124e682]:
+          - button "Pacific Beach, San Diego, CA - From your IP address" [ref=f124e684] [cursor=pointer]:
+            - generic [ref=f124e685]: Pacific Beach, San Diego, CA
+            - generic [ref=f124e687]:
+              - text: "-"
+              - generic [ref=f124e688]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f124e690] [cursor=pointer]
+        - generic [ref=f124e693]:
+          - link "Help" [ref=f124e694] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=f124e695] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f124e696] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f124e697] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

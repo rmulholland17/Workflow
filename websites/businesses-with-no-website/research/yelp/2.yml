@@ -1,0 +1,296 @@
+- generic [active] [ref=f116e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f116e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f116e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f116e8]:
+    - search [ref=f116e9]:
+      - generic [ref=f116e11]:
+        - link "Go to Google Home" [ref=f116e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwiW6KKJuYGXAxXmqZUCHYYSNfwQPHoECAYQBA
+        - generic [ref=f116e21]:
+          - generic [ref=f116e22]:
+            - combobox "Search" [ref=f116e25]: site:yelp.com/biz "Pacific Beach Electric" San Diego site:yelp.com/biz "Pacific Beach Electric" San Diego
+            - generic [ref=f116e26]:
+              - button "Clear" [ref=f116e28] [cursor=pointer]
+              - generic [ref=f116e33]:
+                - button "Search by voice" [ref=f116e34] [cursor=pointer]
+                - button "Search by image" [ref=f116e37] [cursor=pointer]
+          - button "Search" [ref=f116e40] [cursor=pointer]
+    - generic [ref=f116e45]:
+      - button "Settings" [ref=f116e47] [cursor=pointer]
+      - button "Share" [ref=f116e52] [cursor=pointer]
+      - generic [ref=f116e58]:
+        - button "Google apps" [ref=f116e60] [cursor=pointer]
+        - link "Sign in" [ref=f116e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:yelp.com/biz%2B%2522Pacific%2BBeach%2BElectric%2522%2BSan%2BDiego&ec=futura_srp_og_si_72236_p
+  - generic [ref=f116e68]:
+    - navigation [ref=f116e74]:
+      - generic [ref=f116e80]:
+        - list [ref=f116e81]:
+          - listitem [ref=f116e82]:
+            - link "AI Mode" [ref=f116e85] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+%22Pacific+Beach+Electric%22+San+Diego&sca_esv=5e5febaa67db9c78&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832U_8HGA5CoQxEwPvRgW8Cjzcsp_mzAhBftctt5p4L-excOkxA33c41kleKh57zoXaY4fqixtEouU5cgZmOwCyPTe8_-YKyqmH08suF1MArNGEzDAFgT9E7ujh3orofebSUS46nNmyO2SumhW9CGeHQIB5lMumtcj8jwnM46RQTic0MC7Dw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiW6KKJuYGXAxXmqZUCHYYSNfwQ2J8OegQIERAD
+          - listitem [ref=f116e89]:
+            - link "All" [disabled] [ref=f116e90]
+          - listitem [ref=f116e93]:
+            - link "Images" [ref=f116e94] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832U_8HGA5CoQxEwPvRgW8Cjzcsp_mzAhBftctt5p4L-excOkxA33c41kleKh57zoXaY4fqixtEouU5cgZmOwCyPTe8_-YKyqmH08suF1MArNGEzDAFgT9E7ujh3orofebSUS46nNmyO2SumhW9CGeHQIB5lMumtcj8jwnM46RQTic0MC7Dw&q=site:yelp.com/biz+%22Pacific+Beach+Electric%22+San+Diego&sa=X&ved=2ahUKEwiW6KKJuYGXAxXmqZUCHYYSNfwQtKgLegQIFxAB
+          - listitem [ref=f116e97]:
+            - link "News" [ref=f116e98] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&q=site:yelp.com/biz+%22Pacific+Beach+Electric%22+San+Diego&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832U_8HGA5CoQxEwPvRgW8Cjzcsp_mzAhBftctt5p4L-excOkxA33c41kleKh57zoXaY4fqixtEouU5cgZmOwCyPTe8_-YKyqmH08suF1MArNGEzDAFgT9E7ujh3orofebSUS46nNmyO2SumhW9CGeHQIB5lMumtcj8jwnM46RQTic0MC7Dw&sa=X&ved=2ahUKEwiW6KKJuYGXAxXmqZUCHYYSNfwQ0pQJegQIFhAB
+          - listitem [ref=f116e101]:
+            - link "Shopping" [ref=f116e102] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832U_8HGA5CoQxEwPvRgW8Cjzcsp_mzAhBftctt5p4L-excOkxA33c41kleKh57zoXaY4fqixtEouU5cgZmOwCyPTe8_-YKyqmH08suF1MArNGEzDAFgT9E7ujh3orofebSUS46nNmyO2SumhW9CGeHQIB5lMumtcj8jwnM46RQTic0MC7Dw&q=site:yelp.com/biz+%22Pacific+Beach+Electric%22+San+Diego&ved=1t:220175&ictx=111
+          - listitem [ref=f116e105]:
+            - link "Videos" [ref=f116e106] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832U_8HGA5CoQxEwPvRgW8Cjzcsp_mzAhBftctt5p4L-excOkxA33c41kleKh57zoXaY4fqixtEouU5cgZmOwCyPTe8_-YKyqmH08suF1MArNGEzDAFgT9E7ujh3orofebSUS46nNmyO2SumhW9CGeHQIB5lMumtcj8jwnM46RQTic0MC7Dw&q=site:yelp.com/biz+%22Pacific+Beach+Electric%22+San+Diego&sa=X&ved=2ahUKEwiW6KKJuYGXAxXmqZUCHYYSNfwQtKgLegQIExAB
+          - listitem [ref=f116e109]:
+            - link "Forums" [ref=f116e110] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832U_8HGA5CoQxEwPvRgW8Cjzcsp_mzAhBftctt5p4L-excOkxA33c41kleKh57zoXaY4fqixtEouU5cgZmOwCyPTe8_-YKyqmH08suF1MArNGEzDAFgT9E7ujh3orofebSUS46nNmyO2SumhW9CGeHQIB5lMumtcj8jwnM46RQTic0MC7Dw&q=site:yelp.com/biz+%22Pacific+Beach+Electric%22+San+Diego&sa=X&ved=2ahUKEwiW6KKJuYGXAxXmqZUCHYYSNfwQs6gLegQIFBAB
+          - listitem [ref=f116e113]:
+            - button [ref=f116e114] [cursor=pointer]:
+              - generic "More filters" [ref=f116e115]: More
+        - button "Tools" [ref=f116e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f116e129]
+    - main [ref=f116e135]:
+      - generic [ref=f116e139]:
+        - generic [ref=f116e142]:
+          - heading "Web results" [level=2] [ref=f116e143]
+          - generic [ref=f116e144]:
+            - generic [ref=f116e147]:
+              - link "PACIFIC BEACH ELECTRIC - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Electricians" [ref=f116e149] [cursor=pointer]:
+                - /url: /goto?url=CAEScQHrOzAVJIJAZOBW91Nvmfr6qzl7ZpO8QxYP5vEya5_YdHAr5kdKEzniK5-sXRNzSyihdFOb_eRtqz93X7-3cym-DqV5LArk5yOin6aw8ExYUUSSsUBKNK5mkp_Fw8s_y0LrrtpziF_yDirHlJsIxFFX
+                - heading "PACIFIC BEACH ELECTRIC - Updated September 2026" [level=3] [ref=f116e150]
+                - generic [ref=f116e156]:
+                  - generic [ref=f116e157]: Yelp
+                  - generic [ref=f116e159]: https://www.yelp.com › ... › Home Services › Electricians
+              - button "About this result" [ref=f116e165] [cursor=pointer]
+            - generic [ref=f116e172]:
+              - emphasis [ref=f116e173]: PACIFIC BEACH ELECTRIC
+              - text: ", 1252 Missouri St,"
+              - emphasis [ref=f116e174]: San Diego
+              - text: ", CA 92109, 5 Photos, (858) 483-9201, Mon - 7:00 am - 5:00 pm, Tue - 7:00 am - 5:00 pm, Wed - 7:00 am ..."
+            - img "Rated 4.5 out of 5, (6) user reviews" [ref=f116e179]: 4.5(6)
+        - generic [ref=f116e186]:
+          - generic [ref=f116e189]:
+            - link "LANGE ELECTRIC - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Electricians" [ref=f116e191] [cursor=pointer]:
+              - /url: /goto?url=CAESaQHrOzAVcnYkrZ78cu_XgZDDx05Liv6PoiXL4LNRNH2O6FFbgZFtoCQQA-7JBNTceYzvo-LVhfb-dDnvy3U3S-dgR2SyVpNmEmNrtgOQOco477426hrvDl8NK-P4AnM01UUDitG2Cpovbw
+              - heading "LANGE ELECTRIC - Updated September 2026" [level=3] [ref=f116e192]
+              - generic [ref=f116e198]:
+                - generic [ref=f116e199]: Yelp
+                - generic [ref=f116e201]: https://www.yelp.com › ... › Home Services › Electricians
+            - button "About this result" [ref=f116e207] [cursor=pointer]
+          - generic [ref=f116e213]:
+            - generic [ref=f116e214]:
+              - text: Lange Electric - Complete remodel including brand ...
+              - emphasis [ref=f116e215]: Pacific Beach Electric
+              - text: . 4.5. (6 reviews). This is a placeholder.
+            - link "Read more" [ref=f116e216] [cursor=pointer]:
+              - /url: /goto?url=CAESpQEB6zswFVMSWxBWiozjRJWqgfWkUYT6vCXkz4CJN8jrHxbyJRRm4uq4z_4nWMkAkc0ik40lVxzN0Nz64b0ktQM5LjRnfR6WleAhuMae4AxvRxaJuAEH9J7AYxS9W5gRm5qZLxND-JlZLcHQFpzRpjZZ1_J9dNx-b_BXe6UqI_f_wqDtnl-FBV2fQ-tbQ_PS8TmFDx1Yf7XDYC9iDRSUw-KVTePjB7M
+          - img "Rated 5.0 out of 5, (13) user reviews" [ref=f116e221]: 5.0(13)
+        - generic [ref=f116e228]:
+          - generic [ref=f116e231]:
+            - link "Ray's Rentals - Pacific Beach Yelp https://www.yelp.com › ... › Active Life › Bike Rentals" [ref=f116e233] [cursor=pointer]:
+              - /url: /goto?url=CAESdwHrOzAVH_Ep2yAsYKJDbdIk77J5VRXR2OOq7TQ9XAU_OB4MJlhzEZu5TdrTJ4x1VrOrt4vd3Rfrv-k6JDxMWMSq7a5MsHTE8Pu5tNk0J81dpeot55PRq8WTfDAjhlSPfiQBVOrK3N9zrpzX_2i6s0N9DVw36JOK
+              - heading "Ray's Rentals - Pacific Beach" [level=3] [ref=f116e234]
+              - generic [ref=f116e240]:
+                - generic [ref=f116e241]: Yelp
+                - generic [ref=f116e243]: https://www.yelp.com › ... › Active Life › Bike Rentals
+            - button "About this result" [ref=f116e249] [cursor=pointer]
+          - generic [ref=f116e255]:
+            - generic [ref=f116e256]:
+              - text: ... Ray's Rentals - Pacific Beach - Bike Rentals Near Me -
+              - emphasis [ref=f116e257]: San Diego
+              - text: ", California. Ray's Rentals -"
+              - emphasis [ref=f116e258]: Pacific Beach - Electric
+              - text: Available too ...
+            - link "Read more" [ref=f116e259] [cursor=pointer]:
+              - /url: /goto?url=CAESiQEB6zswFRlsRSZ3vlg6YGXSgDyueRRKYYCInQ6ZQXPayTUEW02mKPFFhXKC7qBGafBV6Pm2ZONOFtE9A0Lfbq4mpuCd0HQseEoYPwdaUyViXDS_EFCrb0C_upn0l2WLv16VUa7-kGseE1l9ROvY807x8DZLR2kGsToe4FWcOCQ4MlMqDFpyCyrpOg
+          - generic [ref=f116e262]:
+            - generic [ref=f116e263]:
+              - img "Rated 4.5 out of 5, (134) user reviews" [ref=f116e264]: 4.5(134)
+              - text: ·
+            - text: "Price range: $"
+        - generic [ref=f116e271]:
+          - generic [ref=f116e274]:
+            - link "BRI ELECTRIC - Updated September 2026 - 5580 La Jolla ... Yelp https://www.yelp.com › ... › Home Services › Electricians" [ref=f116e276] [cursor=pointer]:
+              - /url: /goto?url=CAESZgHrOzAVmmpTNBZHaNf4LcFY9oBYH9ZUsNW7kydgT-b0vJMVxID9Aqq_cLa_UrVbTZEsfotMB6gOMDO8QlQ5vHb6SijVz1--h8DNyfjcBfCYVzmCACJel7dZ2QJM3KzJr89KULeHYg
+              - heading "BRI ELECTRIC - Updated September 2026 - 5580 La Jolla ..." [level=3] [ref=f116e277]
+              - generic [ref=f116e283]:
+                - generic [ref=f116e284]: Yelp
+                - generic [ref=f116e286]: https://www.yelp.com › ... › Home Services › Electricians
+            - button "About this result" [ref=f116e292] [cursor=pointer]
+          - generic [ref=f116e298]:
+            - generic [ref=f116e299]:
+              - text: ...
+              - emphasis [ref=f116e300]: San Diego
+              - text: County. My experience with ER Electric was really bad. I went ...
+              - emphasis [ref=f116e301]: Pacific Beach Electric
+              - text: "-"
+              - emphasis [ref=f116e302]: Pacific Beach Electric
+              - text: .
+              - emphasis [ref=f116e303]: Pacific Beach Electric
+              - text: . (6 ...
+            - link "Read more" [ref=f116e304] [cursor=pointer]:
+              - /url: /goto?url=CAESyAEB6zswFeg-5OpqikoMVde0jPkj20ENRzgO4qOkkbtfp2U25qBtF93KFI6Iq1HTemCx5LXibskMA4n_n4TFZTgu1X84nlwnq0x_FmDfSj-YoLvCR3Evf-XHNwl8ZGc0IE-ma9M70dKPmV_JRMDQE9LnD6G515guKbj4I6b8oqe12us-tXHLF5JfGcLEhxAHkExtM6Gf02wNOP4sTpVf6ln5nrePkB8kmZu8RGPYCzMnTSkyszmCodEJ2R6IM0CopQ-Gb56NdZc0ZA
+          - img "Rated 5.0 out of 5, (1) user reviews" [ref=f116e309]: 5.0(1)
+        - generic [ref=f116e316]:
+          - generic [ref=f116e319]:
+            - link "D F H ELECTRIC - Updated August 2026 - 5490 La ... Yelp https://www.yelp.com › ... › Home Services › Electricians" [ref=f116e321] [cursor=pointer]:
+              - /url: /goto?url=CAESaAHrOzAVaoxA7AyoRHwLJvfZ_85NQhFPBsAmMHH3X4r-bfePCmjDkcAm0ncuBF4PVzsiHtph5jVsGYhWbZOfTbJHBxavMJ4lUjJ3fVp8c59UHzg32MD-BlKhgzm1pD2RH_GCVNx6F4qw
+              - heading "D F H ELECTRIC - Updated August 2026 - 5490 La ..." [level=3] [ref=f116e322]
+              - generic [ref=f116e328]:
+                - generic [ref=f116e329]: Yelp
+                - generic [ref=f116e331]: https://www.yelp.com › ... › Home Services › Electricians
+            - button "About this result" [ref=f116e337] [cursor=pointer]
+          - generic [ref=f116e343]:
+            - generic [ref=f116e344]:
+              - emphasis [ref=f116e345]: Pacific Beach Electric
+              - text: "-"
+              - emphasis [ref=f116e346]: Pacific Beach Electric
+              - text: .
+              - emphasis [ref=f116e347]: Pacific Beach Electric
+              - text: . (6 ... Greater
+              - emphasis [ref=f116e348]: San Diego
+              - text: Electric Contractor. 5.0. (1 review).
+            - link "Read more" [ref=f116e349] [cursor=pointer]:
+              - /url: /goto?url=CAES4QEB6zswFc3tNKF8hd8TDz9AgJ6oSVsKit6Eq-yvGIGymZsPwIPmqKtObFPIGEGh283g48OLqbfdHXB-kJUrjkdXazEOp31Hbac6V2jnrQ9jBGDN0htU_qOGymGMorIhW6UclUFIz3S1QUVYR0xPVNJrzyxukF0q7ssg7KPjnAEY-B4w0XJdHebTnrkQDTWoDKYCPg6_4ux0eDCR1m_u0k14fI2rFv8PKBmJHYKApKQba0h7xK3bRWbCa1NCRWfY_2G5x6O2F94TglVYHI7ptlqqT9460OXaiVfs69uiLBXr7zc
+        - generic [ref=f116e353]:
+          - generic [ref=f116e356]:
+            - link "John Blonski - 5925 La Jolla Blvd, La Jolla, California Yelp https://www.yelp.com › ... › Home Services › Electricians" [ref=f116e358] [cursor=pointer]:
+              - /url: /goto?url=CAESZgHrOzAVs9qTLAKtP48ENlpoEH_Q05Cw0hO1reoTg3adg0hzis4HSgLGz50yaz0qUtzaONbdVjL6ziMq43PpuvK-IlLcQ0pGmZyML66VTu0DFeIFOVUP1NQwhb2NMX5rgrzGYy2TMA
+              - heading "John Blonski - 5925 La Jolla Blvd, La Jolla, California" [level=3] [ref=f116e359]
+              - generic [ref=f116e365]:
+                - generic [ref=f116e366]: Yelp
+                - generic [ref=f116e368]: https://www.yelp.com › ... › Home Services › Electricians
+            - button "About this result" [ref=f116e374] [cursor=pointer]
+          - generic [ref=f116e380]:
+            - generic [ref=f116e381]:
+              - text: Voted
+              - emphasis [ref=f116e382]: San Diego's
+              - text: Best Solar in the 2026 Union Tribune Readers Poll. ... So happy to have used them!!!
+              - emphasis [ref=f116e383]: Pacific Beach Electric
+              - text: "-"
+              - emphasis [ref=f116e384]: Pacific Beach Electric
+              - text: .
+            - link "Read more" [ref=f116e385] [cursor=pointer]:
+              - /url: /goto?url=CAES5gEB6zswFaiHqKfP-cD2VhSlOLH7hPDg1JC5zsYUMC5VsCn497TO8tUm2c51X4UgA8SMA9UluUcO6s1dDdOQ7sCA4ofv9CxBj79mYtJPDYS_gmFKj2fNSOzviwGHqtnHdTpWzUt7iYDmNfWqaTl1HgfsWqQ8IvN5sBFezcif8n3_arPM9RThNwDa_Xo200ZyqqasySAArgME3A1hHkIc7uwelHLPyZmjgK0YXoT6-uZOSTiTxmeVAAuv-CGnCB9PbooPb6Jbe-Qh_kgp3bvzPGHfg9OsGZsnhkerUPSKDIZd5wHvV1wFew
+          - img "Rated 5.0 out of 5, (12) user reviews" [ref=f116e390]: 5.0(12)
+        - generic [ref=f116e397]:
+          - generic [ref=f116e400]:
+            - link "VESPA FUNDS - Updated May 2026 - 4455 Morena Blvd, San ... Yelp https://m.yelp.com › ... › Real Estate › Vespa Funds" [ref=f116e402] [cursor=pointer]:
+              - /url: /goto?url=CAESZQHrOzAVCnG8PK7bqoWAaD35rjdQiaeXzM2QSEqg7zbjg8os5nRSG_JUpxElQIxBxWy3Y-JfRtxVDmNuANe8-OsKDWNAsYfy0V5jWqGmhfO4cMBzEpj8uECqYBqL7di3qHte8MBv
+              - heading "VESPA FUNDS - Updated May 2026 - 4455 Morena Blvd, San ..." [level=3] [ref=f116e403]
+              - generic [ref=f116e409]:
+                - generic [ref=f116e410]: Yelp
+                - generic [ref=f116e412]: https://m.yelp.com › ... › Real Estate › Vespa Funds
+            - button "About this result" [ref=f116e418] [cursor=pointer]
+          - generic [ref=f116e425]:
+            - emphasis [ref=f116e426]: San Diego
+            - text: ", CA 92117. Directions. (858) 483-8700 ..."
+            - emphasis [ref=f116e427]: Pacific Beach Electric
+            - text: "-"
+            - emphasis [ref=f116e428]: Pacific Beach Electric
+            - text: ... BEST of
+            - emphasis [ref=f116e429]: San Diego
+            - text: ", California Things to Do near Vespa Funds."
+        - generic [ref=f116e433]:
+          - generic [ref=f116e436]:
+            - link "ELITE CONCIERGE SECOND HOME SERVICES Yelp https://m.yelp.com › San Diego, CA › Home Services" [ref=f116e438] [cursor=pointer]:
+              - /url: /goto?url=CAESfQHrOzAVswXZhyiHDKmhIYdHx6xr9DoGc7TTf4SrLjQw_b67NxM0QgrFaKa6efVM21x8mrGDJVgSXXM8dKkLQ7N_dWdRp3zKMcSKQGB9yg6JdeQSEHvOxUzCOzsBawYSZhgUsNFIotdSLuF8XJiQ2UTqYvh9pAJly3rTxx-C
+              - heading "ELITE CONCIERGE SECOND HOME SERVICES" [level=3] [ref=f116e439]
+              - generic [ref=f116e445]:
+                - generic [ref=f116e446]: Yelp
+                - generic [ref=f116e448]: https://m.yelp.com › San Diego, CA › Home Services
+            - button "About this result" [ref=f116e454] [cursor=pointer]
+          - generic [ref=f116e461]:
+            - text: ...
+            - emphasis [ref=f116e462]: San Diego
+            - text: and beyond ... Elite Concierge Second Home Services -
+            - emphasis [ref=f116e463]: San Diego
+            - text: Sunsets - Home Services Near Me - San · Add Photo ...
+            - emphasis [ref=f116e464]: Pacific Beach Electric
+            - text: "-"
+            - emphasis [ref=f116e465]: Pacific
+            - text: ...
+        - generic [ref=f116e469]:
+          - generic [ref=f116e472]:
+            - link "BURMAN ELECTRIC - CLOSED - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Electricians" [ref=f116e474] [cursor=pointer]:
+              - /url: /goto?url=CAESaQHrOzAVlMLtLYNxzd21_i2-03WPEpNMNMr8BAoS8KIU5y5OycH1U2ljr2KWPypHKl9VHQz36OlcVOcr-2W_nhtDOj4SM1-qj4RdDbPro9wu6oBdykuCNoL6nlSw0aQKhmdyGuGs_Y9JGg
+              - heading "BURMAN ELECTRIC - CLOSED - Updated September 2026" [level=3] [ref=f116e475]
+              - generic [ref=f116e481]:
+                - generic [ref=f116e482]: Yelp
+                - generic [ref=f116e484]: https://www.yelp.com › ... › Home Services › Electricians
+            - button "About this result" [ref=f116e490] [cursor=pointer]
+          - generic [ref=f116e496]:
+            - generic [ref=f116e497]:
+              - text: ...
+              - emphasis [ref=f116e498]: San Diego
+              - text: County. My ... You won't be disappointed, he is a great guy!
+              - emphasis [ref=f116e499]: Pacific Beach Electric
+              - text: . 4.5. (6 reviews). This is a placeholder.
+            - link "Read more" [ref=f116e500] [cursor=pointer]:
+              - /url: /goto?url=CAESzQEB6zswFcqsgsDiY1VrMUrmg6XKtnnBAZliwtt4WePCW6F6eo6eboCmuB9e23eYNvIFBt4iZIYmpO__oCCe8W4GlNlCGRcJ-SgOgTVWmSNJR4jGgYDBcqCZJC9YjmGwri0Uzh1nFdj0ex6wkoZJzk6juwAMMDG5ahQP5guMx7UnDj2_FZx5uCMmTOThagdTGWsjwYQ5LyUWyXZK01xHvLT5lgqaYtG3Ux0djEhg2mwhaJjPcHk8C7Y7YgWLDcHrhXLYvEVAQvc3XCxj25rn
+          - img "Rated 3.0 out of 5, (2) user reviews" [ref=f116e505]: 3.0(2)
+        - generic [ref=f116e512]:
+          - generic [ref=f116e515]:
+            - link "VESPA FUNDS - 4455 Morena Blvd, San Diego, California Yelp https://www.yelp.com › ... › Home Services › Real Estate" [ref=f116e517] [cursor=pointer]:
+              - /url: /goto?url=CAESZgHrOzAVGBKCTKl78P_W6_c3WuOSzqD5GBksqCNMJoF6yzxZcJP51TzhwOUcxMSMSFRAbbdNQxRsf1mjAh0D6vzHLsK6aVtVQiPhiPgTq2C_oTnQ9N3ZfUOzJ_G5qVIzSMkEdXviLQ
+              - heading "VESPA FUNDS - 4455 Morena Blvd, San Diego, California" [level=3] [ref=f116e518]
+              - generic [ref=f116e524]:
+                - generic [ref=f116e525]: Yelp
+                - generic [ref=f116e527]: https://www.yelp.com › ... › Home Services › Real Estate
+            - button "About this result" [ref=f116e533] [cursor=pointer]
+          - generic [ref=f116e539]:
+            - generic [ref=f116e540]:
+              - emphasis [ref=f116e541]: Pacific Beach Electric
+              - text: "-"
+              - emphasis [ref=f116e542]: Pacific Beach Electric
+              - text: .
+              - emphasis [ref=f116e543]: Pacific Beach Electric
+              - text: . (6 ... BEST of
+              - emphasis [ref=f116e544]: San Diego
+              - text: ", California Things to Do near Vespa Funds · BEST of San ..."
+            - link "Read more" [ref=f116e545] [cursor=pointer]:
+              - /url: /goto?url=CAES8wEB6zswFRwyuwGg-S5Rqtc1O7TRze7urTYKA3zwEKv-aaIKvtXlXbH8SmZztFP2ofpWFAtHg9XJpYuuCNw7lH9MzQFKOJvCFPlnePjMFNzIj1H4s8eEpt33v76uN9vutV762Uwi60StTiJDrpaE6C8A99iuxf1I2ldsa8EV0TsJMcz3FdQLmQjXbEb_Nn17-TULb-RIUHiEcZSD6ogPqUzf1vT-RjG6KT17TVrDp03p1GniIszV7SBDMgxJPf0NN1U-3_4t5SfozPjMCFc3zYI68qsBgmPIJQXqBdJXsY7txESVDSme6bE-dCr2VGYqKXPrphI
+          - img "Rated 5.0 out of 5, (1) user reviews" [ref=f116e550]: 5.0(1)
+      - generic [ref=f116e555]:
+        - generic [ref=f116e560]:
+          - heading "People also search for" [level=2] [ref=f116e562]
+          - generic [ref=f116e564]:
+            - link "Pacific beach electric san diego reviews" [ref=f116e569] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&q=Pacific+beach+electric+san+diego+reviews&sa=X&ved=2ahUKEwiW6KKJuYGXAxXmqZUCHYYSNfwQ1QJ6BAgyEAE
+            - link "Pacific beach electric san diego address" [ref=f116e584] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&q=Pacific+beach+electric+san+diego+address&sa=X&ved=2ahUKEwiW6KKJuYGXAxXmqZUCHYYSNfwQ1QJ6BAgxEAE
+        - generic [ref=f116e595]:
+          - heading "Notices about Filtered Results" [level=2] [ref=f116e596]
+          - paragraph [ref=f116e598]:
+            - generic [ref=f116e599]:
+              - text: In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can
+              - link "repeat the search with the omitted results included" [ref=f116e600] [cursor=pointer]:
+                - /url: /search?q=site:yelp.com/biz+%22Pacific+Beach+Electric%22+San+Diego&sca_esv=5e5febaa67db9c78&filter=0
+              - text: .
+        - navigation
+      - navigation
+    - contentinfo [ref=f116e601]:
+      - heading "Footer Links" [level=1] [ref=f116e602]
+      - generic [ref=f116e606]:
+        - generic [ref=f116e610]:
+          - button "Pacific Beach, San Diego, CA - From your IP address" [ref=f116e612] [cursor=pointer]:
+            - generic [ref=f116e613]: Pacific Beach, San Diego, CA
+            - generic [ref=f116e615]:
+              - text: "-"
+              - generic [ref=f116e616]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f116e618] [cursor=pointer]
+        - generic [ref=f116e621]:
+          - link "Help" [ref=f116e622] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=f116e623] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f116e624] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f116e625] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

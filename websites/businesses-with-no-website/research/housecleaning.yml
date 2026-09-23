@@ -1,0 +1,413 @@
+- generic "Google Maps" [ref=f38e9]:
+  - generic [ref=f38e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f38e10]
+    - search [ref=f38e15]:
+      - generic [ref=f38e16]:
+        - combobox [ref=f38e18]: house cleaning service san diego ca
+        - button "Search" [ref=f38e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f38e21]: 
+        - button "Close" [ref=f38e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f38e24]: 
+    - region "Available filters for this search" [ref=f38e31]:
+      - generic [ref=f38e34]:
+        - button "Rating" [ref=f38e36] [cursor=pointer]:
+          - generic [ref=f38e37]:
+            - generic [aria-hidden] [ref=f38e38]: 
+            - generic [ref=f38e39]: Rating
+            - generic [aria-hidden] [ref=f38e40]: 
+        - button "Hours" [ref=f38e42] [cursor=pointer]:
+          - generic [ref=f38e43]:
+            - generic [aria-hidden] [ref=f38e44]: 
+            - generic [ref=f38e45]: Hours
+            - generic [aria-hidden] [ref=f38e46]: 
+        - button "All filters" [ref=f38e48] [cursor=pointer]:
+          - generic [ref=f38e49]:
+            - generic [aria-hidden] [ref=f38e50]: 
+            - generic [ref=f38e51]: All filters
+    - generic [ref=f38e52]:
+      - generic [ref=f38e53]:
+        - list [ref=f38e55]:
+          - listitem [ref=f38e56]:
+            - button "Menu" [ref=f38e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f38e59]: 
+          - listitem [ref=f38e60]:
+            - button "Saved" [ref=f38e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f38e63]: 
+          - listitem [ref=f38e66]:
+            - button "Recents" [disabled] [ref=f38e67]:
+              - generic [aria-hidden] [ref=f38e69]: 
+          - listitem [ref=f38e73]:
+            - button "Get app" [ref=f38e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f38e76]: 
+        - main [ref=f38e83]:
+          - generic [ref=f38e84]:
+            - feed "Results for house cleaning service san diego ca" [ref=f38e85]:
+              - generic [ref=f38e86]:
+                - generic [ref=f38e88]:
+                  - heading "Results" [level=1] [ref=f38e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f38e93]:
+                    - generic [aria-hidden] [ref=f38e97]: 
+                - button "Share" [ref=f38e101]:
+                  - generic [ref=f38e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f38e103]: 
+                    - generic [ref=f38e104]: Share
+              - article [ref=f38e106]:
+                - link "OneTouch House Cleaning San Diego" [ref=f38e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/OneTouch+House+Cleaning+San+Diego/data=!4m7!3m6!1s0x80dc01256a3171f7:0x2310237a5948d947!8m2!3d32.813009!4d-117.218994!16s%2Fg%2F11z3__4k2v!19sChIJ93ExaiUB3IARR9lIWXojECM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: OneTouch House Cleaning San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 102 Reviews": 4.9(102)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "No wheelchair accessible entrance" [ref=f38e109] [cursor=pointer]:
+                                    - generic [ref=f38e110]: 
+                                - generic: "· 5002 Santa Fe St #7"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 514-3339
+                    - generic:
+                      - link "Visit OneTouch House Cleaning San Diego's website" [ref=f38e111] [cursor=pointer]:
+                        - /url: https://www.onetouchcleaners.com/locations/clairemont
+                        - generic [aria-hidden] [ref=f38e113]: 
+                        - generic [ref=f38e114]: Website
+                      - button "Get directions to OneTouch House Cleaning San Diego" [ref=f38e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e117]: 
+                        - generic [ref=f38e118]: Directions
+              - article [ref=f38e121]:
+                - link "SAN DIEGO CLEANING" [ref=f38e122] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/SAN+DIEGO+CLEANING/data=!4m7!3m6!1s0x80dc014c81fcaedd:0x1f6db9f29fb41f3b!8m2!3d32.793297!4d-117.232831!16s%2Fg%2F11lv8ytvdw!19sChIJ3a78gUwB3IAROx-0n_K5bR8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: SAN DIEGO CLEANING
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 5 Reviews": 5.0(5)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 3983 Lamont St A
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 330-4800
+                    - button "Get directions to SAN DIEGO CLEANING" [ref=f38e124] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f38e126]: 
+                      - generic [ref=f38e127]: Directions
+              - article [ref=f38e130]:
+                - link "Clean Me Up Scotty" [ref=f38e131] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Clean+Me+Up+Scotty/data=!4m7!3m6!1s0x48cd68b98bae36dd:0xaca224384dd91909!8m2!3d32.7882194!4d-117.2381299!16s%2Fg%2F11sv9lh4n1!19sChIJ3Taui7lozUgRCRnZTTgkoqw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Clean Me Up Scotty
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.6 stars 264 Reviews": 4.6(264)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 3771 Promontory St
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 821-5338
+                    - generic:
+                      - link "Visit Clean Me Up Scotty's website" [ref=f38e133] [cursor=pointer]:
+                        - /url: https://www.cleanmeupscottysd.com/
+                        - generic [aria-hidden] [ref=f38e135]: 
+                        - generic [ref=f38e136]: Website
+                      - button "Get directions to Clean Me Up Scotty" [ref=f38e137] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e139]: 
+                        - generic [ref=f38e140]: Directions
+              - article [ref=f38e143]:
+                - link "Crystal Cleaning Maid Service San Diego" [ref=f38e144] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Crystal+Cleaning+Maid+Service+San+Diego/data=!4m7!3m6!1s0x483e435d67d7b5a9:0xb2cf4dd1c83b3481!8m2!3d32.8046664!4d-117.2543196!16s%2Fg%2F11vq5ll9h4!19sChIJqbXXZ11DPkgRgTQ7yNFNz7I?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Crystal Cleaning Maid Service San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 123 Reviews": 4.9(123)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 4944 Cass St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 888-9036
+                    - generic:
+                      - link "Visit Crystal Cleaning Maid Service San Diego's website" [ref=f38e146] [cursor=pointer]:
+                        - /url: https://www.crystalcleaningmaidservice.com/
+                        - generic [aria-hidden] [ref=f38e148]: 
+                        - generic [ref=f38e149]: Website
+                      - button "Get directions to Crystal Cleaning Maid Service San Diego" [ref=f38e150] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e152]: 
+                        - generic [ref=f38e153]: Directions
+              - article [ref=f38e156]:
+                - link "Clean Freak Cleaning Services" [ref=f38e157] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Clean+Freak+Cleaning+Services/data=!4m7!3m6!1s0x80dc01ee34469f2d:0x19e120a94b28c2f5!8m2!3d32.7896196!4d-117.2546271!16s%2Fg%2F11_r9_68x!19sChIJLZ9GNO4B3IAR9cIoS6kg4Rk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Clean Freak Cleaning Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 118 Reviews": 5.0(118)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 712 Zanzibar Ct
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 634-5141
+                    - generic:
+                      - link "Visit Clean Freak Cleaning Services's website" [ref=f38e159] [cursor=pointer]:
+                        - /url: https://www.cleanfreakcleaningservices.com/
+                        - generic [aria-hidden] [ref=f38e161]: 
+                        - generic [ref=f38e162]: Website
+                      - button "Get directions to Clean Freak Cleaning Services" [ref=f38e163] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e165]: 
+                        - generic [ref=f38e166]: Directions
+              - article [ref=f38e169]:
+                - link "Glisten Co Cleaning Company (Pacific Beach Move Out Cleaning)" [ref=f38e170] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Glisten+Co+Cleaning+Company+%28Pacific+Beach+Move+Out+Cleaning%29/data=!4m7!3m6!1s0x80d95507e8fa733f:0xa238243c154f6f91!8m2!3d32.795237!4d-117.2554611!16s%2Fg%2F11lglr29zy!19sChIJP3P66AdV2YARkW9PFTwkOKI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Glisten Co Cleaning Company (Pacific Beach Move Out Cleaning)
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 117 Reviews": 4.8(117)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 4444 Mission Blvd Ste 107
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 779-0205
+                    - generic:
+                      - link "Visit Glisten Co Cleaning Company (Pacific Beach Move Out Cleaning)'s website" [ref=f38e172] [cursor=pointer]:
+                        - /url: https://www.glistenco.com/
+                        - generic [aria-hidden] [ref=f38e174]: 
+                        - generic [ref=f38e175]: Website
+                      - button "Get directions to Glisten Co Cleaning Company (Pacific Beach Move Out Cleaning)" [ref=f38e176] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e178]: 
+                        - generic [ref=f38e179]: Directions
+              - article [ref=f38e182]:
+                - link "Sparkly Maid San Diego Cleaning Services" [ref=f38e183] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Sparkly+Maid+San+Diego+Cleaning+Services/data=!4m7!3m6!1s0x8be98ae60589e813:0x6c6380faca90c6eb!8m2!3d32.7166115!4d-117.1599487!16s%2Fg%2F11x031x7fv!19sChIJE-iJBeaK6YsR68aQyvqAY2w?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Sparkly Maid San Diego Cleaning Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 196 Reviews": 5.0(196)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 1065 Fifth Ave Ste 302
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 227-9414
+                    - generic:
+                      - link "Visit Sparkly Maid San Diego Cleaning Services's website" [ref=f38e185] [cursor=pointer]:
+                        - /url: https://www.sparklymaidsandiego.com/
+                        - generic [aria-hidden] [ref=f38e187]: 
+                        - generic [ref=f38e188]: Website
+                      - button "Get directions to Sparkly Maid San Diego Cleaning Services" [ref=f38e189] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e191]: 
+                        - generic [ref=f38e192]: Directions
+              - article [ref=f38e195]:
+                - link "Bay Park Home Cleaners" [ref=f38e196] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Bay+Park+Home+Cleaners/data=!4m7!3m6!1s0x80dc01e55fd90811:0xef1b1d00487f0a4d!8m2!3d32.7896531!4d-117.203143!16s%2Fg%2F11z2lrbqgy!19sChIJEQjZX-UB3IARTQp_SAAdG-8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Bay Park Home Cleaners
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1 Reviews": 5.0(1)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f38e198] [cursor=pointer]:
+                                    - generic [ref=f38e199]: 
+                                - generic: "· 2603 Denver St #108"
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 320-8007
+                    - generic:
+                      - link "Visit Bay Park Home Cleaners's website" [ref=f38e200] [cursor=pointer]:
+                        - /url: https://bayparkhomecleaners.com/
+                        - generic [aria-hidden] [ref=f38e202]: 
+                        - generic [ref=f38e203]: Website
+                      - button "Get directions to Bay Park Home Cleaners" [ref=f38e204] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e206]: 
+                        - generic [ref=f38e207]: Directions
+              - article [ref=f38e210]:
+                - link "Maid 2 Clean San Diego" [ref=f38e211] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Maid+2+Clean+San+Diego/data=!4m7!3m6!1s0x80d955bad4edb6c9:0xe6213f8119a9a526!8m2!3d32.8284325!4d-117.1695111!16s%2Fg%2F11qnvdwkg0!19sChIJybbt1LpV2YARJqWpGYE_IeY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Maid 2 Clean San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 726 Reviews": 5.0(726)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 4745 Printwood Ct
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 461-8680
+                    - generic:
+                      - link "Visit Maid 2 Clean San Diego's website" [ref=f38e213] [cursor=pointer]:
+                        - /url: https://www.maid2cleansd.com/
+                        - generic [aria-hidden] [ref=f38e215]: 
+                        - generic [ref=f38e216]: Website
+                      - button "Get directions to Maid 2 Clean San Diego" [ref=f38e217] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e219]: 
+                        - generic [ref=f38e220]: Directions
+              - article [ref=f38e223]:
+                - link "OneTouch Cleaners - San Diego" [ref=f38e224] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/OneTouch+Cleaners+-+San+Diego/data=!4m7!3m6!1s0x2c8efe593f5ea17b:0x6f95dbeace3b007a!8m2!3d32.7183178!4d-117.1561012!16s%2Fg%2F11k4pfh6yh!19sChIJe6FeP1n-jiwRegA7zurblW8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: OneTouch Cleaners - San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 1,031 Reviews": 4.9(1,031)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 1281 Ninth Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 618-4137
+                    - generic:
+                      - link "Visit OneTouch Cleaners - San Diego's website" [ref=f38e226] [cursor=pointer]:
+                        - /url: https://www.onetouchcleaners.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile
+                        - generic [aria-hidden] [ref=f38e228]: 
+                        - generic [ref=f38e229]: Website
+                      - button "Get directions to OneTouch Cleaners - San Diego" [ref=f38e230] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e232]: 
+                        - generic [ref=f38e233]: Directions
+              - article [ref=f38e236]:
+                - link "Mexi Maids Cleaning" [ref=f38e237] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Mexi+Maids+Cleaning/data=!4m7!3m6!1s0x808529068916d389:0xaf42bff48d589880!8m2!3d32.7763146!4d-117.1530833!16s%2Fg%2F11y7ds3kz0!19sChIJidMWiQYphYARgJhYjfS_Qq8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Mexi Maids Cleaning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 188 Reviews": 4.8(188)
+                            - generic:
+                              - generic:
+                                - generic: House cleaning service
+                                - generic: · 7777 Westside Dr
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 777-2063
+                    - generic:
+                      - link "Visit Mexi Maids Cleaning's website" [ref=f38e239] [cursor=pointer]:
+                        - /url: http://meximaidscleaningsandiego.com/
+                        - generic [aria-hidden] [ref=f38e241]: 
+                        - generic [ref=f38e242]: Website
+                      - button "Get directions to Mexi Maids Cleaning" [ref=f38e243] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f38e245]: 
+                        - generic [ref=f38e246]: Directions
+              - generic [ref=f38e281]:
+                - generic [aria-hidden] [ref=f38e283]: 
+                - generic [ref=f38e284]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f38e285] [cursor=pointer]
+            - checkbox [ref=f38e288] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f38e290]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f38e292] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f38e293]: 
+    - generic [ref=f38e297]:
+      - button "Google apps" [ref=f38e301] [cursor=pointer]
+      - link "Sign in" [ref=f38e305] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fhouse%2Bcleaning%2Bservice%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f38e308] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f38e310]: 
+        - generic [ref=f38e312] [cursor=pointer]:
+          - button "Zoom in" [ref=f38e313]:
+            - generic [aria-hidden] [ref=f38e315]: 
+          - button "Zoom out" [ref=f38e316]:
+            - generic [aria-hidden] [ref=f38e318]: 
+      - button "Browse Street View images" [ref=f38e324]
+      - generic [ref=f38e326]:
+        - generic "Interactive map" [ref=f38e327]
+        - generic [ref=f38e331] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f38e332]: 
+          - generic [ref=f38e333]: Layers
+        - button "Layers" [ref=f38e334] [cursor=pointer]
+    - generic [ref=f38e336]:
+      - contentinfo [ref=f38e339]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f38e340] [cursor=pointer]
+        - button "Terms" [ref=f38e341] [cursor=pointer]
+        - button "Privacy" [ref=f38e342] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f38e343] [cursor=pointer]
+      - button "5 mi" [ref=f38e345] [cursor=pointer]

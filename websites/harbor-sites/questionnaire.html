@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harbor Sites &mdash; Tell us about your business</title>
+<meta name="description" content="Tell us about your business and we'll build a free sample homepage from it &mdash; about 5 minutes, no cost, no commitment.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Harbor Sites">
+<meta property="og:title" content="Tell us about your business &mdash; Harbor Sites">
+<meta property="og:description" content="About 5 minutes. We'll send back a free sample homepage built from your real business.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23AD8232' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 17c1.5 1.5 3 1.5 4.5 0s3-1.5 4.5 0 3 1.5 4.5 0 3-1.5 4.5 0'/%3E%3Cpath d='M12 3v8'/%3E%3Cpath d='M8 6h8l-1.5 5h-5z'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="progress-bar" id="progressBar" aria-hidden="true"></div>
+
+<div class="form-progress-ring" id="progressRing" aria-hidden="true">
+  <svg viewBox="0 0 64 64">
+    <circle class="ring-track" cx="32" cy="32" r="26"/>
+    <circle class="ring-fill" cx="32" cy="32" r="26" id="progressRingFill"/>
+  </svg>
+  <span class="form-progress-label" id="progressRingLabel">0/7</span>
+</div>
+
+<nav class="topnav">
+  <div class="topnav-inner side">
+    <a class="wordmark" href="index.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 17c1.5 1.5 3 1.5 4.5 0s3-1.5 4.5 0 3 1.5 4.5 0 3-1.5 4.5 0"/><path d="M12 3v8"/><path d="M8 6h8l-1.5 5h-5z"/></svg>
+      Harbor Sites
+    </a>
+    <a class="nav-cta" href="index.html">Back home</a>
+  </div>
+</nav>
+
+<section class="noborder form-zone">
+  <div class="form-accent form-accent-left" aria-hidden="true">
+    <svg viewBox="0 0 160 1000" preserveAspectRatio="none">
+      <g fill="none">
+        <path class="bgp" style="--dur:19.4s" stroke="var(--navy)" stroke-width="1.8" stroke-opacity="0.34" stroke-dasharray="14 10" d="M120 -60 C 40 60, 140 180, 60 300 S 130 480, 40 620 S 110 800, 30 960"/>
+        <path class="bgp" style="--dur:23.1s" stroke="var(--brass)" stroke-width="2.2" stroke-opacity="0.4" stroke-dasharray="10 12" d="M40 -80 C 130 40, 30 200, 120 340 S 30 540, 120 700 S 20 860, 110 1000"/>
+      </g>
+    </svg>
+  </div>
+  <div class="form-accent form-accent-right" aria-hidden="true">
+    <svg viewBox="0 0 160 1000" preserveAspectRatio="none">
+      <g fill="none">
+        <path class="bgp" style="--dur:21.2s" stroke="var(--navy)" stroke-width="1.85" stroke-opacity="0.32" stroke-dasharray="16 10" d="M30 -60 C 120 60, 20 180, 110 300 S 30 480, 120 620 S 40 800, 130 960"/>
+        <path class="bgp" style="--dur:17.6s" stroke="var(--brass)" stroke-width="2.15" stroke-opacity="0.38" stroke-dasharray="8 14" d="M130 -80 C 30 40, 140 200, 40 340 S 140 540, 30 700 S 140 860, 40 1000"/>
+      </g>
+    </svg>
+  </div>
+  <div class="wrap side">
+    <div class="eyebrow">About 5 minutes</div>
+    <h1 style="max-width:20ch;">Tell us about your business</h1>
+    <p class="sub">The more specific you are, the better the sample homepage will be. Skip anything you're not sure about &mdash; we'll follow up if we need it.</p>
+
+    <div class="form-shell">
+      <form name="intake" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/thank-you.html" enctype="multipart/form-data">
+        <input type="hidden" name="form-name" value="intake">
+        <p style="position:absolute;left:-9999px;" aria-hidden="true">
+          <label>Leave this field blank: <input name="bot-field"></label>
+        </p>
+
+        <fieldset>
+          <legend>The basics</legend>
+          <p class="field-hint">Who you are and how to reach you.</p>
+
+          <div class="field">
+            <label for="biz-name">Business name <span class="opt">(required)</span></label>
+            <input type="text" id="biz-name" name="business_name" autocomplete="organization" required>
+          </div>
+
+          <div class="field">
+            <label for="trade">What trade or service do you do? <span class="opt">(required)</span></label>
+            <input type="text" id="trade" name="trade" placeholder="e.g. Electrician, Landscaping, House cleaning" required>
+          </div>
+
+          <div class="two-col">
+            <div class="field">
+              <label for="contact-name">Your name <span class="opt">(required)</span></label>
+              <input type="text" id="contact-name" name="contact_name" autocomplete="name" required>
+            </div>
+            <div class="field">
+              <label for="phone">Best phone number <span class="opt">(required)</span></label>
+              <input type="tel" id="phone" name="phone" autocomplete="tel" required>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="email">Email address <span class="opt">(required)</span></label>
+            <input type="email" id="email" name="email" autocomplete="email" required>
+          </div>
+
+          <div class="two-col">
+            <div class="field">
+              <label for="city">City / neighborhood you're based in <span class="opt">(required)</span></label>
+              <input type="text" id="city" name="city" autocomplete="address-level2" required>
+            </div>
+            <div class="field">
+              <label for="area">Areas you serve <span class="opt">(optional)</span></label>
+              <input type="text" id="area" name="service_area" placeholder="e.g. Pacific Beach and nearby">
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Where you already show up online</legend>
+          <p class="field-hint">Leave blank whatever you don't have &mdash; totally fine if that's all of it.</p>
+
+          <div class="field">
+            <label for="gbp">Google Business Profile link <span class="opt">(optional)</span></label>
+            <input type="url" id="gbp" name="google_profile" placeholder="https://" autocomplete="url">
+          </div>
+          <div class="two-col">
+            <div class="field">
+              <label for="fb">Facebook page <span class="opt">(optional)</span></label>
+              <input type="url" id="fb" name="facebook" placeholder="https://" autocomplete="url">
+            </div>
+            <div class="field">
+              <label for="yelp">Yelp page <span class="opt">(optional)</span></label>
+              <input type="url" id="yelp" name="yelp" placeholder="https://" autocomplete="url">
+            </div>
+          </div>
+          <div class="field">
+            <label for="ig">Instagram <span class="opt">(optional)</span></label>
+            <input type="url" id="ig" name="instagram" placeholder="https://" autocomplete="url">
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>About the work</legend>
+
+          <div class="field">
+            <label for="services">What services do you offer? <span class="opt">(required)</span></label>
+            <textarea id="services" name="services" placeholder="List everything, even the small stuff." required></textarea>
+          </div>
+
+          <div class="two-col">
+            <div class="field">
+              <label for="years">How long have you been in business? <span class="opt">(optional)</span></label>
+              <input type="text" id="years" name="years_in_business" placeholder="e.g. 8 years">
+            </div>
+            <div class="field">
+              <label for="license">License / insurance info to show on the site <span class="opt">(optional)</span></label>
+              <input type="text" id="license" name="license_info">
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="why-call">What do customers usually say is the reason they call you back? <span class="opt">(optional)</span></label>
+            <textarea id="why-call" name="why_customers_call_back"></textarea>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Look and feel</legend>
+
+          <div class="field">
+            <label for="style">Any colors or style in mind? <span class="opt">(optional)</span></label>
+            <textarea id="style" name="style_preferences" placeholder="Even 'nothing flashy, just clean' helps."></textarea>
+          </div>
+
+          <div class="field">
+            <label for="style-links">Paste links to any websites whose style you like <span class="opt">(optional)</span></label>
+            <textarea id="style-links" name="style_reference_links" placeholder="One per line -- doesn't have to be another business in your trade, just a look you like."></textarea>
+          </div>
+
+          <div class="field">
+            <label for="logo">Logo, if you have one <span class="opt">(optional)</span></label>
+            <input type="file" id="logo" name="logo" accept="image/*">
+            <p class="file-feedback" id="logoFeedback"></p>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Photos</legend>
+          <p class="field-hint">Your team, your work, your van or shop &mdash; the more the better. Optional, but real photos make the biggest difference in how the sample turns out.</p>
+
+          <div class="field">
+            <label for="photos">Upload photos <span class="opt">(optional, multiple allowed)</span></label>
+            <input type="file" id="photos" name="photos" accept="image/*" multiple>
+            <p class="file-feedback" id="photosFeedback"></p>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Anything else</legend>
+          <div class="field">
+            <label for="notes">Anything else we should know? <span class="opt">(optional)</span></label>
+            <textarea id="notes" name="notes"></textarea>
+          </div>
+        </fieldset>
+
+        <div class="submit-row">
+          <button class="btn-submit" type="submit">Send it to us</button>
+          <p class="submit-note">We'll follow up within a couple of days with a free sample homepage.</p>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner side">
+    <div>Harbor Sites &middot; San Diego, CA</div>
+    <div><a href="index.html">Back home</a></div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  // Progress bar + floating glass ring -- both read actual form
+  // completion (how many *required* fields have a value), not scroll
+  // position. Scroll made a poor proxy once someone jumps around or
+  // fills fields out of order, and answering "am I actually done"
+  // rather than "how far have I scrolled" is what these are for.
+  var bar = document.getElementById('progressBar');
+  var ring = document.getElementById('progressRing');
+  var ringFillCircle = document.getElementById('progressRingFill');
+  var ringLabel = document.getElementById('progressRingLabel');
+  var ringCircumference = ringFillCircle ? 2 * Math.PI * ringFillCircle.r.baseVal.value : 0;
+  var requiredFields = Array.prototype.slice.call(document.querySelectorAll('form[name="intake"] [required]'));
+  var TOTAL_REQUIRED = requiredFields.length;
+
+  function updateFormProgress(){
+    var filled = requiredFields.filter(function(el){
+      return el.value && el.value.trim().length > 0;
+    }).length;
+    var pct = TOTAL_REQUIRED > 0 ? (filled / TOTAL_REQUIRED) * 100 : 0;
+
+    if(bar) bar.style.width = pct + '%';
+    if(ring && ringFillCircle && ringLabel){
+      ringFillCircle.style.strokeDashoffset = ringCircumference * (1 - pct / 100);
+      ringLabel.textContent = filled + '/' + TOTAL_REQUIRED;
+    }
+  }
+  requiredFields.forEach(function(el){
+    el.addEventListener('input', updateFormProgress);
+  });
+  updateFormProgress();
+  // One-time gentle mount for the ring rather than a scroll-linked
+  // reveal, since its fill now means something (real completion) from
+  // the moment the page loads, not just "you've scrolled a bit".
+  if(ring){
+    window.requestAnimationFrame(function(){ ring.classList.add('in-view'); });
+  }
+
+  // File input feedback -- native file inputs give no visual confirmation
+  // of what got picked beyond tiny browser-chrome text, easy to miss.
+  function bindFileFeedback(inputId, feedbackId){
+    var input = document.getElementById(inputId);
+    var feedback = document.getElementById(feedbackId);
+    if(!input || !feedback) return;
+    input.addEventListener('change', function(){
+      var n = input.files.length;
+      if(!n){ feedback.textContent = ''; return; }
+      feedback.textContent = n === 1 ? 'Selected: ' + input.files[0].name : n + ' photos selected';
+    });
+  }
+  bindFileFeedback('logo', 'logoFeedback');
+  bindFileFeedback('photos', 'photosFeedback');
+
+  // Draft autosave -- this is a long form; losing it to an accidental
+  // back-swipe or a closed tab is the kind of thing that kills
+  // completion rate. Text-type fields only (file inputs can't be
+  // restored from localStorage), saved per-field by id, restored on
+  // load, cleared on successful submit. Wrapped in try/catch since
+  // localStorage can throw in private browsing / blocked storage.
+  var STORAGE_KEY = 'harborsites_intake_draft_v1';
+  var form = document.querySelector('form[name="intake"]');
+  if(form){
+    var fields = form.querySelectorAll('input[type="text"], input[type="email"], input[type="tel"], input[type="url"], textarea');
+
+    function loadDraft(){
+      try{
+        var raw = localStorage.getItem(STORAGE_KEY);
+        return raw ? JSON.parse(raw) : null;
+      } catch(e){ return null; }
+    }
+    function saveDraft(){
+      try{
+        var data = {};
+        fields.forEach(function(el){
+          if(el.name === 'bot-field') return;
+          if(el.value) data[el.id] = el.value;
+        });
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+      } catch(e){}
+    }
+    function clearDraft(){
+      try{ localStorage.removeItem(STORAGE_KEY); } catch(e){}
+    }
+
+    var draft = loadDraft();
+    var restoredCount = 0;
+    if(draft){
+      fields.forEach(function(el){
+        if(draft[el.id] && !el.value){
+          el.value = draft[el.id];
+          restoredCount++;
+        }
+      });
+      // Restored values bypass the 'input' event the ring/bar normally
+      // listen for, so re-check completion once here.
+      if(restoredCount > 0) updateFormProgress();
+    }
+
+    if(restoredCount > 0){
+      var notice = document.createElement('div');
+      notice.className = 'draft-notice';
+      notice.innerHTML = 'Picked up where you left off. <button type="button" class="draft-clear">Start over instead</button>';
+      form.parentNode.insertBefore(notice, form);
+      notice.querySelector('.draft-clear').addEventListener('click', function(){
+        clearDraft();
+        fields.forEach(function(el){ el.value = ''; });
+        updateFormProgress();
+        notice.remove();
+      });
+    }
+
+    var saveTimer;
+    fields.forEach(function(el){
+      el.addEventListener('input', function(){
+        clearTimeout(saveTimer);
+        saveTimer = setTimeout(saveDraft, 400);
+      });
+    });
+
+    form.addEventListener('submit', function(){
+      clearDraft();
+    });
+  }
+})();
+</script>
+
+</body>
+</html>

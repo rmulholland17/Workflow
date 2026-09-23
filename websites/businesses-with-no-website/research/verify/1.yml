@@ -1,0 +1,211 @@
+- generic "Google Maps" [ref=f149e9]:
+  - generic [ref=f149e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f149e10]
+    - search [ref=f149e15]:
+      - generic [ref=f149e16]:
+        - combobox [ref=f149e18]: Gonzalez
+        - button "Search" [ref=f149e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f149e21]: 
+        - button "Close" [ref=f149e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f149e24]: 
+    - region "Available search options for this area" [ref=f149e31]:
+      - generic [ref=f149e34]:
+        - button "Restaurants" [ref=f149e36] [cursor=pointer]:
+          - generic [ref=f149e37]:
+            - generic [aria-hidden] [ref=f149e39]: 
+            - generic [ref=f149e40]: Restaurants
+        - button "Hotels" [ref=f149e42] [cursor=pointer]:
+          - generic [ref=f149e43]:
+            - generic [aria-hidden] [ref=f149e45]: 
+            - generic [ref=f149e46]: Hotels
+        - button "Things to do" [ref=f149e48] [cursor=pointer]:
+          - generic [ref=f149e49]:
+            - generic [aria-hidden] [ref=f149e51]: 
+            - generic [ref=f149e52]: Things to do
+        - button "Transit" [ref=f149e54] [cursor=pointer]:
+          - generic [ref=f149e55]:
+            - generic [aria-hidden] [ref=f149e57]: 
+            - generic [ref=f149e58]: Transit
+        - button "Parking" [ref=f149e60] [cursor=pointer]:
+          - generic [ref=f149e61]:
+            - generic [aria-hidden] [ref=f149e63]: 
+            - generic [ref=f149e64]: Parking
+        - button "Pharmacies" [ref=f149e66] [cursor=pointer]:
+          - generic [ref=f149e67]:
+            - generic [aria-hidden] [ref=f149e69]: 
+            - generic [ref=f149e70]: Pharmacies
+        - button "ATMs" [ref=f149e72] [cursor=pointer]:
+          - generic [ref=f149e73]:
+            - generic [aria-hidden] [ref=f149e75]: 
+            - generic [ref=f149e76]: ATMs
+      - button "Next page" [ref=f149e77] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f149e78]: 
+    - generic [ref=f149e79]:
+      - generic [ref=f149e80]:
+        - list [ref=f149e82]:
+          - listitem [ref=f149e83]:
+            - button "Menu" [ref=f149e84] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f149e86]: 
+          - listitem [ref=f149e87]:
+            - button "Saved" [ref=f149e88] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f149e90]: 
+          - listitem [ref=f149e93]:
+            - button "Recents" [ref=f149e94] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f149e96]: 
+          - listitem [ref=f149e100]:
+            - button "Gonzalez" [ref=f149e101] [cursor=pointer]
+          - listitem [ref=f149e109]:
+            - button "Get app" [ref=f149e110] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f149e112]: 
+        - main "Gonzalez" [ref=f149e119]:
+          - generic [ref=f149e120]:
+            - generic [ref=f149e121]:
+              - button "Photo of Gonzalez" [active] [ref=f149e123] [cursor=pointer]
+              - button "See photos" [ref=f149e125] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f149e126]: 
+            - generic [ref=f149e130]:
+              - heading "Gonzalez" [level=1] [ref=f149e132]
+              - generic [ref=f149e134]:
+                - generic [ref=f149e136]:
+                  - generic [ref=f149e137]:
+                    - text: "5.0"
+                    - img "5.0 stars" [ref=f149e138]
+                  - img "1 review" [ref=f149e146]: (1)
+                - button "Construction company" [ref=f149e150]
+            - tablist [ref=f149e153]:
+              - tab "Overview of Gonzalez" [selected] [ref=f149e154]:
+                - generic [aria-hidden] [ref=f149e156]: Overview
+              - tab "Reviews for Gonzalez" [ref=f149e158]:
+                - generic [aria-hidden] [ref=f149e160]: Reviews
+            - region "Actions for Gonzalez" [ref=f149e162]:
+              - button "Save" [ref=f149e164] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f149e166]: 
+              - button "Send to phone" [ref=f149e169] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f149e171]: 
+              - button "Share" [ref=f149e174] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f149e176]: 
+            - region "Information for Gonzalez" [ref=f149e180]:
+              - button "Hours Closed · Opens 8 AM Tue Show open hours for the week" [ref=f149e182] [cursor=pointer]:
+                - img "Hours" [ref=f149e183]: 
+                - generic [ref=f149e185]:
+                  - generic [ref=f149e186]: Closed · Opens 8 AM Tue
+                  - img "Show open hours for the week" [ref=f149e188]: 
+              - generic [ref=f149e189]:
+                - 'button "Phone: (619) 677-4697" [ref=f149e190] [cursor=pointer]':
+                  - generic [ref=f149e191]:
+                    - generic [aria-hidden] [ref=f149e193]: 
+                    - generic [ref=f149e194]: (619) 677-4697
+                - generic [ref=f149e196]:
+                  - button "Copy phone number" [ref=f149e198] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f149e200]: 
+                  - link "Call phone number" [ref=f149e202] [cursor=pointer]:
+                    - /url: tel:+16196774697
+                    - generic [aria-hidden] [ref=f149e204]: 
+            - button "Suggest an edit" [ref=f149e208] [cursor=pointer]:
+              - generic [ref=f149e209]:
+                - generic [aria-hidden] [ref=f149e210]: 
+                - generic [ref=f149e211]: Suggest an edit
+            - generic [ref=f149e214]:
+              - heading "Add missing information" [level=2] [ref=f149e215]
+              - button "More info" [ref=f149e216] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f149e217]: 
+            - button "Add website" [ref=f149e219]:
+              - generic [ref=f149e220]:
+                - generic [aria-hidden] [ref=f149e221]: 
+                - generic [ref=f149e222]: Add website
+            - heading "Photos" [level=2] [ref=f149e226]
+            - button "12 Photos" [ref=f149e229] [cursor=pointer]
+            - button "Add photos & videos" [ref=f149e237] [cursor=pointer]:
+              - generic [ref=f149e238]:
+                - generic [aria-hidden] [ref=f149e239]: 
+                - generic [ref=f149e240]: Add photos & videos
+            - generic [ref=f149e243]:
+              - heading "Review summary" [level=2] [ref=f149e244]
+              - button "More information about the review summary" [ref=f149e245] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f149e246]: 
+            - generic [ref=f149e248] [cursor=pointer]:
+              - table [ref=f149e250]:
+                - rowgroup [ref=f149e251]:
+                  - img "5 stars, 1 review" [ref=f149e252]: "5"
+                  - img "4 stars, 0 reviews" [ref=f149e255]: "4"
+                  - img "3 stars, 0 reviews" [ref=f149e258]: "3"
+                  - img "2 stars, 0 reviews" [ref=f149e261]: "2"
+                  - img "1 stars, 0 reviews" [ref=f149e264]: "1"
+              - generic [ref=f149e267]:
+                - generic [ref=f149e268]: "5.0"
+                - img "5.0 stars" [ref=f149e269]
+                - button "1 review" [ref=f149e275]
+            - button "Write a review" [ref=f149e281] [cursor=pointer]:
+              - generic [ref=f149e282]:
+                - generic [aria-hidden] [ref=f149e283]: 
+                - generic [ref=f149e284]: Write a review
+            - generic [ref=f149e287]:
+              - generic [ref=f149e289]:
+                - heading "Reviews" [level=2] [ref=f149e292]
+                - button "Search reviews" [ref=f149e295] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f149e297]: 
+              - button "Sort reviews" [ref=f149e299] [cursor=pointer]:
+                - generic [ref=f149e300]:
+                  - generic [aria-hidden] [ref=f149e301]: 
+                  - generic [ref=f149e302]: Sort
+            - generic "Pam Bowen" [ref=f149e303]:
+              - generic [ref=f149e305]:
+                - button "Photo of Pam Bowen" [ref=f149e306]
+                - generic [ref=f149e308]:
+                  - button "Pam Bowen 4 reviews" [ref=f149e310]:
+                    - generic [ref=f149e311]: Pam Bowen
+                    - generic [ref=f149e312]: 4 reviews
+                  - button "Actions for Pam Bowen's review" [ref=f149e313] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f149e315]: 
+                - generic [ref=f149e316]:
+                  - generic [ref=f149e317]:
+                    - img "5 stars" [ref=f149e318]:
+                      - generic [aria-hidden] [ref=f149e319]: 
+                      - generic [aria-hidden] [ref=f149e320]: 
+                      - generic [aria-hidden] [ref=f149e321]: 
+                      - generic [aria-hidden] [ref=f149e322]: 
+                      - generic [aria-hidden] [ref=f149e323]: 
+                    - generic [ref=f149e324]: 5 years ago
+                  - generic [ref=f149e326]:
+                    - text: If you need a landscape service, I highly recommend them. They cleared out my moms very overgrown backyard. It looks great. I will ALWAYS use them for any projects we need done in the future.
+                    - button "See more" [ref=f149e328] [cursor=pointer]: More
+                  - generic [ref=f149e329]:
+                    - button "Like" [ref=f149e330]:
+                      - generic [ref=f149e331] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f149e332]: 
+                        - generic [ref=f149e333]: Like
+                    - button "Share Pam Bowen's review." [ref=f149e335]:
+                      - generic [ref=f149e336] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f149e337]: 
+                        - generic [ref=f149e338]: Share
+            - link "About this data" [ref=f149e343] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=en
+            - generic [ref=f149e348]:
+              - generic [aria-hidden] [ref=f149e350]: 
+              - generic [ref=f149e351]:
+                - text: You're seeing a limited view of Google Maps.
+                - button "See more" [ref=f149e352] [cursor=pointer]
+      - button "Collapse side panel" [ref=f149e354] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f149e355]: 
+    - generic [ref=f149e359]:
+      - button "Google apps" [ref=f149e363] [cursor=pointer]
+      - link "Sign in" [ref=f149e367] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2FGonzalez%2BLandscape%2BSD%2BSan%2BDiego%2BCA%2B92126%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f149e370] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f149e372]: 
+        - generic [ref=f149e374] [cursor=pointer]:
+          - button "Zoom in" [ref=f149e375]:
+            - generic [aria-hidden] [ref=f149e377]: 
+          - button "Zoom out" [ref=f149e378]:
+            - generic [aria-hidden] [ref=f149e380]: 
+      - button "Browse Street View images" [ref=f149e386]
+    - generic [ref=f149e389]:
+      - contentinfo [ref=f149e392]:
+        - text: Map data ©2026 INEGI, Google
+        - button "United States" [ref=f149e393] [cursor=pointer]
+        - button "Terms" [ref=f149e394] [cursor=pointer]
+        - button "Privacy" [ref=f149e395] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f149e396] [cursor=pointer]
+      - button "5 mi" [ref=f149e398] [cursor=pointer]

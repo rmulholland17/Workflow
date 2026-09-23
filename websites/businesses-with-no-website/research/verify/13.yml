@@ -1,0 +1,412 @@
+- generic "Google Maps" [ref=f189e9]:
+  - generic [ref=f189e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f189e10]
+    - search [ref=f189e15]:
+      - generic [ref=f189e16]:
+        - combobox [ref=f189e18]: Randy's Handyman Services 477 S Meadowbrook Dr San Diego CA
+        - button "Search" [ref=f189e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f189e21]: 
+        - button "Close" [ref=f189e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f189e24]: 
+    - region "Available filters for this search" [ref=f189e31]:
+      - generic [ref=f189e34]:
+        - button "Rating" [ref=f189e36] [cursor=pointer]:
+          - generic [ref=f189e37]:
+            - generic [aria-hidden] [ref=f189e38]: 
+            - generic [ref=f189e39]: Rating
+            - generic [aria-hidden] [ref=f189e40]: 
+        - button "Hours" [ref=f189e42] [cursor=pointer]:
+          - generic [ref=f189e43]:
+            - generic [aria-hidden] [ref=f189e44]: 
+            - generic [ref=f189e45]: Hours
+            - generic [aria-hidden] [ref=f189e46]: 
+        - button "All filters" [ref=f189e48] [cursor=pointer]:
+          - generic [ref=f189e49]:
+            - generic [aria-hidden] [ref=f189e50]: 
+            - generic [ref=f189e51]: All filters
+    - generic [ref=f189e52]:
+      - generic [ref=f189e53]:
+        - list [ref=f189e55]:
+          - listitem [ref=f189e56]:
+            - button "Menu" [ref=f189e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f189e59]: 
+          - listitem [ref=f189e60]:
+            - button "Saved" [ref=f189e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f189e63]: 
+          - listitem [ref=f189e66]:
+            - button "Recents" [disabled] [ref=f189e67]:
+              - generic [aria-hidden] [ref=f189e69]: 
+          - listitem [ref=f189e73]:
+            - button "Get app" [ref=f189e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f189e76]: 
+        - main [ref=f189e83]:
+          - generic [ref=f189e84]:
+            - feed "Results for Randy's Handyman Services 477 S Meadowbrook Dr San Diego CA" [ref=f189e85]:
+              - generic [ref=f189e86]:
+                - generic [ref=f189e88]:
+                  - heading "Results" [level=1] [ref=f189e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f189e93]:
+                    - generic [aria-hidden] [ref=f189e97]: 
+                - button "Share" [ref=f189e101]:
+                  - generic [ref=f189e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f189e103]: 
+                    - generic [ref=f189e104]: Share
+              - article [ref=f189e106]:
+                - link "Cowboy's Roofing" [ref=f189e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Cowboy%27s+Roofing/data=!4m7!3m6!1s0x80d945119c4ef5b7:0x649157c01a2bfd7c!8m2!3d33.136836!4d-117.191425!16s%2Fg%2F11h3l5zgdb!19sChIJt_VOnBFF2YARfP0rGsBXkWQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f189e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f189e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Cowboy's Roofing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 100 Reviews": 4.9(100)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic: · 1185 Linda Vista Drive
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (760) 260-9009
+                    - generic:
+                      - link "Visit Cowboy's Roofing's website" [ref=f189e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwi7jLi3uoGXAxWkJEQIHZN_DTAYACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIu4y4t7qBlwMVpCRECB2Tfw0wEBAYASAAEgIaevD_BwE&cid=CAAS0wHkaDMf_A3VvY1R9FPV2rOLtrkEViIlnR-hbJfO419qg72PbwGtjpsP-oARkqrDAoxDbzpF-vCS-2SjneqnJyTOCAcQppmhIVRsP7qT_E15RsdPmh8E8HXX4D-_hzQU_TtkzzzID7eoxHzb3jJ0TNPxDBiYuaDomy1_H-lc3bgNc_Lg1mmdWH0j6M4z-MQ2knL_CDfjUw1grxnxKmzzMzK2U-XxN6DsLPM3SRa2Dd-MxfNl3dBC_ExSE_V1pa3NLZkE06MnoKun91wCp3wUoBoE0Gm8&cce=2&category=acrcp_v1_32&sig=AOD64_3M-WJDTAzqll8BUJIBepnGvdlMKw&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f189e113]: 
+                        - generic [ref=f189e114]: Website
+                      - button "Get directions to Cowboy's Roofing" [ref=f189e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f189e117]: 
+                        - generic [ref=f189e118]: Directions
+                  - link "Ad · Cowboy's Roofing · Expert Gutter <b>Services</b> - Free Consultation Available For All Gutter <b>Services</b> From A Family-Owned Company. Call Now! · Visit Site · cowboysroofingconstruction.com" [ref=f189e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwi7jLi3uoGXAxWkJEQIHZN_DTAYACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIu4y4t7qBlwMVpCRECB2Tfw0wEBAYASAAEgIaevD_BwE&cid=CAAS0wHkaDMf_A3VvY1R9FPV2rOLtrkEViIlnR-hbJfO419qg72PbwGtjpsP-oARkqrDAoxDbzpF-vCS-2SjneqnJyTOCAcQppmhIVRsP7qT_E15RsdPmh8E8HXX4D-_hzQU_TtkzzzID7eoxHzb3jJ0TNPxDBiYuaDomy1_H-lc3bgNc_Lg1mmdWH0j6M4z-MQ2knL_CDfjUw1grxnxKmzzMzK2U-XxN6DsLPM3SRa2Dd-MxfNl3dBC_ExSE_V1pa3NLZkE06MnoKun91wCp3wUoBoE0Gm8&cce=2&category=acrcp_v1_32&sig=AOD64_3M-WJDTAzqll8BUJIBepnGvdlMKw&adurl=&rct=j&nis=5
+                    - generic [ref=f189e125]:
+                      - generic [ref=f189e126]:
+                        - generic [ref=f189e127]: Cowboy's Roofing
+                        - generic [ref=f189e128]: Expert Gutter Services - Free Consultation Available For All Gutter Services From A Family-Owned Company. Call Now!
+                      - generic [ref=f189e129]: Visit Site
+              - article [ref=f189e134]:
+                - link "Wayco Construction, Inc." [ref=f189e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Wayco+Construction,+Inc./data=!4m7!3m6!1s0x80d95849c1455555:0x5477b4a1a1596ac7!8m2!3d32.809999!4d-116.960544!16s%2Fg%2F11q2y_wy_9!19sChIJVVVFwUlY2YARx2pZoaG0d1Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f189e137] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f189e138]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Wayco Construction, Inc.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 23 Reviews": 4.8(23)
+                            - generic:
+                              - generic:
+                                - generic: General contractor
+                                - generic: · 1069 Graves Avenue
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 202-1031
+                    - generic:
+                      - link "Visit Wayco Construction, Inc.'s website" [ref=f189e139] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwi7jLi3uoGXAxWkJEQIHZN_DTAYACICCAEQAhoCZHo&co=1&ase=2&gclid=EAIaIQobChMIu4y4t7qBlwMVpCRECB2Tfw0wEBAYAiAAEgJf1_D_BwE&cid=CAAS0wHkaDMf_A3VvY1R9FPV2rOLtrkEViIlnR-hbJfO419qg72PbwGtjpsP-oARkqrDAoxDbzpF-vCS-2SjneqnJyTOCAcQppmhIVRsP7qT_E15RsdPmh8E8HXX4D-_hzQU_TtkzzzID7eoxHzb3jJ0TNPxDBiYuaDomy1_H-lc3bgNc_Lg1mmdWH0j6M4z-MQ2knL_CDfjUw1grxnxKmzzMzK2U-XxN6DsLPM3SRa2Dd-MxfNl3dBC_ExSE_V1pa3NLZkE06MnoKun91wCp3wUoBoE0Gm8&cce=2&category=acrcp_v1_32&sig=AOD64_2wNnQ_c__ulRwWn4loHfuALX7mBw&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f189e141]: 
+                        - generic [ref=f189e142]: Website
+                      - button "Get directions to Wayco Construction, Inc." [ref=f189e143] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f189e145]: 
+                        - generic [ref=f189e146]: Directions
+                  - link "Ad · Wayco Construction, Inc. · Remodeling <b>Services</b> - We Offer A 1-Yr Workmanship Warranty &amp; Free Consultations. 25+ Yrs Of Experience, Call Us! · Visit Site · waycoconstruction.com" [ref=f189e151] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwi7jLi3uoGXAxWkJEQIHZN_DTAYACICCAEQAhoCZHo&co=1&ase=2&gclid=EAIaIQobChMIu4y4t7qBlwMVpCRECB2Tfw0wEBAYAiAAEgJf1_D_BwE&cid=CAAS0wHkaDMf_A3VvY1R9FPV2rOLtrkEViIlnR-hbJfO419qg72PbwGtjpsP-oARkqrDAoxDbzpF-vCS-2SjneqnJyTOCAcQppmhIVRsP7qT_E15RsdPmh8E8HXX4D-_hzQU_TtkzzzID7eoxHzb3jJ0TNPxDBiYuaDomy1_H-lc3bgNc_Lg1mmdWH0j6M4z-MQ2knL_CDfjUw1grxnxKmzzMzK2U-XxN6DsLPM3SRa2Dd-MxfNl3dBC_ExSE_V1pa3NLZkE06MnoKun91wCp3wUoBoE0Gm8&cce=2&category=acrcp_v1_32&sig=AOD64_2wNnQ_c__ulRwWn4loHfuALX7mBw&adurl=&rct=j&nis=5
+                    - generic [ref=f189e153]:
+                      - generic [ref=f189e154]:
+                        - generic [ref=f189e155]: Wayco Construction, Inc.
+                        - generic [ref=f189e156]: Remodeling Services - We Offer A 1-Yr Workmanship Warranty & Free Consultations. 25+ Yrs Of Experience, Call Us!
+                      - generic [ref=f189e157]: Visit Site
+              - article [ref=f189e162]:
+                - link "JRM Handyman Services" [ref=f189e163] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/JRM+Handyman+Services/data=!4m7!3m6!1s0x80dc017efd01d6b1:0x458e64841d3cda95!8m2!3d32.8146282!4d-117.1919468!16s%2Fg%2F11jz44lv84!19sChIJsdYB_X4B3IARldo8HYRkjkU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: JRM Handyman Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 19 Reviews": 5.0(19)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 4668 Mt Bigelow Dr
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 598-4087
+                    - button "Get directions to JRM Handyman Services" [ref=f189e165] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f189e167]: 
+                      - generic [ref=f189e168]: Directions
+                  - link [ref=f189e169] [cursor=pointer]:
+                    - /url: https://clienthub.getjobber.com/hubs/edbb0c1b-0040-4cbd-a101-2f9a4e358de7/public/requests/740857/new?rwg_token=AE37R_iSamYK5XjRMMg-8kX4CYEtQqlwEZ56T0mHzskEixz4XbB6tTPncJ0WE2rqw9jxDNA21Cgl1IppX6H7jaZW1IaySD5yvw%3D%3D
+                    - generic [ref=f189e170]:
+                      - generic [aria-hidden] [ref=f189e171]: 
+                      - text: Book online
+              - article [ref=f189e174]:
+                - link "Barney's Handyman Service" [ref=f189e175] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Barney%27s+Handyman+Service/data=!4m7!3m6!1s0x80d954e9213c1b27:0xad52bd0224fe6373!8m2!3d32.7456558!4d-117.1730459!16s%2Fg%2F11fzn6dmbh!19sChIJJxs8IelU2YARc2P-JAK9Uq0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Barney's Handyman Service
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.4 stars 7 Reviews": 4.4(7)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 3708 Crane Pl
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 807-5205
+                    - generic:
+                      - link "Visit Barney's Handyman Service's website" [ref=f189e177] [cursor=pointer]:
+                        - /url: http://barneyshandymanservice.com/
+                        - generic [aria-hidden] [ref=f189e179]: 
+                        - generic [ref=f189e180]: Website
+                      - button "Get directions to Barney's Handyman Service" [ref=f189e181] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f189e183]: 
+                        - generic [ref=f189e184]: Directions
+              - article [ref=f189e187]:
+                - link "ERB Handyman Service LLC" [ref=f189e188] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/ERB+Handyman+Service+LLC/data=!4m7!3m6!1s0x80dbfff3abc3ddb3:0x244a8c65b4d7e595!8m2!3d32.8360757!4d-117.1271907!16s%2Fg%2F11z1srwj5v!19sChIJs93Dq_P_24ARleXXtGWMSiQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: ERB Handyman Service LLC
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 20 Reviews": 4.8(20)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: "· 5560 Ruffin Rd #1"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 206-2873
+                    - generic:
+                      - link "Visit ERB Handyman Service LLC's website" [ref=f189e190] [cursor=pointer]:
+                        - /url: https://www.erbhandyman.com/
+                        - generic [aria-hidden] [ref=f189e192]: 
+                        - generic [ref=f189e193]: Website
+                      - button "Get directions to ERB Handyman Service LLC" [ref=f189e194] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f189e196]: 
+                        - generic [ref=f189e197]: Directions
+              - article [ref=f189e200]:
+                - link "San Diego Handyman | Express Services" [ref=f189e201] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Handyman+%7C+Express+Services/data=!4m7!3m6!1s0x80deaa53feebe33d:0x3f37d6ddb85acf55!8m2!3d32.7679789!4d-117.0573091!16s%2Fg%2F11g9f4vqn3!19sChIJPePr_lOq3oARVc9auN3WNz8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Handyman | Express Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 97 Reviews": 4.7(97)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: "· 4881 Rolando Ct #79"
+                              - generic:
+                                - generic: Closes soon · 11 PM · Opens 7 AM Tue
+                                - generic: · (619) 456-0009
+                    - generic:
+                      - link "Visit San Diego Handyman | Express Services's website" [ref=f189e203] [cursor=pointer]:
+                        - /url: http://www.sdpro-handyman.com/
+                        - generic [aria-hidden] [ref=f189e205]: 
+                        - generic [ref=f189e206]: Website
+                      - button "Get directions to San Diego Handyman | Express Services" [ref=f189e207] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f189e209]: 
+                        - generic [ref=f189e210]: Directions
+              - article [ref=f189e213]:
+                - link "MM Pro Handyman" [ref=f189e214] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/MM+Pro+Handyman/data=!4m7!3m6!1s0x80deab0d144497c1:0xa9c77b95ae6c249d!8m2!3d32.7712241!4d-117.2035603!16s%2Fg%2F11tf8f5n6s!19sChIJwZdEFA2r3oARnSRsrpV7x6k?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: MM Pro Handyman
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 121 Reviews": 4.9(121)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 4000 Naples St
+                              - generic: Closed · Opens 8 AM Tue
+                    - generic:
+                      - link "Visit MM Pro Handyman's website" [ref=f189e216] [cursor=pointer]:
+                        - /url: http://mmprohandyman.com/
+                        - generic [aria-hidden] [ref=f189e218]: 
+                        - generic [ref=f189e219]: Website
+                      - button "Get directions to MM Pro Handyman" [ref=f189e220] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f189e222]: 
+                        - generic [ref=f189e223]: Directions
+              - article [ref=f189e226]:
+                - link "Ace Handyman Services San Diego North County" [ref=f189e227] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ace+Handyman+Services+San+Diego+North+County/data=!4m7!3m6!1s0x80dc7513325b8d99:0xfbf1666a71340b63!8m2!3d32.7987834!4d-117.2558081!16s%2Fg%2F11whq0yppn!19sChIJmY1bMhN13IARYws0cWpm8fs?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ace Handyman Services San Diego North County
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 59 Reviews": 4.7(59)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f189e229] [cursor=pointer]:
+                                    - generic [ref=f189e230]: 
+                                - generic: "· 810 Emerald St #106"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 375-3720
+                    - generic:
+                      - link "Visit Ace Handyman Services San Diego North County's website" [ref=f189e231] [cursor=pointer]:
+                        - /url: https://www.acehandymanservices.com/offices/san-diego-north-county?utm_source=google&utm_medium=gbp
+                        - generic [aria-hidden] [ref=f189e233]: 
+                        - generic [ref=f189e234]: Website
+                      - button "Get directions to Ace Handyman Services San Diego North County" [ref=f189e235] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f189e237]: 
+                        - generic [ref=f189e238]: Directions
+                  - link [ref=f189e239] [cursor=pointer]:
+                    - /url: https://book.servicetitan.com/qby95ef3v3a7kqp3na26kurf?rwg_token=AE37R_ix2RY-oUIB6FD7Xj7bBvv7vpqYk6t6_tZvE3siPf7iJPzEkdwb-SsmLqgzp7dDq6EPtjSK678oqgnmiv7t8nSZO6FnNw%3D%3D
+                    - generic [ref=f189e240]:
+                      - generic [aria-hidden] [ref=f189e241]: 
+                      - text: Book online
+              - article [ref=f189e244]:
+                - link "Rad Dad Handyman" [ref=f189e245] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Rad+Dad+Handyman/data=!4m7!3m6!1s0xfd02c06b0db96d3:0xf121f34b0b652997!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11rqsqzwsw!19sChIJ05bbsAYs0A8RlyllC0vzIfE?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Rad Dad Handyman
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 30 Reviews": 4.7(30)
+                            - generic:
+                              - generic: Handyman/Handywoman/Handyperson
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 333-6991
+                    - generic:
+                      - link "Visit Rad Dad Handyman's website" [ref=f189e247] [cursor=pointer]:
+                        - /url: http://www.raddadhandyman.com/
+                        - generic [aria-hidden] [ref=f189e249]: 
+                        - generic [ref=f189e250]: Website
+                      - button "Get directions to Rad Dad Handyman" [ref=f189e251] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f189e253]: 
+                        - generic [ref=f189e254]: Directions
+              - article [ref=f189e257]:
+                - link "Rancho Bernardo Handyman" [ref=f189e258] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Rancho+Bernardo+Handyman/data=!4m7!3m6!1s0x80dbf0d15beb0f5b:0x3ef7d6121021a353!8m2!3d33.021444!4d-117.0730742!16s%2Fg%2F11gfdp3dc1!19sChIJWw_rW9Hw24ARU6MhEBLW9z4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Rancho Bernardo Handyman
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.1 stars 7 Reviews": 4.1(7)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 11956 Bernardo Plaza Dr
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 876-7953
+                    - generic:
+                      - link "Visit Rancho Bernardo Handyman's website" [ref=f189e260] [cursor=pointer]:
+                        - /url: http://www.ranchobernardohandyman.com/
+                        - generic [aria-hidden] [ref=f189e262]: 
+                        - generic [ref=f189e263]: Website
+                      - button "Get directions to Rancho Bernardo Handyman" [ref=f189e264] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f189e266]: 
+                        - generic [ref=f189e267]: Directions
+              - paragraph [ref=f189e270]:
+                - generic [ref=f189e271]: You've reached the end of the list.
+              - generic [ref=f189e274]:
+                - generic [aria-hidden] [ref=f189e276]: 
+                - generic [ref=f189e277]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f189e278] [cursor=pointer]
+            - checkbox [ref=f189e281] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f189e283]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f189e285] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f189e286]: 
+    - generic [ref=f189e290]:
+      - button "Google apps" [ref=f189e294] [cursor=pointer]
+      - link "Sign in" [ref=f189e298] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2FRandy's%2BHandyman%2BServices%2B477%2BS%2BMeadowbrook%2BDr%2BSan%2BDiego%2BCA%2F%4032.8244879%2C-117.10776%2C10z%2Fdata%3D!3m1!4b1%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f189e301] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f189e303]: 
+        - generic [ref=f189e305] [cursor=pointer]:
+          - button "Zoom in" [ref=f189e306]:
+            - generic [aria-hidden] [ref=f189e308]: 
+          - button "Zoom out" [ref=f189e309]:
+            - generic [aria-hidden] [ref=f189e311]: 
+      - button "Browse Street View images" [ref=f189e317]
+      - generic [ref=f189e319]:
+        - generic "Interactive map" [ref=f189e320]
+        - generic [ref=f189e324] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f189e325]: 
+          - generic [ref=f189e326]: Layers
+        - button "Layers" [ref=f189e327] [cursor=pointer]
+    - generic [ref=f189e329]:
+      - contentinfo [ref=f189e332]:
+        - text: Map data ©2026 INEGI, Google
+        - button "United States" [ref=f189e333] [cursor=pointer]
+        - button "Terms" [ref=f189e334] [cursor=pointer]
+        - button "Privacy" [ref=f189e335] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f189e336] [cursor=pointer]
+      - button "5 mi" [ref=f189e338] [cursor=pointer]

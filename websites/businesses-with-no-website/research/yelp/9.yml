@@ -1,0 +1,276 @@
+- generic [active] [ref=f145e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f145e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f145e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f145e8]:
+    - search [ref=f145e9]:
+      - generic [ref=f145e11]:
+        - link "Go to Google Home" [ref=f145e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQPHoECAYQBA
+        - generic [ref=f145e21]:
+          - generic [ref=f145e22]:
+            - combobox "Search" [ref=f145e25]: site:yelp.com/biz "JRM Handyman" San Diego site:yelp.com/biz "JRM Handyman" San Diego
+            - generic [ref=f145e26]:
+              - button "Clear" [ref=f145e28] [cursor=pointer]
+              - generic [ref=f145e33]:
+                - button "Search by voice" [ref=f145e34] [cursor=pointer]
+                - button "Search by image" [ref=f145e37] [cursor=pointer]
+          - button "Search" [ref=f145e40] [cursor=pointer]
+    - generic [ref=f145e45]:
+      - button "Settings" [ref=f145e47] [cursor=pointer]
+      - button "Share" [ref=f145e52] [cursor=pointer]
+      - generic [ref=f145e58]:
+        - button "Google apps" [ref=f145e60] [cursor=pointer]
+        - link "Sign in" [ref=f145e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:yelp.com/biz%2B%2522JRM%2BHandyman%2522%2BSan%2BDiego&ec=futura_srp_og_si_72236_p
+  - generic [ref=f145e68]:
+    - navigation [ref=f145e74]:
+      - generic [ref=f145e80]:
+        - list [ref=f145e81]:
+          - listitem [ref=f145e82]:
+            - link "AI Mode" [ref=f145e85] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+%22JRM+Handyman%22+San+Diego&sca_esv=5e5febaa67db9c78&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQ2J8OegQIERAD
+          - listitem [ref=f145e89]:
+            - link "All" [disabled] [ref=f145e90]
+          - listitem [ref=f145e93]:
+            - link "Images" [ref=f145e94] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+%22JRM+Handyman%22+San+Diego&sa=X&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQtKgLegQIFxAB
+          - listitem [ref=f145e97]:
+            - link "Videos" [ref=f145e98] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+%22JRM+Handyman%22+San+Diego&sa=X&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQtKgLegQIExAB
+          - listitem [ref=f145e101]:
+            - link "Forums" [ref=f145e102] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+%22JRM+Handyman%22+San+Diego&sa=X&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQs6gLegQIFBAB
+          - listitem [ref=f145e105]:
+            - link "Shopping" [ref=f145e106] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+%22JRM+Handyman%22+San+Diego&ved=1t:220175&ictx=111
+          - listitem [ref=f145e109]:
+            - link "Short videos" [ref=f145e110] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwLP8msUKsz-6AMxGyueJZ9cK2mNBy2II_6WvkKSZWdegvkpPnalKFUgi9X9RTcTRsNAz8AiyHeS8TNAwKgQq-6U4raLiVw2vdyEHcThj_Uq0chYvpSewt_6b0NF02mk_YU7l5-StEIKG8EpsCwhZOdCNBADYw&q=site:yelp.com/biz+%22JRM+Handyman%22+San+Diego&sa=X&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQs6gLegQIFhAB
+          - listitem [ref=f145e113]:
+            - button [ref=f145e114] [cursor=pointer]:
+              - generic "More filters" [ref=f145e115]: More
+        - button "Tools" [ref=f145e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f145e129]
+    - main [ref=f145e135]:
+      - generic [ref=f145e139]:
+        - generic [ref=f145e142]:
+          - heading "Web results" [level=2] [ref=f145e143]
+          - generic [ref=f145e144]:
+            - generic [ref=f145e147]:
+              - link "JRM HANDYMAN SERVICES - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f145e149] [cursor=pointer]:
+                - /url: /goto?url=CAEScAHrOzAVrkj0cbHG4zT6_0TRgIQYGSlGF-op91f9PrWt0z8hitLbvy3Wo8VHoFam1FGwXGbt-DipGd4-XLmyc13Ld0MB8rPZJyIDcOkv7_NVQg8VonMfMtHKweUALJzcnNkOuH9EG4s1ui9BZCqmkZQ
+                - heading "JRM HANDYMAN SERVICES - Updated September 2026" [level=3] [ref=f145e150]
+                - generic [ref=f145e156]:
+                  - generic [ref=f145e157]: Yelp
+                  - generic [ref=f145e159]: https://www.yelp.com › ... › Home Services › Handyman
+              - button "About this result" [ref=f145e165] [cursor=pointer]
+            - generic [ref=f145e172]:
+              - emphasis [ref=f145e173]: JRM HANDYMAN
+              - text: SERVICES,
+              - emphasis [ref=f145e174]: San Diego
+              - text: ", CA 92109, 19 Photos, (858) 598-4087, Mon - 9:00 am - 5:00 pm, Tue - 9:00 am - 5:00 pm, Wed - 9:00 am - 5:00 pm, Thu - 9:00 ..."
+            - img "Rated 5.0 out of 5, (1) user reviews" [ref=f145e179]: 5.0(1)
+        - generic [ref=f145e186]:
+          - generic [ref=f145e189]:
+            - link "PACIFIC HOME REPAIR - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f145e191] [cursor=pointer]:
+              - /url: /goto?url=CAESbgHrOzAVzptTTyDN7QFmVw9Urio3STo7qWrWC1cQKilk0wiTgGm-NAQCf4neff9k7zjWvYiZF_8cD_OGlyIin8GbYOFUzK3Hd0dl2yTvbyf1zJHzdNF84qptkm5Gr3D8ipmRDnc1cPNkRIwwMaRJ
+              - heading "PACIFIC HOME REPAIR - Updated September 2026" [level=3] [ref=f145e192]
+              - generic [ref=f145e198]:
+                - generic [ref=f145e199]: Yelp
+                - generic [ref=f145e201]: https://www.yelp.com › ... › Home Services › Handyman
+            - button "About this result" [ref=f145e207] [cursor=pointer]
+          - generic [ref=f145e214]:
+            - text: "Specialties: Reliable handyman services for repairs, installs, mounting, assembly, and more across"
+            - emphasis [ref=f145e215]: San Diego
+            - text: ... BEST of
+            - emphasis [ref=f145e216]: San Diego
+            - text: ...
+            - emphasis [ref=f145e217]: JRM Handyman
+            - text: Services. 5.0. ( ...
+        - generic [ref=f145e221]:
+          - generic [ref=f145e224]:
+            - link "MAT'S HANDYMAN SERVICE - Updated September 2026 Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f145e226] [cursor=pointer]:
+              - /url: /goto?url=CAEScAHrOzAVb4YDbA7yzVTWOLP57Cd737F91mwPiDhf4XUwoTvNaXcE2QiKEYWTiN_5C8sgOqtYiPE_BIn9Ocw5rfeYcEPJriR_G1an9nDdUbNdwFWnDRhciIGmUNt8iRag8aIRSXYeC4u-ymHHSx82wwY
+              - heading "MAT'S HANDYMAN SERVICE - Updated September 2026" [level=3] [ref=f145e227]
+              - generic [ref=f145e233]:
+                - generic [ref=f145e234]: Yelp
+                - generic [ref=f145e236]: https://www.yelp.com › ... › Home Services › Handyman
+            - button "About this result" [ref=f145e242] [cursor=pointer]
+          - generic [ref=f145e248]:
+            - generic [ref=f145e249]:
+              - text: MAT'S HANDYMAN SERVICE,
+              - emphasis [ref=f145e250]: San Diego
+              - text: ", CA 92111, (619) 322-4965, Mon - 8 ..."
+              - emphasis [ref=f145e251]: JRM Handyman
+              - text: Services. 5.0. (1 review). This is a placeholder.
+            - link "Read more" [ref=f145e252] [cursor=pointer]:
+              - /url: /goto?url=CAESnwEB6zswFbOSVUbQ4yyPNZe2Dk0Yy__7A9tRAUBgjfh1diScHXSHKb2yeYymBnYg6e7EX142SKmnSIf_-Nm3NtniSI-yiv_MVn233Y2cgnsYuyngB6R4a9lW-sunhfDtoyvFCcXeTvckHfyom3Bxiy4aME9jiGh9SktrbZKQqlfFsvB2P4mPiXPp6H6OLS8yuIX9lHhl-WfwnMGmtUPIJPs
+          - img "Rated 1.0 out of 5, (1) user reviews" [ref=f145e257]: 1.0(1)
+        - generic [ref=f145e264]:
+          - generic [ref=f145e267]:
+            - link "HANDY HOME XYZ - Updated June 2026 - 2152 Missouri St, ... Yelp https://www.yelp.com › ... › Handy Home XYZ" [ref=f145e269] [cursor=pointer]:
+              - /url: /goto?url=CAESagHrOzAVrMP1mWhXE3GQBaBBfUgWNmvRAULliFvGpOzf-OWKvt9ewG8fv3T4KEFU6ZGY2DqEMhv143ebjihXeqzRf7budFKMhB8RyfHhLKRNGmDXwVv1X2vmE1wZakNvtGWZb4iZMFj7zBs
+              - heading "HANDY HOME XYZ - Updated June 2026 - 2152 Missouri St, ..." [level=3] [ref=f145e270]
+              - generic [ref=f145e276]:
+                - generic [ref=f145e277]: Yelp
+                - generic [ref=f145e279]: https://www.yelp.com › ... › Handy Home XYZ
+            - button "About this result" [ref=f145e285] [cursor=pointer]
+          - generic [ref=f145e292]:
+            - emphasis [ref=f145e293]: San Diego
+            - text: ", CA · Home Services · Plumbing. Handy Home ..."
+            - emphasis [ref=f145e294]: San Diego
+            - text: ", CA 92109 ... Photo of"
+            - emphasis [ref=f145e295]: JRM Handyman
+            - text: Services.
+            - emphasis [ref=f145e296]: JRM Handyman
+            - text: Services. 1 review. Pacific Beach.
+        - generic [ref=f145e300]:
+          - generic [ref=f145e303]:
+            - link "SMITH & GRUBBS HOME IMPROVEMENT - Handyman Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f145e305] [cursor=pointer]:
+              - /url: /goto?url=CAESfgHrOzAVy9D4TPDH4EdkXHWs9eh-lKGijcSW820I_KBGUnNo___2ikL0pNbMAeklyeGIhVeiZxxGxGGAfqtNDam6YYPMyIEBmXFdPhM_kkw0D0jS89NS1oxXpaRe9n8RZInutIKVcRTyJO2eSN-4PkFcdKEEOhF_X-aNr3Cjqw
+              - heading "SMITH & GRUBBS HOME IMPROVEMENT - Handyman" [level=3] [ref=f145e306]
+              - generic [ref=f145e312]:
+                - generic [ref=f145e313]: Yelp
+                - generic [ref=f145e315]: https://www.yelp.com › ... › Home Services › Handyman
+            - button "About this result" [ref=f145e321] [cursor=pointer]
+          - generic [ref=f145e327]:
+            - generic [ref=f145e328]:
+              - text: ... Efficient. What a difference! I'm very pleased and highly recommend having your cabinets updated.
+              - emphasis [ref=f145e329]: JRM Handyman
+              - text: Services. 5.0.
+            - link "Read more" [ref=f145e330] [cursor=pointer]:
+              - /url: /goto?url=CAESpAEB6zswFc9A6nmBsPoxj8vJCvgNAuq0ACtBCNzZtflMksE_s6tHD_eJnIY__-UrUH5E9Umlb2kukgM6pPwLZpeCBDbfeEcP51JN_4M3Z1HfG5ANE3Gf4s5P_SJBlMBebez6iKsJ7GMIdUBnS91GGY-UDtxj6R5FXImzb1dZ0WS4ssG_AZ571iU7T_8UnSGOg_d55EuqYZRTZWwSZ_hb2t_IDAdtag
+        - generic [ref=f145e334]:
+          - generic [ref=f145e337]:
+            - link "ARTURO HANDYMAN - Updated August 2026 Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f145e339] [cursor=pointer]:
+              - /url: /goto?url=CAESbAHrOzAV6X3B0GwJBHL8tQ5rjS0dH1owExji10kzZA-JAOULCBCCh8JQ_7rxrLGr9fMqUt0PH0Sc_cOqSWTorObrKl04A9BV8TQ_A69fNydi2Min6IwPc-QYEyHVVycy2wdTM0h10474xSYVvw
+              - heading "ARTURO HANDYMAN - Updated August 2026" [level=3] [ref=f145e340]
+              - generic [ref=f145e346]:
+                - generic [ref=f145e347]: Yelp
+                - generic [ref=f145e349]: https://www.yelp.com › ... › Home Services › Handyman
+            - button "About this result" [ref=f145e355] [cursor=pointer]
+          - generic [ref=f145e361]:
+            - generic [ref=f145e362]:
+              - emphasis [ref=f145e363]: JRM Handyman
+              - text: Services. 5.0. (1 review). This is a placeholder ... Working with George Rojas from
+              - emphasis [ref=f145e364]: San Diego
+              - text: Patch and Paint over the years has been nothing short ...
+            - link "Read more" [ref=f145e365] [cursor=pointer]:
+              - /url: /goto?url=CAES8QEB6zswFeTr75td_hpIXlSJGkspfHMFUTJYuG90qJ2aB-qaJygnTVg5G6h5TnnEi_upKgOyFwND-U8VgvF3WOfTQ4sOV6usTqZ91L7dzPUPkDbZzuglMNtqnU_HwPGLOX2WqnQrHFhqGRU9R0Kxr5TYR5mhr_Hm-Q9wTX7WxAq2A1SpSO98BD-0ghWzSObIBxFP0JBw3OujtyHPpDv_WTObpb7LsxOxlvnyG7XyFVzxSSLdfjZ9q62qRR58Z7zX4A1XjbQ_Boyu_aVJ9GBzXHnzynB_rKhaKAW42IRXo4YCcKSl-z-mIAsrvMM0kD1aDT_Y
+        - generic [ref=f145e369]:
+          - generic [ref=f145e372]:
+            - link "RON THE HANDYMAN - San Diego, California Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f145e374] [cursor=pointer]:
+              - /url: /goto?url=CAESawHrOzAVkfIrRSoY40uj2jltMptap4zczd6WbjQLE1UKC442I2eUzf6D1u5CkQjKrqJ5AmXyMkjJa2QJj_SA6rHvKEPlZ-6eYxgX9qRMvOXHya17XTTKNmgdiK06wp7UjV__A5VyXSHc2wVB
+              - heading "RON THE HANDYMAN - San Diego, California" [level=3] [ref=f145e375]
+              - generic [ref=f145e381]:
+                - generic [ref=f145e382]: Yelp
+                - generic [ref=f145e384]: https://www.yelp.com › ... › Home Services › Handyman
+            - button "About this result" [ref=f145e390] [cursor=pointer]
+          - generic [ref=f145e396]:
+            - generic [ref=f145e397]:
+              - text: Eco Electric
+              - emphasis [ref=f145e398]: San Diego
+              - text: . 4.4. (19 reviews). This is a placeholder ... They'll only work when you are at home, so keep that in mind.
+              - emphasis [ref=f145e399]: JRM Handyman
+              - text: Services.
+            - link "Read more" [ref=f145e400] [cursor=pointer]:
+              - /url: /goto?url=CAESvwEB6zswFctlILED7lI3SF6iOEVfRilLT16PWu9eABYKnZhk9NgTeeqk9YCUf419PC6RMU68GqHo2AHwGZOY3XwGxaf1Kungq-UXjj2wdu9vZqZgmhSoHALYdwqQQkGj_fnGcMlaKRQOUNv2QMKisbmyzLrDu-JVsL_7g9cKQes3jpWiYIw2zvkKXasAn8K9KG1Im1vsY2u6-sdynS5SUGNhO-kgQBUvBalcEs1LF4iRIhxcdcD3D2a4cgzNN6DgzQ
+          - img "Rated 3.5 out of 5, (2) user reviews" [ref=f145e405]: 3.5(2)
+        - generic [ref=f145e412]:
+          - generic [ref=f145e415]:
+            - link "MARK THE HANDYMAN - San Diego, California Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f145e417] [cursor=pointer]:
+              - /url: /goto?url=CAESbAHrOzAV7BBbfKH6KOy3HtefO_aH7BQmwkbmsMDuKi4SvLiCAmWjZjjw8FT8O_b-pbXEEDXVknIDE4NAxAEq0GFH1BaURF50KArhFS2CNRBMgpbG_ix6Z2HNyLvliAj4pCChh1VZzqZ1jsiyEQ
+              - heading "MARK THE HANDYMAN - San Diego, California" [level=3] [ref=f145e418]
+              - generic [ref=f145e424]:
+                - generic [ref=f145e425]: Yelp
+                - generic [ref=f145e427]: https://www.yelp.com › ... › Home Services › Handyman
+            - button "About this result" [ref=f145e433] [cursor=pointer]
+          - generic [ref=f145e439]:
+            - generic [ref=f145e440]:
+              - text: Beautiful work!!
+              - emphasis [ref=f145e441]: JRM Handyman
+              - text: Services. 5.0. (1 review) ... Dan, the
+              - emphasis [ref=f145e442]: San Diego
+              - text: Handyman, and his plumber, Mark, installed a new RO ...
+            - link "Read more" [ref=f145e443] [cursor=pointer]:
+              - /url: /goto?url=CAES8QEB6zswFckFEM5FOXU80gCe9nytiR9cIAeiGeRLg88U5KfHh2BMcVzFsdk9Ffeq1K8PF0fU89QHQ2NjbmCm_IrZKh8Iqdt2NTm1UYUZiMSsZfm78SHcrR0HOhxbQZjLGRp-mjP9UE5d7Lx2ieUtZwSOgNsOqLL2UsrqDo4HzOFHnn0GJj-iKO4tMO6wHNKpFyHCJBCRZCPvWwrEGQ5OijEDsUAlJbrbd_aXVg5RjPXoGL-HE6D4oDjvqDMG7muT37Mh-3W7zIJEhpRyn-fE-HkGPr4A9za_Wh00HisBiDWivjOZOfH36bXLvRDb13cTiQz-
+          - img "Rated 3.0 out of 5, (2) user reviews" [ref=f145e448]: 3.0(2)
+        - generic [ref=f145e455]:
+          - generic [ref=f145e458]:
+            - link "SD HANDYMAN REPAIRS - Updated September 2026 Yelp https://m.yelp.com › ... › Home Services › Handyman" [ref=f145e460] [cursor=pointer]:
+              - /url: /goto?url=CAESbAHrOzAV1Ea5yDpT-oD6n4UqoExO850XuLVNNWmVH_lM35ufyGmyd41ixPnfDnJb5DxRcUoBPURiVUBkvSTYjZOCz8OCLxuwfV6xsXV3lOX7PpSuuD4X3WQRohhjSd_uWjHWe-PZybNofvdNvQ
+              - heading "SD HANDYMAN REPAIRS - Updated September 2026" [level=3] [ref=f145e461]
+              - generic [ref=f145e467]:
+                - generic [ref=f145e468]: Yelp
+                - generic [ref=f145e470]: https://m.yelp.com › ... › Home Services › Handyman
+            - button "About this result" [ref=f145e476] [cursor=pointer]
+          - generic [ref=f145e483]:
+            - text: SD HANDYMAN REPAIRS in
+            - emphasis [ref=f145e484]: San Diego
+            - text: ", reviews by real people ..."
+            - emphasis [ref=f145e485]: San Diego
+            - text: and beyond ...
+            - emphasis [ref=f145e486]: JRM Handyman
+            - text: Services. 5.0. (1 review). This is a ...
+        - generic [ref=f145e490]:
+          - generic [ref=f145e493]:
+            - link "CARMONA HANDYMAN - Updated July 2026 - San Diego ... Yelp https://www.yelp.com › ... › Home Services › Handyman" [ref=f145e495] [cursor=pointer]:
+              - /url: /goto?url=CAESawHrOzAVG-UnUR39Vvgj3ljPNuLirkdLJWW4VEwq9AC7M0RSUIXWDCJpuJfjna1OxdSrhBZBX5pEQbtuD6AUSmxUcQwowwlBlXASlEB1CjbAT8ngwKKJDnXJv7z2U1tZWpxigLPhJxUA_Fqw
+              - heading "CARMONA HANDYMAN - Updated July 2026 - San Diego ..." [level=3] [ref=f145e496]
+              - generic [ref=f145e502]:
+                - generic [ref=f145e503]: Yelp
+                - generic [ref=f145e505]: https://www.yelp.com › ... › Home Services › Handyman
+            - button "About this result" [ref=f145e511] [cursor=pointer]
+          - generic [ref=f145e517]:
+            - generic [ref=f145e518]:
+              - text: ...
+              - emphasis [ref=f145e519]: San Diego
+              - text: and beyond ...
+              - emphasis [ref=f145e520]: JRM Handyman
+              - text: Services. 1 review. Pacific Beach. Photo of DH Remodeling. DH ...
+            - link "Read more" [ref=f145e521] [cursor=pointer]:
+              - /url: /goto?url=CAESnQEB6zswFUn1ZFMvVk09UcTBDoHvns3IxulQpuAgvJUrImajYA9bwtk0gSFpST5FDUNNI7CtcDWcMrrY2Ho5B6XOMLFWGAsdQDlROEXo9cbbWE0C5LWQOGP0xhxz8tHR_VUGBM7mqUcyfGpzZcjljwI1ZuoYew4Dm5UDS5cEO9rQQ2Rdc63RGDjZG5n2CgAIX1JZlekISqP7WHOaPpgB
+      - generic [ref=f145e523]:
+        - generic [ref=f145e528]:
+          - heading "People also search for" [level=2] [ref=f145e530]
+          - generic [ref=f145e532]:
+            - generic [ref=f145e533]:
+              - link "Jrm handyman san diego services" [ref=f145e537] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Jrm+handyman+san+diego+services&sa=X&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQ1QJ6BAhFEAE
+              - link "Jrm handyman san diego reviews" [ref=f145e551] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=Jrm+handyman+san+diego+reviews&sa=X&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQ1QJ6BAhDEAE
+            - link "Jrm handyman san diego phone number" [ref=f145e566] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&q=Jrm+handyman+san+diego+phone+number&sa=X&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQ1QJ6BAhEEAE
+        - navigation [ref=f145e577]:
+          - heading "Page Navigation" [level=1] [ref=f145e578]
+          - text: "1"
+          - link "Page 2" [ref=f145e581] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+%22JRM+Handyman%22+San+Diego&sca_esv=5e5febaa67db9c78&ei=FRGyavK-M-Pc1sQPu4yFwA0&start=10&sa=N&sstk=AS6-VmJDhZC0JaFvOlWcH-55Rlq9n1ljOmbp0slrl5YS2iG5LgFhUHDEY4JKJ79LdpASeSA-xSXaxNdIXUcSJZ5qPEvwTeHILKr01A&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQ8tMDegQIQRAE
+            - text: "2"
+          - heading [level=2] [ref=f145e583]:
+            - link "Next" [ref=f145e584] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+%22JRM+Handyman%22+San+Diego&sca_esv=5e5febaa67db9c78&ei=FRGyavK-M-Pc1sQPu4yFwA0&start=10&sa=N&sstk=AS6-VmJDhZC0JaFvOlWcH-55Rlq9n1ljOmbp0slrl5YS2iG5LgFhUHDEY4JKJ79LdpASeSA-xSXaxNdIXUcSJZ5qPEvwTeHILKr01A&ved=2ahUKEwiync6puYGXAxVjrpUCHTtGAdgQ8NMDegQIQRAG
+      - navigation
+    - contentinfo [ref=f145e587]:
+      - heading "Footer Links" [level=1] [ref=f145e588]
+      - generic [ref=f145e592]:
+        - generic [ref=f145e596]:
+          - button "Pacific Beach, San Diego, CA - From your IP address" [ref=f145e598] [cursor=pointer]:
+            - generic [ref=f145e599]: Pacific Beach, San Diego, CA
+            - generic [ref=f145e601]:
+              - text: "-"
+              - generic [ref=f145e602]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f145e604] [cursor=pointer]
+        - generic [ref=f145e607]:
+          - link "Help" [ref=f145e608] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=f145e609] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f145e610] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f145e611] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

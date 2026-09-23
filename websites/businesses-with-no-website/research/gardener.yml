@@ -1,0 +1,132 @@
+- generic "Google Maps" [ref=f35e9]:
+  - generic [ref=f35e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f35e10]
+    - search [ref=f35e15]:
+      - generic [ref=f35e16]:
+        - combobox [ref=f35e18]: Park Blvd Gardener
+        - button "Search" [ref=f35e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f35e21]: 
+        - button "Close" [ref=f35e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f35e24]: 
+    - region "Available search options for this area" [ref=f35e31]:
+      - generic [ref=f35e34]:
+        - button "Restaurants" [ref=f35e36] [cursor=pointer]:
+          - generic [ref=f35e37]:
+            - generic [aria-hidden] [ref=f35e39]: 
+            - generic [ref=f35e40]: Restaurants
+        - button "Hotels" [ref=f35e42] [cursor=pointer]:
+          - generic [ref=f35e43]:
+            - generic [aria-hidden] [ref=f35e45]: 
+            - generic [ref=f35e46]: Hotels
+        - button "Things to do" [ref=f35e48] [cursor=pointer]:
+          - generic [ref=f35e49]:
+            - generic [aria-hidden] [ref=f35e51]: 
+            - generic [ref=f35e52]: Things to do
+        - button "Transit" [ref=f35e54] [cursor=pointer]:
+          - generic [ref=f35e55]:
+            - generic [aria-hidden] [ref=f35e57]: 
+            - generic [ref=f35e58]: Transit
+        - button "Parking" [ref=f35e60] [cursor=pointer]:
+          - generic [ref=f35e61]:
+            - generic [aria-hidden] [ref=f35e63]: 
+            - generic [ref=f35e64]: Parking
+        - button "Pharmacies" [ref=f35e66] [cursor=pointer]:
+          - generic [ref=f35e67]:
+            - generic [aria-hidden] [ref=f35e69]: 
+            - generic [ref=f35e70]: Pharmacies
+        - button "ATMs" [ref=f35e72] [cursor=pointer]:
+          - generic [ref=f35e73]:
+            - generic [aria-hidden] [ref=f35e75]: 
+            - generic [ref=f35e76]: ATMs
+    - generic [ref=f35e77]:
+      - generic [ref=f35e78]:
+        - list [ref=f35e80]:
+          - listitem [ref=f35e81]:
+            - button "Menu" [ref=f35e82] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f35e84]: 
+          - listitem [ref=f35e85]:
+            - button "Saved" [ref=f35e86] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f35e88]: 
+          - listitem [ref=f35e91]:
+            - button "Recents" [ref=f35e92] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f35e94]: 
+          - listitem [ref=f35e98]:
+            - button "Park Blvd Gardener" [ref=f35e99] [cursor=pointer]
+          - listitem [ref=f35e107]:
+            - button "Get app" [ref=f35e108] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f35e110]: 
+        - main [ref=f35e117]:
+          - button [active] [ref=f35e120] [cursor=pointer]
+          - heading "Park Blvd Gardener" [level=1] [ref=f35e126]
+          - region "Actions for Park Blvd Gardener" [ref=f35e128]:
+            - button "Directions" [ref=f35e130] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f35e132]: 
+            - button "Save" [ref=f35e135] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f35e137]: 
+            - button "Nearby" [ref=f35e140] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f35e142]: 
+            - button "Send to phone" [ref=f35e145] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f35e147]: 
+            - button "Share" [ref=f35e150] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f35e152]: 
+          - button "Address Field House, San Diego City College Soccer Field, Park Blvd, San Diego, CA 92101 Copy address" [ref=f35e157]:
+            - generic [ref=f35e158]:
+              - img "Address" [ref=f35e159]: 
+              - generic [ref=f35e160]: Field House, San Diego City College Soccer Field, Park Blvd, San Diego, CA 92101
+              - button "Copy address" [ref=f35e162] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f35e163]: 
+                - textbox [ref=f35e164]
+          - button "Suggest an edit on Park Blvd Gardener" [ref=f35e166]:
+            - generic [ref=f35e167]:
+              - generic [aria-hidden] [ref=f35e168]: 
+              - generic [ref=f35e169]: Suggest an edit on Park Blvd Gardener
+          - button "Add a missing place" [ref=f35e171]:
+            - generic [ref=f35e172]:
+              - generic [aria-hidden] [ref=f35e173]: 
+              - generic [ref=f35e174]: Add a missing place
+          - link "Add your business" [ref=f35e176] [cursor=pointer]:
+            - /url: https://business.google.com/create?service=plus&hl=en&authuser=0&gmbsrc=us-en-et-ip-z-gmb-s-z-l~mrc%7Cayb%7Cpg&skiplp=1
+            - generic [ref=f35e177]:
+              - generic [aria-hidden] [ref=f35e178]: 
+              - generic [ref=f35e179]: Add your business
+          - heading "Photos" [level=2] [ref=f35e181]
+          - button "Street View" [ref=f35e184] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f35e189]: 
+          - generic [ref=f35e193]:
+            - generic [aria-hidden] [ref=f35e195]: 
+            - generic [ref=f35e196]:
+              - text: You're seeing a limited view of Google Maps.
+              - button "See more" [ref=f35e197] [cursor=pointer]
+      - button "Collapse side panel" [ref=f35e199] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f35e200]: 
+    - generic [ref=f35e204]:
+      - button "Google apps" [ref=f35e208] [cursor=pointer]
+      - link "Sign in" [ref=f35e212] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fgardener%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f35e215] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f35e217]: 
+        - generic [ref=f35e219] [cursor=pointer]:
+          - button "Zoom in" [ref=f35e220]:
+            - generic [aria-hidden] [ref=f35e222]: 
+          - button "Zoom out" [ref=f35e223]:
+            - generic [aria-hidden] [ref=f35e225]: 
+      - generic [ref=f35e229]:
+        - button "Browse Street View images" [ref=f35e231]
+        - button "Street View" [ref=f35e233] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f35e236]: 
+      - generic [ref=f35e237]:
+        - generic "Interactive map" [ref=f35e238]
+        - generic [ref=f35e242] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f35e243]: 
+          - generic [ref=f35e244]: Layers
+        - button "Layers" [ref=f35e245] [cursor=pointer]
+    - generic [ref=f35e247]:
+      - contentinfo [ref=f35e250]:
+        - text: Map data ©2026 Google
+        - button "United States" [ref=f35e251] [cursor=pointer]
+        - button "Terms" [ref=f35e252] [cursor=pointer]
+        - button "Privacy" [ref=f35e253] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f35e254] [cursor=pointer]
+      - button "200 ft" [ref=f35e256] [cursor=pointer]

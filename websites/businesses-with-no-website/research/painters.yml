@@ -1,0 +1,418 @@
+- generic "Google Maps" [ref=f41e9]:
+  - generic [ref=f41e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f41e10]
+    - search [ref=f41e15]:
+      - generic [ref=f41e16]:
+        - combobox [ref=f41e18]: painting contractor san diego ca
+        - button "Search" [ref=f41e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f41e21]: 
+        - button "Close" [ref=f41e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f41e24]: 
+    - region "Available filters for this search" [ref=f41e31]:
+      - generic [ref=f41e34]:
+        - button "Rating" [ref=f41e36] [cursor=pointer]:
+          - generic [ref=f41e37]:
+            - generic [aria-hidden] [ref=f41e38]: 
+            - generic [ref=f41e39]: Rating
+            - generic [aria-hidden] [ref=f41e40]: 
+        - button "Hours" [ref=f41e42] [cursor=pointer]:
+          - generic [ref=f41e43]:
+            - generic [aria-hidden] [ref=f41e44]: 
+            - generic [ref=f41e45]: Hours
+            - generic [aria-hidden] [ref=f41e46]: 
+        - button "All filters" [ref=f41e48] [cursor=pointer]:
+          - generic [ref=f41e49]:
+            - generic [aria-hidden] [ref=f41e50]: 
+            - generic [ref=f41e51]: All filters
+    - generic [ref=f41e52]:
+      - generic [ref=f41e53]:
+        - list [ref=f41e55]:
+          - listitem [ref=f41e56]:
+            - button "Menu" [ref=f41e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f41e59]: 
+          - listitem [ref=f41e60]:
+            - button "Saved" [ref=f41e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f41e63]: 
+          - listitem [ref=f41e66]:
+            - button "Recents" [disabled] [ref=f41e67]:
+              - generic [aria-hidden] [ref=f41e69]: 
+          - listitem [ref=f41e73]:
+            - button "Get app" [ref=f41e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f41e76]: 
+        - main [ref=f41e83]:
+          - generic [ref=f41e84]:
+            - feed "Results for painting contractor san diego ca" [ref=f41e85]:
+              - generic [ref=f41e86]:
+                - generic [ref=f41e88]:
+                  - heading "Results" [level=1] [ref=f41e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f41e93]:
+                    - generic [aria-hidden] [ref=f41e97]: 
+                - button "Share" [ref=f41e101]:
+                  - generic [ref=f41e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f41e103]: 
+                    - generic [ref=f41e104]: Share
+              - article [ref=f41e106]:
+                - link "CertaPro Painters of La Jolla and Central San Diego" [ref=f41e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/CertaPro+Painters+of+La+Jolla+and+Central+San+Diego/data=!4m7!3m6!1s0x80dc01b9a5abaa11:0x23e7d0ab312451d2!8m2!3d32.716181!4d-117.168653!16s%2Fg%2F11b8_n9nbt!19sChIJEaqrpbkB3IAR0lEkMavQ5yM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f41e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f41e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: CertaPro Painters of La Jolla and Central San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 48 Reviews": 4.8(48)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 600 West Broadway
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 728-7826
+                    - generic:
+                      - link "Visit CertaPro Painters of La Jolla and Central San Diego's website" [ref=f41e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjS3q7st4GXAxW0DkQIHecaAcIYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI0t6u7LeBlwMVtA5ECB3nGgHCEBAYASAAEgIDz_D_BwE&cid=CAAS0wHkaAFtOlRBcYdoK_wi-Gsi05FRaaeZcAVTF63Vy3PAE9sHavuUVJvoqgQCXYr8qukzqyqFrC33oF8FcxdhdSv1EavflpCRL8kjCai9DLUmWwdaX8ai6kQIDynJO0VQYOXNUiqX6cVRpzUpc-1CD3mQpOlA6ONa26CxHblyyJRJAA7uSMRDpMPlk_m0lpT9bJyvbGwwY9KuaRJpEsMBe1pYCuP_mLFNJgfnl9bof8bWm3OI70-9pXaQXvYDbX8Cy_1dlubozfSOACpKQT3xa7Uzzg86&cce=2&category=acrcp_v1_32&sig=AOD64_2vFpbEcNs7w_0nveAOzEzq0nsQiw&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f41e113]: 
+                        - generic [ref=f41e114]: Website
+                      - button "Get directions to CertaPro Painters of La Jolla and Central San Diego" [ref=f41e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e117]: 
+                        - generic [ref=f41e118]: Directions
+                  - link "Ad · Int Painters Santee · Santee House <b>Painters</b>. Schedule Your Free Remote Estimate Online or Call Us Today! · Visit Site · certapro.com/santee" [ref=f41e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjS3q7st4GXAxW0DkQIHecaAcIYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI0t6u7LeBlwMVtA5ECB3nGgHCEBAYASAAEgIDz_D_BwE&cid=CAAS0wHkaAFtOlRBcYdoK_wi-Gsi05FRaaeZcAVTF63Vy3PAE9sHavuUVJvoqgQCXYr8qukzqyqFrC33oF8FcxdhdSv1EavflpCRL8kjCai9DLUmWwdaX8ai6kQIDynJO0VQYOXNUiqX6cVRpzUpc-1CD3mQpOlA6ONa26CxHblyyJRJAA7uSMRDpMPlk_m0lpT9bJyvbGwwY9KuaRJpEsMBe1pYCuP_mLFNJgfnl9bof8bWm3OI70-9pXaQXvYDbX8Cy_1dlubozfSOACpKQT3xa7Uzzg86&cce=2&category=acrcp_v1_32&sig=AOD64_2vFpbEcNs7w_0nveAOzEzq0nsQiw&adurl=&rct=j&nis=5
+                    - generic [ref=f41e125]:
+                      - generic [ref=f41e126]:
+                        - generic [ref=f41e127]: Int Painters Santee
+                        - generic [ref=f41e128]: Santee House Painters. Schedule Your Free Remote Estimate Online or Call Us Today!
+                      - generic [ref=f41e129]: Visit Site
+              - article [ref=f41e134]:
+                - link "Royall Painting" [ref=f41e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Royall+Painting/data=!4m7!3m6!1s0x80dc01ede2ac5281:0xd91de02c78e384e3!8m2!3d32.7927417!4d-117.2431142!16s%2Fg%2F1trrdhg9!19sChIJgVKs4u0B3IAR44TjeCzgHdk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Royall Painting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 116 Reviews": 5.0(116)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 4064 Gresham St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 255-9571
+                    - generic:
+                      - link "Visit Royall Painting's website" [ref=f41e137] [cursor=pointer]:
+                        - /url: https://royallpainting.com/
+                        - generic [aria-hidden] [ref=f41e139]: 
+                        - generic [ref=f41e140]: Website
+                      - button "Get directions to Royall Painting" [ref=f41e141] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e143]: 
+                        - generic [ref=f41e144]: Directions
+              - article [ref=f41e147]:
+                - link "J Brown Painting" [ref=f41e148] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/J+Brown+Painting/data=!4m7!3m6!1s0x80dc01f4e3f268f5:0xb6127fa7d7db884c!8m2!3d32.8041222!4d-117.2334673!16s%2Fg%2F11ghfrm9p9!19sChIJ9Wjy4_QB3IARTIjb16d_ErY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: J Brown Painting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 286 Reviews": 5.0(286)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 2037 Diamond St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 356-0830
+                    - generic:
+                      - link "Visit J Brown Painting's website" [ref=f41e150] [cursor=pointer]:
+                        - /url: https://www.jbrownpainting.com/
+                        - generic [aria-hidden] [ref=f41e152]: 
+                        - generic [ref=f41e153]: Website
+                      - button "Get directions to J Brown Painting" [ref=f41e154] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e156]: 
+                        - generic [ref=f41e157]: Directions
+              - article [ref=f41e160]:
+                - link "Mike's Painting Co." [ref=f41e161] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Mike%27s+Painting+Co./data=!4m7!3m6!1s0x80dc014db1d20ebd:0xee2228be4ca3109c!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11x_j78nct!19sChIJvQ7SsU0B3IARnBCjTL4oIu4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Mike's Painting Co.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 31 Reviews": 5.0(31)
+                            - generic:
+                              - generic: Painting
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 333-0158
+                    - generic:
+                      - link "Visit Mike's Painting Co.'s website" [ref=f41e163] [cursor=pointer]:
+                        - /url: https://www.mikespaintingsd.com/
+                        - generic [aria-hidden] [ref=f41e165]: 
+                        - generic [ref=f41e166]: Website
+                      - button "Get directions to Mike's Painting Co." [ref=f41e167] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e169]: 
+                        - generic [ref=f41e170]: Directions
+              - article [ref=f41e173]:
+                - link "Bulman Painting" [ref=f41e174] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Bulman+Painting/data=!4m7!3m6!1s0x80deaa3100c6aa67:0x7155551baa684e9b!8m2!3d32.7450078!4d-117.237372!16s%2Fg%2F11b8jczg04!19sChIJZ6rGADGq3oARm05oqhtVVXE?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Bulman Painting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 114 Reviews": 5.0(114)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 4414 Long Branch Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 565-7704
+                    - generic:
+                      - link "Visit Bulman Painting's website" [ref=f41e176] [cursor=pointer]:
+                        - /url: http://www.bulmanpaintingpros.com/
+                        - generic [aria-hidden] [ref=f41e178]: 
+                        - generic [ref=f41e179]: Website
+                      - button "Get directions to Bulman Painting" [ref=f41e180] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e182]: 
+                        - generic [ref=f41e183]: Directions
+              - article [ref=f41e186]:
+                - link "Local San Diego Painting" [ref=f41e187] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Local+San+Diego+Painting/data=!4m7!3m6!1s0x80d955c32e4093db:0x2c46af84f8ca524f!8m2!3d32.785163!4d-117.0629147!16s%2Fg%2F11cst0lhh3!19sChIJ25NALsNV2YART1LK-ISvRiw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Local San Diego Painting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 92 Reviews": 4.9(92)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 5814 College Ave
+                              - generic:
+                                - generic: Closed · Opens 7:30 AM Tue
+                                - generic: · (619) 288-0656
+                    - generic:
+                      - link "Visit Local San Diego Painting's website" [ref=f41e189] [cursor=pointer]:
+                        - /url: https://localsandiegopainting.com/
+                        - generic [aria-hidden] [ref=f41e191]: 
+                        - generic [ref=f41e192]: Website
+                      - button "Get directions to Local San Diego Painting" [ref=f41e193] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e195]: 
+                        - generic [ref=f41e196]: Directions
+              - article [ref=f41e199]:
+                - link "Precision Painting Plus of San Diego" [ref=f41e200] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Precision+Painting+Plus+of+San+Diego/data=!4m7!3m6!1s0x80d9551620b3b169:0xb7fd97130cdcda89!8m2!3d32.7158452!4d-117.167205!16s%2Fg%2F11trpcfkz7!19sChIJabGzIBZV2YARidrcDBOX_bc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Precision Painting Plus of San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 57 Reviews": 4.9(57)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: "· 402 W Broadway Office #81"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 399-2251
+                    - generic:
+                      - link "Visit Precision Painting Plus of San Diego's website" [ref=f41e202] [cursor=pointer]:
+                        - /url: https://quote.precisionpaintingplus.net/san-diego-painters-estimate/?utm_group=GMB&utm_source=GMB&utm_medium=organic&utm_campaign=San_Diego&force_utm=true
+                        - generic [aria-hidden] [ref=f41e204]: 
+                        - generic [ref=f41e205]: Website
+                      - button "Get directions to Precision Painting Plus of San Diego" [ref=f41e206] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e208]: 
+                        - generic [ref=f41e209]: Directions
+              - article [ref=f41e212]:
+                - link "Lifetime Custom Painting Inc" [ref=f41e213] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Lifetime+Custom+Painting+Inc/data=!4m7!3m6!1s0x80d94c279c82b869:0x93d1ffd0c6ecd8fe!8m2!3d32.7443651!4d-117.1298877!16s%2Fg%2F1tk6w5xj!19sChIJabiCnCdM2YAR_tjsxtD_0ZM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Lifetime Custom Painting Inc
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 298 Reviews": 4.9(298)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 3601 30th St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 314-8622
+                    - generic:
+                      - link "Visit Lifetime Custom Painting Inc's website" [ref=f41e215] [cursor=pointer]:
+                        - /url: https://lifetimecustom.com/?utm_source=google&utm_medium=business-profile&utm_campaign=google-business-profile
+                        - generic [aria-hidden] [ref=f41e217]: 
+                        - generic [ref=f41e218]: Website
+                      - button "Get directions to Lifetime Custom Painting Inc" [ref=f41e219] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e221]: 
+                        - generic [ref=f41e222]: Directions
+              - article [ref=f41e225]:
+                - link "Peek Brothers Painting" [ref=f41e226] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Peek+Brothers+Painting/data=!4m7!3m6!1s0x80d9553f236814fd:0x8ee7e80de480c875!8m2!3d32.8197266!4d-117.1377349!16s%2Fg%2F1td9_zq9!19sChIJ_RRoIz9V2YARdciA5A3o544?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Peek Brothers Painting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 261 Reviews": 5.0(261)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 8861 Balboa Ave STE A
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 446-6983
+                    - generic:
+                      - link "Visit Peek Brothers Painting's website" [ref=f41e228] [cursor=pointer]:
+                        - /url: https://peekbrotherspainting.com/
+                        - generic [aria-hidden] [ref=f41e230]: 
+                        - generic [ref=f41e231]: Website
+                      - button "Get directions to Peek Brothers Painting" [ref=f41e232] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e234]: 
+                        - generic [ref=f41e235]: Directions
+              - article [ref=f41e238]:
+                - link "Double G Painting & General Contracting" [ref=f41e239] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Double+G+Painting+%26+General+Contracting/data=!4m7!3m6!1s0x80dbf98442079bd3:0xe8358b5ae369308!8m2!3d32.8238331!4d-117.1568718!16s%2Fg%2F11d_tqnsv7!19sChIJ05sHQoT524ARCJM2rrVYgw4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Double G Painting & General Contracting
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 76 Reviews": 4.9(76)
+                            - generic:
+                              - generic:
+                                - generic: Painter
+                                - generic: · 4565 Ruffner St Ste 109
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 789-4130
+                    - generic:
+                      - link "Visit Double G Painting & General Contracting's website" [ref=f41e241] [cursor=pointer]:
+                        - /url: https://doublegpainters.com/?utm_campaign=gmb
+                        - generic [aria-hidden] [ref=f41e243]: 
+                        - generic [ref=f41e244]: Website
+                      - button "Get directions to Double G Painting & General Contracting" [ref=f41e245] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e247]: 
+                        - generic [ref=f41e248]: Directions
+              - article [ref=f41e251]:
+                - link "JCE Painting Inc" [ref=f41e252] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/JCE+Painting+Inc/data=!4m7!3m6!1s0x80dbff1f386172f1:0xba4fd7078180c8e7!8m2!3d34.530418!4d-118.9260895!16s%2Fg%2F11knbdh1mt!19sChIJ8XJhOB__24AR58iAgQfXT7o?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: JCE Painting Inc
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 38 Reviews": 5.0(38)
+                            - generic:
+                              - generic: Painting
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 251-8513
+                    - generic:
+                      - link "Visit JCE Painting Inc's website" [ref=f41e254] [cursor=pointer]:
+                        - /url: https://jcepainting.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile
+                        - generic [aria-hidden] [ref=f41e256]: 
+                        - generic [ref=f41e257]: Website
+                      - button "Get directions to JCE Painting Inc" [ref=f41e258] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f41e260]: 
+                        - generic [ref=f41e261]: Directions
+              - generic [ref=f41e296]:
+                - generic [aria-hidden] [ref=f41e298]: 
+                - generic [ref=f41e299]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f41e300] [cursor=pointer]
+            - checkbox [ref=f41e303] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f41e305]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f41e307] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f41e308]: 
+    - generic [ref=f41e312]:
+      - button "Google apps" [ref=f41e316] [cursor=pointer]
+      - link "Sign in" [ref=f41e320] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fpainting%2Bcontractor%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f41e323] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f41e325]: 
+        - generic [ref=f41e327] [cursor=pointer]:
+          - button "Zoom in" [ref=f41e328]:
+            - generic [aria-hidden] [ref=f41e330]: 
+          - button "Zoom out" [ref=f41e331]:
+            - generic [aria-hidden] [ref=f41e333]: 
+      - button "Browse Street View images" [ref=f41e339]
+      - generic [ref=f41e341]:
+        - generic "Interactive map" [ref=f41e342]
+        - generic [ref=f41e346] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f41e347]: 
+          - generic [ref=f41e348]: Layers
+        - button "Layers" [ref=f41e349] [cursor=pointer]
+    - generic [ref=f41e351]:
+      - contentinfo [ref=f41e354]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f41e355] [cursor=pointer]
+        - button "Terms" [ref=f41e356] [cursor=pointer]
+        - button "Privacy" [ref=f41e357] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f41e358] [cursor=pointer]
+      - button "50 mi" [ref=f41e360] [cursor=pointer]

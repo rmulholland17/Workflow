@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Jennifer Mulholland — Let Your Soul Lead</title>
+<meta name="description" content="Jennifer Mulholland is a soul guide, author, and retreat leader in Park City, Utah, helping people trust their inner knowing through soul readings, coaching, immersions, and community gatherings." />
+<link rel="icon" type="image/png" href="assets/favicon.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          teal: { DEFAULT: '#12615F', deep: '#0B3E3D', ink: '#0E4E4D' },
+          gold: { DEFAULT: '#CE9F3E', soft: '#E4C377' },
+          cream: { DEFAULT: '#FBF7EE', card: '#FFFDF8', line: '#E7DFCC' },
+        },
+        fontFamily: {
+          serif: ['Fraunces', 'Georgia', 'serif'],
+          sans: ['Inter', 'sans-serif'],
+        },
+      }
+    }
+  }
+</script>
+<style>
+  body { font-family: 'Inter', sans-serif; background: #FBF7EE; color: #24302C; }
+  .font-serif { font-family: 'Fraunces', Georgia, serif; }
+  .eyebrow { letter-spacing: 0.22em; text-transform: uppercase; font-size: 0.72rem; font-weight: 500; }
+</style>
+</head>
+<body class="antialiased">
+
+  <!-- HEADER -->
+  <header class="sticky top-0 z-50 bg-cream/95 backdrop-blur border-b border-cream-line">
+    <input type="checkbox" id="menu-toggle" class="peer hidden" />
+    <div class="max-w-7xl mx-auto px-6 lg:px-10 flex items-center justify-between h-20">
+      <a href="index.html" class="flex items-center gap-2">
+        <img src="assets/Logo.webp" alt="Jennifer Mulholland" class="h-12 w-auto" />
+      </a>
+      <nav class="hidden lg:flex items-center gap-10 text-[0.8rem] tracking-wide uppercase text-teal-deep font-medium">
+        <a href="about.html" class="hover:text-gold transition-colors">About</a>
+        <a href="offerings.html" class="hover:text-gold transition-colors">Offerings</a>
+        <a href="events.html" class="hover:text-gold transition-colors">Events</a>
+        <a href="resources.html" class="hover:text-gold transition-colors">Resources</a>
+      </nav>
+      <a href="offerings.html#soul-reading" class="hidden lg:inline-flex items-center rounded-full bg-teal text-cream text-sm font-medium tracking-wide px-6 py-3 hover:bg-teal-deep transition-colors">
+        Book a Soul Reading
+      </a>
+      <label for="menu-toggle" class="lg:hidden flex flex-col justify-center gap-1.5 cursor-pointer p-2 -mr-2 w-9 h-9" aria-label="Toggle menu">
+        <span class="block w-5 h-[1.5px] bg-teal-deep mx-auto"></span>
+        <span class="block w-5 h-[1.5px] bg-teal-deep mx-auto"></span>
+        <span class="block w-5 h-[1.5px] bg-teal-deep mx-auto"></span>
+      </label>
+    </div>
+    <!-- Mobile menu panel -->
+    <div class="hidden peer-checked:flex lg:hidden flex-col gap-1 px-6 pb-6 pt-2 border-t border-cream-line bg-cream">
+      <a href="about.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">About</a>
+      <a href="offerings.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">Offerings</a>
+      <a href="events.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">Events</a>
+      <a href="resources.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">Resources</a>
+      <a href="offerings.html#soul-reading" class="mt-4 inline-flex items-center justify-center rounded-full bg-teal text-cream text-sm font-medium tracking-wide px-6 py-3.5 hover:bg-teal-deep transition-colors">
+        Book a Soul Reading
+      </a>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="relative min-h-[92svh] flex items-end overflow-hidden">
+    <img src="assets/Soul-Space-Hero-Image-Landscape.png" alt="A woman walking toward the light at sunset" class="absolute inset-0 w-full h-full object-cover" />
+    <div class="absolute inset-0 bg-gradient-to-t from-teal-deep/90 via-teal-deep/30 to-transparent"></div>
+    <div class="relative max-w-7xl mx-auto px-6 lg:px-10 pb-20 pt-40 w-full">
+      <p class="eyebrow text-gold-soft mb-5">Soul Guide · Author · Retreat Leader</p>
+      <h1 class="font-serif font-medium text-5xl sm:text-6xl lg:text-7xl text-cream max-w-3xl leading-[1.05]">
+        Let your soul lead.
+      </h1>
+      <p class="mt-6 max-w-xl text-cream/85 text-lg leading-relaxed">
+        Beneath the noise, your soul is speaking. Deepen your intuition, remember your light,
+        and learn to trust your inner senses again.
+      </p>
+      <div class="mt-9 flex flex-wrap gap-4">
+        <a href="offerings.html#soul-reading" class="inline-flex items-center rounded-full bg-gold text-teal-deep font-medium px-8 py-4 hover:bg-gold-soft transition-colors">
+          Book a Soul Reading
+        </a>
+        <a href="about.html" class="inline-flex items-center rounded-full border border-cream/60 text-cream font-medium px-8 py-4 hover:bg-cream/10 transition-colors">
+          Read Her Story
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- PHILOSOPHY -->
+  <section id="about" class="py-24 lg:py-32">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10 grid lg:grid-cols-2 gap-16 items-center">
+      <div>
+        <p class="eyebrow text-teal mb-5">The Philosophy</p>
+        <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep leading-snug mb-6">
+          When life is guided by the wisdom of the soul, everything becomes an expression of love, purpose, and light.
+        </h2>
+        <p class="text-teal-ink/80 leading-relaxed mb-10">
+          Jennifer Mulholland is a soul guide, modern mystic, spiritual teacher, retreat leader, author, and
+          craftswoman of sacred containers. After decades bridging business and spirit — as a Fortune 500
+          Chief Innovation Officer and co-founder of Plenty Consulting — her work today is singular: helping
+          people become present, expand their perception, and live attuned to the wisdom of their own soul.
+        </p>
+        <div class="grid grid-cols-3 gap-6 border-t border-cream-line pt-8">
+          <a href="about.html" class="group">
+            <p class="text-xs text-teal/60 mb-1">1 — Begin</p>
+            <p class="font-serif text-teal-deep group-hover:text-gold transition-colors">Her Story</p>
+          </a>
+          <a href="offerings.html" class="group">
+            <p class="text-xs text-teal/60 mb-1">2 — Practice</p>
+            <p class="font-serif text-teal-deep group-hover:text-gold transition-colors">An Offering</p>
+          </a>
+          <a href="#soul-notes" class="group">
+            <p class="text-xs text-teal/60 mb-1">3 — Support</p>
+            <p class="font-serif text-teal-deep group-hover:text-gold transition-colors">Soul Notes</p>
+          </a>
+        </div>
+      </div>
+      <div class="flex justify-center">
+        <img src="assets/about.png" alt="Jennifer Mulholland in sound healing practice, and seated at home" class="w-full max-w-md" />
+      </div>
+    </div>
+  </section>
+
+  <!-- WELCOME VIDEO -->
+  <section class="relative bg-teal-deep py-24 lg:py-28">
+    <div class="max-w-4xl mx-auto px-6 lg:px-10 text-center">
+      <p class="eyebrow text-gold-soft mb-4">A Welcome, In Her Words</p>
+      <h2 class="font-serif text-3xl sm:text-4xl text-cream mb-4">"When we learn to truly listen, life speaks."</h2>
+      <p class="text-cream/70 max-w-xl mx-auto mb-12">
+        Jennifer shares that lesson often — it crystallized the day her intuition led her family to exactly
+        the care her son needed. Hear it from her directly.
+      </p>
+      <div class="rounded-2xl overflow-hidden shadow-2xl max-w-2xl mx-auto ring-1 ring-cream/10">
+        <video
+          controls
+          preload="none"
+          poster="assets/Rectangle-24247.png"
+          class="w-full h-auto block"
+          src="https://jennifermulholland.com/wp-content/uploads/2025/12/Welcome-Video-Jennifer-Mulholland.mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </section>
+
+  <!-- OFFERINGS I -->
+  <section id="offerings" class="py-24 lg:py-32">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <div class="flex items-end justify-between mb-14 flex-wrap gap-6">
+        <div>
+          <p class="eyebrow text-teal mb-4">Offerings</p>
+          <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep max-w-xl">
+            Ways to begin, together.
+          </h2>
+        </div>
+        <a href="offerings.html" class="text-sm text-teal-deep border-b border-teal-deep/40 hover:border-gold hover:text-gold transition-colors">See all offerings →</a>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-6">
+        <!-- Card 1 -->
+        <div class="rounded-2xl bg-teal-deep p-8 flex flex-col min-h-[380px]">
+          <p class="text-gold-soft text-xs eyebrow mb-3">50 Minutes · Virtual</p>
+          <h3 class="font-serif text-2xl text-cream mb-4">Soul Reading</h3>
+          <p class="text-cream/70 leading-relaxed flex-1">
+            A 50-minute intuitive reading to connect with your higher self, receive direction from your guides,
+            and gain clarity aligned with your soul.
+          </p>
+          <a href="offerings.html#soul-reading" class="mt-6 inline-flex items-center text-sm text-cream border border-cream/30 rounded-full px-5 py-2.5 w-fit hover:bg-cream hover:text-teal-deep transition-colors">Learn More</a>
+        </div>
+        <!-- Card 2 -->
+        <div class="rounded-2xl bg-teal-deep p-8 flex flex-col min-h-[380px]">
+          <p class="text-gold-soft text-xs eyebrow mb-3">3 × 90 Minutes · Virtual</p>
+          <h3 class="font-serif text-2xl text-cream mb-4">Soul Coaching</h3>
+          <p class="text-cream/70 leading-relaxed flex-1">
+            Three 90-minute sessions blending intuitive reading, meditation, and practical tools to support
+            decision-making and authentic self-expression.
+          </p>
+          <a href="offerings.html" class="mt-6 inline-flex items-center text-sm text-cream border border-cream/30 rounded-full px-5 py-2.5 w-fit hover:bg-cream hover:text-teal-deep transition-colors">Learn More</a>
+        </div>
+        <!-- Card 3 -->
+        <div class="rounded-2xl bg-teal-deep p-8 flex flex-col min-h-[380px]">
+          <p class="text-gold-soft text-xs eyebrow mb-3">Full Day + 3 Sessions · In Person</p>
+          <h3 class="font-serif text-2xl text-cream mb-4">Soul Immersion</h3>
+          <p class="text-cream/70 leading-relaxed flex-1">
+            A full in-person day of soul reading, meditation, nature connection, and energy clearing —
+            followed by three virtual sessions of integration support.
+          </p>
+          <a href="offerings.html#soul-immersion" class="mt-6 inline-flex items-center text-sm text-cream border border-cream/30 rounded-full px-5 py-2.5 w-fit hover:bg-cream hover:text-teal-deep transition-colors">Learn More</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BOOK -->
+  <section id="book" class="py-24 lg:py-32 bg-teal-deep">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10 grid lg:grid-cols-2 gap-16 items-center">
+      <div class="order-2 lg:order-1 rounded-2xl bg-teal p-12 lg:p-16 flex items-center justify-center min-h-[320px]">
+        <img src="assets/book-cover.png" alt="Leading with Light book cover, by Jennifer Mulholland and Jeff Shuck" class="w-full max-w-[220px] drop-shadow-2xl" />
+      </div>
+      <div class="order-1 lg:order-2">
+        <p class="eyebrow text-gold-soft mb-4">Her Book</p>
+        <h2 class="font-serif font-medium text-3xl sm:text-4xl text-cream mb-5 leading-snug">
+          Leading with Light
+        </h2>
+        <p class="text-cream/70 leading-relaxed mb-8">
+          Choosing conscious leadership when you're ready for more. Jennifer's book awakens your soul's
+          potential and offers a path to living your authentic purpose with spiritual alignment.
+        </p>
+        <div class="flex flex-wrap items-center gap-4 bg-cream/95 rounded-xl p-4">
+          <img src="assets/book-badge.jpg" alt="Available on Amazon Books" class="h-6 w-auto" />
+          <img src="assets/audible.jpg" alt="Available on Audible" class="h-6 w-auto" />
+          <img src="assets/barnes-noble.jpg" alt="Available at Barnes & Noble" class="h-6 w-auto" />
+          <img src="assets/bookshop.jpg" alt="Available on Bookshop" class="h-6 w-auto" />
+          <img src="assets/kindle.jpg" alt="Available on Kindle" class="h-6 w-auto" />
+          <img src="assets/porchlight.jpg" alt="Available at Porchlight" class="h-6 w-auto" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- THREE WAYS TO BEGIN -->
+  <section class="py-24 lg:py-28">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep mb-14 max-w-xl">
+        Three ways to begin
+      </h2>
+      <div class="grid md:grid-cols-3 gap-10 border-t border-cream-line pt-10">
+        <div>
+          <p class="font-serif text-gold text-4xl mb-4">1</p>
+          <h3 class="font-serif text-xl text-teal-deep mb-2">Read the Book</h3>
+          <p class="text-teal-ink/70 leading-relaxed">Start where you are. Leading with Light lays the foundation for soul-led living.</p>
+        </div>
+        <div>
+          <p class="font-serif text-gold text-4xl mb-4">2</p>
+          <h3 class="font-serif text-xl text-teal-deep mb-2">Book a Soul Reading</h3>
+          <p class="text-teal-ink/70 leading-relaxed">Move through the teachings and practices at your own pace, one session at a time.</p>
+        </div>
+        <div>
+          <p class="font-serif text-gold text-4xl mb-4">3</p>
+          <h3 class="font-serif text-xl text-teal-deep mb-2">Join Soul Space</h3>
+          <p class="text-teal-ink/70 leading-relaxed">Let life respond. Gather in community and let it show you what's possible.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- OFFERINGS II -->
+  <section class="py-24 lg:py-32 bg-cream-card border-y border-cream-line">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <p class="eyebrow text-teal mb-4">Continue the Practice</p>
+      <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep max-w-xl mb-14">
+        Support for a soul-led life.
+      </h2>
+      <div class="grid md:grid-cols-3 gap-6">
+        <div class="rounded-2xl overflow-hidden border border-cream-line bg-white group">
+          <div class="h-56 overflow-hidden">
+            <img src="assets/Soul-Space-Hero-Image-Landscape.png" alt="Soul Space community" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+          </div>
+          <div class="p-7">
+            <p class="text-xs eyebrow text-teal/60 mb-2">Live Online Sanctuary</p>
+            <h3 class="font-serif text-xl text-teal-deep mb-3">Soul Space</h3>
+            <p class="text-teal-ink/70 leading-relaxed text-sm mb-5">A live online sanctuary for women to arrive as they are and gently let their soul lead.</p>
+            <a href="offerings.html#soul-space" class="text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Learn More →</a>
+          </div>
+        </div>
+        <div class="rounded-2xl overflow-hidden border border-cream-line bg-white group">
+          <div class="h-56 overflow-hidden">
+            <img src="assets/1.jpg" alt="Spirit Speaks online course" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+          </div>
+          <div class="p-7">
+            <p class="text-xs eyebrow text-teal/60 mb-2">4-Week Online Course</p>
+            <h3 class="font-serif text-xl text-teal-deep mb-3">Spirit Speaks</h3>
+            <p class="text-teal-ink/70 leading-relaxed text-sm mb-5">Awaken your intuitive gifts and learn to directly commune with your guides and spirit team.</p>
+            <a href="offerings.html#spirit-speaks" class="text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Learn More →</a>
+          </div>
+        </div>
+        <div class="rounded-2xl overflow-hidden border border-cream-line bg-white group">
+          <div class="h-56 overflow-hidden">
+            <img src="assets/bg-scaled.jpg" alt="Soulful experiences and custom gatherings" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+          </div>
+          <div class="p-7">
+            <p class="text-xs eyebrow text-teal/60 mb-2">Custom In-Person / Online</p>
+            <h3 class="font-serif text-xl text-teal-deep mb-3">Soulful Experiences</h3>
+            <p class="text-teal-ink/70 leading-relaxed text-sm mb-5">Custom-designed soul-guided gatherings — workshops, circles, and retreats crafted for your people.</p>
+            <a href="offerings.html#soulful-experiences" class="text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Learn More →</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TESTIMONIALS -->
+  <section class="py-24 lg:py-32">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <p class="eyebrow text-teal mb-4 text-center">In Their Words</p>
+      <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep text-center mb-16">Client Reflections</h2>
+      <div class="grid md:grid-cols-3 gap-10">
+        <div class="text-center">
+          <img src="assets/Suzanne-Graney-headshot-scaled.jpg" alt="Suzanne Graney" class="w-20 h-20 rounded-full object-cover mx-auto mb-5" />
+          <p class="font-serif text-lg text-teal-deep leading-snug mb-4">"She has a talent for gently posing deep questions that prompt self-awareness and self-discovery."</p>
+          <p class="text-sm text-teal-ink/60">Suzanne Graney</p>
+        </div>
+        <div class="text-center">
+          <img src="assets/Sierra-Hase.jpeg" alt="Sierra Hase" class="w-20 h-20 rounded-full object-cover mx-auto mb-5" />
+          <p class="font-serif text-lg text-teal-deep leading-snug mb-4">"Jennifer is an incredible listener who reflects things back to help you see yourself more clearly."</p>
+          <p class="text-sm text-teal-ink/60">Sierra Hase</p>
+        </div>
+        <div class="text-center">
+          <img src="assets/Kim-Bolin-Headshot-scaled.jpg" alt="Kim Bolin" class="w-20 h-20 rounded-full object-cover mx-auto mb-5" />
+          <p class="font-serif text-lg text-teal-deep leading-snug mb-4">"Her meditations summon stillness and reconnection to your true essence."</p>
+          <p class="text-sm text-teal-ink/60">Kim Bolin</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ARCHIVE / ESSAYS -->
+  <section class="py-24 lg:py-32 bg-cream-card border-y border-cream-line">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <div class="flex items-end justify-between mb-14 flex-wrap gap-6">
+        <div>
+          <p class="eyebrow text-teal mb-4">From the Archive</p>
+          <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep max-w-xl">Essays &amp; Reflections</h2>
+        </div>
+        <a href="essays.html" class="text-sm text-teal-deep border-b border-teal-deep/40 hover:border-gold hover:text-gold transition-colors">Read all essays →</a>
+      </div>
+      <div class="grid md:grid-cols-3 gap-6">
+        <a href="essays.html#we-all-carry-medicine" class="group block">
+          <div class="h-64 rounded-2xl overflow-hidden mb-5">
+            <img src="assets/We-All-Have-Medicine-For-Eachother-scaled.jpeg" alt="We All Carry Medicine for Each Other" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+          </div>
+          <h3 class="font-serif text-lg text-teal-deep group-hover:text-gold transition-colors">We All Carry Medicine for Each Other</h3>
+        </a>
+        <a href="essays.html#trusting-the-unfolding" class="group block">
+          <div class="h-64 rounded-2xl overflow-hidden mb-5">
+            <img src="assets/Apple-Tree.jpeg" alt="Trusting the Unfolding" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+          </div>
+          <h3 class="font-serif text-lg text-teal-deep group-hover:text-gold transition-colors">Trusting the Unfolding: The Apple Tree Doesn't Manifest Apples</h3>
+        </a>
+        <a href="essays.html#the-power-of-presence" class="group block">
+          <div class="h-64 rounded-2xl overflow-hidden mb-5">
+            <img src="assets/landscape-with-vintage-lights-scaled.jpeg" alt="The Power of Presence" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+          </div>
+          <h3 class="font-serif text-lg text-teal-deep group-hover:text-gold transition-colors">The Power of Presence</h3>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- CLOSING CTA -->
+  <section id="soul-notes" class="relative py-28 lg:py-36 bg-teal-deep overflow-hidden">
+    <div class="max-w-3xl mx-auto px-6 text-center relative">
+      <h2 class="font-serif font-medium text-4xl sm:text-5xl text-cream mb-6 leading-tight">
+        Begin the return to yourself.
+      </h2>
+      <p class="text-cream/70 mb-10 max-w-lg mx-auto">
+        Soul Notes — monthly essays, meditations, and practices for soul-led living, delivered straight to your inbox.
+      </p>
+      <form data-newsletter class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
+        <input type="email" required placeholder="Your email address" class="flex-1 rounded-full px-6 py-4 bg-cream/10 border border-cream/25 text-cream placeholder:text-cream/50 focus:outline-none focus:border-gold" />
+        <button type="submit" class="rounded-full bg-gold text-teal-deep font-medium px-7 py-4 hover:bg-gold-soft transition-colors">Subscribe</button>
+      </form>
+      <p data-newsletter-success hidden class="text-cream/80 text-sm mt-2"></p>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-teal-deep pt-16 pb-10 border-t border-cream/10">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <div class="grid md:grid-cols-4 gap-12 mb-14">
+        <div class="md:col-span-2">
+          <img src="assets/Jennifer-Mulholland-HD-Logo-name-white-1.png" alt="Jennifer Mulholland" class="h-14 w-auto mb-5" />
+          <p class="text-cream/60 text-sm max-w-sm leading-relaxed">
+            Soul guide, author, and retreat leader based in Park City, Utah — helping people trust their
+            inner knowing and live attuned to the wisdom of their soul.
+          </p>
+        </div>
+        <div>
+          <p class="eyebrow text-gold-soft mb-4">Explore</p>
+          <ul class="space-y-2 text-cream/70 text-sm">
+            <li><a href="about.html" class="hover:text-cream">About</a></li>
+            <li><a href="offerings.html" class="hover:text-cream">Offerings</a></li>
+            <li><a href="events.html" class="hover:text-cream">Events</a></li>
+            <li><a href="resources.html" class="hover:text-cream">Resources</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="eyebrow text-gold-soft mb-4">Connect</p>
+          <ul class="space-y-2 text-cream/70 text-sm">
+            <li><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jennifer@jennifermulholland.com" target="_blank" rel="noopener" class="hover:text-cream">jennifer@jennifermulholland.com</a></li>
+            <li><a href="https://www.instagram.com/jennifermulholland.soulguide/" target="_blank" rel="noopener" class="hover:text-cream">Instagram</a></li>
+            <li><a href="https://www.facebook.com/jennifer.h.mulholland" target="_blank" rel="noopener" class="hover:text-cream">Facebook</a></li>
+            <li><a href="https://www.linkedin.com/in/jennifermulholland/" target="_blank" rel="noopener" class="hover:text-cream">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="border-t border-cream/10 pt-8 flex flex-col sm:flex-row justify-between gap-4 text-xs text-cream/40">
+        <p>© 2026 Jennifer Mulholland. All rights reserved.</p>
+        <p>Park City, Utah</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/site.js"></script>
+
+</body>
+</html>

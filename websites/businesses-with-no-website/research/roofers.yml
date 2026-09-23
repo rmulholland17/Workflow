@@ -1,0 +1,445 @@
+- generic "Google Maps" [ref=f23e9]:
+  - generic [ref=f23e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f23e10]
+    - search [ref=f23e15]:
+      - generic [ref=f23e16]:
+        - combobox [ref=f23e18]: roofing company san diego ca
+        - button "Search" [ref=f23e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f23e21]: 
+        - button "Close" [ref=f23e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f23e24]: 
+    - region "Available filters for this search" [ref=f23e31]:
+      - generic [ref=f23e34]:
+        - button "Rating" [ref=f23e36] [cursor=pointer]:
+          - generic [ref=f23e37]:
+            - generic [aria-hidden] [ref=f23e38]: 
+            - generic [ref=f23e39]: Rating
+            - generic [aria-hidden] [ref=f23e40]: 
+        - button "Hours" [ref=f23e42] [cursor=pointer]:
+          - generic [ref=f23e43]:
+            - generic [aria-hidden] [ref=f23e44]: 
+            - generic [ref=f23e45]: Hours
+            - generic [aria-hidden] [ref=f23e46]: 
+        - button "All filters" [ref=f23e48] [cursor=pointer]:
+          - generic [ref=f23e49]:
+            - generic [aria-hidden] [ref=f23e50]: 
+            - generic [ref=f23e51]: All filters
+    - generic [ref=f23e52]:
+      - generic [ref=f23e53]:
+        - list [ref=f23e55]:
+          - listitem [ref=f23e56]:
+            - button "Menu" [ref=f23e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f23e59]: 
+          - listitem [ref=f23e60]:
+            - button "Saved" [ref=f23e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f23e63]: 
+          - listitem [ref=f23e66]:
+            - button "Recents" [disabled] [ref=f23e67]:
+              - generic [aria-hidden] [ref=f23e69]: 
+          - listitem [ref=f23e73]:
+            - button "Get app" [ref=f23e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f23e76]: 
+        - main [ref=f23e83]:
+          - generic [ref=f23e84]:
+            - feed "Results for roofing company san diego ca" [ref=f23e85]:
+              - generic [ref=f23e86]:
+                - generic [ref=f23e88]:
+                  - heading "Results" [level=1] [ref=f23e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f23e93]:
+                    - generic [aria-hidden] [ref=f23e97]: 
+                - button "Share" [ref=f23e101]:
+                  - generic [ref=f23e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f23e103]: 
+                    - generic [ref=f23e104]: Share
+              - article [ref=f23e106]:
+                - link "Premier Roofing CA, Inc." [ref=f23e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Premier+Roofing+CA,+Inc./data=!4m7!3m6!1s0x80d951f62f100b2b:0x7a61bd7e06efd169!8m2!3d32.742407!4d-117.001634!16s%2Fg%2F11n53gp5j9!19sChIJKwsQL_ZR2YARadHvBn69YXo?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f23e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f23e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Premier Roofing CA, Inc.
+                            - generic: No reviews
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic: · 9134 Olive Drive
+                              - generic: (619) 667-4565
+                    - generic:
+                      - link "Visit Premier Roofing CA, Inc.'s website" [ref=f23e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjHkv3Ht4GXAxWBKEQIHZpWJ18YACICCAEQAhoCZHo&co=1&ase=2&gclid=EAIaIQobChMIx5L9x7eBlwMVgShECB2aVidfEBAYASAAEgLVJfD_BwE&cid=CAAS0wHkaOjvDwGPw2LTDvp8lgv4fnTP1_WYHl1SAgJ-Q4ySzOjyjMUo-En4gOa6MJOaaPoLZXLRCPVOqYSljqwxGBdXmsDdlg-s_nJEU2pjSkELcKLqSmGO24QmsGPF9A_eOqL4TzCfRqm5bzXkDAzIFO3ZrnJwwMDFObaBIzwE-nFHHeV8axnPXtvsg2bXViEfQsz81rPu6AXlFyu_u1tzAM0RNJo_Kf_ysQXggupfhVdg4zel3sDQfekpVvqgqypCn54L4ziXzJUAs-WzxEO1RiPUXwuZ&cce=2&category=acrcp_v1_32&sig=AOD64_28SDZ8Aw0vAAP8ZqYe2lDGim0n5Q&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f23e113]: 
+                        - generic [ref=f23e114]: Website
+                      - button "Get directions to Premier Roofing CA, Inc." [ref=f23e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f23e117]: 
+                        - generic [ref=f23e118]: Directions
+                  - link "Ad · Premier Roofing CA, Inc. · Local <b>Roofing Company</b> - Get Quality <b>Roofing</b> You Can Depend On. Available 24/7, Call Us Today! Quick Response Time. · Visit Site · premierroofingca.com/roofing/services" [ref=f23e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjHkv3Ht4GXAxWBKEQIHZpWJ18YACICCAEQAhoCZHo&co=1&ase=2&gclid=EAIaIQobChMIx5L9x7eBlwMVgShECB2aVidfEBAYASAAEgLVJfD_BwE&cid=CAAS0wHkaOjvDwGPw2LTDvp8lgv4fnTP1_WYHl1SAgJ-Q4ySzOjyjMUo-En4gOa6MJOaaPoLZXLRCPVOqYSljqwxGBdXmsDdlg-s_nJEU2pjSkELcKLqSmGO24QmsGPF9A_eOqL4TzCfRqm5bzXkDAzIFO3ZrnJwwMDFObaBIzwE-nFHHeV8axnPXtvsg2bXViEfQsz81rPu6AXlFyu_u1tzAM0RNJo_Kf_ysQXggupfhVdg4zel3sDQfekpVvqgqypCn54L4ziXzJUAs-WzxEO1RiPUXwuZ&cce=2&category=acrcp_v1_32&sig=AOD64_28SDZ8Aw0vAAP8ZqYe2lDGim0n5Q&adurl=&rct=j&nis=5
+                    - generic [ref=f23e125]:
+                      - generic [ref=f23e126]:
+                        - generic [ref=f23e127]: Premier Roofing CA, Inc.
+                        - generic [ref=f23e128]: Local Roofing Company - Get Quality Roofing You Can Depend On. Available 24/7, Call Us Today! Quick Response Time.
+                      - generic [ref=f23e129]: Visit Site
+              - article [ref=f23e134]:
+                - link "E Z Solar & Roofing" [ref=f23e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/E+Z+Solar+%26+Roofing/data=!4m7!3m6!1s0x80d94c29883b6a23:0x14a401f0438a902f!8m2!3d32.807969!4d-116.945131!16s%2Fg%2F11dztsyrn8!19sChIJI2o7iClM2YARL5CKQ_ABpBQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f23e137] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f23e138]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: E Z Solar & Roofing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 109 Reviews": 4.9(109)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic: · 1076 Broadway
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 320-1020
+                    - generic:
+                      - link "Visit E Z Solar & Roofing's website" [ref=f23e139] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjHkv3Ht4GXAxWBKEQIHZpWJ18YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIx5L9x7eBlwMVgShECB2aVidfEBAYAiAAEgJVT_D_BwE&cid=CAAS0wHkaOjvDwGPw2LTDvp8lgv4fnTP1_WYHl1SAgJ-Q4ySzOjyjMUo-En4gOa6MJOaaPoLZXLRCPVOqYSljqwxGBdXmsDdlg-s_nJEU2pjSkELcKLqSmGO24QmsGPF9A_eOqL4TzCfRqm5bzXkDAzIFO3ZrnJwwMDFObaBIzwE-nFHHeV8axnPXtvsg2bXViEfQsz81rPu6AXlFyu_u1tzAM0RNJo_Kf_ysQXggupfhVdg4zel3sDQfekpVvqgqypCn54L4ziXzJUAs-WzxEO1RiPUXwuZ&cce=2&category=acrcp_v1_32&sig=AOD64_14ChKvvk-Qsbo2C2zoRz3isURt1w&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f23e141]: 
+                        - generic [ref=f23e142]: Website
+                      - button "Get directions to E Z Solar & Roofing" [ref=f23e143] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f23e145]: 
+                        - generic [ref=f23e146]: Directions
+                  - link "Ad · E Z Solar & Roofing · Local <b>Roof Repair Company</b> - Choose The Best <b>Company</b> To Repair Your <b>Roof</b>. We Guarantee The Best Prices. Call Us Today! · Visit Site · ezsolarelectric.com/Roof/Repair" [ref=f23e151] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjHkv3Ht4GXAxWBKEQIHZpWJ18YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIx5L9x7eBlwMVgShECB2aVidfEBAYAiAAEgJVT_D_BwE&cid=CAAS0wHkaOjvDwGPw2LTDvp8lgv4fnTP1_WYHl1SAgJ-Q4ySzOjyjMUo-En4gOa6MJOaaPoLZXLRCPVOqYSljqwxGBdXmsDdlg-s_nJEU2pjSkELcKLqSmGO24QmsGPF9A_eOqL4TzCfRqm5bzXkDAzIFO3ZrnJwwMDFObaBIzwE-nFHHeV8axnPXtvsg2bXViEfQsz81rPu6AXlFyu_u1tzAM0RNJo_Kf_ysQXggupfhVdg4zel3sDQfekpVvqgqypCn54L4ziXzJUAs-WzxEO1RiPUXwuZ&cce=2&category=acrcp_v1_32&sig=AOD64_14ChKvvk-Qsbo2C2zoRz3isURt1w&adurl=&rct=j&nis=5
+                    - generic [ref=f23e153]:
+                      - generic [ref=f23e154]:
+                        - generic [ref=f23e155]: E Z Solar & Roofing
+                        - generic [ref=f23e156]: Local Roof Repair Company - Choose The Best Company To Repair Your Roof. We Guarantee The Best Prices. Call Us Today!
+                      - generic [ref=f23e157]: Visit Site
+              - article [ref=f23e162]:
+                - link "Alma Roofing" [ref=f23e163] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Alma+Roofing/data=!4m7!3m6!1s0x80dc01530e53abf3:0xc8ec3a8ad5d6d03a!8m2!3d32.798058!4d-117.252332!16s%2Fg%2F11vsyy8wnq!19sChIJ86tTDlMB3IAROtDW1Yo67Mg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Alma Roofing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 118 Reviews": 5.0(118)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic: · 4538 Cass St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 693-3670
+                    - generic:
+                      - link "Visit Alma Roofing's website" [ref=f23e165] [cursor=pointer]:
+                        - /url: https://www.almaroofingsd.com/?utm_campaign=gmb
+                        - generic [aria-hidden] [ref=f23e167]: 
+                        - generic [ref=f23e168]: Website
+                      - button "Get directions to Alma Roofing" [ref=f23e169] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f23e171]: 
+                        - generic [ref=f23e172]: Directions
+              - article [ref=f23e175]:
+                - link "Elite Ridge Roofing Service" [ref=f23e176] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Elite+Ridge+Roofing+Service/data=!4m7!3m6!1s0x80dc01a232f6b5e9:0xeb01b90d1d35111f!8m2!3d32.8128816!4d-117.2016978!16s%2Fg%2F11nc2_8d30!19sChIJ6bX2MqIB3IARHxE1HQ25Aes?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Elite Ridge Roofing Service
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 2 Reviews": 5.0(2)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f23e178] [cursor=pointer]:
+                                    - generic [ref=f23e179]: 
+                                - generic: · 3969 Zed St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 389-3207
+                    - button "Get directions to Elite Ridge Roofing Service" [ref=f23e180] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f23e182]: 
+                      - generic [ref=f23e183]: Directions
+              - article [ref=f23e186]:
+                - link "Ford Roofing" [ref=f23e187] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ford+Roofing/data=!4m7!3m6!1s0x80dc015970de8437:0xe8e3861971b9884f!8m2!3d32.8032127!4d-117.2401306!16s%2Fg%2F11ybzjqd1l!19sChIJN4TecFkB3IART4i5cRmG4-g?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ford Roofing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 39 Reviews": 5.0(39)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f23e189] [cursor=pointer]:
+                                    - generic [ref=f23e190]: 
+                                - generic: · 4718 Jewell St
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 415-3837
+                    - generic:
+                      - link "Visit Ford Roofing's website" [ref=f23e191] [cursor=pointer]:
+                        - /url: https://fordroofingsd.com/
+                        - generic [aria-hidden] [ref=f23e193]: 
+                        - generic [ref=f23e194]: Website
+                      - button "Get directions to Ford Roofing" [ref=f23e195] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f23e197]: 
+                        - generic [ref=f23e198]: Directions
+              - article [ref=f23e201]:
+                - link "Five Star Roofer San Diego" [ref=f23e202] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Five+Star+Roofer+San+Diego/data=!4m7!3m6!1s0x80deab0069f7a88f:0xd3df506aa55a7927!8m2!3d32.7476398!4d-117.2497461!16s%2Fg%2F11yrfmy7d8!19sChIJj6j3aQCr3oARJ3lapWpQ39M?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Five Star Roofer San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 4 Reviews": 5.0(4)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f23e204] [cursor=pointer]:
+                                    - generic [ref=f23e205]: 
+                                - generic: · 4974 Santa Monica Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 392-4009
+                    - generic:
+                      - link "Visit Five Star Roofer San Diego's website" [ref=f23e206] [cursor=pointer]:
+                        - /url: http://fivestarroofersandiego.com/
+                        - generic [aria-hidden] [ref=f23e208]: 
+                        - generic [ref=f23e209]: Website
+                      - button "Get directions to Five Star Roofer San Diego" [ref=f23e210] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f23e212]: 
+                        - generic [ref=f23e213]: Directions
+              - article [ref=f23e216]:
+                - link "Ace San Diego Roofer" [ref=f23e217] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ace+San+Diego+Roofer/data=!4m7!3m6!1s0x80dbff00780510dd:0x93f8adffe790f41b!8m2!3d32.8298142!4d-117.1526515!16s%2Fg%2F11mt4gvfmq!19sChIJ3RAFeAD_24ARG_SQ5_-t-JM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ace San Diego Roofer
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 6 Reviews": 5.0(6)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f23e219] [cursor=pointer]:
+                                    - generic [ref=f23e220]: 
+                                - generic: · 4853 Convoy St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 392-8851
+                    - generic:
+                      - link "Visit Ace San Diego Roofer's website" [ref=f23e221] [cursor=pointer]:
+                        - /url: http://acesandiegoroofer.com/
+                        - generic [aria-hidden] [ref=f23e223]: 
+                        - generic [ref=f23e224]: Website
+                      - button "Get directions to Ace San Diego Roofer" [ref=f23e225] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f23e227]: 
+                        - generic [ref=f23e228]: Directions
+              - article [ref=f23e231]:
+                - link "Colin's Emergency Roofers" [ref=f23e232] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Colin%27s+Emergency+Roofers/data=!4m7!3m6!1s0x80d95564e63ed517:0x4a9f9253e2f08c9d!8m2!3d32.7991122!4d-117.0926165!16s%2Fg%2F11jbk8rqbc!19sChIJF9U-5mRV2YARnYzw4lOSn0o?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Colin's Emergency Roofers
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 133 Reviews": 4.9(133)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f23e234] [cursor=pointer]:
+                                    - generic [ref=f23e235]: 
+                                - generic: "· 6922 Mission Gorge Rd #9030"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 923-4199
+                    - button "Get directions to Colin's Emergency Roofers" [ref=f23e236] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f23e238]: 
+                      - generic [ref=f23e239]: Directions
+              - article [ref=f23e242]:
+                - link "Pioneer Roofing Company" [ref=f23e243] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Pioneer+Roofing+Company/data=!4m7!3m6!1s0x80d9552d4048b371:0x3245aaff9dc575a3!8m2!3d32.7747515!4d-117.1274582!16s%2Fg%2F11jjlq9txm!19sChIJcbNIQC1V2YARo3XFnf-qRTI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Pioneer Roofing Company
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 68 Reviews": 4.9(68)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f23e245] [cursor=pointer]:
+                                    - generic [ref=f23e246]: 
+                                - generic: "· 3111 Camino Del Rio N #400"
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 432-7663
+                    - generic:
+                      - link "Visit Pioneer Roofing Company's website" [ref=f23e247] [cursor=pointer]:
+                        - /url: https://www.pioneerroofer.com/
+                        - generic [aria-hidden] [ref=f23e249]: 
+                        - generic [ref=f23e250]: Website
+                      - button "Get directions to Pioneer Roofing Company" [ref=f23e251] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f23e253]: 
+                        - generic [ref=f23e254]: Directions
+              - article [ref=f23e257]:
+                - link "Coast Remodeling Services" [ref=f23e258] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Coast+Remodeling+Services/data=!4m7!3m6!1s0xb126a92ca4239a5:0xa1ef8ebef5ea5d6b!8m2!3d33.0172666!4d-116.8460104!16s%2Fg%2F11k52npgrt!19sChIJpTlCypJqEgsRa13q9b6O76E?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Coast Remodeling Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 53 Reviews": 4.8(53)
+                            - generic:
+                              - generic: Roofing contractor
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (858) 325-9045
+                    - generic:
+                      - link "Visit Coast Remodeling Services's website" [ref=f23e260] [cursor=pointer]:
+                        - /url: https://coasthomeremodels.com/
+                        - generic [aria-hidden] [ref=f23e262]: 
+                        - generic [ref=f23e263]: Website
+                      - button "Get directions to Coast Remodeling Services" [ref=f23e264] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f23e266]: 
+                        - generic [ref=f23e267]: Directions
+              - article [ref=f23e270]:
+                - link "San Diego County Roofing & Solar" [ref=f23e271] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+County+Roofing+%26+Solar/data=!4m7!3m6!1s0x80dc0b8b9784c1f7:0xe097eb10363dba68!8m2!3d32.7588438!4d-117.1791272!16s%2Fg%2F1s04wq5lz!19sChIJ98GEl4sL3IARaLo9NhDrl-A?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego County Roofing & Solar
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 50 Reviews": 5.0(50)
+                            - generic:
+                              - generic:
+                                - generic: Roofing contractor
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f23e273] [cursor=pointer]:
+                                    - generic [ref=f23e274]: 
+                                - generic: · 1761 Hotel Cir S Ste 110
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (855) 732-6868
+                    - generic:
+                      - link "Visit San Diego County Roofing & Solar's website" [ref=f23e275] [cursor=pointer]:
+                        - /url: https://sandiegocountyroofing.com/
+                        - generic [aria-hidden] [ref=f23e277]: 
+                        - generic [ref=f23e278]: Website
+                      - button "Get directions to San Diego County Roofing & Solar" [ref=f23e279] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f23e281]: 
+                        - generic [ref=f23e282]: Directions
+              - generic [ref=f23e317]:
+                - generic [aria-hidden] [ref=f23e319]: 
+                - generic [ref=f23e320]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f23e321] [cursor=pointer]
+            - checkbox [ref=f23e324] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f23e326]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f23e328] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f23e329]: 
+    - generic [ref=f23e333]:
+      - button "Google apps" [ref=f23e337] [cursor=pointer]
+      - link "Sign in" [ref=f23e341] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Froofing%2Bcompany%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f23e344] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f23e346]: 
+        - generic [ref=f23e348] [cursor=pointer]:
+          - button "Zoom in" [ref=f23e349]:
+            - generic [aria-hidden] [ref=f23e351]: 
+          - button "Zoom out" [ref=f23e352]:
+            - generic [aria-hidden] [ref=f23e354]: 
+      - button "Browse Street View images" [ref=f23e360]
+      - generic [ref=f23e362]:
+        - generic "Interactive map" [ref=f23e363]
+        - generic [ref=f23e367] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f23e368]: 
+          - generic [ref=f23e369]: Layers
+        - button "Layers" [ref=f23e370] [cursor=pointer]
+    - generic [ref=f23e372]:
+      - contentinfo [ref=f23e375]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f23e376] [cursor=pointer]
+        - button "Terms" [ref=f23e377] [cursor=pointer]
+        - button "Privacy" [ref=f23e378] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f23e379] [cursor=pointer]
+      - button "10 mi" [ref=f23e381] [cursor=pointer]

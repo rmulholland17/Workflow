@@ -1,0 +1,438 @@
+- generic "Google Maps" [ref=f90e9]:
+  - generic [ref=f90e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f90e10]
+    - search [ref=f90e15]:
+      - generic [ref=f90e16]:
+        - combobox [ref=f90e18]: mobile mechanic san diego ca
+        - button "Search" [ref=f90e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f90e21]: 
+        - button "Close" [ref=f90e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f90e24]: 
+    - region "Available filters for this search" [ref=f90e31]:
+      - generic [ref=f90e34]:
+        - button "Rating" [ref=f90e36] [cursor=pointer]:
+          - generic [ref=f90e37]:
+            - generic [aria-hidden] [ref=f90e38]: 
+            - generic [ref=f90e39]: Rating
+            - generic [aria-hidden] [ref=f90e40]: 
+        - button "Hours" [ref=f90e42] [cursor=pointer]:
+          - generic [ref=f90e43]:
+            - generic [aria-hidden] [ref=f90e44]: 
+            - generic [ref=f90e45]: Hours
+            - generic [aria-hidden] [ref=f90e46]: 
+        - button "All filters" [ref=f90e48] [cursor=pointer]:
+          - generic [ref=f90e49]:
+            - generic [aria-hidden] [ref=f90e50]: 
+            - generic [ref=f90e51]: All filters
+    - generic [ref=f90e52]:
+      - generic [ref=f90e53]:
+        - list [ref=f90e55]:
+          - listitem [ref=f90e56]:
+            - button "Menu" [ref=f90e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f90e59]: 
+          - listitem [ref=f90e60]:
+            - button "Saved" [ref=f90e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f90e63]: 
+          - listitem [ref=f90e66]:
+            - button "Recents" [disabled] [ref=f90e67]:
+              - generic [aria-hidden] [ref=f90e69]: 
+          - listitem [ref=f90e73]:
+            - button "Get app" [ref=f90e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f90e76]: 
+        - main [ref=f90e83]:
+          - generic [ref=f90e84]:
+            - feed "Results for mobile mechanic san diego ca" [ref=f90e85]:
+              - generic [ref=f90e86]:
+                - generic [ref=f90e88]:
+                  - heading "Results" [level=1] [ref=f90e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f90e93]:
+                    - generic [aria-hidden] [ref=f90e97]: 
+                - button "Share" [ref=f90e101]:
+                  - generic [ref=f90e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f90e103]: 
+                    - generic [ref=f90e104]: Share
+              - article [ref=f90e106]:
+                - link "Nova Motor Works, Inc." [ref=f90e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Nova+Motor+Works,+Inc./data=!4m6!3m5!1s0x80dbf9520cb393d5:0xa8b07eb09225d7d8!8m2!3d32.883362!4d-117.157696!19sChIJ1ZOzDFL524AR2NclkrB-sKg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f90e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f90e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Nova Motor Works, Inc.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 11 Reviews": 5.0(11)
+                            - generic:
+                              - generic:
+                                - generic: Mechanic
+                                - generic: · 7645 Carroll Road
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 666-9299
+                    - generic:
+                      - link "Visit Nova Motor Works, Inc.'s website" [ref=f90e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjf14i9uIGXAxWSBu8CHXxPDs4YACICCAEQAxoCZHo&co=1&ase=2&gclid=EAIaIQobChMI39eIvbiBlwMVkgbvAh18Tw7OEBAYASAAEgI_g_D_BwE&cid=CAAS0wHkaIKRJXc7n2FsCuqOx3-r9YCM4uJOdXvQWn49tHmnuPOWQJqV-90wgF4jpPj8wva7LxSQo59Hba4jREFHHOFhAyllaldbc1GB6YxJxQTJUvwRyFJAADiv3Qjj3Kap50-0Vi8iQCES6R7zS9VxrvxqWLgcI9bvCneJfh7_LOMy6I6WM4IldSzEpIk3ngs6iQzo9i4mP3ofEy0J3TgAGjMcccrW1xauBA6F9ugFaYTSgtIXNeksTMXqGqs6V0IHDvAY5XyHPV5lQuGWXqGgK6bVFvwn&cce=2&category=acrcp_v1_32&sig=AOD64_1RpGwrT4hs_XF14I2bO7NSkPf_Fw&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f90e113]: 
+                        - generic [ref=f90e114]: Website
+                      - button "Get directions to Nova Motor Works, Inc." [ref=f90e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f90e117]: 
+                        - generic [ref=f90e118]: Directions
+                  - link "Ad · Auto Repair in San Diego · We diagnose wiring faults and program vehicle control modules in <b>San Diego</b> · Visit Site · business.google.com/nova-motor" [ref=f90e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjf14i9uIGXAxWSBu8CHXxPDs4YACICCAEQAxoCZHo&co=1&ase=2&gclid=EAIaIQobChMI39eIvbiBlwMVkgbvAh18Tw7OEBAYASAAEgI_g_D_BwE&cid=CAAS0wHkaIKRJXc7n2FsCuqOx3-r9YCM4uJOdXvQWn49tHmnuPOWQJqV-90wgF4jpPj8wva7LxSQo59Hba4jREFHHOFhAyllaldbc1GB6YxJxQTJUvwRyFJAADiv3Qjj3Kap50-0Vi8iQCES6R7zS9VxrvxqWLgcI9bvCneJfh7_LOMy6I6WM4IldSzEpIk3ngs6iQzo9i4mP3ofEy0J3TgAGjMcccrW1xauBA6F9ugFaYTSgtIXNeksTMXqGqs6V0IHDvAY5XyHPV5lQuGWXqGgK6bVFvwn&cce=2&category=acrcp_v1_32&sig=AOD64_1RpGwrT4hs_XF14I2bO7NSkPf_Fw&adurl=&rct=j&nis=5
+                    - generic [ref=f90e125]:
+                      - generic [ref=f90e126]:
+                        - generic [ref=f90e127]: Auto Repair in San Diego
+                        - generic [ref=f90e128]: We diagnose wiring faults and program vehicle control modules in San Diego
+                      - generic [ref=f90e129]: Visit Site
+              - article [ref=f90e134]:
+                - link "San Diego Pro Mobile Mechanic" [ref=f90e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Pro+Mobile+Mechanic/data=!4m7!3m6!1s0x80deabb5950439dd:0xb53b850f7ff6d50c!8m2!3d32.755997!4d-117.2076912!16s%2Fg%2F11krh33lgp!19sChIJ3TkElbWr3oARDNX2fw-FO7U?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Pro Mobile Mechanic
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.5 stars 35 Reviews": 4.5(35)
+                            - generic:
+                              - generic:
+                                - generic: Auto repair shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f90e137] [cursor=pointer]:
+                                    - generic [ref=f90e138]: 
+                                - generic: · 3420 Hancock St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 853-3823
+                    - generic:
+                      - link "Visit San Diego Pro Mobile Mechanic's website" [ref=f90e139] [cursor=pointer]:
+                        - /url: http://sandiegopromobilemechanic.com/
+                        - generic [aria-hidden] [ref=f90e141]: 
+                        - generic [ref=f90e142]: Website
+                      - button "Get directions to San Diego Pro Mobile Mechanic" [ref=f90e143] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f90e145]: 
+                        - generic [ref=f90e146]: Directions
+              - article [ref=f90e149]:
+                - link "JP Mobile Auto Repair" [ref=f90e150] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/JP+Mobile+Auto+Repair/data=!4m7!3m6!1s0x80dc016ae6ae3763:0x8ddff4531105522f!8m2!3d32.8014984!4d-117.2149678!16s%2Fg%2F11z6p836py!19sChIJYzeu5moB3IARL1IFEVP0340?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: JP Mobile Auto Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 10 Reviews": 5.0(10)
+                            - generic:
+                              - generic:
+                                - generic: Mechanic
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f90e152] [cursor=pointer]:
+                                    - generic [ref=f90e153]: 
+                                - generic: · 4444 Mission Bay Dr.
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 455-0511
+                    - generic:
+                      - link "Visit JP Mobile Auto Repair's website" [ref=f90e154] [cursor=pointer]:
+                        - /url: https://www.jpcoastalrepair.com/
+                        - generic [aria-hidden] [ref=f90e156]: 
+                        - generic [ref=f90e157]: Website
+                      - button "Get directions to JP Mobile Auto Repair" [ref=f90e158] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f90e160]: 
+                        - generic [ref=f90e161]: Directions
+              - article [ref=f90e164]:
+                - link "San Diego Mobile Auto Repair" [ref=f90e165] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Mobile+Auto+Repair/data=!4m7!3m6!1s0x80dbffe7790d7029:0x14416e09a0bdd49c!8m2!3d32.8333993!4d-117.1548345!16s%2Fg%2F11yp7jsd_1!19sChIJKXANeef_24ARnNS9oAluQRQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Mobile Auto Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 53 Reviews": 4.9(53)
+                            - generic:
+                              - generic:
+                                - generic: Auto repair shop
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f90e167] [cursor=pointer]:
+                                    - generic [ref=f90e168]: 
+                                - generic: · 7674 Clairemont Mesa Blvd
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 736-6573
+                    - generic:
+                      - link "Visit San Diego Mobile Auto Repair's website" [ref=f90e169] [cursor=pointer]:
+                        - /url: https://sandiegoproautorepair.com/
+                        - generic [aria-hidden] [ref=f90e171]: 
+                        - generic [ref=f90e172]: Website
+                      - button "Get directions to San Diego Mobile Auto Repair" [ref=f90e173] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f90e175]: 
+                        - generic [ref=f90e176]: Directions
+              - article [ref=f90e179]:
+                - link "7 Star Mobile Auto Repair" [ref=f90e180] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/7+Star+Mobile+Auto+Repair/data=!4m7!3m6!1s0x80d95574abbe1457:0x440238885d7421de!8m2!3d32.7802873!4d-117.1709415!16s%2Fg%2F11zd6_fmx9!19sChIJVxS-q3RV2YAR3iF0XYg4AkQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: 7 Star Mobile Auto Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 16 Reviews": 4.9(16)
+                            - generic:
+                              - generic:
+                                - generic: Auto repair shop
+                                - generic: · 6913 Tait St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 306-5350
+                    - button "Get directions to 7 Star Mobile Auto Repair" [ref=f90e182] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f90e184]: 
+                      - generic [ref=f90e185]: Directions
+              - article [ref=f90e188]:
+                - link "Onsite San Diego Mobile Mechanic" [ref=f90e189] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Onsite+San+Diego+Mobile+Mechanic/data=!4m7!3m6!1s0x80d9550038325cf9:0x9a7339f740accbbc!8m2!3d32.7267487!4d-117.1623416!16s%2Fg%2F11y4vphqpx!19sChIJ-VwyOABV2YARvMusQPc5c5o?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Onsite San Diego Mobile Mechanic
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 3 Reviews": 5.0(3)
+                            - generic:
+                              - generic:
+                                - generic: Car repair and maintenance service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f90e191] [cursor=pointer]:
+                                    - generic [ref=f90e192]: 
+                                - generic: · 2044 Third Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 391-9133
+                    - generic:
+                      - link "Visit Onsite San Diego Mobile Mechanic's website" [ref=f90e193] [cursor=pointer]:
+                        - /url: https://onsitesandiegomobilemechanic.com/
+                        - generic [aria-hidden] [ref=f90e195]: 
+                        - generic [ref=f90e196]: Website
+                      - button "Get directions to Onsite San Diego Mobile Mechanic" [ref=f90e197] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f90e199]: 
+                        - generic [ref=f90e200]: Directions
+              - article [ref=f90e203]:
+                - link "NOVO Repairs Mobile Mechanic" [ref=f90e204] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/NOVO+Repairs+Mobile+Mechanic/data=!4m7!3m6!1s0x80dc078cfda805b3:0x7436ac5e6d2d0ac0!8m2!3d32.9045107!4d-117.1716602!16s%2Fg%2F11qmr7p1tf!19sChIJswWo_YwH3IARwAotbV6sNnQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: NOVO Repairs Mobile Mechanic
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.5 stars 422 Reviews": 4.5(422)
+                            - generic:
+                              - generic:
+                                - generic: Mechanic
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f90e206] [cursor=pointer]:
+                                    - generic [ref=f90e207]: 
+                                - generic: · 10340 Camino Santa Fe Ste G
+                              - generic:
+                                - generic: Open · Closes 11:45 PM
+                                - generic: · (858) 868-1590
+                    - generic:
+                      - link "Visit NOVO Repairs Mobile Mechanic's website" [ref=f90e208] [cursor=pointer]:
+                        - /url: http://www.novorepairs.com/
+                        - generic [aria-hidden] [ref=f90e210]: 
+                        - generic [ref=f90e211]: Website
+                      - button "Get directions to NOVO Repairs Mobile Mechanic" [ref=f90e212] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f90e214]: 
+                        - generic [ref=f90e215]: Directions
+              - article [ref=f90e218]:
+                - link "Wrench Mobile Mechanic - San Diego County, CA" [ref=f90e219] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Wrench+Mobile+Mechanic+-+San+Diego+County,+CA/data=!4m7!3m6!1s0x80dc01be11140b05:0xbc049c33c8fea54e!8m2!3d33.0172666!4d-116.8460104!16s%2Fg%2F11hbrppjvy!19sChIJBQsUEb4B3IARTqX-yDOcBLw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Wrench Mobile Mechanic - San Diego County, CA
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.6 stars 54 Reviews": 4.6(54)
+                            - generic:
+                              - generic: Car repair and maintenance service
+                              - generic:
+                                - generic: Closed · Opens 5 AM Tue
+                                - generic: · (619) 333-5881
+                    - generic:
+                      - link "Visit Wrench Mobile Mechanic - San Diego County, CA's website" [ref=f90e221] [cursor=pointer]:
+                        - /url: https://wrench.com/mobile-mechanic-san-diego-ca/?utm_source=google&utm_medium=gmb&utm_campaign=sandiego
+                        - generic [aria-hidden] [ref=f90e223]: 
+                        - generic [ref=f90e224]: Website
+                      - button "Get directions to Wrench Mobile Mechanic - San Diego County, CA" [ref=f90e225] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f90e227]: 
+                        - generic [ref=f90e228]: Directions
+              - article [ref=f90e231]:
+                - link "DC Mobile Auto Repair" [ref=f90e232] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/DC+Mobile+Auto+Repair/data=!4m7!3m6!1s0x80dbffc669d20359:0x5d60aadc1348f660!8m2!3d32.8252283!4d-117.1571419!16s%2Fg%2F11q35c0ndw!19sChIJWQPSacb_24ARYPZIE9yqYF0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: DC Mobile Auto Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 1,292 Reviews": 4.9(1,292)
+                            - generic:
+                              - generic:
+                                - generic: Car repair and maintenance service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f90e234] [cursor=pointer]:
+                                    - generic [ref=f90e235]: 
+                                - generic: · 4645 Ruffner St Ste E
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (858) 430-6753
+                    - generic:
+                      - link "Visit DC Mobile Auto Repair's website" [ref=f90e236] [cursor=pointer]:
+                        - /url: http://dcmobileautorepair.com/
+                        - generic [aria-hidden] [ref=f90e238]: 
+                        - generic [ref=f90e239]: Website
+                      - button "Get directions to DC Mobile Auto Repair" [ref=f90e240] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f90e242]: 
+                        - generic [ref=f90e243]: Directions
+              - article [ref=f90e246]:
+                - link "San Diego Mobile Mechanic" [ref=f90e247] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Mobile+Mechanic/data=!4m7!3m6!1s0x80d955004f898de7:0x271163836d1368ae!8m2!3d32.7267487!4d-117.1623416!16s%2Fg%2F11vxmjcqly!19sChIJ542JTwBV2YARrmgTbYNjESc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Mobile Mechanic
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.0 stars 4 Reviews": 4.0(4)
+                            - generic:
+                              - generic:
+                                - generic: Truck repair shop
+                                - generic: · 2044 Third Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 996-0533
+                    - button "Get directions to San Diego Mobile Mechanic" [ref=f90e249] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f90e251]: 
+                      - generic [ref=f90e252]: Directions
+              - article [ref=f90e255]:
+                - link "Mobile Buddy Mobile Mechanic" [ref=f90e256] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Mobile+Buddy+Mobile+Mechanic/data=!4m7!3m6!1s0x80d95154bd7ff41f:0x89c809d63afd31df!8m2!3d32.6876725!4d-117.064449!16s%2Fg%2F11ft3kkdjd!19sChIJH_R_vVRR2YAR3zH9OtYJyIk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Mobile Buddy Mobile Mechanic
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 612 Reviews": 4.8(612)
+                            - generic:
+                              - generic:
+                                - generic: Car repair and maintenance service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f90e258] [cursor=pointer]:
+                                    - generic [ref=f90e259]: 
+                                - generic: · 1615 elmhurst st
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 571-6011
+                    - generic:
+                      - link "Visit Mobile Buddy Mobile Mechanic's website" [ref=f90e260] [cursor=pointer]:
+                        - /url: http://mobilebuddy1.com/
+                        - generic [aria-hidden] [ref=f90e262]: 
+                        - generic [ref=f90e263]: Website
+                      - button "Get directions to Mobile Buddy Mobile Mechanic" [ref=f90e264] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f90e266]: 
+                        - generic [ref=f90e267]: Directions
+              - generic [ref=f90e302]:
+                - generic [aria-hidden] [ref=f90e304]: 
+                - generic [ref=f90e305]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f90e306] [cursor=pointer]
+            - checkbox [ref=f90e309] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f90e311]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f90e313] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f90e314]: 
+    - generic [ref=f90e318]:
+      - button "Google apps" [ref=f90e322] [cursor=pointer]
+      - link "Sign in" [ref=f90e326] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fmobile%2Bmechanic%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f90e329] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f90e331]: 
+        - generic [ref=f90e333] [cursor=pointer]:
+          - button "Zoom in" [ref=f90e334]:
+            - generic [aria-hidden] [ref=f90e336]: 
+          - button "Zoom out" [ref=f90e337]:
+            - generic [aria-hidden] [ref=f90e339]: 
+      - button "Browse Street View images" [ref=f90e345]
+      - generic [ref=f90e347]:
+        - generic "Interactive map" [ref=f90e348]
+        - generic [ref=f90e352] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f90e353]: 
+          - generic [ref=f90e354]: Layers
+        - button "Layers" [ref=f90e355] [cursor=pointer]
+    - generic [ref=f90e357]:
+      - contentinfo [ref=f90e360]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f90e361] [cursor=pointer]
+        - button "Terms" [ref=f90e362] [cursor=pointer]
+        - button "Privacy" [ref=f90e363] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f90e364] [cursor=pointer]
+      - button "10 mi" [ref=f90e366] [cursor=pointer]

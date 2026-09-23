@@ -1,0 +1,280 @@
+- generic [active] [ref=f112e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f112e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f112e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f112e8]:
+    - search [ref=f112e9]:
+      - generic [ref=f112e11]:
+        - link "Go to Google Home" [ref=f112e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQPHoECAYQBA
+        - generic [ref=f112e16]:
+          - generic [ref=f112e17]:
+            - combobox "Search" [ref=f112e20]: site:yelp.com/biz "San Diego Best Heating and AC Pros" site:yelp.com/biz "San Diego Best Heating and AC Pros"
+            - generic [ref=f112e21]:
+              - button "Clear" [ref=f112e23] [cursor=pointer]
+              - generic [ref=f112e28]:
+                - button "Search by voice" [ref=f112e29] [cursor=pointer]
+                - button "Search by image" [ref=f112e32] [cursor=pointer]
+          - button "Search" [ref=f112e35] [cursor=pointer]
+    - generic [ref=f112e40]:
+      - button "Settings" [ref=f112e42] [cursor=pointer]
+      - button "Share" [ref=f112e47] [cursor=pointer]
+      - generic [ref=f112e53]:
+        - button "Google apps" [ref=f112e55] [cursor=pointer]
+        - link "Sign in" [ref=f112e60] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:yelp.com/biz%2B%2522San%2BDiego%2BBest%2BHeating%2Band%2BAC%2BPros%2522&ec=futura_srp_og_si_72236_p
+  - generic [ref=f112e63]:
+    - navigation [ref=f112e69]:
+      - generic [ref=f112e75]:
+        - list [ref=f112e76]:
+          - listitem [ref=f112e77]:
+            - link "AI Mode" [ref=f112e80] [cursor=pointer]:
+              - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKheenmwqgs9RWeYYKG7Mttd_m1H4ba5C0-dIESqu3rHlNKOk0fCMAmtCPNDBrzOqyK1mfmdTEU2FzZvLCyxxm0KY568qlDdh-UQhDoA5kYNLh8OQ3NDW5oWWIQjPw7wIVrq3Vqd7hEsjSWhqmQzrw31S2fvhg&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ2J8OegQIEhAD
+          - listitem [ref=f112e84]:
+            - link "All" [disabled] [ref=f112e85]
+          - listitem [ref=f112e88]:
+            - link "Short videos" [ref=f112e89] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKheenmwqgs9RWeYYKG7Mttd_m1H4ba5C0-dIESqu3rHlNKOk0fCMAmtCPNDBrzOqyK1mfmdTEU2FzZvLCyxxm0KY568qlDdh-UQhDoA5kYNLh8OQ3NDW5oWWIQjPw7wIVrq3Vqd7hEsjSWhqmQzrw31S2fvhg&q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sa=X&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQs6gLegQIFxAB
+          - listitem [ref=f112e92]:
+            - link "Images" [ref=f112e93] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKheenmwqgs9RWeYYKG7Mttd_m1H4ba5C0-dIESqu3rHlNKOk0fCMAmtCPNDBrzOqyK1mfmdTEU2FzZvLCyxxm0KY568qlDdh-UQhDoA5kYNLh8OQ3NDW5oWWIQjPw7wIVrq3Vqd7hEsjSWhqmQzrw31S2fvhg&q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sa=X&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQtKgLegQIGBAB
+          - listitem [ref=f112e96]:
+            - link "Shopping" [ref=f112e97] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKheenmwqgs9RWeYYKG7Mttd_m1H4ba5C0-dIESqu3rHlNKOk0fCMAmtCPNDBrzOqyK1mfmdTEU2FzZvLCyxxm0KY568qlDdh-UQhDoA5kYNLh8OQ3NDW5oWWIQjPw7wIVrq3Vqd7hEsjSWhqmQzrw31S2fvhg&q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&ved=1t:220175&ictx=111
+          - listitem [ref=f112e100]:
+            - link "Videos" [ref=f112e101] [cursor=pointer]:
+              - /url: /search?sca_esv=5e5febaa67db9c78&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKheenmwqgs9RWeYYKG7Mttd_m1H4ba5C0-dIESqu3rHlNKOk0fCMAmtCPNDBrzOqyK1mfmdTEU2FzZvLCyxxm0KY568qlDdh-UQhDoA5kYNLh8OQ3NDW5oWWIQjPw7wIVrq3Vqd7hEsjSWhqmQzrw31S2fvhg&q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sa=X&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQtKgLegQIFRAB
+          - listitem [ref=f112e104]:
+            - link "Maps" [ref=f112e105] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=5e5febaa67db9c78&output=search&q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKheenmwqgs9RWeYYKG7Mttd_m1H4ba5C0-dIESqu3rHlNKOk0fCMAmtCPNDBrzOqyK1mfmdTEU2FzZvLCyxxm0KY568qlDdh-UQhDoA5kYNLh8OQ3NDW5oWWIQjPw7wIVrq3Vqd7hEsjSWhqmQzrw31S2fvhg&entry=mc&ved=1t:200715&ictx=111
+          - listitem [ref=f112e108]:
+            - button [ref=f112e109] [cursor=pointer]:
+              - generic "More filters" [ref=f112e110]: More
+        - button "Tools" [ref=f112e117] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f112e124]
+    - main [ref=f112e130]:
+      - generic [ref=f112e131]:
+        - generic [ref=f112e135]:
+          - heading "No results found for site:yelp.com/biz \"San Diego Best Heating and AC Pros\"." [level=2] [ref=f112e136]
+          - text: Results for
+          - link "site:yelp.com/biz San Diego Best Heating and AC Pros" [ref=f112e137] [cursor=pointer]:
+            - /url: /search?sca_esv=5e5febaa67db9c78&q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sa=X&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQgwN6BAgREAE
+          - text: "(without quotes):"
+        - generic [ref=f112e140]:
+          - generic [ref=f112e143]:
+            - heading "Web results" [level=2] [ref=f112e144]
+            - generic [ref=f112e145]:
+              - generic [ref=f112e148]:
+                - link "SAN DIEGO HEATING AC PRO - Updated September 2026 Yelp https://www.yelp.com › biz › san-diego-heating-ac-pro-s..." [ref=f112e150] [cursor=pointer]:
+                  - /url: /goto?url=CAEScwHrOzAVz2_3euyq8bux9xTuVOTCr-GW8DnMwiu8_gcZqBP782q35vPfi00rgm8yZHF-r647HzfsRULCzdQQuCKzjWr3BEQKoSxwnu66k4r868ulypn4MRqea-hXzQJFhNxdIPbKg1UjrcWKTonvKrTqspg
+                  - heading "SAN DIEGO HEATING AC PRO - Updated September 2026" [level=3] [ref=f112e151]
+                  - generic [ref=f112e157]:
+                    - generic [ref=f112e158]: Yelp
+                    - generic [ref=f112e160]: https://www.yelp.com › biz › san-diego-heating-ac-pro-s...
+                - button "About this result" [ref=f112e166] [cursor=pointer]
+              - generic [ref=f112e173]:
+                - emphasis [ref=f112e174]: SAN DIEGO HEATING AC PRO
+                - text: ","
+                - emphasis [ref=f112e175]: San Diego
+                - text: ", CA 92131, 14 Photos, (858) 295-1043, Mon - 9:00 am - 8:00 pm, Tue - 9:00 am - 8:00 pm, Wed - 9:00 am - 8:00 pm, ..."
+              - link [aria-hidden] [ref=f112e178] [cursor=pointer]:
+                - /url: /goto?url=CAEScwHrOzAVz2_3euyq8bux9xTuVOTCr-GW8DnMwiu8_gcZqBP782q35vPfi00rgm8yZHF-r647HzfsRULCzdQQuCKzjWr3BEQKoSxwnu66k4r868ulypn4MRqea-hXzQJFhNxdIPbKg1UjrcWKTonvKrTqspg
+              - img "Rated 5.0 out of 5, (1) user reviews" [ref=f112e185]: 5.0(1)
+          - generic [ref=f112e192]:
+            - generic [ref=f112e195]:
+              - link "AC PRO - 7832 Armour St, San Diego, California Yelp https://www.yelp.com › ... › Hardware Stores" [ref=f112e197] [cursor=pointer]:
+                - /url: /goto?url=CAESYwHrOzAVDG343q-ciS3veqaqBZo0GYwYsZzscmnAeGzlkORq8PDwSBIKTVof9Fo5-rARKRzYIGmse9u2RsNsQHvWWRQ0N64xgNv9xTZYtA_iCqNVRIbA-cLJegEOl-xVEf_z3g
+                - heading "AC PRO - 7832 Armour St, San Diego, California" [level=3] [ref=f112e198]
+                - generic [ref=f112e204]:
+                  - generic [ref=f112e205]: Yelp
+                  - generic [ref=f112e207]: https://www.yelp.com › ... › Hardware Stores
+              - button "About this result" [ref=f112e213] [cursor=pointer]
+            - generic [ref=f112e220]:
+              - emphasis [ref=f112e221]: 7832 Armour St, San Diego, CA 92111
+              - text: ", 4 Photos, (858) 379-6455, Mon - 6:00 am - 5:00 pm, Nice and professional supply for hvac (858) 379-6455. AC Pro opens at 6 ..."
+            - link [aria-hidden] [ref=f112e224] [cursor=pointer]:
+              - /url: /goto?url=CAESYwHrOzAVDG343q-ciS3veqaqBZo0GYwYsZzscmnAeGzlkORq8PDwSBIKTVof9Fo5-rARKRzYIGmse9u2RsNsQHvWWRQ0N64xgNv9xTZYtA_iCqNVRIbA-cLJegEOl-xVEf_z3g
+            - img "Rated 5.0 out of 5, (2) user reviews" [ref=f112e231]: 5.0(2)
+            - generic [ref=f112e236]:
+              - text: "Missing: Heating ‎| Show results with:"
+              - link "Heating" [ref=f112e237] [cursor=pointer]:
+                - /url: /search?sca_esv=5e5febaa67db9c78&q=site:yelp.com/biz+San+Diego+Best+%22Heating%22+and+AC+Pros&sa=X&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ5t4CegQIMxAB
+          - generic [ref=f112e241]:
+            - generic [ref=f112e244]:
+              - link "Preferred Pros Heating & Cooling Yelp https://www.yelp.com › biz › preferred-pros-heating-and..." [ref=f112e246] [cursor=pointer]:
+                - /url: /goto?url=CAESfQHrOzAV4Hajh0ADdKqdcbPXx-Gq5YERAN2DQf8SgVxcHfcLiwJv_MVdKw_hvcQw7h1oxU53nuswSSlox5rA39BhCYbc7Qvi1N3I_mo7nJL0N7ExfsQQKRpLhgQy7zKLzVEbQSiP1_7DBcAlcr0R3hxedaMrGpR7kREfQ-Gt
+                - heading "Preferred Pros Heating & Cooling" [level=3] [ref=f112e247]
+                - generic [ref=f112e253]:
+                  - generic [ref=f112e254]: Yelp
+                  - generic [ref=f112e256]: https://www.yelp.com › biz › preferred-pros-heating-and...
+              - button "About this result" [ref=f112e262] [cursor=pointer]
+            - generic [ref=f112e269]:
+              - emphasis [ref=f112e270]: PREFERRED PROS HEATING & COOLING
+              - text: ", PO Box 503251, San Diego, CA 92150, 3 Photos, (858) 231-9991, Mon - 8:00 am - 5:00 pm, Tue - 8:00 am - 5:00 pm, ..."
+            - link [aria-hidden] [ref=f112e273] [cursor=pointer]:
+              - /url: /goto?url=CAESfQHrOzAV4Hajh0ADdKqdcbPXx-Gq5YERAN2DQf8SgVxcHfcLiwJv_MVdKw_hvcQw7h1oxU53nuswSSlox5rA39BhCYbc7Qvi1N3I_mo7nJL0N7ExfsQQKRpLhgQy7zKLzVEbQSiP1_7DBcAlcr0R3hxedaMrGpR7kREfQ-Gt
+            - img "Rated 5.0 out of 5, (1) user reviews" [ref=f112e280]: 5.0(1)
+          - generic [ref=f112e287]:
+            - generic [ref=f112e290]:
+              - link "AIR PROS - Updated September 2026 Yelp https://www.yelp.com › biz › air-pros-san-diego-4" [ref=f112e292] [cursor=pointer]:
+                - /url: /goto?url=CAESZQHrOzAVDB7ouEIE4MfZqeMm2g4hAPYvErNeqWPomFogArrRGXGBaIjPebxnz_1cRwRY3NfRYcc2H5A_n_RzkSxsiu-lIIBVSkagElE6hD2l7ELO2bawOseXkijLOicPbTxvkZwS
+                - heading "AIR PROS - Updated September 2026" [level=3] [ref=f112e293]
+                - generic [ref=f112e299]:
+                  - generic [ref=f112e300]: Yelp
+                  - generic [ref=f112e302]: https://www.yelp.com › biz › air-pros-san-diego-4
+              - button "About this result" [ref=f112e308] [cursor=pointer]
+            - generic [ref=f112e315]:
+              - emphasis [ref=f112e316]: AIR PROS, 5051 San Aquario Dr, San Diego, CA 92109
+              - text: ", 33 Photos, (858) 925-5400, (858) 925-5400 Call Now . has been serving the San Diego area with quality HVAC ..."
+            - img "Rated 4.9 out of 5, (27) user reviews" [ref=f112e321]: 4.9(27)
+          - generic [ref=f112e328]:
+            - generic [ref=f112e331]:
+              - link "THOROUGH AC - Updated September 2026 - 43 Photos Yelp https://www.yelp.com › biz › thorough-ac-san-diego-3" [ref=f112e333] [cursor=pointer]:
+                - /url: /goto?url=CAESaAHrOzAVkfUooGAZG4WW3pi7tf6lPQSncpJgMZ4LM5_AIgXGRDgjcrIjjCrn87KgowFY-KZdW-xffWidGkYLc2htPeBwK2whz8SNG2g_6C1gFBG0ObwfF4v3PUWQHf-E4-RphBnLODUz
+                - heading "THOROUGH AC - Updated September 2026 - 43 Photos" [level=3] [ref=f112e334]
+                - generic [ref=f112e340]:
+                  - generic [ref=f112e341]: Yelp
+                  - generic [ref=f112e343]: https://www.yelp.com › biz › thorough-ac-san-diego-3
+              - button "About this result" [ref=f112e349] [cursor=pointer]
+            - generic [ref=f112e356]:
+              - emphasis [ref=f112e357]: THOROUGH AC, San Diego, CA 92128
+              - text: ", 43 Photos, (858) 413-6028, Mon - 6:00 am - 9:00 pm, Heating & Air Conditioning/HVAC (858) 413-6028. Ultimate Pro's at Perfect ..."
+            - img "Rated 5.0 out of 5, (60) user reviews" [ref=f112e362]: 5.0(60)
+          - generic [ref=f112e369]:
+            - generic [ref=f112e372]:
+              - link "ACP AIR CONDITIONING PROS - Updated July 2026 Yelp https://www.yelp.com › biz › acp-air-conditioning-pros-s..." [ref=f112e374] [cursor=pointer]:
+                - /url: /goto?url=CAESdAHrOzAVGlVWXbSkE7T3hBLQSP_cPYfBeZnK4FdyjNmPDYn0EwuZ-qnhI2VYdQLdXTyV-iX13_y9MOA0epTiTVJcn_XY_LyXPvfKvAG7BIGsnAfp7yUW6OUD6OAQSFi80YCYuoTA71MGZNgkHg96zsNazfJn
+                - heading "ACP AIR CONDITIONING PROS - Updated July 2026" [level=3] [ref=f112e375]
+                - generic [ref=f112e381]:
+                  - generic [ref=f112e382]: Yelp
+                  - generic [ref=f112e384]: https://www.yelp.com › biz › acp-air-conditioning-pros-s...
+              - button "About this result" [ref=f112e390] [cursor=pointer]
+            - generic [ref=f112e397]:
+              - emphasis [ref=f112e398]: ACP AIR CONDITIONING PROS in San Diego
+              - text: ", reviews by real people. (619) 796-1986 Call Now … 4.9 (2.1k reviews) Bob Jenson Air Conditioning. Best Appliances & ..."
+          - generic [ref=f112e402]:
+            - generic [ref=f112e405]:
+              - link "AIR PRO - Updated September 2026 Yelp https://www.yelp.com › biz › air-pro-chula-vista" [ref=f112e407] [cursor=pointer]:
+                - /url: /goto?url=CAESZAHrOzAVPwqr5QixGhUwY13dYSBWz4OKL83tiqdqRvB38n7iY3Zm1kSIJv9rmight1AT28m9fK68SIaVmptzmYs8xZ-AmFLTl-0evbHwMlbn1YeBwImFZ5w5Uu7vsapcfzSBW8I
+                - heading "AIR PRO - Updated September 2026" [level=3] [ref=f112e408]
+                - generic [ref=f112e414]:
+                  - generic [ref=f112e415]: Yelp
+                  - generic [ref=f112e417]: https://www.yelp.com › biz › air-pro-chula-vista
+              - button "About this result" [ref=f112e423] [cursor=pointer]
+            - generic [ref=f112e429]:
+              - generic [ref=f112e430]:
+                - text: We started Air Pro to bring
+                - emphasis [ref=f112e431]: honest, affordable, and expert heating and cooling solutions
+                - text: to San Diego County. From flexible financing to the most energy ...
+              - link "Read more" [ref=f112e432] [cursor=pointer]:
+                - /url: /goto?url=CAESeAHrOzAVlsxbwK5jYFU6wTNMeCdmYK8klUqOKBRCX1VW9O2qVaJK8t0lk_OOeVW3pewBo2ym58woyqOmGHD-p8HJZ_OM-BgMWooVIfCNXuJB6Ocf8gcNCwnAsRO_07zNqEMyTGOJECWZ1v08FC1O2bGIglEz8wW6XA
+            - img "Rated 4.8 out of 5, (61) user reviews" [ref=f112e437]: 4.8(61)
+          - generic [ref=f112e444]:
+            - generic [ref=f112e447]:
+              - link "PRO1 HEATING & AIR CONDITIONING Yelp https://www.yelp.com › biz › pro1-heating-and-air-condi..." [ref=f112e449] [cursor=pointer]:
+                - /url: /goto?url=CAESfAHrOzAVSJ81pQXO1TOfbU03pToLKixzzrHDTg-r-2voFY-DlO4LtwJLi0lyq-ZwIzQ45hlCsxlHXSZI7QWeQ0DP8U3omAOkKQ8l2iOXZlLgLYttA5qESVcsHDBS3yPUyQ3TEPDM66B3XHn5Wbwogd1TEfu-GWoBIcFYtoM
+                - heading "PRO1 HEATING & AIR CONDITIONING" [level=3] [ref=f112e450]
+                - generic [ref=f112e456]:
+                  - generic [ref=f112e457]: Yelp
+                  - generic [ref=f112e459]: https://www.yelp.com › biz › pro1-heating-and-air-condi...
+              - button "About this result" [ref=f112e465] [cursor=pointer]
+            - generic [ref=f112e472]:
+              - emphasis [ref=f112e473]: PRO1 HEATING & AIR CONDITIONING, San Diego, CA 92173
+              - text: ", 52 Photos, (619) 887-0046, Mon - 8:00 am - 6:00 pm, Tue - 8:00 am - 6:00 pm, Wed - 8:00 am - 6:00 pm, ..."
+            - img "Rated 4.8 out of 5, (16) user reviews" [ref=f112e478]: 4.8(16)
+          - generic [ref=f112e485]:
+            - generic [ref=f112e488]:
+              - link "Ecotech Pro - Heating & Air Conditioning/HVAC Yelp https://www.yelp.com › biz › ecotech-pro-san-diego-4" [ref=f112e490] [cursor=pointer]:
+                - /url: /goto?url=CAESaAHrOzAV8_6qTUUZDv1lXBsebwMZ8E6MwlejSvTRc_GHpuRlDGCIHdGAFnhDZ1FHXwa0Io2Ev7fQopNe3K5VCHsGeu9isr1HaQ4g5n1QPvjxNTgt1M9yrVT211DCDZVXaIUR-AfOgoS0
+                - heading "Ecotech Pro - Heating & Air Conditioning/HVAC" [level=3] [ref=f112e491]
+                - generic [ref=f112e497]:
+                  - generic [ref=f112e498]: Yelp
+                  - generic [ref=f112e500]: https://www.yelp.com › biz › ecotech-pro-san-diego-4
+              - button "About this result" [ref=f112e506] [cursor=pointer]
+            - generic [ref=f112e512]:
+              - generic [ref=f112e513]:
+                - text: 9484 Black Mountain Rd. Ste C ·
+                - emphasis [ref=f112e514]: San Diego
+                - text: ", CA 92126. Directions ; (858) 800-3800. Call Now ; Visit Website. http://ecotech-"
+                - emphasis [ref=f112e515]: pro
+                - text: .com ...
+              - link "Read more" [ref=f112e516] [cursor=pointer]:
+                - /url: /goto?url=CAESmQIB6zswFSuYveGthqgrtZPUjv4D2HW3wCaahfQrYMVyzjJ48wM0x4u205GMfD-kbIrtaC8xBUcSRejcx8gpsoI-KUlXqYKxAF-hY9aAsb2DugutnFXE6w5dWa_15M7VWXWw_xPavA8veP5tjD56mmDC-14ilFAnfKfMiEJ7DotvZrTgan-EeBPCpdE1krilMUBHRyo_wRNSQ0q4wEIm2lu4EzD6ALkA0WnC0dUynjaqoXvQNS3xck0bljVWG6eQ6hWJtvwzfsXzhxOFP455Qkhb8D7ugSF-CwEkxsAMObGqVj7iTGiYeGhCDP6CUBKlep1yZ6rlOLjx-HsYKt7cMYEYCksqX6UXl6tt0wh1BjBfTA7F87Y0W0mVig
+            - img "Rated 4.8 out of 5, (189) user reviews" [ref=f112e521]: 4.8(189)
+          - generic [ref=f112e528]:
+            - generic [ref=f112e531]:
+              - link "AIRMAXX - Updated September 2026 Yelp https://m.yelp.com › ... › Airmaxx" [ref=f112e533] [cursor=pointer]:
+                - /url: /goto?url=CAESiQEB6zswFeA8qSGfU8p2LpHAkjkDa9MooW2ikDY5gu8VvgAaUwoK32l_xiasWxSseBlp0AEGXASLZD8OhFLXsn6zEa_pYgXWWhr0ZzJ_Za9n9QU0g_IoFotqU2-q9vCUjh-qnKSYuM6mEeFwomg088Dt8G0FoZcOKqRoiy__DhD5wBOctQdHeRzkxw
+                - heading "AIRMAXX - Updated September 2026" [level=3] [ref=f112e534]
+                - generic [ref=f112e540]:
+                  - generic [ref=f112e541]: Yelp
+                  - generic [ref=f112e543]: https://m.yelp.com › ... › Airmaxx
+              - button "About this result" [ref=f112e549] [cursor=pointer]
+            - generic [ref=f112e555]:
+              - generic [ref=f112e556]:
+                - text: Schedule your next
+                - emphasis [ref=f112e557]: heating
+                - text: or
+                - emphasis [ref=f112e558]: cooling
+                - text: service with the trusted
+                - emphasis [ref=f112e559]: San Diego HVAC
+                - text: professionals at AirMaxx. History. Established in 1995. Founded in 1995 ...
+              - link "Read more" [ref=f112e560] [cursor=pointer]:
+                - /url: /goto?url=CAESnQEB6zswFXHHpI4iH2m-zcb5mZvVTnyER8SIXmuBtjsGMO7BW3auWtRK0X7gLVTAID5ZKIrG1ZZGE41pmIMEZUejtnLWvb0j9Sa8GtIRTfVBb0U_KPb4WVgB2jkvk8Y18DVLRYrtPG5f5Ra0Ci-EiCSRdQu81ykI8OAOQ3y82Nu8AMXVcvjwvPfPJePW8JRwLkBhrIu_v1WMfp4gm-FL
+            - img "Rated 4.9 out of 5, (2,173) user reviews" [ref=f112e565]: 4.9(2,173)
+      - navigation [ref=f112e571]:
+        - heading "Page Navigation" [level=1] [ref=f112e572]
+        - text: "1"
+        - link "Page 2" [ref=f112e575] [cursor=pointer]:
+          - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=10&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8tMDegQINBAE
+          - text: "2"
+        - link "Page 3" [ref=f112e577] [cursor=pointer]:
+          - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=20&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8tMDegQINBAG
+          - text: "3"
+        - link "Page 4" [ref=f112e579] [cursor=pointer]:
+          - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=30&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8tMDegQINBAI
+          - text: "4"
+        - link "Page 5" [ref=f112e581] [cursor=pointer]:
+          - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=40&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8tMDegQINBAK
+          - text: "5"
+        - link "Page 6" [ref=f112e583] [cursor=pointer]:
+          - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=50&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8tMDegQINBAM
+          - text: "6"
+        - link "Page 7" [ref=f112e585] [cursor=pointer]:
+          - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=60&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8tMDegQINBAO
+          - text: "7"
+        - link "Page 8" [ref=f112e587] [cursor=pointer]:
+          - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=70&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8tMDegQINBAQ
+          - text: "8"
+        - link "Page 9" [ref=f112e589] [cursor=pointer]:
+          - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=80&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8tMDegQINBAS
+          - text: "9"
+        - link "Page 10" [ref=f112e591] [cursor=pointer]:
+          - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=90&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8tMDegQINBAU
+          - text: "10"
+        - heading [level=2] [ref=f112e593]:
+          - link "Next" [ref=f112e594] [cursor=pointer]:
+            - /url: /search?q=site:yelp.com/biz+San+Diego+Best+Heating+and+AC+Pros&sca_esv=5e5febaa67db9c78&ei=qhCyatr3EPSi1sQPmY2_iQE&start=10&sa=N&sstk=AS6-VmL3ZPQw9igZ32h6c_Mf0osXSzhFlToaLq5j_rgHMkqe7s1So-FmaKaE7Q93T4JlH7BT-7ze5zT7c3tedsAGfcKvfX325eUpwA&ved=2ahUKEwja9Kj2uIGXAxV0kZUCHZnGLxEQ8NMDegQINBAW
+      - navigation
+    - contentinfo [ref=f112e597]:
+      - heading "Footer Links" [level=1] [ref=f112e598]
+      - generic [ref=f112e602]:
+        - generic [ref=f112e606]:
+          - button "Pacific Beach, San Diego, CA - From your IP address" [ref=f112e608] [cursor=pointer]:
+            - generic [ref=f112e609]: Pacific Beach, San Diego, CA
+            - generic [ref=f112e611]:
+              - text: "-"
+              - generic [ref=f112e612]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f112e614] [cursor=pointer]
+        - generic [ref=f112e617]:
+          - link "Help" [ref=f112e618] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=f112e619] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f112e620] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f112e621] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

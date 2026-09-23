@@ -1,0 +1,451 @@
+- generic "Google Maps" [ref=f69e9]:
+  - generic [ref=f69e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f69e10]
+    - search [ref=f69e15]:
+      - generic [ref=f69e16]:
+        - combobox [ref=f69e18]: carpet cleaning san diego ca
+        - button "Search" [ref=f69e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f69e21]: 
+        - button "Close" [ref=f69e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f69e24]: 
+    - region "Available filters for this search" [ref=f69e31]:
+      - generic [ref=f69e34]:
+        - button "Rating" [ref=f69e36] [cursor=pointer]:
+          - generic [ref=f69e37]:
+            - generic [aria-hidden] [ref=f69e38]: 
+            - generic [ref=f69e39]: Rating
+            - generic [aria-hidden] [ref=f69e40]: 
+        - button "Hours" [ref=f69e42] [cursor=pointer]:
+          - generic [ref=f69e43]:
+            - generic [aria-hidden] [ref=f69e44]: 
+            - generic [ref=f69e45]: Hours
+            - generic [aria-hidden] [ref=f69e46]: 
+        - button "All filters" [ref=f69e48] [cursor=pointer]:
+          - generic [ref=f69e49]:
+            - generic [aria-hidden] [ref=f69e50]: 
+            - generic [ref=f69e51]: All filters
+    - generic [ref=f69e52]:
+      - generic [ref=f69e53]:
+        - list [ref=f69e55]:
+          - listitem [ref=f69e56]:
+            - button "Menu" [ref=f69e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f69e59]: 
+          - listitem [ref=f69e60]:
+            - button "Saved" [ref=f69e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f69e63]: 
+          - listitem [ref=f69e66]:
+            - button "Recents" [disabled] [ref=f69e67]:
+              - generic [aria-hidden] [ref=f69e69]: 
+          - listitem [ref=f69e73]:
+            - button "Get app" [ref=f69e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f69e76]: 
+        - main [ref=f69e83]:
+          - generic [ref=f69e84]:
+            - feed "Results for carpet cleaning san diego ca" [ref=f69e85]:
+              - generic [ref=f69e86]:
+                - generic [ref=f69e88]:
+                  - heading "Results" [level=1] [ref=f69e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f69e93]:
+                    - generic [aria-hidden] [ref=f69e97]: 
+                - button "Share" [ref=f69e101]:
+                  - generic [ref=f69e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f69e103]: 
+                    - generic [ref=f69e104]: Share
+              - article [ref=f69e106]:
+                - link "Eco-Dry Carpet Care" [ref=f69e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Eco-Dry+Carpet+Care/data=!4m7!3m6!1s0x80d954f1548e5f49:0xe8fd1131641d7f97!8m2!3d32.747832!4d-117.132519!16s%2Fg%2F1tj2j5l3!19sChIJSV-OVPFU2YARl38dZDER_eg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f69e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f69e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Eco-Dry Carpet Care
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 296 Reviews": 4.9(296)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic: · 3821 Utah Street
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 944-8870
+                    - generic:
+                      - link "Visit Eco-Dry Carpet Care's website" [ref=f69e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwigpYabuIGXAxXoEUQIHfIeAgQYACICCAEQARoCZHo&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIoKWGm7iBlwMV6BFECB3yHgIEEBAYASAAEgLvK_D_BwE&cid=CAAS0wHkaK5aoUNJgXfuMDepEnDteRfI2j2NIX4LK2qBPUp-xje4D9pebnIVTCm_CMytZZ_1c2A0PqJPN9Dydo9mf9eobJWL7ChBr-KQSuPFyHE6E1xb_wQaG8RqbWp8WjxH8w9x3xtn0XhMvhYliW8xu2BF_L_9AEc2jeGczftKNtTQUJg__wj988h6Z4bYv9rCt0b0nz1DajHoLNKTzz_ZU3eW8bx0TnCOBkeLml62E3jYIL2WeUEs1i_8wyx1PWfCzZ713x9pW9_6Sks4Jss8xeltyTjB&cce=2&category=acrcp_v1_35&sig=AOD64_36w0eqZbGRTm3Ax-3yuzPXzZSjuA&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f69e113]: 
+                        - generic [ref=f69e114]: Website
+                      - button "Get directions to Eco-Dry Carpet Care" [ref=f69e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e117]: 
+                        - generic [ref=f69e118]: Directions
+                  - link "Ad · Call for a Free Estimate · We Go the Extra Mile to Meet Your <b>Carpet Cleaning</b> Needs. · Visit Site · eco-dry.net" [ref=f69e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwigpYabuIGXAxXoEUQIHfIeAgQYACICCAEQARoCZHo&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIoKWGm7iBlwMV6BFECB3yHgIEEBAYASAAEgLvK_D_BwE&cid=CAAS0wHkaK5aoUNJgXfuMDepEnDteRfI2j2NIX4LK2qBPUp-xje4D9pebnIVTCm_CMytZZ_1c2A0PqJPN9Dydo9mf9eobJWL7ChBr-KQSuPFyHE6E1xb_wQaG8RqbWp8WjxH8w9x3xtn0XhMvhYliW8xu2BF_L_9AEc2jeGczftKNtTQUJg__wj988h6Z4bYv9rCt0b0nz1DajHoLNKTzz_ZU3eW8bx0TnCOBkeLml62E3jYIL2WeUEs1i_8wyx1PWfCzZ713x9pW9_6Sks4Jss8xeltyTjB&cce=2&category=acrcp_v1_35&sig=AOD64_36w0eqZbGRTm3Ax-3yuzPXzZSjuA&adurl=&rct=j&nis=5
+                    - generic [ref=f69e125]:
+                      - generic [ref=f69e126]:
+                        - generic [ref=f69e127]: Call for a Free Estimate
+                        - generic [ref=f69e128]: We Go the Extra Mile to Meet Your Carpet Cleaning Needs.
+                      - generic [ref=f69e129]: Visit Site
+              - article [ref=f69e134]:
+                - link "Stanley Steemer" [ref=f69e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Stanley+Steemer/data=!4m7!3m6!1s0x80dbf92eeb544157:0x3f633875f9f0bdf4!8m2!3d32.897886!4d-117.11855!16s%2Fg%2F1vppstqg!19sChIJV0FU6y7524AR9L3w-XU4Yz8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f69e137] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f69e138]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Stanley Steemer
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 4,151 Reviews": 4.8(4,151)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic: · 9655 Via Excelencia
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (888) 783-3620
+                    - generic:
+                      - link "Visit Stanley Steemer's website" [ref=f69e139] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwigpYabuIGXAxXoEUQIHfIeAgQYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMIoKWGm7iBlwMV6BFECB3yHgIEEBAYAiAAEgKe1PD_BwE&cid=CAAS0wHkaK5aoUNJgXfuMDepEnDteRfI2j2NIX4LK2qBPUp-xje4D9pebnIVTCm_CMytZZ_1c2A0PqJPN9Dydo9mf9eobJWL7ChBr-KQSuPFyHE6E1xb_wQaG8RqbWp8WjxH8w9x3xtn0XhMvhYliW8xu2BF_L_9AEc2jeGczftKNtTQUJg__wj988h6Z4bYv9rCt0b0nz1DajHoLNKTzz_ZU3eW8bx0TnCOBkeLml62E3jYIL2WeUEs1i_8wyx1PWfCzZ713x9pW9_6Sks4Jss8xeltyTjB&cce=2&category=acrcp_v1_32&sig=AOD64_3-fr_qeH2q2wxb9FVa53lhoN_Tdw&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f69e141]: 
+                        - generic [ref=f69e142]: Website
+                      - button "Get directions to Stanley Steemer" [ref=f69e143] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e145]: 
+                        - generic [ref=f69e146]: Directions
+                  - link "Ad · Trusted Carpet Cleaning · Fast, Reliable <b>Carpet Cleaning</b> With Powerful, Safe Equipment. Schedule Your Service Today. · Visit Site · stanleysteemer.com" [ref=f69e151] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwigpYabuIGXAxXoEUQIHfIeAgQYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMIoKWGm7iBlwMV6BFECB3yHgIEEBAYAiAAEgKe1PD_BwE&cid=CAAS0wHkaK5aoUNJgXfuMDepEnDteRfI2j2NIX4LK2qBPUp-xje4D9pebnIVTCm_CMytZZ_1c2A0PqJPN9Dydo9mf9eobJWL7ChBr-KQSuPFyHE6E1xb_wQaG8RqbWp8WjxH8w9x3xtn0XhMvhYliW8xu2BF_L_9AEc2jeGczftKNtTQUJg__wj988h6Z4bYv9rCt0b0nz1DajHoLNKTzz_ZU3eW8bx0TnCOBkeLml62E3jYIL2WeUEs1i_8wyx1PWfCzZ713x9pW9_6Sks4Jss8xeltyTjB&cce=2&category=acrcp_v1_32&sig=AOD64_3-fr_qeH2q2wxb9FVa53lhoN_Tdw&adurl=&rct=j&nis=5
+                    - generic [ref=f69e153]:
+                      - generic [ref=f69e154]:
+                        - generic [ref=f69e155]: Trusted Carpet Cleaning
+                        - generic [ref=f69e156]: Fast, Reliable Carpet Cleaning With Powerful, Safe Equipment. Schedule Your Service Today.
+                      - generic [ref=f69e157]: Visit Site
+              - article [ref=f69e162]:
+                - link "It's All Clean San Diego" [ref=f69e163] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/It%27s+All+Clean+San+Diego/data=!4m7!3m6!1s0x80dc014a689066f3:0x7e093784b310b076!8m2!3d32.7982262!4d-117.2323597!16s%2Fg%2F11qnvmf07f!19sChIJ82aQaEoB3IARdrAQs4Q3CX4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: It's All Clean San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 374 Reviews": 4.9(374)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic: · 4275 Morrell St B
+                              - generic:
+                                - generic: Closed · Opens 7:30 AM Tue
+                                - generic: · (619) 800-3951
+                    - generic:
+                      - link "Visit It's All Clean San Diego's website" [ref=f69e165] [cursor=pointer]:
+                        - /url: http://www.itsallcleansandiego.com/
+                        - generic [aria-hidden] [ref=f69e167]: 
+                        - generic [ref=f69e168]: Website
+                      - button "Get directions to It's All Clean San Diego" [ref=f69e169] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e171]: 
+                        - generic [ref=f69e172]: Directions
+                  - link [ref=f69e173] [cursor=pointer]:
+                    - /url: https://www.markate.com/public/widget/booking/products/4036cd26ec08b383231e9817a1e574dc:28770:d0bc2050?rwg_token=AE37R_hJE0Gk4XNL5C2aJJmd_JIk6A6rJvVES1Aj4pL2YGjFx583ihgPQb1TZS-vJfRIjY76H7RNl_TwEgqcS2WgCu5tqtUUhQ%3D%3D
+                    - generic [ref=f69e174]:
+                      - generic [aria-hidden] [ref=f69e175]: 
+                      - text: Book online
+              - article [ref=f69e178]:
+                - link "Blue carpet cleaning" [ref=f69e179] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Blue+carpet+cleaning/data=!4m7!3m6!1s0x80dc0194f1571511:0xfd003f8f5b604a9e!8m2!3d32.7930636!4d-117.2453805!16s%2Fg%2F11wfk8dhqr!19sChIJERVX8ZQB3IARnkpgW48_AP0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Blue carpet cleaning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 88 Reviews": 4.9(88)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic: "· 1254 Pacific Beach Dr #2"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 608-1230
+                    - generic:
+                      - link "Visit Blue carpet cleaning's website" [ref=f69e181] [cursor=pointer]:
+                        - /url: http://bluecarpetcleaningsd.com/
+                        - generic [aria-hidden] [ref=f69e183]: 
+                        - generic [ref=f69e184]: Website
+                      - button "Get directions to Blue carpet cleaning" [ref=f69e185] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e187]: 
+                        - generic [ref=f69e188]: Directions
+              - article [ref=f69e191]:
+                - link "Pacific Pro Carpet Cleaning" [ref=f69e192] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Pacific+Pro+Carpet+Cleaning/data=!4m7!3m6!1s0x80dc01b38b7ce059:0xf7bcc72c94730e28!8m2!3d32.8028412!4d-117.239112!16s%2Fg%2F11gddt_c7v!19sChIJWeB8i7MB3IARKA5zlCzHvPc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Pacific Pro Carpet Cleaning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 584 Reviews": 4.9(584)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic: · 1723 Diamond St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 832-0788
+                    - generic:
+                      - link "Visit Pacific Pro Carpet Cleaning's website" [ref=f69e194] [cursor=pointer]:
+                        - /url: https://www.pacificprocleaning.com/
+                        - generic [aria-hidden] [ref=f69e196]: 
+                        - generic [ref=f69e197]: Website
+                      - button "Get directions to Pacific Pro Carpet Cleaning" [ref=f69e198] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e200]: 
+                        - generic [ref=f69e201]: Directions
+                  - link [ref=f69e202] [cursor=pointer]:
+                    - /url: https://book.housecallpro.com/book/PacificPro-Carpet-INC/0df04123e5694225b456b34278805aa4?v2=true&lead_source=google&merchant_id=794bbeef-d2e9-4a48-8727-d42669a7755f&rwg_token=AE37R_iY1S4WWxWLj8BPlmQlS3GNj2MLl6WJwvOYQ-ykRnXNPp774QZgv_RrQI4uRbmYgqkIUhndcShS4PYUqj3lhsO9OMx9IQ%3D%3D
+                    - generic [ref=f69e203]:
+                      - generic [aria-hidden] [ref=f69e204]: 
+                      - text: Book online
+              - article [ref=f69e207]:
+                - link "Heaven's Best Carpet Cleaning San Diego CA" [ref=f69e208] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Heaven%27s+Best+Carpet+Cleaning+San+Diego+CA/data=!4m7!3m6!1s0x80dc018f014c9779:0xb7cdde055cb0d08a!8m2!3d32.7998161!4d-117.2484847!16s%2Fg%2F1ptxg3dq9!19sChIJeZdMAY8B3IARitCwXAXezbc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Heaven's Best Carpet Cleaning San Diego CA
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 279 Reviews": 4.9(279)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic: · 1203 Emerald St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 777-5743
+                    - generic:
+                      - link "Visit Heaven's Best Carpet Cleaning San Diego CA's website" [ref=f69e210] [cursor=pointer]:
+                        - /url: https://heavensbestsandiego.com/?utm_campaign=gmb
+                        - generic [aria-hidden] [ref=f69e212]: 
+                        - generic [ref=f69e213]: Website
+                      - button "Get directions to Heaven's Best Carpet Cleaning San Diego CA" [ref=f69e214] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e216]: 
+                        - generic [ref=f69e217]: Directions
+              - article [ref=f69e220]:
+                - link "EarthWise Floors and Upholstery Cleaning" [ref=f69e221] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/EarthWise+Floors+and+Upholstery+Cleaning/data=!4m7!3m6!1s0x66aa0a35b3906785:0x6716c3717fae7e9f!8m2!3d33.0172666!4d-116.8460104!16s%2Fg%2F11ms6sdf2t!19sChIJhWeQszUKqmYRn36uf3HDFmc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: EarthWise Floors and Upholstery Cleaning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 77 Reviews": 5.0(77)
+                            - generic:
+                              - generic: Carpet cleaning service
+                              - generic:
+                                - generic: Open · Closes 11:30 PM
+                                - generic: · (858) 372-1073
+                    - generic:
+                      - link "Visit EarthWise Floors and Upholstery Cleaning's website" [ref=f69e223] [cursor=pointer]:
+                        - /url: http://www.earthwisesandiego.com/
+                        - generic [aria-hidden] [ref=f69e225]: 
+                        - generic [ref=f69e226]: Website
+                      - button "Get directions to EarthWise Floors and Upholstery Cleaning" [ref=f69e227] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e229]: 
+                        - generic [ref=f69e230]: Directions
+              - article [ref=f69e233]:
+                - link "Picture Perfect Carpet Cleaning" [ref=f69e234] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Picture+Perfect+Carpet+Cleaning/data=!4m7!3m6!1s0x80dc01cf20fad179:0x4e2b31d88ba903c2!8m2!3d32.8017477!4d-117.2397625!16s%2Fg%2F11ty13_8c5!19sChIJedH6IM8B3IARwgOpi9gxK04?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Picture Perfect Carpet Cleaning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 65 Reviews": 4.8(65)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic: · 4640 Jewell St Ste 47
+                              - generic:
+                                - generic: Closed · Opens 5 AM Tue
+                                - generic: · (619) 900-6693
+                    - generic:
+                      - link "Visit Picture Perfect Carpet Cleaning's website" [ref=f69e236] [cursor=pointer]:
+                        - /url: https://carpetcleaningallstar.com/
+                        - generic [aria-hidden] [ref=f69e238]: 
+                        - generic [ref=f69e239]: Website
+                      - button "Get directions to Picture Perfect Carpet Cleaning" [ref=f69e240] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e242]: 
+                        - generic [ref=f69e243]: Directions
+              - article [ref=f69e246]:
+                - link "All American Carpet & Tile" [ref=f69e247] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/All+American+Carpet+%26+Tile/data=!4m7!3m6!1s0x80dc019001c1a2eb:0x6855cd23033f57f3!8m2!3d32.8077403!4d-117.2159827!16s%2Fg%2F1tf75tf_!19sChIJ66LBAZAB3IAR81c_AyPNVWg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: All American Carpet & Tile
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 150 Reviews": 5.0(150)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f69e249] [cursor=pointer]:
+                                    - generic [ref=f69e250]: 
+                                - generic: · 4622 Santa Fe St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 533-7003
+                    - generic:
+                      - link "Visit All American Carpet & Tile's website" [ref=f69e251] [cursor=pointer]:
+                        - /url: https://www.allamericancarpetcare.com/
+                        - generic [aria-hidden] [ref=f69e253]: 
+                        - generic [ref=f69e254]: Website
+                      - button "Get directions to All American Carpet & Tile" [ref=f69e255] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e257]: 
+                        - generic [ref=f69e258]: Directions
+              - article [ref=f69e261]:
+                - link "CleanWave Carpet Care" [ref=f69e262] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/CleanWave+Carpet+Care/data=!4m7!3m6!1s0x6b6d8b1906a815bb:0x5391724382c24d4!8m2!3d32.8280417!4d-117.22826!16s%2Fg%2F11x1zfgvpj!19sChIJuxWoBhmLbWsR1CQsOCQXOQU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: CleanWave Carpet Care
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 235 Reviews": 5.0(235)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic: · 2714 Ariane Dr
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 222-9836
+                    - generic:
+                      - link "Visit CleanWave Carpet Care's website" [ref=f69e264] [cursor=pointer]:
+                        - /url: https://cleanwavecarpetcare.com/
+                        - generic [aria-hidden] [ref=f69e266]: 
+                        - generic [ref=f69e267]: Website
+                      - button "Get directions to CleanWave Carpet Care" [ref=f69e268] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e270]: 
+                        - generic [ref=f69e271]: Directions
+                  - link [ref=f69e272] [cursor=pointer]:
+                    - /url: https://book.housecallpro.com/book/CleanWave-Carpet-Care/409bc95939f44ffca7f859113edc4c5d?v2=true&lead_source=google&merchant_id=1ee1bd69-68d4-43fb-8fed-caf8e14b391a&rwg_token=AE37R_jQzzU6zlBqy0RUOMSYjv9Pfp0v4T1ynMzAYOwzWJGGwV_uCDFGghGEuIHkL71f4dQRVZzXmCUu3YZQwgYzn_coDwHsRg%3D%3D
+                    - generic [ref=f69e273]:
+                      - generic [aria-hidden] [ref=f69e274]: 
+                      - text: Book online
+              - article [ref=f69e277]:
+                - link "Choice San Diego Carpet Cleaning" [ref=f69e278] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Choice+San+Diego+Carpet+Cleaning/data=!4m7!3m6!1s0x80dc01cd5f3f6699:0x64ce551e675a208c!8m2!3d32.7969916!4d-117.192783!16s%2Fg%2F11ty13_8c6!19sChIJmWY_X80B3IARjCBaZx5VzmQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Choice San Diego Carpet Cleaning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 74 Reviews": 4.8(74)
+                            - generic:
+                              - generic:
+                                - generic: Carpet cleaning service
+                                - generic: · 3091 Clairemont Dr Ste 148
+                              - generic:
+                                - generic: Closed · Opens 5 AM Tue
+                                - generic: · (619) 453-0004
+                    - generic:
+                      - link "Visit Choice San Diego Carpet Cleaning's website" [ref=f69e280] [cursor=pointer]:
+                        - /url: https://carpetcleaningsandiego.best/
+                        - generic [aria-hidden] [ref=f69e282]: 
+                        - generic [ref=f69e283]: Website
+                      - button "Get directions to Choice San Diego Carpet Cleaning" [ref=f69e284] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f69e286]: 
+                        - generic [ref=f69e287]: Directions
+              - generic [ref=f69e322]:
+                - generic [aria-hidden] [ref=f69e324]: 
+                - generic [ref=f69e325]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f69e326] [cursor=pointer]
+            - checkbox [ref=f69e329] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f69e331]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f69e333] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f69e334]: 
+    - generic [ref=f69e338]:
+      - button "Google apps" [ref=f69e342] [cursor=pointer]
+      - link "Sign in" [ref=f69e346] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fcarpet%2Bcleaning%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f69e349] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f69e351]: 
+        - generic [ref=f69e353] [cursor=pointer]:
+          - button "Zoom in" [ref=f69e354]:
+            - generic [aria-hidden] [ref=f69e356]: 
+          - button "Zoom out" [ref=f69e357]:
+            - generic [aria-hidden] [ref=f69e359]: 
+      - button "Browse Street View images" [ref=f69e365]
+      - generic [ref=f69e367]:
+        - generic "Interactive map" [ref=f69e368]
+        - generic [ref=f69e372] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f69e373]: 
+          - generic [ref=f69e374]: Layers
+        - button "Layers" [ref=f69e375] [cursor=pointer]
+    - generic [ref=f69e377]:
+      - contentinfo [ref=f69e380]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f69e381] [cursor=pointer]
+        - button "Terms" [ref=f69e382] [cursor=pointer]
+        - button "Privacy" [ref=f69e383] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f69e384] [cursor=pointer]
+      - button "10 mi" [ref=f69e386] [cursor=pointer]

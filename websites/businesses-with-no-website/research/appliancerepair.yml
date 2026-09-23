@@ -1,0 +1,430 @@
+- generic "Google Maps" [ref=f66e9]:
+  - generic [ref=f66e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f66e10]
+    - search [ref=f66e15]:
+      - generic [ref=f66e16]:
+        - combobox [ref=f66e18]: appliance repair san diego ca
+        - button "Search" [ref=f66e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f66e21]: 
+        - button "Close" [ref=f66e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f66e24]: 
+    - region "Available filters for this search" [ref=f66e31]:
+      - generic [ref=f66e34]:
+        - button "Rating" [ref=f66e36] [cursor=pointer]:
+          - generic [ref=f66e37]:
+            - generic [aria-hidden] [ref=f66e38]: 
+            - generic [ref=f66e39]: Rating
+            - generic [aria-hidden] [ref=f66e40]: 
+        - button "Hours" [ref=f66e42] [cursor=pointer]:
+          - generic [ref=f66e43]:
+            - generic [aria-hidden] [ref=f66e44]: 
+            - generic [ref=f66e45]: Hours
+            - generic [aria-hidden] [ref=f66e46]: 
+        - button "All filters" [ref=f66e48] [cursor=pointer]:
+          - generic [ref=f66e49]:
+            - generic [aria-hidden] [ref=f66e50]: 
+            - generic [ref=f66e51]: All filters
+    - generic [ref=f66e52]:
+      - generic [ref=f66e53]:
+        - list [ref=f66e55]:
+          - listitem [ref=f66e56]:
+            - button "Menu" [ref=f66e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f66e59]: 
+          - listitem [ref=f66e60]:
+            - button "Saved" [ref=f66e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f66e63]: 
+          - listitem [ref=f66e66]:
+            - button "Recents" [disabled] [ref=f66e67]:
+              - generic [aria-hidden] [ref=f66e69]: 
+          - listitem [ref=f66e73]:
+            - button "Get app" [ref=f66e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f66e76]: 
+        - main [ref=f66e83]:
+          - generic [ref=f66e84]:
+            - feed "Results for appliance repair san diego ca" [ref=f66e85]:
+              - generic [ref=f66e86]:
+                - generic [ref=f66e88]:
+                  - heading "Results" [level=1] [ref=f66e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f66e93]:
+                    - generic [aria-hidden] [ref=f66e97]: 
+                - button "Share" [ref=f66e101]:
+                  - generic [ref=f66e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f66e103]: 
+                    - generic [ref=f66e104]: Share
+              - article [ref=f66e106]:
+                - link "Unique Appliance Repair Inc" [ref=f66e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Unique+Appliance+Repair+Inc/data=!4m7!3m6!1s0x80dbf9a2acaf9371:0x950035ba943d93a8!8m2!3d33.049269!4d-117.070219!16s%2Fg%2F11g0myknkv!19sChIJcZOvrKL524ARqJM9lLo1AJU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f66e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f66e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Unique Appliance Repair Inc
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 116 Reviews": 4.8(116)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic: · 18516 Caminito Pasadero
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (858) 997-0950
+                    - generic:
+                      - link "Visit Unique Appliance Repair Inc's website" [ref=f66e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjH6vCWuIGXAxVpIUQIHW3qHzUYACICCAEQAxoCZHo&co=1&ase=2&gclid=EAIaIQobChMIx-rwlriBlwMVaSFECB1t6h81EBAYASAAEgKhZfD_BwE&cid=CAAS0wHkaLknKbS5uK9NJfunCOnVPmf6z5GY9_cZZTcat6gSO6N-BtQnieUCm43AEs_cnMR1trGqNoK86l7pzaj-1PqP__RH0PGnAeAcl64NXoIZvCajyjg-KxhxJJarMIiGe5GhxqsH-nG_bVs-z3HgcTngPgVOoLoiVJHA5GATz2el1Oji38L7gqWcn1ZOGalLlCowZhh7lofV26sajWOyB6in5T7uMuJvbK25GCVcfIH1uKb3-nkAbWlblr5MwuBypV_Rq5nzR6-xCNE_ufe7w5M2QlZq&cce=2&category=acrcp_v1_32&sig=AOD64_24LEvSKcwpBjTfkgXkZgTCieT5Tw&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f66e113]: 
+                        - generic [ref=f66e114]: Website
+                      - button "Get directions to Unique Appliance Repair Inc" [ref=f66e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e117]: 
+                        - generic [ref=f66e118]: Directions
+                  - link "Ad · We Repair a Variety of Brands · We <b>Repair</b> Home <b>Appliances</b> Fast. Schedule <b>Service</b> in <b>San Diego</b> Today. · Visit Site · business.google.com/unique" [ref=f66e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjH6vCWuIGXAxVpIUQIHW3qHzUYACICCAEQAxoCZHo&co=1&ase=2&gclid=EAIaIQobChMIx-rwlriBlwMVaSFECB1t6h81EBAYASAAEgKhZfD_BwE&cid=CAAS0wHkaLknKbS5uK9NJfunCOnVPmf6z5GY9_cZZTcat6gSO6N-BtQnieUCm43AEs_cnMR1trGqNoK86l7pzaj-1PqP__RH0PGnAeAcl64NXoIZvCajyjg-KxhxJJarMIiGe5GhxqsH-nG_bVs-z3HgcTngPgVOoLoiVJHA5GATz2el1Oji38L7gqWcn1ZOGalLlCowZhh7lofV26sajWOyB6in5T7uMuJvbK25GCVcfIH1uKb3-nkAbWlblr5MwuBypV_Rq5nzR6-xCNE_ufe7w5M2QlZq&cce=2&category=acrcp_v1_32&sig=AOD64_24LEvSKcwpBjTfkgXkZgTCieT5Tw&adurl=&rct=j&nis=5
+                    - generic [ref=f66e125]:
+                      - generic [ref=f66e126]:
+                        - generic [ref=f66e127]: We Repair a Variety of Brands
+                        - generic [ref=f66e128]: We Repair Home Appliances Fast. Schedule Service in San Diego Today.
+                      - generic [ref=f66e129]: Visit Site
+              - article [ref=f66e134]:
+                - link "On-Time Sub-Zero Appliance Repair" [ref=f66e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/On-Time+Sub-Zero+Appliance+Repair/data=!4m7!3m6!1s0x80dc019a1ef2916d:0x88c136b9f8e86259!8m2!3d32.8003698!4d-117.227639!16s%2Fg%2F11lkmndpxs!19sChIJbZHyHpoB3IARWWLo-Lk2wYg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: On-Time Sub-Zero Appliance Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 10 Reviews": 5.0(10)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic: "· 2275 Grand Ave #3"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 650-0500
+                    - generic:
+                      - link "Visit On-Time Sub-Zero Appliance Repair's website" [ref=f66e137] [cursor=pointer]:
+                        - /url: http://appliancerepair-san-diego.com/
+                        - generic [aria-hidden] [ref=f66e139]: 
+                        - generic [ref=f66e140]: Website
+                      - button "Get directions to On-Time Sub-Zero Appliance Repair" [ref=f66e141] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e143]: 
+                        - generic [ref=f66e144]: Directions
+              - article [ref=f66e147]:
+                - link "Appliance Repair Local" [ref=f66e148] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Appliance+Repair+Local/data=!4m7!3m6!1s0x80dbdd283e1e608f:0x2a12c05ab71f8e25!8m2!3d32.7909284!4d-117.1813999!16s%2Fg%2F11s7y3dyk1!19sChIJj2AePijd24ARJY4ft1rAEio?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Appliance Repair Local
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 174 Reviews": 5.0(174)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic: · 6328 Quillan St
+                              - generic:
+                                - generic: Closes soon · 11 PM · Opens 6 AM Tue
+                                - generic: · (619) 877-6655
+                    - generic:
+                      - link "Visit Appliance Repair Local's website" [ref=f66e150] [cursor=pointer]:
+                        - /url: https://appliance-repair-local.com/
+                        - generic [aria-hidden] [ref=f66e152]: 
+                        - generic [ref=f66e153]: Website
+                      - button "Get directions to Appliance Repair Local" [ref=f66e154] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e156]: 
+                        - generic [ref=f66e157]: Directions
+              - article [ref=f66e160]:
+                - link "Appliance Masters of San Diego" [ref=f66e161] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Appliance+Masters+of+San+Diego/data=!4m7!3m6!1s0x6f7b46f8a9461341:0x8cbe71065313927d!8m2!3d32.7506799!4d-117.2156297!16s%2Fg%2F11ldvsccnl!19sChIJQRNGqfhGe28RfZITUwZxvow?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Appliance Masters of San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.6 stars 93 Reviews": 4.6(93)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic: · 3233 Kemper St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 500-5301
+                    - generic:
+                      - link "Visit Appliance Masters of San Diego's website" [ref=f66e163] [cursor=pointer]:
+                        - /url: https://san-diego.appliance-masters.online/
+                        - generic [aria-hidden] [ref=f66e165]: 
+                        - generic [ref=f66e166]: Website
+                      - button "Get directions to Appliance Masters of San Diego" [ref=f66e167] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e169]: 
+                        - generic [ref=f66e170]: Directions
+              - article [ref=f66e173]:
+                - link "A-Tech Appliance Repair" [ref=f66e174] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/A-Tech+Appliance+Repair/data=!4m7!3m6!1s0x80dc01142d61bd1b:0x840b7fa7207a6053!8m2!3d32.8164264!4d-117.2607447!16s%2Fg%2F11mvrz_dk5!19sChIJG71hLRQB3IARU2B6IKd_C4Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: A-Tech Appliance Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 440 Reviews": 4.8(440)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic: · 1114 Skylark Dr
+                              - generic:
+                                - generic: Closes soon · 10:30 PM · Opens 7 AM Tue
+                                - generic: · (858) 888-9927
+                    - generic:
+                      - link "Visit A-Tech Appliance Repair's website" [ref=f66e176] [cursor=pointer]:
+                        - /url: https://a-techrepair.com/
+                        - generic [aria-hidden] [ref=f66e178]: 
+                        - generic [ref=f66e179]: Website
+                      - button "Get directions to A-Tech Appliance Repair" [ref=f66e180] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e182]: 
+                        - generic [ref=f66e183]: Directions
+              - article [ref=f66e186]:
+                - link "AnB Appliance Repair" [ref=f66e187] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/AnB+Appliance+Repair/data=!4m7!3m6!1s0x466f73623c562883:0x739d5cad9b981df!8m2!3d33.6790464!4d-117.9124821!16s%2Fg%2F11y8mrjx9c!19sChIJgyhWPGJzb0YR34G52crVOQc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: AnB Appliance Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.6 stars 82 Reviews": 4.6(82)
+                            - generic:
+                              - generic: Appliance repair service
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 329-0005
+                    - generic:
+                      - link "Visit AnB Appliance Repair's website" [ref=f66e189] [cursor=pointer]:
+                        - /url: http://appliance-sd.com/
+                        - generic [aria-hidden] [ref=f66e191]: 
+                        - generic [ref=f66e192]: Website
+                      - button "Get directions to AnB Appliance Repair" [ref=f66e193] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e195]: 
+                        - generic [ref=f66e196]: Directions
+              - article [ref=f66e199]:
+                - link "Superior Appliances Repair" [ref=f66e200] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Superior+Appliances+Repair/data=!4m7!3m6!1s0x80d955d91e0706c1:0x52512f9d24d9309!8m2!3d32.7437456!4d-117.1453167!16s%2Fg%2F11mrwxw5sy!19sChIJwQYHHtlV2YARCZNN0vkSJQU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Superior Appliances Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 11 Reviews": 4.9(11)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f66e202] [cursor=pointer]:
+                                    - generic [ref=f66e203]: 
+                                - generic: "· 3620 Georgia St #41"
+                              - generic:
+                                - generic: Closes soon · 11 PM · Opens 7 AM Tue
+                                - generic: · (619) 639-7535
+                    - generic:
+                      - link "Visit Superior Appliances Repair's website" [ref=f66e204] [cursor=pointer]:
+                        - /url: https://superiorappliancesrepairsandiego.com/
+                        - generic [aria-hidden] [ref=f66e206]: 
+                        - generic [ref=f66e207]: Website
+                      - button "Get directions to Superior Appliances Repair" [ref=f66e208] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e210]: 
+                        - generic [ref=f66e211]: Directions
+              - article [ref=f66e214]:
+                - link "Appliance Service Center" [ref=f66e215] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Appliance+Service+Center/data=!4m7!3m6!1s0x6dab79b3310618ef:0x4327db10cca2e2d1!8m2!3d32.7669979!4d-117.1384892!16s%2Fg%2F11w1q7q88h!19sChIJ7xgGMbN5q20R0eKizBDbJ0M?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Appliance Service Center
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 225 Reviews": 4.9(225)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f66e217] [cursor=pointer]:
+                                    - generic [ref=f66e218]: 
+                                - generic: · 5005 Texas St Ste 485
+                              - generic:
+                                - generic: Closes soon · 11 PM · Opens 6 AM Tue
+                                - generic: · (619) 719-5005
+                    - generic:
+                      - link "Visit Appliance Service Center's website" [ref=f66e219] [cursor=pointer]:
+                        - /url: https://appliancerepair-sd.com/services/
+                        - generic [aria-hidden] [ref=f66e221]: 
+                        - generic [ref=f66e222]: Website
+                      - button "Get directions to Appliance Service Center" [ref=f66e223] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e225]: 
+                        - generic [ref=f66e226]: Directions
+              - article [ref=f66e229]:
+                - link "Best & Beyond Appliance Repair" [ref=f66e230] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Best+%26+Beyond+Appliance+Repair/data=!4m7!3m6!1s0x482703dc6b23bb55:0x90ca8a228db8ae9a!8m2!3d32.7478169!4d-117.2268704!16s%2Fg%2F11p0wncc1v!19sChIJVbsja9wDJ0gRmq64jSKKypA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Best & Beyond Appliance Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 74 Reviews": 5.0(74)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic: · 2636 Worden St
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 736-3518
+                    - generic:
+                      - link "Visit Best & Beyond Appliance Repair's website" [ref=f66e232] [cursor=pointer]:
+                        - /url: https://bbappliancerepair.com/
+                        - generic [aria-hidden] [ref=f66e234]: 
+                        - generic [ref=f66e235]: Website
+                      - button "Get directions to Best & Beyond Appliance Repair" [ref=f66e236] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e238]: 
+                        - generic [ref=f66e239]: Directions
+              - article [ref=f66e242]:
+                - link "San Diego Appliance Repair" [ref=f66e243] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Appliance+Repair/data=!4m7!3m6!1s0x80dc014208c615b5:0xa330c3538e94d5b4!8m2!3d32.8271265!4d-117.205875!16s%2Fg%2F11zfhpmcxh!19sChIJtRXGCEIB3IARtNWUjlPDMKM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Appliance Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 2 Reviews": 5.0(2)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic: · 4577-4585 Clairemont Dr
+                              - generic: (858) 742-1422
+                    - generic:
+                      - link "Visit San Diego Appliance Repair's website" [ref=f66e245] [cursor=pointer]:
+                        - /url: https://sandiegoappliancerepair.site/
+                        - generic [aria-hidden] [ref=f66e247]: 
+                        - generic [ref=f66e248]: Website
+                      - button "Get directions to San Diego Appliance Repair" [ref=f66e249] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e251]: 
+                        - generic [ref=f66e252]: Directions
+              - article [ref=f66e255]:
+                - link "Elite Thermador Appliance Repair" [ref=f66e256] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Elite+Thermador+Appliance+Repair/data=!4m7!3m6!1s0x80dc013e983e3f7b:0xc0aba5ff81d0a2f0!8m2!3d32.7886429!4d-117.2052263!16s%2Fg%2F11p4dfj34b!19sChIJez8-mD4B3IAR8KLQgf-lq8A?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Elite Thermador Appliance Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 5 Reviews": 5.0(5)
+                            - generic:
+                              - generic:
+                                - generic: Appliance repair service
+                                - generic: · 2520 Chicago St Apt 23
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 415-8282
+                    - generic:
+                      - link "Visit Elite Thermador Appliance Repair's website" [ref=f66e258] [cursor=pointer]:
+                        - /url: https://jacappliances.com/
+                        - generic [aria-hidden] [ref=f66e260]: 
+                        - generic [ref=f66e261]: Website
+                      - button "Get directions to Elite Thermador Appliance Repair" [ref=f66e262] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f66e264]: 
+                        - generic [ref=f66e265]: Directions
+              - generic [ref=f66e300]:
+                - generic [aria-hidden] [ref=f66e302]: 
+                - generic [ref=f66e303]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f66e304] [cursor=pointer]
+            - checkbox [ref=f66e307] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f66e309]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f66e311] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f66e312]: 
+    - generic [ref=f66e316]:
+      - button "Google apps" [ref=f66e320] [cursor=pointer]
+      - link "Sign in" [ref=f66e324] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fappliance%2Brepair%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f66e327] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f66e329]: 
+        - generic [ref=f66e331] [cursor=pointer]:
+          - button "Zoom in" [ref=f66e332]:
+            - generic [aria-hidden] [ref=f66e334]: 
+          - button "Zoom out" [ref=f66e335]:
+            - generic [aria-hidden] [ref=f66e337]: 
+      - button "Browse Street View images" [ref=f66e343]:
+        - generic [ref=f66e350]:
+          - text: Check out Dua Lipa’s Los Angeles list on Google Maps -
+          - link "goo.gle/dua" [ref=f66e351] [cursor=pointer]:
+            - /url: https://goo.gle/dua
+      - generic [ref=f66e353]:
+        - generic "Interactive map" [ref=f66e354]
+        - generic [ref=f66e358] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f66e359]: 
+          - generic [ref=f66e360]: Layers
+        - button "Layers" [ref=f66e361] [cursor=pointer]
+    - generic [ref=f66e363]:
+      - contentinfo [ref=f66e366]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f66e367] [cursor=pointer]
+        - button "Terms" [ref=f66e368] [cursor=pointer]
+        - button "Privacy" [ref=f66e369] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f66e370] [cursor=pointer]
+      - button "20 mi" [ref=f66e372] [cursor=pointer]

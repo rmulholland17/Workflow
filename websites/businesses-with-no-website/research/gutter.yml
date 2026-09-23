@@ -1,0 +1,433 @@
+- generic "Google Maps" [ref=f78e9]:
+  - generic [ref=f78e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f78e10]
+    - search [ref=f78e15]:
+      - generic [ref=f78e16]:
+        - combobox [ref=f78e18]: gutter cleaning san diego ca
+        - button "Search" [ref=f78e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f78e21]: 
+        - button "Close" [ref=f78e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f78e24]: 
+    - region "Available filters for this search" [ref=f78e31]:
+      - generic [ref=f78e34]:
+        - button "Rating" [ref=f78e36] [cursor=pointer]:
+          - generic [ref=f78e37]:
+            - generic [aria-hidden] [ref=f78e38]: 
+            - generic [ref=f78e39]: Rating
+            - generic [aria-hidden] [ref=f78e40]: 
+        - button "Hours" [ref=f78e42] [cursor=pointer]:
+          - generic [ref=f78e43]:
+            - generic [aria-hidden] [ref=f78e44]: 
+            - generic [ref=f78e45]: Hours
+            - generic [aria-hidden] [ref=f78e46]: 
+        - button "All filters" [ref=f78e48] [cursor=pointer]:
+          - generic [ref=f78e49]:
+            - generic [aria-hidden] [ref=f78e50]: 
+            - generic [ref=f78e51]: All filters
+    - generic [ref=f78e52]:
+      - generic [ref=f78e53]:
+        - list [ref=f78e55]:
+          - listitem [ref=f78e56]:
+            - button "Menu" [ref=f78e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f78e59]: 
+          - listitem [ref=f78e60]:
+            - button "Saved" [ref=f78e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f78e63]: 
+          - listitem [ref=f78e66]:
+            - button "Recents" [disabled] [ref=f78e67]:
+              - generic [aria-hidden] [ref=f78e69]: 
+          - listitem [ref=f78e73]:
+            - button "Get app" [ref=f78e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f78e76]: 
+        - main [ref=f78e83]:
+          - generic [ref=f78e84]:
+            - feed "Results for gutter cleaning san diego ca" [ref=f78e85]:
+              - generic [ref=f78e86]:
+                - generic [ref=f78e88]:
+                  - heading "Results" [level=1] [ref=f78e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f78e93]:
+                    - generic [aria-hidden] [ref=f78e97]: 
+                - button "Share" [ref=f78e101]:
+                  - generic [ref=f78e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f78e103]: 
+                    - generic [ref=f78e104]: Share
+              - article [ref=f78e106]:
+                - link "Mission Rain Gutters - Free Estimate & Seamless" [ref=f78e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Mission+Rain+Gutters+-+Free+Estimate+%26+Seamless/data=!4m7!3m6!1s0x80dc01186a46941f:0x35424e74d26a3c9a!8m2!3d32.79128!4d-117.2387893!16s%2Fg%2F11w29gmj1t!19sChIJH5RGahgB3IARmjxq0nROQjU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Mission Rain Gutters - Free Estimate & Seamless
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 8 Reviews": 5.0(8)
+                            - generic:
+                              - generic:
+                                - generic: Gutter service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f78e109] [cursor=pointer]:
+                                    - generic [ref=f78e110]: 
+                                - generic: "· 3940 Ingraham St #307"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 573-8873
+                    - generic:
+                      - link "Visit Mission Rain Gutters - Free Estimate & Seamless's website" [ref=f78e111] [cursor=pointer]:
+                        - /url: http://missionraingutters.com/
+                        - generic [aria-hidden] [ref=f78e113]: 
+                        - generic [ref=f78e114]: Website
+                      - button "Get directions to Mission Rain Gutters - Free Estimate & Seamless" [ref=f78e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e117]: 
+                        - generic [ref=f78e118]: Directions
+              - article [ref=f78e121]:
+                - link "Lookout Window Cleaners" [ref=f78e122] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Lookout+Window+Cleaners/data=!4m7!3m6!1s0x80d954e036204277:0x571d4da8f3995f46!8m2!3d32.7933232!4d-117.2402085!16s%2Fg%2F11c3k8wnv3!19sChIJd0IgNuBU2YARRl-Z86hNHVc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Lookout Window Cleaners
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 107 Reviews": 5.0(107)
+                            - generic:
+                              - generic:
+                                - generic: Gutter cleaning service
+                                - generic: · 4066 Promontory St
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 252-9279
+                    - generic:
+                      - link "Visit Lookout Window Cleaners's website" [ref=f78e124] [cursor=pointer]:
+                        - /url: https://lookoutwindowcleaners.com/
+                        - generic [aria-hidden] [ref=f78e126]: 
+                        - generic [ref=f78e127]: Website
+                      - button "Get directions to Lookout Window Cleaners" [ref=f78e128] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e130]: 
+                        - generic [ref=f78e131]: Directions
+              - article [ref=f78e134]:
+                - link "Shore Thing External Cleaning San Diego - Windows - Solar Panels - Turf - Gutters - Pressure and Soft Washing" [ref=f78e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Shore+Thing+External+Cleaning+San+Diego+-+Windows+-+Solar+Panels+-+Turf+-+Gutters+-+Pressure+and+Soft+Washing/data=!4m7!3m6!1s0x6111a4359eda06f7:0x5945fb344eefdd5!8m2!3d32.7176588!4d-117.1309504!16s%2Fg%2F11z1vzcpsg!19sChIJ9wbanjWkEWER1f3uRLNflAU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Shore Thing External Cleaning San Diego - Windows - Solar Panels - Turf - Gutters - Pressure and Soft Washing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 63 Reviews": 5.0(63)
+                            - generic:
+                              - generic:
+                                - generic: Window cleaning service
+                                - generic: · 2933 B St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 352-7067
+                    - generic:
+                      - link "Visit Shore Thing External Cleaning San Diego - Windows - Solar Panels - Turf - Gutters - Pressure and Soft Washing's website" [ref=f78e137] [cursor=pointer]:
+                        - /url: http://shorethingexternal.com/
+                        - generic [aria-hidden] [ref=f78e139]: 
+                        - generic [ref=f78e140]: Website
+                      - button "Get directions to Shore Thing External Cleaning San Diego - Windows - Solar Panels - Turf - Gutters - Pressure and Soft Washing" [ref=f78e141] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e143]: 
+                        - generic [ref=f78e144]: Directions
+              - article [ref=f78e147]:
+                - link "Aquatech Rain Gutters" [ref=f78e148] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Aquatech+Rain+Gutters/data=!4m7!3m6!1s0x80deaaf11b0e8d03:0x895cd2e4f7588a8c!8m2!3d32.7579985!4d-117.2118494!16s%2Fg%2F1hhw12fp8!19sChIJA40OG_Gq3oARjIpY9-TSXIk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Aquatech Rain Gutters
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 487 Reviews": 4.9(487)
+                            - generic:
+                              - generic:
+                                - generic: Gutter cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f78e150] [cursor=pointer]:
+                                    - generic [ref=f78e151]: 
+                                - generic: · 3760 Hancock St Ste G
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 432-4038
+                    - generic:
+                      - link "Visit Aquatech Rain Gutters's website" [ref=f78e152] [cursor=pointer]:
+                        - /url: https://www.aquatechraingutters.com/
+                        - generic [aria-hidden] [ref=f78e154]: 
+                        - generic [ref=f78e155]: Website
+                      - button "Get directions to Aquatech Rain Gutters" [ref=f78e156] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e158]: 
+                        - generic [ref=f78e159]: Directions
+              - article [ref=f78e162]:
+                - link "Freshwater Exteriors" [ref=f78e163] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Freshwater+Exteriors/data=!4m7!3m6!1s0x82a05cc7ad6a639f:0x37ebaa8e8e906cd1!8m2!3d32.746302!4d-117.2507558!16s%2Fg%2F11t40cvrdh!19sChIJn2NqrcdcoIIR0WyQjo6q6zc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Freshwater Exteriors
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 178 Reviews": 5.0(178)
+                            - generic:
+                              - generic:
+                                - generic: Gutter cleaning service
+                                - generic: · 4967 Newport Ave Ste 12-302
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 786-7073
+                    - generic:
+                      - link "Visit Freshwater Exteriors's website" [ref=f78e165] [cursor=pointer]:
+                        - /url: http://freshwaterexteriors.com/
+                        - generic [aria-hidden] [ref=f78e167]: 
+                        - generic [ref=f78e168]: Website
+                      - button "Get directions to Freshwater Exteriors" [ref=f78e169] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e171]: 
+                        - generic [ref=f78e172]: Directions
+              - article [ref=f78e175]:
+                - link "Shine Bright San Diego" [ref=f78e176] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Shine+Bright+San+Diego/data=!4m7!3m6!1s0x80dc001ff1d2160f:0x5c4715e30b9d652b!8m2!3d32.8181474!4d-117.2240472!16s%2Fg%2F11bbs_y_t4!19sChIJDxbS8R8A3IARK2WdC-MVR1w?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Shine Bright San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 860 Reviews": 4.9(860)
+                            - generic:
+                              - generic:
+                                - generic: Window cleaning service
+                                - generic: · 5111 Santa Fe St Unit B and C
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 789-4467
+                    - generic:
+                      - link "Visit Shine Bright San Diego's website" [ref=f78e178] [cursor=pointer]:
+                        - /url: http://www.shinebrightsd.com/?utm_source=gmb&utm_medium=organic&utm_campaign=SanDiego
+                        - generic [aria-hidden] [ref=f78e180]: 
+                        - generic [ref=f78e181]: Website
+                      - button "Get directions to Shine Bright San Diego" [ref=f78e182] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e184]: 
+                        - generic [ref=f78e185]: Directions
+              - article [ref=f78e188]:
+                - link "Pressure Washing San Diego" [ref=f78e189] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Pressure+Washing+San+Diego/data=!4m7!3m6!1s0x80dc017ab0781625:0xc655da1e383b492a!8m2!3d32.8044537!4d-117.236602!16s%2Fg%2F11wc6zsvtn!19sChIJJRZ4sHoB3IARKkk7OB7aVcY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Pressure Washing San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 48 Reviews": 5.0(48)
+                            - generic:
+                              - generic:
+                                - generic: Gutter cleaning service
+                                - generic: · 4728 Lamont St APT 16
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 522-0565
+                    - generic:
+                      - link "Visit Pressure Washing San Diego's website" [ref=f78e191] [cursor=pointer]:
+                        - /url: https://pressurewashingsd.com/
+                        - generic [aria-hidden] [ref=f78e193]: 
+                        - generic [ref=f78e194]: Website
+                      - button "Get directions to Pressure Washing San Diego" [ref=f78e195] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e197]: 
+                        - generic [ref=f78e198]: Directions
+                  - link [ref=f78e199] [cursor=pointer]:
+                    - /url: https://www.markate.com/public/widget/booking/products/3db96145bd6b97cc0a08664140bb52aa:75045:cbc50af4?rwg_token=AE37R_ibfc7sv755PpvpcOA5gkXjx03JzD8BgQ-w6cfCtuPKyCdQzRt7b972EeE4MK1ULe_c1zeS9RLkCm53Q4iPTzIgeg1AkQ%3D%3D
+                    - generic [ref=f78e200]:
+                      - generic [aria-hidden] [ref=f78e201]: 
+                      - text: Book online
+              - article [ref=f78e204]:
+                - link "Keith's Windows and More" [ref=f78e205] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Keith%27s+Windows+and+More/data=!4m7!3m6!1s0x80dc01b9bb1c0f5d:0xb7ed94fe8ded1ea5!8m2!3d32.8187469!4d-117.2015651!16s%2Fg%2F11jk3gqyns!19sChIJXQ8cu7kB3IARpR7tjf6U7bc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Keith's Windows and More
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 256 Reviews": 5.0(256)
+                            - generic:
+                              - generic:
+                                - generic: Window cleaning service
+                                - generic: · 4233 Feather Ave
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (760) 297-0421
+                    - generic:
+                      - link "Visit Keith's Windows and More's website" [ref=f78e207] [cursor=pointer]:
+                        - /url: https://www.keithswindows.com/
+                        - generic [aria-hidden] [ref=f78e209]: 
+                        - generic [ref=f78e210]: Website
+                      - button "Get directions to Keith's Windows and More" [ref=f78e211] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e213]: 
+                        - generic [ref=f78e214]: Directions
+                  - link [ref=f78e215] [cursor=pointer]:
+                    - /url: https://clienthub.getjobber.com/hubs/47899def-1242-443d-978f-f69137ac65f8/public/requests/307294/new?rwg_token=AE37R_hHT4B3At93QYbloSG76RqpT2XTLsf2kJAYC0IMTl7BWPedvt23SfQDgCpxD88VNtN45H94gcWawhQKDCAewKjnrOJeQg%3D%3D
+                    - generic [ref=f78e216]:
+                      - generic [aria-hidden] [ref=f78e217]: 
+                      - text: Book online
+              - article [ref=f78e220]:
+                - link "Pacific Beach Pressure Washing Pros" [ref=f78e221] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Pacific+Beach+Pressure+Washing+Pros/data=!4m7!3m6!1s0x80dc01b554d847a7:0xa9550d4ba93a8fd!8m2!3d32.7880427!4d-117.2380413!16s%2Fg%2F11np74nfqq!19sChIJp0fYVLUB3IAR_aiTutRQlQo?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Pacific Beach Pressure Washing Pros
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 5 Reviews": 5.0(5)
+                            - generic:
+                              - generic:
+                                - generic: Pressure washing service
+                                - generic: · 3761 Promontory St
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (619) 630-7343
+                    - button "Get directions to Pacific Beach Pressure Washing Pros" [ref=f78e223] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f78e225]: 
+                      - generic [ref=f78e226]: Directions
+              - article [ref=f78e229]:
+                - link "San Diego Softwash" [ref=f78e230] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Softwash/data=!4m7!3m6!1s0x80d95598bcdcf047:0x260caa3cc7774e64!8m2!3d32.7311724!4d-117.1623429!16s%2Fg%2F11xmn92tkm!19sChIJR_DcvJhV2YARZE53xzyqDCY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Softwash
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 652 Reviews": 4.9(652)
+                            - generic:
+                              - generic:
+                                - generic: Pressure washing service
+                                - generic: · 239 Laurel St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 933-0257
+                    - generic:
+                      - link "Visit San Diego Softwash's website" [ref=f78e232] [cursor=pointer]:
+                        - /url: https://sandiego-softwash.com/
+                        - generic [aria-hidden] [ref=f78e234]: 
+                        - generic [ref=f78e235]: Website
+                      - button "Get directions to San Diego Softwash" [ref=f78e236] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e238]: 
+                        - generic [ref=f78e239]: Directions
+                  - link [ref=f78e240] [cursor=pointer]:
+                    - /url: https://clienthub.getjobber.com/hubs/d44b8e18-9c90-4433-a18e-75da8712f5d0/public/requests/1630589/new?rwg_token=AE37R_j3tpTebDU0wqxrc93BAGzkjxUquHQXMdDjVgAnQLm38JM4aWzPWXhJmP74Ih9ZBFQTUFhFPGoTMYzk-Ng_YCy7e1o_ng%3D%3D
+                    - generic [ref=f78e241]:
+                      - generic [aria-hidden] [ref=f78e242]: 
+                      - text: Book online
+              - article [ref=f78e245]:
+                - link "Sea Clear Window Washing" [ref=f78e246] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Sea+Clear+Window+Washing/data=!4m7!3m6!1s0x4756ac4d46763693:0x9fb78a61955984dd!8m2!3d32.7467469!4d-117.2038623!16s%2Fg%2F11npydbjdb!19sChIJkzZ2Rk2sVkcR3YRZlWGKt58?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Sea Clear Window Washing
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 22 Reviews": 5.0(22)
+                            - generic:
+                              - generic:
+                                - generic: Window cleaning service
+                                - generic: "· 2701 Midway Dr #80282"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 215-6955
+                    - generic:
+                      - link "Visit Sea Clear Window Washing's website" [ref=f78e248] [cursor=pointer]:
+                        - /url: https://www.seaclearwindowwashing.com/
+                        - generic [aria-hidden] [ref=f78e250]: 
+                        - generic [ref=f78e251]: Website
+                      - button "Get directions to Sea Clear Window Washing" [ref=f78e252] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f78e254]: 
+                        - generic [ref=f78e255]: Directions
+                  - link [ref=f78e256] [cursor=pointer]:
+                    - /url: https://clienthub.getjobber.com/hubs/7ff344d6-34ca-4c54-87c6-03836f107a4c/public/requests/5082152/new?rwg_token=AE37R_gymLsX5w01cgeiNdj13dKSLXn7VViUBTZTmQGa2ZluTiAvybOO_trs154Zs7IBSvQqnPlAL5BdGsYlCIvzpU19UYyX-A%3D%3D
+                    - generic [ref=f78e257]:
+                      - generic [aria-hidden] [ref=f78e258]: 
+                      - text: Book online
+              - generic [ref=f78e293]:
+                - generic [aria-hidden] [ref=f78e295]: 
+                - generic [ref=f78e296]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f78e297] [cursor=pointer]
+            - checkbox [ref=f78e300] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f78e302]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f78e304] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f78e305]: 
+    - generic [ref=f78e309]:
+      - button "Google apps" [ref=f78e313] [cursor=pointer]
+      - link "Sign in" [ref=f78e317] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fgutter%2Bcleaning%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f78e320] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f78e322]: 
+        - generic [ref=f78e324] [cursor=pointer]:
+          - button "Zoom in" [ref=f78e325]:
+            - generic [aria-hidden] [ref=f78e327]: 
+          - button "Zoom out" [ref=f78e328]:
+            - generic [aria-hidden] [ref=f78e330]: 
+      - button "Browse Street View images" [ref=f78e336]
+      - generic [ref=f78e338]:
+        - generic "Interactive map" [ref=f78e339]
+        - generic [ref=f78e343] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f78e344]: 
+          - generic [ref=f78e345]: Layers
+        - button "Layers" [ref=f78e346] [cursor=pointer]
+    - generic [ref=f78e348]:
+      - contentinfo [ref=f78e351]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f78e352] [cursor=pointer]
+        - button "Terms" [ref=f78e353] [cursor=pointer]
+        - button "Privacy" [ref=f78e354] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f78e355] [cursor=pointer]
+      - button "10 mi" [ref=f78e357] [cursor=pointer]

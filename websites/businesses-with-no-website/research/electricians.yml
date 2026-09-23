@@ -1,0 +1,405 @@
+- generic "Google Maps" [ref=f19e9]:
+  - generic [ref=f19e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f19e10]
+    - search [ref=f19e15]:
+      - generic [ref=f19e16]:
+        - combobox [ref=f19e18]: electrician san diego ca
+        - button "Search" [ref=f19e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f19e21]: 
+        - button "Close" [ref=f19e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f19e24]: 
+    - region "Available filters for this search" [ref=f19e31]:
+      - generic [ref=f19e34]:
+        - button "Rating" [ref=f19e36] [cursor=pointer]:
+          - generic [ref=f19e37]:
+            - generic [aria-hidden] [ref=f19e38]: 
+            - generic [ref=f19e39]: Rating
+            - generic [aria-hidden] [ref=f19e40]: 
+        - button "Hours" [ref=f19e42] [cursor=pointer]:
+          - generic [ref=f19e43]:
+            - generic [aria-hidden] [ref=f19e44]: 
+            - generic [ref=f19e45]: Hours
+            - generic [aria-hidden] [ref=f19e46]: 
+        - button "All filters" [ref=f19e48] [cursor=pointer]:
+          - generic [ref=f19e49]:
+            - generic [aria-hidden] [ref=f19e50]: 
+            - generic [ref=f19e51]: All filters
+    - generic [ref=f19e52]:
+      - generic [ref=f19e53]:
+        - list [ref=f19e55]:
+          - listitem [ref=f19e56]:
+            - button "Menu" [ref=f19e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f19e59]: 
+          - listitem [ref=f19e60]:
+            - button "Saved" [ref=f19e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f19e63]: 
+          - listitem [ref=f19e66]:
+            - button "Recents" [disabled] [ref=f19e67]:
+              - generic [aria-hidden] [ref=f19e69]: 
+          - listitem [ref=f19e73]:
+            - button "Get app" [ref=f19e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f19e76]: 
+        - main [ref=f19e83]:
+          - generic [ref=f19e84]:
+            - feed "Results for electrician san diego ca" [ref=f19e85]:
+              - generic [ref=f19e86]:
+                - generic [ref=f19e88]:
+                  - heading "Results" [level=1] [ref=f19e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f19e93]:
+                    - generic [aria-hidden] [ref=f19e97]: 
+                - button "Share" [ref=f19e101]:
+                  - generic [ref=f19e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f19e103]: 
+                    - generic [ref=f19e104]: Share
+              - article [ref=f19e106]:
+                - link "Solid Electrical Services" [ref=f19e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Solid+Electrical+Services/data=!4m7!3m6!1s0xa88ccd0180065393:0x733a2f070c327cfa!8m2!3d32.834346!4d-116.963613!16s%2Fg%2F11s7_65684!19sChIJk1MGgAHNjKgR-nwyDAcvOnM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f19e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f19e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Solid Electrical Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 72 Reviews": 4.9(72)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 8733 Magnolia Avenue
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 626-3995
+                    - generic:
+                      - link "Visit Solid Electrical Services's website" [ref=f19e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwj5vtiqt4GXAxVnCbwBHcW7KC4YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMI-b7YqreBlwMVZwm8AR3FuyguEBAYASAAEgJiOPD_BwE&cid=CAAS0wHkaOJ2Z-Je7ZmjJ8RSsWhJNfuNBugIuQ0-ATDzcgWjDK51wLkOghDtG9mZuXmiFhZY39NpO96o2qTjIqZK-RpLG3D49PFTDQVM_3-hXSOe6CdsmPOnqtTIzBNeH4QNfzSZtU99BHSgP05vg9WR8J6AKusdDZVp0K5hKPQTca2FFq2AhMf0ImyaXjSTF5wZ2PDVZ38hxBhTH1WjDJB29MEPNO6GmzQ3SWLD_AQxSdNEVWqWM496HX_QUIW54Ux983MGJtc3RIfTiHFGfCf8tM8QXwWk&cce=2&category=acrcp_v1_32&sig=AOD64_20244cLGjt4LUTFk_9oC7e8SV31Q&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f19e113]: 
+                        - generic [ref=f19e114]: Website
+                      - button "Get directions to Solid Electrical Services" [ref=f19e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f19e117]: 
+                        - generic [ref=f19e118]: Directions
+                  - link "Ad · Licensed Electrician Services · Electrical problems don&#39;t wait. We offer emergency services to get you back on track fast. · Visit Site · solidelectricalsd.com" [ref=f19e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwj5vtiqt4GXAxVnCbwBHcW7KC4YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMI-b7YqreBlwMVZwm8AR3FuyguEBAYASAAEgJiOPD_BwE&cid=CAAS0wHkaOJ2Z-Je7ZmjJ8RSsWhJNfuNBugIuQ0-ATDzcgWjDK51wLkOghDtG9mZuXmiFhZY39NpO96o2qTjIqZK-RpLG3D49PFTDQVM_3-hXSOe6CdsmPOnqtTIzBNeH4QNfzSZtU99BHSgP05vg9WR8J6AKusdDZVp0K5hKPQTca2FFq2AhMf0ImyaXjSTF5wZ2PDVZ38hxBhTH1WjDJB29MEPNO6GmzQ3SWLD_AQxSdNEVWqWM496HX_QUIW54Ux983MGJtc3RIfTiHFGfCf8tM8QXwWk&cce=2&category=acrcp_v1_32&sig=AOD64_20244cLGjt4LUTFk_9oC7e8SV31Q&adurl=&rct=j&nis=5
+                    - generic [ref=f19e125]:
+                      - generic [ref=f19e126]:
+                        - generic [ref=f19e127]: Licensed Electrician Services
+                        - generic [ref=f19e128]: Electrical problems don't wait. We offer emergency services to get you back on track fast.
+                      - generic [ref=f19e129]: Visit Site
+              - article [ref=f19e134]:
+                - link "Electric Lee" [ref=f19e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Electric+Lee/data=!4m7!3m6!1s0x80dc01ed0f577c13:0x7b4d0ced74974e03!8m2!3d33.3500934!4d-117.312018!16s%2Fg%2F11c45mkjjb!19sChIJE3xXD-0B3IARA06XdO0MTXs?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Electric Lee
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 104 Reviews": 4.9(104)
+                            - generic:
+                              - generic: Electrician
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 990-4080
+                    - generic:
+                      - link "Visit Electric Lee's website" [ref=f19e137] [cursor=pointer]:
+                        - /url: https://electricleesd.com/
+                        - generic [aria-hidden] [ref=f19e139]: 
+                        - generic [ref=f19e140]: Website
+                      - button "Get directions to Electric Lee" [ref=f19e141] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f19e143]: 
+                        - generic [ref=f19e144]: Directions
+                  - link [ref=f19e145] [cursor=pointer]:
+                    - /url: https://clienthub.getjobber.com/hubs/e595be37-7bfc-4944-89f3-c74d1d52e9aa/public/requests/630531/new?rwg_token=AE37R_hbk1HKfrDVYVGrfwDC2cwPTJPAq5-hCSQbNzCmJ5KH2hPOq6IkpDxhjeduqlBg-cpKhRM2U3sP0BIlxz6JZ9NePVJKHw%3D%3D
+                    - generic [ref=f19e146]:
+                      - generic [aria-hidden] [ref=f19e147]: 
+                      - text: Book online
+              - article [ref=f19e150]:
+                - link "Electricians Beverly Hills" [ref=f19e151] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Electricians+Beverly+Hills/data=!4m7!3m6!1s0x872b6b2391d0a301:0x3f9ffb0c914a228f!8m2!3d35.83745!4d-119.9576645!16s%2Fg%2F1trxkr9t!19sChIJAaPQkSNrK4cRjyJKkQz7nz8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Electricians Beverly Hills
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 38 Reviews": 4.9(38)
+                            - generic:
+                              - generic: Electrician
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (310) 651-6914
+                    - button "Get directions to Electricians Beverly Hills" [ref=f19e153] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f19e155]: 
+                      - generic [ref=f19e156]: Directions
+              - article [ref=f19e159]:
+                - link "Pacific Beach Electric" [ref=f19e160] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Pacific+Beach+Electric/data=!4m7!3m6!1s0x80dc019441653ae5:0x43e2b0d5f2d41481!8m2!3d32.802398!4d-117.2482807!16s%2Fg%2F1tf4fb2v!19sChIJ5TplQZQB3IARgRTU8tWw4kM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Pacific Beach Electric
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 18 Reviews": 5.0(18)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: "· 1252 Missouri St #2661"
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 483-9201
+                    - button "Get directions to Pacific Beach Electric" [ref=f19e162] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f19e164]: 
+                      - generic [ref=f19e165]: Directions
+              - article [ref=f19e168]:
+                - link "E-on Electric" [ref=f19e169] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/E-on+Electric/data=!4m7!3m6!1s0x80deab1b6589a4fb:0xdaaf239be68649e6!8m2!3d32.7685594!4d-117.2002027!16s%2Fg%2F11myldnk2_!19sChIJ-6SJZRur3oAR5kmG5psjr9o?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: E-on Electric
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 11 Reviews": 5.0(11)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 1108 Morena Blvd
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 568-2851
+                    - button "Get directions to E-on Electric" [ref=f19e171] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f19e173]: 
+                      - generic [ref=f19e174]: Directions
+              - article [ref=f19e177]:
+                - link "Wehrly Electric" [ref=f19e178] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Wehrly+Electric/data=!4m7!3m6!1s0x2bdb10b8e5a539db:0x4ce7f767cf4e7c6c!8m2!3d32.8189774!4d-117.17862!16s%2Fg%2F11vr060q6j!19sChIJ2zml5bgQ2ysRbHxOz2f350w?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Wehrly Electric
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 223 Reviews": 5.0(223)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 5663 Balboa Ave
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 870-7376
+                    - generic:
+                      - link "Visit Wehrly Electric's website" [ref=f19e180] [cursor=pointer]:
+                        - /url: https://www.wehrlyelectric.com/
+                        - generic [aria-hidden] [ref=f19e182]: 
+                        - generic [ref=f19e183]: Website
+                      - button "Get directions to Wehrly Electric" [ref=f19e184] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f19e186]: 
+                        - generic [ref=f19e187]: Directions
+              - article [ref=f19e190]:
+                - link "San Diego Electricians San Diego" [ref=f19e191] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Electricians+San+Diego/data=!4m7!3m6!1s0x80dc01bf0f6161f3:0xdec20d9a48c34dca!8m2!3d32.8024837!4d-117.241229!16s%2Fg%2F1tdpmck1!19sChIJ82FhD78B3IARyk3DSJoNwt4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Electricians San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1 Reviews": 5.0(1)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: "· 1633 Diamond St #28"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 264-1121
+                    - button "Get directions to San Diego Electricians San Diego" [ref=f19e193] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f19e195]: 
+                      - generic [ref=f19e196]: Directions
+              - article [ref=f19e199]:
+                - link "Power Wave Electric" [ref=f19e200] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Power+Wave+Electric/data=!4m7!3m6!1s0x2c2a8a84c032d5b7:0x5ed8412a068f75a4!8m2!3d32.7482052!4d-117.2419721!16s%2Fg%2F11ywdggw_h!19sChIJt9UywISKKiwRpHWPBipB2F4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Power Wave Electric
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 17 Reviews": 5.0(17)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · Muir Ave
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 920-4090
+                    - generic:
+                      - link "Visit Power Wave Electric's website" [ref=f19e202] [cursor=pointer]:
+                        - /url: https://powerwavesd.com/
+                        - generic [aria-hidden] [ref=f19e204]: 
+                        - generic [ref=f19e205]: Website
+                      - button "Get directions to Power Wave Electric" [ref=f19e206] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f19e208]: 
+                        - generic [ref=f19e209]: Directions
+              - article [ref=f19e212]:
+                - link "Power House Electrician" [ref=f19e213] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Power+House+Electrician/data=!4m7!3m6!1s0x80deaba5b4670461:0xe3188079aa97a875!8m2!3d32.7840146!4d-117.2053309!16s%2Fg%2F11yvspchjq!19sChIJYQRntKWr3oARdaiXqnmAGOM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Power House Electrician
+                            - generic: No reviews
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 2111 Morena Blvd
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 727-0500
+                    - generic:
+                      - link "Visit Power House Electrician's website" [ref=f19e215] [cursor=pointer]:
+                        - /url: https://fsdelectricians.com/
+                        - generic [aria-hidden] [ref=f19e217]: 
+                        - generic [ref=f19e218]: Website
+                      - button "Get directions to Power House Electrician" [ref=f19e219] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f19e221]: 
+                        - generic [ref=f19e222]: Directions
+              - article [ref=f19e225]:
+                - link "Gforce Green Electric Solutions" [ref=f19e226] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Gforce+Green+Electric+Solutions/data=!4m7!3m6!1s0x80dc0025d0faf249:0x971d76ba030c1a0c!8m2!3d32.7934057!4d-117.2064862!16s%2Fg%2F11b682ntdb!19sChIJSfL60CUA3IARDBoMA7p2HZc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Gforce Green Electric Solutions
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.6 stars 32 Reviews": 4.6(32)
+                            - generic:
+                              - generic:
+                                - generic: Electrician
+                                - generic: · 2920 McGraw St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 480-6559
+                    - generic:
+                      - link "Visit Gforce Green Electric Solutions's website" [ref=f19e228] [cursor=pointer]:
+                        - /url: https://www.gforceelectric.com/
+                        - generic [aria-hidden] [ref=f19e230]: 
+                        - generic [ref=f19e231]: Website
+                      - button "Get directions to Gforce Green Electric Solutions" [ref=f19e232] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f19e234]: 
+                        - generic [ref=f19e235]: Directions
+              - article [ref=f19e238]:
+                - link "Point Loma Plumbing, Drains, and Water Heaters" [ref=f19e239] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Point+Loma+Plumbing,+Drains,+and+Water+Heaters/data=!4m7!3m6!1s0x80dc012f6405eab7:0x89cc786c79f9f8a8!8m2!3d32.7986251!4d-117.2407674!16s%2Fg%2F11lmktm46q!19sChIJt-oFZC8B3IARqPj5eWx4zIk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Point Loma Plumbing, Drains, and Water Heaters
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 272 Reviews": 4.9(272)
+                            - generic:
+                              - generic:
+                                - generic: Plumber
+                                - generic: "· 4438 Ingraham St #113"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 273-5970
+                    - generic:
+                      - link "Visit Point Loma Plumbing, Drains, and Water Heaters's website" [ref=f19e241] [cursor=pointer]:
+                        - /url: https://pointlomahomepros.com/
+                        - generic [aria-hidden] [ref=f19e243]: 
+                        - generic [ref=f19e244]: Website
+                      - button "Get directions to Point Loma Plumbing, Drains, and Water Heaters" [ref=f19e245] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f19e247]: 
+                        - generic [ref=f19e248]: Directions
+                  - link [ref=f19e249] [cursor=pointer]:
+                    - /url: https://book.servicetitan.com/ex0ex5cacgf9w06xckgo8ihn?rwg_token=AE37R_iZwim_BlGFkUIbJk7nzpR3I29V3kUM7kIqlUqYf2bQaPGi-c9gwn9wPyi0N6mDpgxtViygvQ4iF8zYTnel18lc33hBOg%3D%3D
+                    - generic [ref=f19e250]:
+                      - generic [aria-hidden] [ref=f19e251]: 
+                      - text: Book online
+              - generic [ref=f19e286]:
+                - generic [aria-hidden] [ref=f19e288]: 
+                - generic [ref=f19e289]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f19e290] [cursor=pointer]
+            - checkbox [ref=f19e293] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f19e295]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f19e297] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f19e298]: 
+    - generic [ref=f19e302]:
+      - button "Google apps" [ref=f19e306] [cursor=pointer]
+      - link "Sign in" [ref=f19e310] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Felectrician%2Bsan%2Bdiego%2Bca%2F%4035.2530194%2C-119.3166415%2C7z%2Fdata%3D!3m1!4b1%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f19e313] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f19e315]: 
+        - generic [ref=f19e317] [cursor=pointer]:
+          - button "Zoom in" [ref=f19e318]:
+            - generic [aria-hidden] [ref=f19e320]: 
+          - button "Zoom out" [ref=f19e321]:
+            - generic [aria-hidden] [ref=f19e323]: 
+      - button "Browse Street View images" [ref=f19e329]
+      - generic [ref=f19e331]:
+        - generic "Interactive map" [ref=f19e332]
+        - generic [ref=f19e336] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f19e337]: 
+          - generic [ref=f19e338]: Layers
+        - button "Layers" [ref=f19e339] [cursor=pointer]
+    - generic [ref=f19e341]:
+      - contentinfo [ref=f19e344]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f19e345] [cursor=pointer]
+        - button "Terms" [ref=f19e346] [cursor=pointer]
+        - button "Privacy" [ref=f19e347] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f19e348] [cursor=pointer]
+      - button "50 mi" [ref=f19e350] [cursor=pointer]

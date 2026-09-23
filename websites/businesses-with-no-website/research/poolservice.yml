@@ -1,0 +1,429 @@
+- generic "Google Maps" [ref=f57e9]:
+  - generic [ref=f57e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f57e10]
+    - search [ref=f57e15]:
+      - generic [ref=f57e16]:
+        - combobox [ref=f57e18]: pool service san diego ca
+        - button "Search" [ref=f57e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f57e21]: 
+        - button "Close" [ref=f57e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f57e24]: 
+    - region "Available filters for this search" [ref=f57e31]:
+      - generic [ref=f57e34]:
+        - button "Rating" [ref=f57e36] [cursor=pointer]:
+          - generic [ref=f57e37]:
+            - generic [aria-hidden] [ref=f57e38]: 
+            - generic [ref=f57e39]: Rating
+            - generic [aria-hidden] [ref=f57e40]: 
+        - button "Hours" [ref=f57e42] [cursor=pointer]:
+          - generic [ref=f57e43]:
+            - generic [aria-hidden] [ref=f57e44]: 
+            - generic [ref=f57e45]: Hours
+            - generic [aria-hidden] [ref=f57e46]: 
+        - button "All filters" [ref=f57e48] [cursor=pointer]:
+          - generic [ref=f57e49]:
+            - generic [aria-hidden] [ref=f57e50]: 
+            - generic [ref=f57e51]: All filters
+    - generic [ref=f57e52]:
+      - generic [ref=f57e53]:
+        - list [ref=f57e55]:
+          - listitem [ref=f57e56]:
+            - button "Menu" [ref=f57e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f57e59]: 
+          - listitem [ref=f57e60]:
+            - button "Saved" [ref=f57e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f57e63]: 
+          - listitem [ref=f57e66]:
+            - button "Recents" [disabled] [ref=f57e67]:
+              - generic [aria-hidden] [ref=f57e69]: 
+          - listitem [ref=f57e73]:
+            - button "Get app" [ref=f57e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f57e76]: 
+        - main [ref=f57e83]:
+          - generic [ref=f57e84]:
+            - feed "Results for pool service san diego ca" [ref=f57e85]:
+              - generic [ref=f57e86]:
+                - generic [ref=f57e88]:
+                  - heading "Results" [level=1] [ref=f57e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f57e93]:
+                    - generic [aria-hidden] [ref=f57e97]: 
+                - button "Share" [ref=f57e101]:
+                  - generic [ref=f57e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f57e103]: 
+                    - generic [ref=f57e104]: Share
+              - article [ref=f57e106]:
+                - link "Priority Pool Service" [ref=f57e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Priority+Pool+Service/data=!4m7!3m6!1s0x80dc01f575334b09:0xb3c4025d66aea20c!8m2!3d32.8014914!4d-117.2344654!16s%2Fg%2F11sj5r8mhc!19sChIJCUszdfUB3IARDKKuZl0CxLM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Priority Pool Service
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 107 Reviews": 4.9(107)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic: · 1940 Garnet Ave Ste 370
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (619) 391-0344
+                    - generic:
+                      - link "Visit Priority Pool Service's website" [ref=f57e109] [cursor=pointer]:
+                        - /url: https://dive.prioritypools.com/gbppb
+                        - generic [aria-hidden] [ref=f57e111]: 
+                        - generic [ref=f57e112]: Website
+                      - button "Get directions to Priority Pool Service" [ref=f57e113] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e115]: 
+                        - generic [ref=f57e116]: Directions
+              - article [ref=f57e119]:
+                - link "C2C Pool Service & Repair" [ref=f57e120] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/C2C+Pool+Service+%26+Repair/data=!4m7!3m6!1s0x80d94f9ac48fe727:0xe7ec6b73439d7de4!8m2!3d32.8035452!4d-117.2448549!16s%2Fg%2F11j31vwwpt!19sChIJJ-ePxJpP2YAR5H2dQ3Nr7Oc?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: C2C Pool Service & Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 95 Reviews": 5.0(95)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f57e122] [cursor=pointer]:
+                                    - generic [ref=f57e123]: 
+                                - generic: · 1447 Chalcedony St Unit A
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 732-1030
+                    - generic:
+                      - link "Visit C2C Pool Service & Repair's website" [ref=f57e124] [cursor=pointer]:
+                        - /url: http://c2cpools.com/
+                        - generic [aria-hidden] [ref=f57e126]: 
+                        - generic [ref=f57e127]: Website
+                      - button "Get directions to C2C Pool Service & Repair" [ref=f57e128] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e130]: 
+                        - generic [ref=f57e131]: Directions
+              - article [ref=f57e134]:
+                - link "Cabana Pool Service" [ref=f57e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Cabana+Pool+Service/data=!4m7!3m6!1s0x80d9557807e7e6ab:0x4f200e735ed8a2b8!8m2!3d32.7490378!4d-117.1527802!16s%2Fg%2F11y98xd_bn!19sChIJq-bnB3hV2YARuKLYXnMOIE8?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Cabana Pool Service
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 55 Reviews": 5.0(55)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f57e137] [cursor=pointer]:
+                                    - generic [ref=f57e138]: 
+                                - generic: · 1223 Cleveland Ave Ste 200-305
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 789-0644
+                    - generic:
+                      - link "Visit Cabana Pool Service's website" [ref=f57e139] [cursor=pointer]:
+                        - /url: https://cabanapools.com/california/san-diego-pool-service/?utm_source=google_my_business&utm_medium=organic&utm_campaign=gbp_Cabana_SanDiego
+                        - generic [aria-hidden] [ref=f57e141]: 
+                        - generic [ref=f57e142]: Website
+                      - button "Get directions to Cabana Pool Service" [ref=f57e143] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e145]: 
+                        - generic [ref=f57e146]: Directions
+              - article [ref=f57e149]:
+                - link "Pacific Pools" [ref=f57e150] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Pacific+Pools/data=!4m7!3m6!1s0x80dc01b8b8bce97d:0xa975210982ab473b!8m2!3d32.8099713!4d-117.2598246!16s%2Fg%2F11r9tvnrb!19sChIJfem8uLgB3IARO0erggkhdak?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Pacific Pools
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 26 Reviews": 4.7(26)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f57e152] [cursor=pointer]:
+                                    - generic [ref=f57e153]: 
+                                - generic: · 5266 La Jolla Mesa Dr
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 437-3958
+                    - generic:
+                      - link "Visit Pacific Pools's website" [ref=f57e154] [cursor=pointer]:
+                        - /url: https://lajollapoolservice.net/
+                        - generic [aria-hidden] [ref=f57e156]: 
+                        - generic [ref=f57e157]: Website
+                      - button "Get directions to Pacific Pools" [ref=f57e158] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e160]: 
+                        - generic [ref=f57e161]: Directions
+              - article [ref=f57e164]:
+                - link "Master Geek Pool & Spa" [ref=f57e165] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Master+Geek+Pool+%26+Spa/data=!4m7!3m6!1s0x91f5b32439b219f:0x3d1a25f0af2b514f!8m2!3d32.7915404!4d-117.2392268!16s%2Fg%2F11vl315sm3!19sChIJnyGbQzJbHwkRT1Err_AlGj0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Master Geek Pool & Spa
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 13 Reviews": 4.7(13)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic: · 3930 Ingraham St
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (619) 786-8044
+                    - generic:
+                      - link "Visit Master Geek Pool & Spa's website" [ref=f57e167] [cursor=pointer]:
+                        - /url: https://mastergeeksd.com/
+                        - generic [aria-hidden] [ref=f57e169]: 
+                        - generic [ref=f57e170]: Website
+                      - button "Get directions to Master Geek Pool & Spa" [ref=f57e171] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e173]: 
+                        - generic [ref=f57e174]: Directions
+              - article [ref=f57e177]:
+                - link "GL Pools - San Diego Pool Service" [ref=f57e178] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/GL+Pools+-+San+Diego+Pool+Service/data=!4m7!3m6!1s0x80dbffcbbbabb915:0xa9f3df72e47c515a!8m2!3d32.8288048!4d-117.1572751!16s%2Fg%2F11y4tlphn4!19sChIJFbmru8v_24ARWlF85HLf86k?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: GL Pools - San Diego Pool Service
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 40 Reviews": 4.7(40)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic: · 7485 Ronson Rd
+                              - generic:
+                                - generic: Closed · Opens 6 AM Tue
+                                - generic: · (619) 762-4744
+                    - generic:
+                      - link "Visit GL Pools - San Diego Pool Service's website" [ref=f57e180] [cursor=pointer]:
+                        - /url: https://glpools.com/pool-service-san-diego/
+                        - generic [aria-hidden] [ref=f57e182]: 
+                        - generic [ref=f57e183]: Website
+                      - button "Get directions to GL Pools - San Diego Pool Service" [ref=f57e184] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e186]: 
+                        - generic [ref=f57e187]: Directions
+              - article [ref=f57e190]:
+                - link "Golden State Pools" [ref=f57e191] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Golden+State+Pools/data=!4m7!3m6!1s0x80d954d6aaaaaaab:0xf7a36dcc7233447b!8m2!3d32.7492043!4d-117.151797!16s%2Fg%2F11b747zzxx!19sChIJq6qqqtZU2YARe0Qzcsxto_c?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Golden State Pools
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 115 Reviews": 4.9(115)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f57e193] [cursor=pointer]:
+                                    - generic [ref=f57e194]: 
+                                - generic: · 1286 University Ave
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 434-7536
+                    - generic:
+                      - link "Visit Golden State Pools's website" [ref=f57e195] [cursor=pointer]:
+                        - /url: http://www.gsppoolservice.com/?utm_source=GMB&utm_medium=local
+                        - generic [aria-hidden] [ref=f57e197]: 
+                        - generic [ref=f57e198]: Website
+                      - button "Get directions to Golden State Pools" [ref=f57e199] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e201]: 
+                        - generic [ref=f57e202]: Directions
+              - article [ref=f57e205]:
+                - link "Swim Care Pool Services - San Diego Leak Detection Specialists" [ref=f57e206] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Swim+Care+Pool+Services+-+San+Diego+Leak+Detection+Specialists/data=!4m7!3m6!1s0x80dc0073d640ffb9:0x26b19c88967eb6b6!8m2!3d32.821017!4d-117.180944!16s%2Fg%2F12qgd4sjn!19sChIJuf9A1nMA3IARtrZ-loicsSY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Swim Care Pool Services - San Diego Leak Detection Specialists
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 146 Reviews": 4.8(146)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f57e208] [cursor=pointer]:
+                                    - generic [ref=f57e209]: 
+                                - generic: "· 4203 Genesee Ave #103-446"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 295-0443
+                    - generic:
+                      - link "Visit Swim Care Pool Services - San Diego Leak Detection Specialists's website" [ref=f57e210] [cursor=pointer]:
+                        - /url: https://sandiegopoolservice.net/?utm_campaign=gmb&utm_source=gmb
+                        - generic [aria-hidden] [ref=f57e212]: 
+                        - generic [ref=f57e213]: Website
+                      - button "Get directions to Swim Care Pool Services - San Diego Leak Detection Specialists" [ref=f57e214] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e216]: 
+                        - generic [ref=f57e217]: Directions
+              - article [ref=f57e220]:
+                - link "PoolLogic Pool and Spa Service" [ref=f57e221] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/PoolLogic+Pool+and+Spa+Service/data=!4m7!3m6!1s0x80d9577028e48323:0x6d5c456ee2555913!8m2!3d32.7490378!4d-117.1527802!16s%2Fg%2F11rbkp73gd!19sChIJI4PkKHBX2YARE1lV4m5FXG0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: PoolLogic Pool and Spa Service
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 44 Reviews": 4.7(44)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic: "· 1223 Cleveland Ave #200-301"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 502-9056
+                    - generic:
+                      - link "Visit PoolLogic Pool and Spa Service's website" [ref=f57e223] [cursor=pointer]:
+                        - /url: https://poollogicsd.com/?utm_source=google_my_business&utm_medium=organic&utm_campaign=gbp_PoolLogicSD
+                        - generic [aria-hidden] [ref=f57e225]: 
+                        - generic [ref=f57e226]: Website
+                      - button "Get directions to PoolLogic Pool and Spa Service" [ref=f57e227] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e229]: 
+                        - generic [ref=f57e230]: Directions
+              - article [ref=f57e233]:
+                - link "ProTouch Pool Services" [ref=f57e234] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/ProTouch+Pool+Services/data=!4m7!3m6!1s0x80dbf9aa80dcb9a3:0xec0c5b4db2b1f681!8m2!3d32.8898451!4d-117.1507011!16s%2Fg%2F11b727rj6q!19sChIJo7ncgKr524ARgfaxsk1bDOw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: ProTouch Pool Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 104 Reviews": 4.8(104)
+                            - generic:
+                              - generic:
+                                - generic: Pool cleaning service
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f57e236] [cursor=pointer]:
+                                    - generic [ref=f57e237]: 
+                                - generic: "· 7933 Silverton Ave #703"
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 610-2635
+                    - generic:
+                      - link "Visit ProTouch Pool Services's website" [ref=f57e238] [cursor=pointer]:
+                        - /url: https://protouchpoolservices.com/
+                        - generic [aria-hidden] [ref=f57e240]: 
+                        - generic [ref=f57e241]: Website
+                      - button "Get directions to ProTouch Pool Services" [ref=f57e242] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f57e244]: 
+                        - generic [ref=f57e245]: Directions
+              - article [ref=f57e248]:
+                - link "Bz Pool Service" [ref=f57e249] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Bz+Pool+Service/data=!4m7!3m6!1s0x80deaa513cfa327d:0xa466fd7984dfcf8d!8m2!3d32.7480107!4d-117.2277075!16s%2Fg%2F1th6f4g9!19sChIJfTL6PFGq3oARjc_fhHn9ZqQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Bz Pool Service
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1 Reviews": 5.0(1)
+                            - generic:
+                              - generic:
+                                - generic: Swimming pool repair service
+                                - generic: · 2654 Worden St
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 518-3772
+                    - button "Get directions to Bz Pool Service" [ref=f57e251] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f57e253]: 
+                      - generic [ref=f57e254]: Directions
+              - generic [ref=f57e289]:
+                - generic [aria-hidden] [ref=f57e291]: 
+                - generic [ref=f57e292]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f57e293] [cursor=pointer]
+            - checkbox [ref=f57e296] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f57e298]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f57e300] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f57e301]: 
+    - generic [ref=f57e305]:
+      - button "Google apps" [ref=f57e309] [cursor=pointer]
+      - link "Sign in" [ref=f57e313] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fpool%2Bservice%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f57e316] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f57e318]: 
+        - generic [ref=f57e320] [cursor=pointer]:
+          - button "Zoom in" [ref=f57e321]:
+            - generic [aria-hidden] [ref=f57e323]: 
+          - button "Zoom out" [ref=f57e324]:
+            - generic [aria-hidden] [ref=f57e326]: 
+      - button "Browse Street View images" [ref=f57e332]
+      - generic [ref=f57e334]:
+        - generic "Interactive map" [ref=f57e335]
+        - generic [ref=f57e339] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f57e340]: 
+          - generic [ref=f57e341]: Layers
+        - button "Layers" [ref=f57e342] [cursor=pointer]
+    - generic [ref=f57e344]:
+      - contentinfo [ref=f57e347]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f57e348] [cursor=pointer]
+        - button "Terms" [ref=f57e349] [cursor=pointer]
+        - button "Privacy" [ref=f57e350] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f57e351] [cursor=pointer]
+      - button "2 mi" [ref=f57e353] [cursor=pointer]

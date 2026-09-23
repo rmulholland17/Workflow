@@ -1,0 +1,306 @@
+- generic "Google Maps" [ref=f220e9]:
+  - generic [ref=f220e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f220e10]
+    - search [ref=f220e15]:
+      - generic [ref=f220e16]:
+        - combobox [ref=f220e18]: JRP Plastering & Stucco
+        - button "Search" [ref=f220e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f220e21]: 
+        - button "Close" [ref=f220e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f220e24]: 
+    - region "Available search options for this area" [ref=f220e31]:
+      - generic [ref=f220e34]:
+        - button "Restaurants" [ref=f220e36] [cursor=pointer]:
+          - generic [ref=f220e37]:
+            - generic [aria-hidden] [ref=f220e39]: 
+            - generic [ref=f220e40]: Restaurants
+        - button "Hotels" [ref=f220e42] [cursor=pointer]:
+          - generic [ref=f220e43]:
+            - generic [aria-hidden] [ref=f220e45]: 
+            - generic [ref=f220e46]: Hotels
+        - button "Things to do" [ref=f220e48] [cursor=pointer]:
+          - generic [ref=f220e49]:
+            - generic [aria-hidden] [ref=f220e51]: 
+            - generic [ref=f220e52]: Things to do
+        - button "Transit" [ref=f220e54] [cursor=pointer]:
+          - generic [ref=f220e55]:
+            - generic [aria-hidden] [ref=f220e57]: 
+            - generic [ref=f220e58]: Transit
+        - button "Parking" [ref=f220e60] [cursor=pointer]:
+          - generic [ref=f220e61]:
+            - generic [aria-hidden] [ref=f220e63]: 
+            - generic [ref=f220e64]: Parking
+        - button "Pharmacies" [ref=f220e66] [cursor=pointer]:
+          - generic [ref=f220e67]:
+            - generic [aria-hidden] [ref=f220e69]: 
+            - generic [ref=f220e70]: Pharmacies
+        - button "ATMs" [ref=f220e72] [cursor=pointer]:
+          - generic [ref=f220e73]:
+            - generic [aria-hidden] [ref=f220e75]: 
+            - generic [ref=f220e76]: ATMs
+      - button "Next page" [ref=f220e77] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f220e78]: 
+    - generic [ref=f220e79]:
+      - generic [ref=f220e80]:
+        - list [ref=f220e82]:
+          - listitem [ref=f220e83]:
+            - button "Menu" [ref=f220e84] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f220e86]: 
+          - listitem [ref=f220e87]:
+            - button "Saved" [ref=f220e88] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f220e90]: 
+          - listitem [ref=f220e93]:
+            - button "Recents" [ref=f220e94] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f220e96]: 
+          - listitem [ref=f220e100]:
+            - button "JRP Plastering & Stucco" [ref=f220e101] [cursor=pointer]
+          - listitem [ref=f220e109]:
+            - button "Get app" [ref=f220e110] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f220e112]: 
+        - main "JRP Plastering & Stucco" [ref=f220e119]:
+          - generic [ref=f220e120]:
+            - button "Photo of JRP Plastering & Stucco" [active] [ref=f220e123] [cursor=pointer]
+            - generic [ref=f220e127]:
+              - heading "JRP Plastering & Stucco" [level=1] [ref=f220e129]
+              - generic [ref=f220e131]:
+                - generic [ref=f220e133]:
+                  - generic [ref=f220e134]:
+                    - text: "3.7"
+                    - img "3.7 stars" [ref=f220e135]
+                  - img "7 reviews" [ref=f220e143]: (7)
+                - button "Stucco contractor" [ref=f220e147]
+            - tablist [ref=f220e150]:
+              - tab "Overview of JRP Plastering & Stucco" [selected] [ref=f220e151]:
+                - generic [aria-hidden] [ref=f220e153]: Overview
+              - tab "Reviews for JRP Plastering & Stucco" [ref=f220e155]:
+                - generic [aria-hidden] [ref=f220e157]: Reviews
+            - region "Actions for JRP Plastering & Stucco" [ref=f220e159]:
+              - button "Directions" [ref=f220e161] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f220e163]: 
+              - button "Save" [ref=f220e166] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f220e168]: 
+              - button "Nearby" [ref=f220e171] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f220e173]: 
+              - button "Send to phone" [ref=f220e176] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f220e178]: 
+              - button "Share" [ref=f220e181] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f220e183]: 
+            - region "Information for JRP Plastering & Stucco" [ref=f220e187]:
+              - generic [ref=f220e188]:
+                - 'button "Address: San Diego, CA 92122" [ref=f220e189] [cursor=pointer]':
+                  - generic [ref=f220e190]:
+                    - generic [aria-hidden] [ref=f220e192]: 
+                    - generic [ref=f220e193]: San Diego, CA 92122
+                - button "Copy address" [ref=f220e197] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f220e199]: 
+              - button "Hours Closed · Opens 7 AM Tue Show open hours for the week" [ref=f220e201] [cursor=pointer]:
+                - img "Hours" [ref=f220e202]: 
+                - generic [ref=f220e204]:
+                  - generic [ref=f220e205]: Closed · Opens 7 AM Tue
+                  - img "Show open hours for the week" [ref=f220e207]: 
+              - generic [ref=f220e208]:
+                - 'button "Phone: (760) 727-4217" [ref=f220e209] [cursor=pointer]':
+                  - generic [ref=f220e210]:
+                    - generic [aria-hidden] [ref=f220e212]: 
+                    - generic [ref=f220e213]: (760) 727-4217
+                - generic [ref=f220e215]:
+                  - button "Copy phone number" [ref=f220e217] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f220e219]: 
+                  - link "Call phone number" [ref=f220e221] [cursor=pointer]:
+                    - /url: tel:+17607274217
+                    - generic [aria-hidden] [ref=f220e223]: 
+              - generic [ref=f220e224]:
+                - link "Claim this business" [ref=f220e225] [cursor=pointer]:
+                  - /url: https://business.google.com/create?fp=7071712930518908629&hl=en&authuser=0&gmbsrc=us-en-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=us-en-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=0
+                  - generic [ref=f220e226]:
+                    - generic [aria-hidden] [ref=f220e228]: 
+                    - generic [ref=f220e229]: Claim this business
+                - link "Claim this business" [ref=f220e233] [cursor=pointer]:
+                  - /url: https://business.google.com/create?fp=7071712930518908629&hl=en&authuser=0&gmbsrc=us-en-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=us-en-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=0
+                  - generic [aria-hidden] [ref=f220e235]: 
+            - button "Suggest an edit" [ref=f220e239] [cursor=pointer]:
+              - generic [ref=f220e240]:
+                - generic [aria-hidden] [ref=f220e241]: 
+                - generic [ref=f220e242]: Suggest an edit
+            - generic [ref=f220e245]:
+              - heading "Add missing information" [level=2] [ref=f220e246]
+              - button "More info" [ref=f220e247] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f220e248]: 
+            - button "Add website" [ref=f220e250]:
+              - generic [ref=f220e251]:
+                - generic [aria-hidden] [ref=f220e252]: 
+                - generic [ref=f220e253]: Add website
+            - heading "Photos" [level=2] [ref=f220e257]
+            - button "Photos" [ref=f220e260] [cursor=pointer]
+            - button "Add photos & videos" [ref=f220e268] [cursor=pointer]:
+              - generic [ref=f220e269]:
+                - generic [aria-hidden] [ref=f220e270]: 
+                - generic [ref=f220e271]: Add photos & videos
+            - generic [ref=f220e274]:
+              - heading "Review summary" [level=2] [ref=f220e275]
+              - button "More information about the review summary" [ref=f220e276] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f220e277]: 
+            - generic [ref=f220e279] [cursor=pointer]:
+              - table [ref=f220e281]:
+                - rowgroup [ref=f220e282]:
+                  - img "5 stars, 4 reviews" [ref=f220e283]: "5"
+                  - img "4 stars, 1 review" [ref=f220e286]: "4"
+                  - img "3 stars, 0 reviews" [ref=f220e289]: "3"
+                  - img "2 stars, 0 reviews" [ref=f220e292]: "2"
+                  - img "1 stars, 2 reviews" [ref=f220e295]: "1"
+              - generic [ref=f220e298]:
+                - generic [ref=f220e299]: "3.7"
+                - img "3.7 stars" [ref=f220e300]
+                - button "7 reviews" [ref=f220e306]
+            - generic [ref=f220e310]:
+              - link "Photo of reviewer who wrote \"The work matched our stucco perfectly and they were done quickly.\"" [ref=f220e311] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/109753886464904169183?hl=en-US
+              - button "\"The work matched our stucco perfectly and they were done quickly.\"" [ref=f220e312] [cursor=pointer]
+            - generic [ref=f220e315]:
+              - link "Photo of reviewer who wrote \"I needed some stucco work done around a window.\"" [ref=f220e316] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/108498727417368056626?hl=en-US
+              - button "\"I needed some stucco work done around a window.\"" [ref=f220e317] [cursor=pointer]
+            - button "Write a review" [ref=f220e322] [cursor=pointer]:
+              - generic [ref=f220e323]:
+                - generic [aria-hidden] [ref=f220e324]: 
+                - generic [ref=f220e325]: Write a review
+            - generic [ref=f220e328]:
+              - generic [ref=f220e330]:
+                - heading "Reviews" [level=2] [ref=f220e333]
+                - button "Search reviews" [ref=f220e336] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f220e338]: 
+              - button "Sort reviews" [ref=f220e340] [cursor=pointer]:
+                - generic [ref=f220e341]:
+                  - generic [aria-hidden] [ref=f220e342]: 
+                  - generic [ref=f220e343]: Sort
+            - generic "Patrick Stahle" [ref=f220e344]:
+              - generic [ref=f220e346]:
+                - button "Photo of Patrick Stahle" [ref=f220e347]
+                - generic [ref=f220e349]:
+                  - button "Patrick Stahle Local Guide · 107 reviews · 71 photos" [ref=f220e351]:
+                    - generic [ref=f220e352]: Patrick Stahle
+                    - generic [ref=f220e353]: Local Guide · 107 reviews · 71 photos
+                  - button "Actions for Patrick Stahle's review" [ref=f220e354] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f220e356]: 
+                - generic [ref=f220e357]:
+                  - generic [ref=f220e358]:
+                    - img "5 stars" [ref=f220e359]:
+                      - generic [aria-hidden] [ref=f220e360]: 
+                      - generic [aria-hidden] [ref=f220e361]: 
+                      - generic [aria-hidden] [ref=f220e362]: 
+                      - generic [aria-hidden] [ref=f220e363]: 
+                      - generic [aria-hidden] [ref=f220e364]: 
+                    - generic [ref=f220e365]: 2 years ago
+                  - generic [ref=f220e367]:
+                    - text: Joe and his team performed some stucco repair I needed on my house that came from weather and some poorly aimed sprinklers. Joe did a great job explaining the existing issues and what was needed to perform the repairs. They were able to …
+                    - button "See more" [ref=f220e369] [cursor=pointer]: More
+                  - generic [ref=f220e370]:
+                    - button "Photo 1 on Patrick Stahle's review" [ref=f220e371] [cursor=pointer]
+                    - button "Photo 2 on Patrick Stahle's review" [ref=f220e372] [cursor=pointer]
+                  - generic [ref=f220e373]:
+                    - button "Like" [ref=f220e374]:
+                      - generic [ref=f220e375] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f220e376]: 
+                        - generic [ref=f220e377]: Like
+                    - button "Share Patrick Stahle's review." [ref=f220e379]:
+                      - generic [ref=f220e380] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f220e381]: 
+                        - generic [ref=f220e382]: Share
+            - generic "Cheri Freathy" [ref=f220e386]:
+              - generic [ref=f220e388]:
+                - button "Photo of Cheri Freathy" [ref=f220e389]
+                - generic [ref=f220e391]:
+                  - button "Cheri Freathy 9 reviews" [ref=f220e393]:
+                    - generic [ref=f220e394]: Cheri Freathy
+                    - generic [ref=f220e395]: 9 reviews
+                  - button "Actions for Cheri Freathy's review" [ref=f220e396] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f220e398]: 
+                - generic [ref=f220e399]:
+                  - generic [ref=f220e400]:
+                    - img "5 stars" [ref=f220e401]:
+                      - generic [aria-hidden] [ref=f220e402]: 
+                      - generic [aria-hidden] [ref=f220e403]: 
+                      - generic [aria-hidden] [ref=f220e404]: 
+                      - generic [aria-hidden] [ref=f220e405]: 
+                      - generic [aria-hidden] [ref=f220e406]: 
+                    - generic [ref=f220e407]: 4 years ago
+                  - generic [ref=f220e409]:
+                    - text: We had JRP Plastering & Stucco out to do a stucco repair for us after a major plumbing repair. Joseph was able to give me a fair estimate and was out to do the repair the very next day. The work matched our stucco perfectly and they were done quickly. I highly recommend them. Manny and Joseph were true artists.
+                    - button "See more" [ref=f220e411] [cursor=pointer]: More
+                  - generic [ref=f220e412]:
+                    - button "Like" [ref=f220e413]:
+                      - generic [ref=f220e414] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f220e415]: 
+                        - generic [ref=f220e416]: Like
+                    - button "Share Cheri Freathy's review." [ref=f220e418]:
+                      - generic [ref=f220e419] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f220e420]: 
+                        - generic [ref=f220e421]: Share
+            - generic "Brian Miller" [ref=f220e425]:
+              - generic [ref=f220e427]:
+                - button "Photo of Brian Miller" [ref=f220e428]
+                - generic [ref=f220e430]:
+                  - button "Brian Miller 2 reviews" [ref=f220e432]:
+                    - generic [ref=f220e433]: Brian Miller
+                    - generic [ref=f220e434]: 2 reviews
+                  - button "Actions for Brian Miller's review" [ref=f220e435] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f220e437]: 
+                - generic [ref=f220e438]:
+                  - generic [ref=f220e439]:
+                    - img "5 stars" [ref=f220e440]:
+                      - generic [aria-hidden] [ref=f220e441]: 
+                      - generic [aria-hidden] [ref=f220e442]: 
+                      - generic [aria-hidden] [ref=f220e443]: 
+                      - generic [aria-hidden] [ref=f220e444]: 
+                      - generic [aria-hidden] [ref=f220e445]: 
+                    - generic [ref=f220e446]: 4 years ago
+                  - generic [ref=f220e448]:
+                    - text: I needed some stucco work done around a window. The stucco was deteriorating and just crumbling away. …
+                    - button "See more" [ref=f220e450] [cursor=pointer]: More
+                  - generic [ref=f220e451]:
+                    - button "Like" [ref=f220e452]:
+                      - generic [ref=f220e453] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f220e454]: 
+                        - generic [ref=f220e455]: Like
+                    - button "Share Brian Miller's review." [ref=f220e457]:
+                      - generic [ref=f220e458] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f220e459]: 
+                        - generic [ref=f220e460]: Share
+            - button "More reviews (4)" [ref=f220e464]
+            - link "About this data" [ref=f220e471] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=en
+            - generic [ref=f220e476]:
+              - generic [aria-hidden] [ref=f220e478]: 
+              - generic [ref=f220e479]:
+                - text: You're seeing a limited view of Google Maps.
+                - button "See more" [ref=f220e480] [cursor=pointer]
+      - button "Collapse side panel" [ref=f220e482] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f220e483]: 
+    - generic [ref=f220e487]:
+      - button "Google apps" [ref=f220e491] [cursor=pointer]
+      - link "Sign in" [ref=f220e495] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FJRP%2BPlastering%2B%2526%2BStucco%2Fdata%3D!4m7!3m6!1s0x80dc00deaaaaaaab%3A0x6223c571591dbed5!8m2!3d32.8563846!4d-117.2029363!16s%252Fg%252F1vxcwq9g!19sChIJq6qqqt4A3IAR1b4dWXHFI2I%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f220e498] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f220e500]: 
+        - generic [ref=f220e502] [cursor=pointer]:
+          - button "Zoom in" [ref=f220e503]:
+            - generic [aria-hidden] [ref=f220e505]: 
+          - button "Zoom out" [ref=f220e506]:
+            - generic [aria-hidden] [ref=f220e508]: 
+      - button "Browse Street View images" [ref=f220e514]
+      - generic [ref=f220e516]:
+        - generic "Interactive map" [ref=f220e517]
+        - generic [ref=f220e521] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f220e522]: 
+          - generic [ref=f220e523]: Layers
+        - button "Layers" [ref=f220e524] [cursor=pointer]
+    - generic [ref=f220e526]:
+      - contentinfo [ref=f220e529]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f220e530] [cursor=pointer]
+        - button "Terms" [ref=f220e531] [cursor=pointer]
+        - button "Privacy" [ref=f220e532] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f220e533] [cursor=pointer]
+      - button "1 mi" [ref=f220e535] [cursor=pointer]

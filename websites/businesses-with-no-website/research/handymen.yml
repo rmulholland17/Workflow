@@ -1,0 +1,387 @@
+- generic "Google Maps" [ref=f26e9]:
+  - generic [ref=f26e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f26e10]
+    - search [ref=f26e15]:
+      - generic [ref=f26e16]:
+        - combobox [ref=f26e18]: handyman san diego ca
+        - button "Search" [ref=f26e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f26e21]: 
+        - button "Close" [ref=f26e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f26e24]: 
+    - region "Available filters for this search" [ref=f26e31]:
+      - generic [ref=f26e34]:
+        - button "Rating" [ref=f26e36] [cursor=pointer]:
+          - generic [ref=f26e37]:
+            - generic [aria-hidden] [ref=f26e38]: 
+            - generic [ref=f26e39]: Rating
+            - generic [aria-hidden] [ref=f26e40]: 
+        - button "Hours" [ref=f26e42] [cursor=pointer]:
+          - generic [ref=f26e43]:
+            - generic [aria-hidden] [ref=f26e44]: 
+            - generic [ref=f26e45]: Hours
+            - generic [aria-hidden] [ref=f26e46]: 
+        - button "All filters" [ref=f26e48] [cursor=pointer]:
+          - generic [ref=f26e49]:
+            - generic [aria-hidden] [ref=f26e50]: 
+            - generic [ref=f26e51]: All filters
+    - generic [ref=f26e52]:
+      - generic [ref=f26e53]:
+        - list [ref=f26e55]:
+          - listitem [ref=f26e56]:
+            - button "Menu" [ref=f26e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f26e59]: 
+          - listitem [ref=f26e60]:
+            - button "Saved" [ref=f26e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f26e63]: 
+          - listitem [ref=f26e66]:
+            - button "Recents" [disabled] [ref=f26e67]:
+              - generic [aria-hidden] [ref=f26e69]: 
+          - listitem [ref=f26e73]:
+            - button "Get app" [ref=f26e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f26e76]: 
+        - main [ref=f26e83]:
+          - generic [ref=f26e84]:
+            - feed "Results for handyman san diego ca" [ref=f26e85]:
+              - generic [ref=f26e86]:
+                - generic [ref=f26e88]:
+                  - heading "Results" [level=1] [ref=f26e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f26e93]:
+                    - generic [aria-hidden] [ref=f26e97]: 
+                - button "Share" [ref=f26e101]:
+                  - generic [ref=f26e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f26e103]: 
+                    - generic [ref=f26e104]: Share
+              - article [ref=f26e106]:
+                - link "Ace Handyman Services San Diego North County" [ref=f26e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Ace+Handyman+Services+San+Diego+North+County/data=!4m7!3m6!1s0x80dc7513325b8d99:0xfbf1666a71340b63!8m2!3d32.7987834!4d-117.2558081!16s%2Fg%2F11whq0yppn!19sChIJmY1bMhN13IARYws0cWpm8fs?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ace Handyman Services San Diego North County
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.7 stars 59 Reviews": 4.7(59)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f26e109] [cursor=pointer]:
+                                    - generic [ref=f26e110]: 
+                                - generic: "· 810 Emerald St #106"
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 375-3720
+                    - generic:
+                      - link "Visit Ace Handyman Services San Diego North County's website" [ref=f26e111] [cursor=pointer]:
+                        - /url: https://www.acehandymanservices.com/offices/san-diego-north-county?utm_source=google&utm_medium=gbp
+                        - generic [aria-hidden] [ref=f26e113]: 
+                        - generic [ref=f26e114]: Website
+                      - button "Get directions to Ace Handyman Services San Diego North County" [ref=f26e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f26e117]: 
+                        - generic [ref=f26e118]: Directions
+                  - link [ref=f26e119] [cursor=pointer]:
+                    - /url: https://book.servicetitan.com/qby95ef3v3a7kqp3na26kurf?rwg_token=AE37R_j2eXyh7UKSf7j5OqewVkuIGdvUgpT_7wvjcAhL62CkXvnppVUWVomf9DHrrRJ5lOtP6iPN-ccFcpdB59tcfsbf7trVqQ%3D%3D
+                    - generic [ref=f26e120]:
+                      - generic [aria-hidden] [ref=f26e121]: 
+                      - text: Book online
+              - article [ref=f26e124]:
+                - link "The Handyman San Diego" [ref=f26e125] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/The+Handyman+San+Diego/data=!4m7!3m6!1s0x84e24f9312f03f99:0x68a20826da49d49d!8m2!3d32.7965603!4d-117.1970662!16s%2Fg%2F11vprqjfgv!19sChIJmT_wEpNP4oQRndRJ2iYIomg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: The Handyman San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 60 Reviews": 4.9(60)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 4812 Jumano Ave
+                              - generic:
+                                - generic: Closed · Opens 9 AM Tue
+                                - generic: · (619) 363-5082
+                    - generic:
+                      - link "Visit The Handyman San Diego's website" [ref=f26e127] [cursor=pointer]:
+                        - /url: http://www.thehandymansandiego.com/
+                        - generic [aria-hidden] [ref=f26e129]: 
+                        - generic [ref=f26e130]: Website
+                      - button "Get directions to The Handyman San Diego" [ref=f26e131] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f26e133]: 
+                        - generic [ref=f26e134]: Directions
+              - article [ref=f26e137]:
+                - link "MM Pro Handyman" [ref=f26e138] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/MM+Pro+Handyman/data=!4m7!3m6!1s0x80deab0d144497c1:0xa9c77b95ae6c249d!8m2!3d32.7712241!4d-117.2035603!16s%2Fg%2F11tf8f5n6s!19sChIJwZdEFA2r3oARnSRsrpV7x6k?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: MM Pro Handyman
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 121 Reviews": 4.9(121)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 4000 Naples St
+                              - generic: Closed · Opens 8 AM Tue
+                    - generic:
+                      - link "Visit MM Pro Handyman's website" [ref=f26e140] [cursor=pointer]:
+                        - /url: http://mmprohandyman.com/
+                        - generic [aria-hidden] [ref=f26e142]: 
+                        - generic [ref=f26e143]: Website
+                      - button "Get directions to MM Pro Handyman" [ref=f26e144] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f26e146]: 
+                        - generic [ref=f26e147]: Directions
+              - article [ref=f26e150]:
+                - link "Install Paul" [ref=f26e151] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Install+Paul/data=!4m7!3m6!1s0x224f6b9c9e04ff:0x29d61839e352730f!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11t0ns5s5j!19sChIJ_wSenGtPIgARD3NS4zkY1ik?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Install Paul
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 27 Reviews": 5.0(27)
+                            - generic:
+                              - generic: Handyman/Handywoman/Handyperson
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (571) 481-6490
+                    - generic:
+                      - link "Visit Install Paul's website" [ref=f26e153] [cursor=pointer]:
+                        - /url: http://installpaul.com/
+                        - generic [aria-hidden] [ref=f26e155]: 
+                        - generic [ref=f26e156]: Website
+                      - button "Get directions to Install Paul" [ref=f26e157] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f26e159]: 
+                        - generic [ref=f26e160]: Directions
+              - article [ref=f26e163]:
+                - link "Anatoli's Handyman Service, LLC" [ref=f26e164] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Anatoli%27s+Handyman+Service,+LLC/data=!4m7!3m6!1s0x80deab98942f2d0f:0x7d269743be7845bb!8m2!3d32.7494805!4d-117.2247874!16s%2Fg%2F11fwc10380!19sChIJDy0vlJir3oARu0V4vkOXJn0?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Anatoli's Handyman Service, LLC
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 60 Reviews": 4.9(60)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · Worden St
+                              - generic: (858) 987-3466
+                    - button "Get directions to Anatoli's Handyman Service, LLC" [ref=f26e166] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f26e168]: 
+                      - generic [ref=f26e169]: Directions
+              - article [ref=f26e172]:
+                - link "Handymen Plus" [ref=f26e173] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Handymen+Plus/data=!4m7!3m6!1s0x80dc01ea1f807cbf:0xc917cd6ee810c23!8m2!3d32.7943647!4d-117.2455749!16s%2Fg%2F11c1vj5ttm!19sChIJv3yAH-oB3IARIwyB7tZ8kQw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Handymen Plus
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1 Reviews": 5.0(1)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 1261 Reed Ave
+                              - generic: (858) 518-1815
+                    - button "Get directions to Handymen Plus" [ref=f26e175] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f26e177]: 
+                      - generic [ref=f26e178]: Directions
+              - article [ref=f26e181]:
+                - link "Bengel Handyman Services" [ref=f26e182] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Bengel+Handyman+Services/data=!4m7!3m6!1s0x80dc017aa9ba037d:0xd8bcf3200b75d725!8m2!3d32.8139701!4d-117.2412587!16s%2Fg%2F11x8zsdg91!19sChIJfQO6qXoB3IARJdd1CyDzvNg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Bengel Handyman Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 15 Reviews": 5.0(15)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 5256 Soledad Rd
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 926-8452
+                    - generic:
+                      - link "Visit Bengel Handyman Services's website" [ref=f26e184] [cursor=pointer]:
+                        - /url: https://bengelhandymanservices.com/
+                        - generic [aria-hidden] [ref=f26e186]: 
+                        - generic [ref=f26e187]: Website
+                      - button "Get directions to Bengel Handyman Services" [ref=f26e188] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f26e190]: 
+                        - generic [ref=f26e191]: Directions
+              - article [ref=f26e194]:
+                - link "San Diego Handyman" [ref=f26e195] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Handyman/data=!4m7!3m6!1s0x80dc01ef06955555:0xc2923a858f117154!8m2!3d32.7896621!4d-117.2526937!16s%2Fg%2F11ghr10917!19sChIJVVWVBu8B3IARVHERj4U6ksI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Handyman
+                            - generic: No reviews
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 3999 Mission Blvd
+                              - generic: (619) 777-7777
+                    - generic:
+                      - link "Visit San Diego Handyman's website" [ref=f26e197] [cursor=pointer]:
+                        - /url: http://www.sandiegohandyman.net/about-us/privacy/
+                        - generic [aria-hidden] [ref=f26e199]: 
+                        - generic [ref=f26e200]: Website
+                      - button "Get directions to San Diego Handyman" [ref=f26e201] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f26e203]: 
+                        - generic [ref=f26e204]: Directions
+              - article [ref=f26e207]:
+                - link "24/7 handyman services" [ref=f26e208] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/24%2F7+handyman+services/data=!4m7!3m6!1s0x80d954538bbebbd1:0xf0f08f3d84a33c0d!8m2!3d32.9171601!4d-117.1470654!16s%2Fg%2F1tksnnhs!19sChIJ0bu-i1NU2YARDTyjhD2P8PA?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: 24/7 handyman services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 116 Reviews": 4.9(116)
+                            - generic:
+                              - generic: Handyman/Handywoman/Handyperson
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 665-2728
+                    - generic:
+                      - link "Visit 24/7 handyman services's website" [ref=f26e210] [cursor=pointer]:
+                        - /url: http://www.handymanservice247.com/
+                        - generic [aria-hidden] [ref=f26e212]: 
+                        - generic [ref=f26e213]: Website
+                      - button "Get directions to 24/7 handyman services" [ref=f26e214] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f26e216]: 
+                        - generic [ref=f26e217]: Directions
+              - article [ref=f26e220]:
+                - link "Easy Go Services" [ref=f26e221] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Easy+Go+Services/data=!4m7!3m6!1s0x80dc01534369764b:0x8ec67f2b5abecbde!8m2!3d32.7997184!4d-117.2511449!16s%2Fg%2F11xs09wp0_!19sChIJS3ZpQ1MB3IAR3su-Wit_xo4?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Easy Go Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 17 Reviews": 5.0(17)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 1058 Emerald St
+                              - generic: (619) 990-9769
+                    - button "Get directions to Easy Go Services" [ref=f26e223] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f26e225]: 
+                      - generic [ref=f26e226]: Directions
+              - article [ref=f26e229]:
+                - link "JRM Handyman Services" [ref=f26e230] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/JRM+Handyman+Services/data=!4m7!3m6!1s0x80dc017efd01d6b1:0x458e64841d3cda95!8m2!3d32.8146282!4d-117.1919468!16s%2Fg%2F11jz44lv84!19sChIJsdYB_X4B3IARldo8HYRkjkU?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: JRM Handyman Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 19 Reviews": 5.0(19)
+                            - generic:
+                              - generic:
+                                - generic: Handyman/Handywoman/Handyperson
+                                - generic: · 4668 Mt Bigelow Dr
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (858) 598-4087
+                    - button "Get directions to JRM Handyman Services" [ref=f26e232] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f26e234]: 
+                      - generic [ref=f26e235]: Directions
+                  - link [ref=f26e236] [cursor=pointer]:
+                    - /url: https://clienthub.getjobber.com/hubs/edbb0c1b-0040-4cbd-a101-2f9a4e358de7/public/requests/740857/new?rwg_token=AE37R_jRV_nHroyGRDIqthUOIprt-IBtS06Nw2jNPLakWtr1eA6sNCRug-B94Ma1Y7mQU26dilcN52bsYPhs2XXOXhw4XNcYgg%3D%3D
+                    - generic [ref=f26e237]:
+                      - generic [aria-hidden] [ref=f26e238]: 
+                      - text: Book online
+              - generic [ref=f26e273]:
+                - generic [aria-hidden] [ref=f26e275]: 
+                - generic [ref=f26e276]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f26e277] [cursor=pointer]
+            - checkbox [ref=f26e280] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f26e282]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f26e284] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f26e285]: 
+    - generic [ref=f26e289]:
+      - button "Google apps" [ref=f26e293] [cursor=pointer]
+      - link "Sign in" [ref=f26e297] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fhandyman%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f26e300] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f26e302]: 
+        - generic [ref=f26e304] [cursor=pointer]:
+          - button "Zoom in" [ref=f26e305]:
+            - generic [aria-hidden] [ref=f26e307]: 
+          - button "Zoom out" [ref=f26e308]:
+            - generic [aria-hidden] [ref=f26e310]: 
+      - button "Browse Street View images" [ref=f26e316]
+      - generic [ref=f26e318]:
+        - generic "Interactive map" [ref=f26e319]
+        - generic [ref=f26e323] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f26e324]: 
+          - generic [ref=f26e325]: Layers
+        - button "Layers" [ref=f26e326] [cursor=pointer]
+    - generic [ref=f26e328]:
+      - contentinfo [ref=f26e331]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f26e332] [cursor=pointer]
+        - button "Terms" [ref=f26e333] [cursor=pointer]
+        - button "Privacy" [ref=f26e334] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f26e335] [cursor=pointer]
+      - button "5 mi" [ref=f26e337] [cursor=pointer]

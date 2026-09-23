@@ -1,0 +1,436 @@
+- generic "Google Maps" [ref=f60e9]:
+  - generic [ref=f60e3]:
+    - application "Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key." [ref=f60e10]
+    - search [ref=f60e15]:
+      - generic [ref=f60e16]:
+        - combobox [ref=f60e18]: garage door repair san diego ca
+        - button "Search" [ref=f60e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f60e21]: 
+        - button "Close" [ref=f60e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f60e24]: 
+    - region "Available filters for this search" [ref=f60e31]:
+      - generic [ref=f60e34]:
+        - button "Rating" [ref=f60e36] [cursor=pointer]:
+          - generic [ref=f60e37]:
+            - generic [aria-hidden] [ref=f60e38]: 
+            - generic [ref=f60e39]: Rating
+            - generic [aria-hidden] [ref=f60e40]: 
+        - button "Hours" [ref=f60e42] [cursor=pointer]:
+          - generic [ref=f60e43]:
+            - generic [aria-hidden] [ref=f60e44]: 
+            - generic [ref=f60e45]: Hours
+            - generic [aria-hidden] [ref=f60e46]: 
+        - button "All filters" [ref=f60e48] [cursor=pointer]:
+          - generic [ref=f60e49]:
+            - generic [aria-hidden] [ref=f60e50]: 
+            - generic [ref=f60e51]: All filters
+    - generic [ref=f60e52]:
+      - generic [ref=f60e53]:
+        - list [ref=f60e55]:
+          - listitem [ref=f60e56]:
+            - button "Menu" [ref=f60e57] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f60e59]: 
+          - listitem [ref=f60e60]:
+            - button "Saved" [ref=f60e61] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f60e63]: 
+          - listitem [ref=f60e66]:
+            - button "Recents" [disabled] [ref=f60e67]:
+              - generic [aria-hidden] [ref=f60e69]: 
+          - listitem [ref=f60e73]:
+            - button "Get app" [ref=f60e74] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f60e76]: 
+        - main [ref=f60e83]:
+          - generic [ref=f60e84]:
+            - feed "Results for garage door repair san diego ca" [ref=f60e85]:
+              - generic [ref=f60e86]:
+                - generic [ref=f60e88]:
+                  - heading "Results" [level=1] [ref=f60e89]
+                  - button "Learn more about legal disclosure regarding public reviews on Google Maps" [ref=f60e93]:
+                    - generic [aria-hidden] [ref=f60e97]: 
+                - button "Share" [ref=f60e101]:
+                  - generic [ref=f60e102] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f60e103]: 
+                    - generic [ref=f60e104]: Share
+              - article [ref=f60e106]:
+                - link "Precision Garage Door of San Diego" [ref=f60e107] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Precision+Garage+Door+of+San+Diego/data=!4m7!3m6!1s0x80dbf8b40cbaaab1:0xb395074cea1d68e9!8m2!3d32.886806!4d-117.157146!16s%2Fg%2F1pp2twfk7!19sChIJsaq6DLT424AR6Wgd6kwHlbM?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsored" [level=1]:
+                        - button "Why this ad?" [ref=f60e109] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f60e110]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Precision Garage Door of San Diego
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 3,034 Reviews": 4.9(3,034)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic: · 9030 Kenamar Drive
+                              - generic:
+                                - generic: Closes soon · 11 PM · Opens 5 AM Tue
+                                - generic: · (619) 848-0054
+                    - generic:
+                      - link "Visit Precision Garage Door of San Diego's website" [ref=f60e111] [cursor=pointer]:
+                        - /url: /aclk?sa=L&ai=DChsSEwjd08CMuIGXAxVpl-4BHfWdMOUYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI3dPAjLiBlwMVaZfuAR31nTDlEBAYASAAEgIBSfD_BwE&cid=CAAS0wHkaIdvaixYI2tGAydlSXndCK-bl5X6GrCqNPDurGdoEJiqnA0uKgLSfPYoQWITg0g5MiAMy6V_2RPXZJP2cTMHzzc7ACsCxSOiphU3wrjwwuIDuE78pxJybZjPt_Vf0UGYbyUj9dZGLl40SWQTcleksEc--5HkvNWwO-09RvspjiR4HWQHEaeTWIKySANnGhUMpQDn0U7kZI7Bv8dzIyYSBYCtzVY3y330c73SXRLJmacbbyqOusItIrA1LeoXPnZUWDi9kcgqIqMf6fgkVCvhgXrq&cce=2&category=acrcp_v1_32&sig=AOD64_0-WD7g20dZbgWAQkEmLJlQ1uQyCQ&adurl&q&ctype=99&nis=5
+                        - generic [aria-hidden] [ref=f60e113]: 
+                        - generic [ref=f60e114]: Website
+                      - button "Get directions to Precision Garage Door of San Diego" [ref=f60e115] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f60e117]: 
+                        - generic [ref=f60e118]: Directions
+                  - link "Ad · We Fix Any Part of the Door · Why Wait Any Longer to Call for Help? Get Your <b>Garage Door</b> Fixed Now · Visit Site · garagedoorssandiego.net/Garage-Door/Repair" [ref=f60e123] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwjd08CMuIGXAxVpl-4BHfWdMOUYACICCAEQABoCZHo&co=1&ase=2&gclid=EAIaIQobChMI3dPAjLiBlwMVaZfuAR31nTDlEBAYASAAEgIBSfD_BwE&cid=CAAS0wHkaIdvaixYI2tGAydlSXndCK-bl5X6GrCqNPDurGdoEJiqnA0uKgLSfPYoQWITg0g5MiAMy6V_2RPXZJP2cTMHzzc7ACsCxSOiphU3wrjwwuIDuE78pxJybZjPt_Vf0UGYbyUj9dZGLl40SWQTcleksEc--5HkvNWwO-09RvspjiR4HWQHEaeTWIKySANnGhUMpQDn0U7kZI7Bv8dzIyYSBYCtzVY3y330c73SXRLJmacbbyqOusItIrA1LeoXPnZUWDi9kcgqIqMf6fgkVCvhgXrq&cce=2&category=acrcp_v1_32&sig=AOD64_0-WD7g20dZbgWAQkEmLJlQ1uQyCQ&adurl=&rct=j&nis=5
+                    - generic [ref=f60e125]:
+                      - generic [ref=f60e126]:
+                        - generic [ref=f60e127]: We Fix Any Part of the Door
+                        - generic [ref=f60e128]: Why Wait Any Longer to Call for Help? Get Your Garage Door Fixed Now
+                      - generic [ref=f60e129]: Visit Site
+              - article [ref=f60e134]:
+                - link "John's Garage Door Services" [ref=f60e135] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/John%27s+Garage+Door+Services/data=!4m7!3m6!1s0x46d01ce905aca675:0xf44b64037588137c!8m2!3d32.7959618!4d-117.1938515!16s%2Fg%2F11s4v6bln4!19sChIJdaasBekc0EYRfBOIdQNkS_Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: John's Garage Door Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 1,806 Reviews": 5.0(1,806)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic: · 3052 Clairemont Dr Ste 5
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 880-5480
+                    - generic:
+                      - link "Visit John's Garage Door Services's website" [ref=f60e137] [cursor=pointer]:
+                        - /url: https://johnsgaragesd.com/
+                        - generic [aria-hidden] [ref=f60e139]: 
+                        - generic [ref=f60e140]: Website
+                      - button "Get directions to John's Garage Door Services" [ref=f60e141] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f60e143]: 
+                        - generic [ref=f60e144]: Directions
+                  - link [ref=f60e145] [cursor=pointer]:
+                    - /url: https://online-booking.workiz.com/?ac=b101ce4ef81ee9459afa04d089d31a9188879cb4efa44e07ffd371817cce689b&fromgls=true&rwg_token=AE37R_gRkNs7JB_gVAxXs20pJHJK4NYiL4o0_zRIkAZTi46Esnc_xurdtKReN9b9ZYaHXZQDX2drLhcuAiT0zl1_7n8seygOww%3D%3D
+                    - generic [ref=f60e146]:
+                      - generic [aria-hidden] [ref=f60e147]: 
+                      - text: Book online
+              - article [ref=f60e150]:
+                - link "Coastal Garage Doors" [ref=f60e151] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Coastal+Garage+Doors/data=!4m7!3m6!1s0x80dc01e9a05b34cd:0xf4bf2669c24f9c64!8m2!3d32.7929049!4d-117.2456042!16s%2Fg%2F11y00yy8b!19sChIJzTRboOkB3IARZJxPwmkmv_Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Coastal Garage Doors
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 32 Reviews": 5.0(32)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f60e153] [cursor=pointer]:
+                                    - generic [ref=f60e154]: 
+                                - generic: · 1238 Pacific Beach Dr
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 507-0140
+                    - generic:
+                      - link "Visit Coastal Garage Doors's website" [ref=f60e155] [cursor=pointer]:
+                        - /url: https://coastalgaragedoors.com/?utm_source=gbp&utm_medium=local
+                        - generic [aria-hidden] [ref=f60e157]: 
+                        - generic [ref=f60e158]: Website
+                      - button "Get directions to Coastal Garage Doors" [ref=f60e159] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f60e161]: 
+                        - generic [ref=f60e162]: Directions
+              - article [ref=f60e165]:
+                - link "Shon Garage Door Repair & Services Inc." [ref=f60e166] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Shon+Garage+Door+Repair+%26+Services+Inc./data=!4m7!3m6!1s0x80deab343c49197b:0x722338d5a7692f92!8m2!3d32.762618!4d-117.2511926!16s%2Fg%2F11qygc3kxl!19sChIJexlJPDSr3oARki9pp9U4I3I?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Shon Garage Door Repair & Services Inc.
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 129 Reviews": 5.0(129)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic: · 2756 Mission Blvd
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 779-4332
+                    - generic:
+                      - link "Visit Shon Garage Door Repair & Services Inc.'s website" [ref=f60e168] [cursor=pointer]:
+                        - /url: https://shongaragedoors.com/
+                        - generic [aria-hidden] [ref=f60e170]: 
+                        - generic [ref=f60e171]: Website
+                      - button "Get directions to Shon Garage Door Repair & Services Inc." [ref=f60e172] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f60e174]: 
+                        - generic [ref=f60e175]: Directions
+              - article [ref=f60e178]:
+                - link "San Diego Garage Door Repair" [ref=f60e179] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/San+Diego+Garage+Door+Repair/data=!4m7!3m6!1s0x80dc01654d7f0aef:0xcc2eeaac89c6bfd5!8m2!3d32.78082!4d-117.253213!16s%2Fg%2F11lnqhp0yb!19sChIJ7wp_TWUB3IAR1b_GiazqLsw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: San Diego Garage Door Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.8 stars 40 Reviews": 4.8(40)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic: · 3617 Ocean Front Walk Apt f
+                              - generic:
+                                - generic: Closed · Opens 7 AM Tue
+                                - generic: · (858) 630-2058
+                    - button "Get directions to San Diego Garage Door Repair" [ref=f60e181] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f60e183]: 
+                      - generic [ref=f60e184]: Directions
+              - article [ref=f60e187]:
+                - link "Doorup Garage Door Repair" [ref=f60e188] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Doorup+Garage+Door+Repair/data=!4m7!3m6!1s0x684bd601b9fe0351:0x160b8a47a8ea7e47!8m2!3d32.8586794!4d-117.1277274!16s%2Fg%2F11zd2xsnxd!19sChIJUQP-uQHWS2gRR37qqEeKCxY?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Doorup Garage Door Repair
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "5.0 stars 95 Reviews": 5.0(95)
+                            - generic:
+                              - generic: Garage door supplier
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 666-6054
+                    - generic:
+                      - link "Visit Doorup Garage Door Repair's website" [ref=f60e190] [cursor=pointer]:
+                        - /url: https://doorupsd.com/
+                        - generic [aria-hidden] [ref=f60e192]: 
+                        - generic [ref=f60e193]: Website
+                      - button "Get directions to Doorup Garage Door Repair" [ref=f60e194] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f60e196]: 
+                        - generic [ref=f60e197]: Directions
+              - article [ref=f60e200]:
+                - link "LaJolla Garage Door Repair Service" [ref=f60e201] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/LaJolla+Garage+Door+Repair+Service/data=!4m7!3m6!1s0x80dc01a041ccdb79:0x7cc029aca06fa6c8!8m2!3d32.8167917!4d-117.2547371!16s%2Fg%2F11z7cm8n9c!19sChIJedvMQaAB3IARyKZvoKwpwHw?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: LaJolla Garage Door Repair Service
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 76 Reviews": 4.9(76)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic: · 1656 Bahia Vista Way
+                              - generic:
+                                - generic: Open · Closes 11:30 PM
+                                - generic: · (619) 319-9640
+                    - button "Get directions to LaJolla Garage Door Repair Service" [ref=f60e203] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f60e205]: 
+                      - generic [ref=f60e206]: Directions
+              - article [ref=f60e209]:
+                - link "Garage Door Medics" [ref=f60e210] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Garage+Door+Medics/data=!4m7!3m6!1s0x80deaa9482ac2b05:0x89bd1a8f3d27ce83!8m2!3d32.7647154!4d-117.1989173!16s%2Fg%2F1tj5lgdg!19sChIJBSusgpSq3oARg84nPY8avYk?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Garage Door Medics
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 2,771 Reviews": 4.9(2,771)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f60e212] [cursor=pointer]:
+                                    - generic [ref=f60e213]: 
+                                - generic: · 5319 Grant St
+                              - generic:
+                                - generic: Closed · Opens 8 AM Tue
+                                - generic: · (619) 273-0530
+                    - generic:
+                      - link "Visit Garage Door Medics's website" [ref=f60e214] [cursor=pointer]:
+                        - /url: https://gdmedics.com/san-diego-ca-garage-door-service/?utm_campaign=gmb
+                        - generic [aria-hidden] [ref=f60e216]: 
+                        - generic [ref=f60e217]: Website
+                      - button "Get directions to Garage Door Medics" [ref=f60e218] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f60e220]: 
+                        - generic [ref=f60e221]: Directions
+                  - link [ref=f60e222] [cursor=pointer]:
+                    - /url: https://book.servicetitan.com/pdllwkzg7vx6wy8zro7ytrix?rwg_token=AE37R_jbVGyIXNTU1SpQN3mAOPpxsqh-Pry5dKQ6AewjJjKuc2_jPZfovI8aV04_Y0PMoW_MWsaLQnEHHE2cZBCQVMbn24Mlkw%3D%3D
+                    - generic [ref=f60e223]:
+                      - generic [aria-hidden] [ref=f60e224]: 
+                      - text: Book online
+              - article [ref=f60e227]:
+                - link "Rockstar Garage Door Services" [ref=f60e228] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Rockstar+Garage+Door+Services/data=!4m7!3m6!1s0x80dc075484ef1891:0xa1e7c6731cd232cc!8m2!3d32.8249828!4d-117.1187081!16s%2Fg%2F11b7cgd4_5!19sChIJkRjvhFQH3IARzDLSHHPG56E?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Rockstar Garage Door Services
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 1,310 Reviews": 4.9(1,310)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f60e230] [cursor=pointer]:
+                                    - generic [ref=f60e231]: 
+                                - generic: · 4455 Murphy Canyon Rd Ste 100
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (619) 930-9854
+                    - generic:
+                      - link "Visit Rockstar Garage Door Services's website" [ref=f60e232] [cursor=pointer]:
+                        - /url: https://rsgaragedoorservices.com/
+                        - generic [aria-hidden] [ref=f60e234]: 
+                        - generic [ref=f60e235]: Website
+                      - button "Get directions to Rockstar Garage Door Services" [ref=f60e236] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f60e238]: 
+                        - generic [ref=f60e239]: Directions
+              - article [ref=f60e242]:
+                - link "Falcon Garage Doors" [ref=f60e243] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Falcon+Garage+Doors/data=!4m7!3m6!1s0x80deaaab9870441d:0xe2ceb64a382a553f!8m2!3d32.7907013!4d-117.1770395!16s%2Fg%2F1tf5f15z!19sChIJHURwmKuq3oARP1UqOEq2zuI?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Falcon Garage Doors
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 61 Reviews": 4.9(61)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic:
+                                  - text: ·
+                                  - img "Wheelchair accessible entrance" [ref=f60e245] [cursor=pointer]:
+                                    - generic [ref=f60e246]: 
+                                - generic: · 2628 Preece St
+                              - generic:
+                                - generic: Open 24 hours
+                                - generic: · (858) 346-6704
+                    - generic:
+                      - link "Visit Falcon Garage Doors's website" [ref=f60e247] [cursor=pointer]:
+                        - /url: http://www.falcondoors.com/
+                        - generic [aria-hidden] [ref=f60e249]: 
+                        - generic [ref=f60e250]: Website
+                      - button "Get directions to Falcon Garage Doors" [ref=f60e251] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f60e253]: 
+                        - generic [ref=f60e254]: Directions
+              - article [ref=f60e257]:
+                - link "All In One Garage Door" [ref=f60e258] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/All+In+One+Garage+Door/data=!4m7!3m6!1s0x80deab946fb04bb1:0x1844cd205fb9eeec!8m2!3d32.7478225!4d-117.2498371!16s%2Fg%2F11l1d0kzcc!19sChIJsUuwb5Sr3oAR7O65XyDNRBg?authuser=0&hl=en&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: All In One Garage Door
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4.9 stars 66 Reviews": 4.9(66)
+                            - generic:
+                              - generic:
+                                - generic: Garage door supplier
+                                - generic: "· 4986 Santa Monica Ave #2"
+                              - generic:
+                                - generic: Closes soon · 11 PM · Opens 6:30 AM Tue
+                                - generic: · (888) 251-6528
+                    - generic:
+                      - link "Visit All In One Garage Door's website" [ref=f60e260] [cursor=pointer]:
+                        - /url: https://www.allinone-garagedoor.com/
+                        - generic [aria-hidden] [ref=f60e262]: 
+                        - generic [ref=f60e263]: Website
+                      - button "Get directions to All In One Garage Door" [ref=f60e264] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f60e266]: 
+                        - generic [ref=f60e267]: Directions
+              - generic [ref=f60e302]:
+                - generic [aria-hidden] [ref=f60e304]: 
+                - generic [ref=f60e305]:
+                  - text: You're seeing a limited view of Google Maps.
+                  - button "See more" [ref=f60e306] [cursor=pointer]
+            - checkbox [ref=f60e309] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f60e311]: 
+              - text: Update results when map moves
+      - button "Collapse side panel" [ref=f60e313] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f60e314]: 
+    - generic [ref=f60e318]:
+      - button "Google apps" [ref=f60e322] [cursor=pointer]
+      - link "Sign in" [ref=f60e326] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fgarage%2Bdoor%2Brepair%2Bsan%2Bdiego%2Bca%3Fcoh%3D318247%26entry%3Dtt%26ved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Show Your Location" [ref=f60e329] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f60e331]: 
+        - generic [ref=f60e333] [cursor=pointer]:
+          - button "Zoom in" [ref=f60e334]:
+            - generic [aria-hidden] [ref=f60e336]: 
+          - button "Zoom out" [ref=f60e337]:
+            - generic [aria-hidden] [ref=f60e339]: 
+      - button "Browse Street View images" [ref=f60e345]
+      - generic [ref=f60e347]:
+        - generic "Interactive map" [ref=f60e348]
+        - generic [ref=f60e352] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f60e353]: 
+          - generic [ref=f60e354]: Layers
+        - button "Layers" [ref=f60e355] [cursor=pointer]
+    - generic [ref=f60e357]:
+      - contentinfo [ref=f60e360]:
+        - text: Map data ©2026 Google, INEGI
+        - button "United States" [ref=f60e361] [cursor=pointer]
+        - button "Terms" [ref=f60e362] [cursor=pointer]
+        - button "Privacy" [ref=f60e363] [cursor=pointer]
+        - button "Send Product Feedback" [ref=f60e364] [cursor=pointer]
+      - button "5 mi" [ref=f60e366] [cursor=pointer]

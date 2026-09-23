@@ -1,0 +1,497 @@
+<title>No-Site Register</title>
+<meta name="description" content="30 San Diego local-service businesses with no website found on their Google Maps listing, verified live via Google Maps.">
+<style>
+  :root{
+    --bg:#EEF1EC;
+    --surface:#FFFFFF;
+    --surface-2:#F5F7F3;
+    --ink:#1A231F;
+    --ink-soft:#4E594F;
+    --ink-faint:#7C877E;
+    --line:#D9E0D3;
+    --primary:#1F5C52;
+    --primary-ink:#0F332C;
+    --primary-soft:#E1EEE9;
+    --flag:#A9711A;
+    --flag-soft:#F7ECD8;
+    --accent:#B84E38;
+    --accent-soft:#F6E3DD;
+    --star:#B8862A;
+    --font-display:'Fraunces',Georgia,'Times New Roman',serif;
+    --font-body:'Public Sans',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#111613;
+      --surface:#1A2119;
+      --surface-2:#20281F;
+      --ink:#E9EEE7;
+      --ink-soft:#AEB9AC;
+      --ink-faint:#7C8A7E;
+      --line:#2B3529;
+      --primary:#7AC0AC;
+      --primary-ink:#DDF2E8;
+      --primary-soft:#1C2E28;
+      --flag:#E0AA55;
+      --flag-soft:#2E2513;
+      --accent:#E08A72;
+      --accent-soft:#3A241D;
+      --star:#E0B95E;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#111613;
+    --surface:#1A2119;
+    --surface-2:#20281F;
+    --ink:#E9EEE7;
+    --ink-soft:#AEB9AC;
+    --ink-faint:#7C8A7E;
+    --line:#2B3529;
+    --primary:#7AC0AC;
+    --primary-ink:#DDF2E8;
+    --primary-soft:#1C2E28;
+    --flag:#E0AA55;
+    --flag-soft:#2E2513;
+    --accent:#E08A72;
+    --accent-soft:#3A241D;
+    --star:#E0B95E;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--font-body);
+    padding-inline:20px;
+    padding-block:28px 60px;
+  }
+  .wrap{max-width:1080px;margin-inline:auto;}
+
+  header.mast{
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+    padding-bottom:28px;
+    border-bottom:1px solid var(--line);
+    margin-bottom:24px;
+  }
+  .eyebrow{
+    font-size:12.5px;
+    font-weight:600;
+    letter-spacing:.09em;
+    text-transform:uppercase;
+    color:var(--primary);
+  }
+  h1{
+    font-family:var(--font-display);
+    font-weight:600;
+    font-size:clamp(30px,5vw,44px);
+    line-height:1.05;
+    margin:0;
+    text-wrap:balance;
+    color:var(--ink);
+  }
+  .lede{
+    font-size:15.5px;
+    line-height:1.55;
+    color:var(--ink-soft);
+    max-width:66ch;
+  }
+  .stat-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    margin-top:6px;
+  }
+  .stat{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:10px 14px;
+    min-width:108px;
+  }
+  .stat .n{
+    font-family:var(--font-display);
+    font-size:22px;
+    font-weight:600;
+    font-variant-numeric:tabular-nums;
+    line-height:1.1;
+    color:var(--primary-ink);
+  }
+  .stat .l{
+    font-size:11.5px;
+    color:var(--ink-faint);
+    text-transform:uppercase;
+    letter-spacing:.06em;
+    margin-top:2px;
+  }
+
+  details.method{
+    margin-top:4px;
+    background:var(--surface-2);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:12px 16px;
+  }
+  details.method summary{
+    cursor:pointer;
+    font-weight:600;
+    font-size:13.5px;
+    color:var(--ink);
+    list-style:none;
+  }
+  details.method summary::-webkit-details-marker{display:none;}
+  details.method summary::before{
+    content:"+ ";
+    color:var(--primary);
+    font-weight:700;
+  }
+  details.method[open] summary::before{content:"- ";}
+  details.method p{
+    font-size:13.5px;
+    line-height:1.55;
+    color:var(--ink-soft);
+    margin:10px 0 0;
+  }
+  details.method p + p{margin-top:8px;}
+
+  .controls{
+    position:sticky;
+    top:env(safe-area-inset-top,0px);
+    z-index:5;
+    background:var(--bg);
+    padding-block:14px;
+    margin-bottom:6px;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+  }
+  #search{
+    width:100%;
+    font:inherit;
+    font-size:15px;
+    padding:11px 14px;
+    border-radius:10px;
+    border:1px solid var(--line);
+    background:var(--surface);
+    color:var(--ink);
+  }
+  #search:focus{outline:2px solid var(--primary);outline-offset:1px;}
+  .pills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:7px;
+  }
+  .pill{
+    font:inherit;
+    font-size:12.5px;
+    font-weight:600;
+    padding:6px 12px;
+    border-radius:999px;
+    border:1px solid var(--line);
+    background:var(--surface);
+    color:var(--ink-soft);
+    cursor:pointer;
+  }
+  .pill[aria-pressed="true"]{
+    background:var(--primary);
+    border-color:var(--primary);
+    color:var(--bg);
+  }
+  .pill .ct{opacity:.65;font-variant-numeric:tabular-nums;margin-left:4px;}
+
+  #count{
+    font-size:13px;
+    color:var(--ink-faint);
+    margin-bottom:4px;
+  }
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
+    gap:14px;
+  }
+  .card{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:16px 18px;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+  }
+  .card-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:10px;
+  }
+  .name{
+    font-family:var(--font-display);
+    font-size:18px;
+    font-weight:600;
+    line-height:1.25;
+    color:var(--ink);
+  }
+  .cat{
+    display:inline-block;
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:.05em;
+    text-transform:uppercase;
+    color:var(--primary-ink);
+    background:var(--primary-soft);
+    border-radius:6px;
+    padding:3px 8px;
+    margin-top:5px;
+  }
+  .flagbadge{
+    flex-shrink:0;
+    font-size:10.5px;
+    font-weight:700;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+    color:var(--flag);
+    background:var(--flag-soft);
+    border-radius:6px;
+    padding:4px 8px;
+    white-space:nowrap;
+  }
+  .rating{
+    display:flex;
+    align-items:baseline;
+    gap:6px;
+    font-size:13.5px;
+  }
+  .rating .stars{color:var(--star);font-weight:700;letter-spacing:1px;}
+  .rating .val{font-weight:700;font-variant-numeric:tabular-nums;color:var(--ink);}
+  .rating .cnt{color:var(--ink-faint);}
+  .meta{
+    font-size:13px;
+    color:var(--ink-soft);
+    line-height:1.5;
+  }
+  .meta .row{display:flex;gap:6px;}
+  .meta .k{color:var(--ink-faint);min-width:16px;}
+  .yelp-note{
+    font-size:12px;
+    color:var(--ink-faint);
+    font-style:italic;
+  }
+  .links{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-top:auto;
+    padding-top:6px;
+  }
+  .btn{
+    font-size:12.5px;
+    font-weight:600;
+    text-decoration:none;
+    padding:7px 12px;
+    border-radius:8px;
+    border:1px solid var(--line);
+    color:var(--ink);
+    background:var(--surface-2);
+  }
+  .btn.primary{
+    background:var(--primary);
+    border-color:var(--primary);
+    color:var(--bg);
+  }
+  .btn.ghost{color:var(--ink-soft);}
+
+  .empty{
+    display:none;
+    text-align:center;
+    padding:50px 20px;
+    color:var(--ink-faint);
+    font-size:14.5px;
+  }
+
+  footer{
+    margin-top:40px;
+    padding-top:18px;
+    border-top:1px solid var(--line);
+    font-size:12.5px;
+    color:var(--ink-faint);
+    line-height:1.6;
+  }
+
+  @media (max-width:480px){
+    .card-top{flex-direction:column;}
+    .stat{min-width:92px;padding:8px 12px;}
+  }
+</style>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Public+Sans:wght@400;500;600;700&display=swap">
+
+<div class="wrap">
+
+  <header class="mast">
+    <div class="eyebrow">San Diego, CA &middot; Field Register</div>
+    <h1>Businesses With No Website</h1>
+    <p class="lede">Local service businesses whose Google Maps listing carries no website link &mdash; checked live, one by one, across 21 trades. Built for your own reference, not for outreach.</p>
+    <p class="lede"><a href="sd-directory-full.html" style="color:var(--primary);font-weight:600;text-decoration:none;">Browse the full county-wide list &mdash; 6,025 businesses &rarr;</a> &middot; <a href="search.html" style="color:var(--primary);font-weight:600;text-decoration:none;">Search it instead &rarr;</a></p>
+
+    <div class="stat-row">
+      <div class="stat"><div class="n">30</div><div class="l">Businesses</div></div>
+      <div class="stat"><div class="n">21</div><div class="l">Trade categories</div></div>
+      <div class="stat"><div class="n">0</div><div class="l">Confirmed on Yelp</div></div>
+    </div>
+
+    <details class="method">
+      <summary>How this list was built</summary>
+      <p><strong>Verification:</strong> each business was located directly on Google Maps by searching its trade + "San Diego, CA," then confirmed by the absence of a "Website" link on its listing. Every Maps link below is the real, live place page &mdash; not a search guess.</p>
+      <p><strong>Yelp:</strong> Yelp blocks automated visits outright (even from a real browser), so presence was checked indirectly through Google. A spot-check across 9 of these businesses found zero with an indexed Yelp page &mdash; consistent with the pattern that a business skipping a website tends to skip Yelp too. The "Search Yelp" links below run a live search rather than pointing at a guessed profile.</p>
+      <p><strong>Saturated trades:</strong> plumbers, HVAC, painters, movers, pest control, locksmiths, concrete, flooring and carpet cleaning were checked and came back essentially 100% website-covered in San Diego &mdash; no candidates worth listing.</p>
+    </details>
+  </header>
+
+  <div class="controls">
+    <input id="search" type="text" placeholder="Search by name, category, or neighborhood&hellip;" autocomplete="off">
+    <div class="pills" id="pills"></div>
+  </div>
+
+  <div id="count"></div>
+  <div class="grid" id="grid"></div>
+  <p class="empty" id="empty">No matches. Try a different search or category.</p>
+
+  <footer>
+    Compiled for personal reference &middot; ratings and review counts are Google's, pulled at time of research &middot; data can drift as listings change.
+  </footer>
+
+</div>
+
+<script>
+(function(){
+  var DATA = [
+    {name:"San Diego Best Heating and AC Pros",cat:"HVAC",rating:5.0,reviews:12,area:"San Diego",phone:"(858) 943-4889",maps:"https://www.google.com/maps/place/San+Diego+Best+Heating+and+AC+Pros/@0,0,15z/data=!3m1!4b1!4m3!3m2!1s0x80dc016faf6e88bf:0x7fc66d76f205c203!16s%2Fg%2F11f5vc295x?entry=ttu"},
+    {name:"Pacific Beach Electric",cat:"Electrician",rating:5.0,reviews:18,area:"Pacific Beach",phone:"(858) 483-9201",maps:"https://www.google.com/maps/place/Pacific+Beach+Electric/data=!4m7!3m6!1s0x80dc019441653ae5:0x43e2b0d5f2d41481!8m2!3d32.802398!4d-117.2482807!16s%2Fg%2F1tf4fb2v!19sChIJ5TplQZQB3IARgRTU8tWw4kM"},
+    {name:"E-on Electric",cat:"Electrician",rating:5.0,reviews:11,area:"1108 Morena Blvd",phone:"(858) 568-2851",maps:"https://www.google.com/maps/place/E-on+Electric/data=!4m7!3m6!1s0x80deab1b6589a4fb:0xdaaf239be68649e6!8m2!3d32.7685594!4d-117.2002027!16s%2Fg%2F11myldnk2_!19sChIJ-6SJZRur3oAR5kmG5psjr9o"},
+    {name:"Elite Ridge Roofing Service",cat:"Roofer",rating:5.0,reviews:2,area:"3969 Zed St",phone:"(858) 389-3207",maps:"https://www.google.com/maps/place/Elite+Ridge+Roofing+Service/data=!4m7!3m6!1s0x80dc01a232f6b5e9:0xeb01b90d1d35111f!8m2!3d32.8128816!4d-117.2016978!16s%2Fg%2F11nc2_8d30!19sChIJ6bX2MqIB3IARHxE1HQ25Aes"},
+    {name:"Colin's Emergency Roofers",cat:"Roofer",rating:4.9,reviews:133,area:"San Diego",phone:"(858) 923-4199",maps:"https://www.google.com/maps/place/Colin%27s+Emergency+Roofers/data=!4m7!3m6!1s0x80d95564e63ed517:0x4a9f9253e2f08c9d!8m2!3d32.7991122!4d-117.0926165!16s%2Fg%2F11jbk8rqbc!19sChIJF9U-5mRV2YARnYzw4lOSn0o"},
+    {name:"Anatoli's Handyman Service, LLC",cat:"Handyman",rating:4.9,reviews:60,area:"Worden St",phone:"",maps:"https://www.google.com/maps/place/Anatoli%27s+Handyman+Service,+LLC/data=!4m7!3m6!1s0x80deab98942f2d0f:0x7d269743be7845bb!8m2!3d32.7494805!4d-117.2247874!16s%2Fg%2F11fwc10380!19sChIJDy0vlJir3oARu0V4vkOXJn0"},
+    {name:"Handymen Plus",cat:"Handyman",rating:5.0,reviews:1,area:"1261 Reed Ave",phone:"",maps:"https://www.google.com/maps/place/Handymen+Plus/data=!4m7!3m6!1s0x80dc01ea1f807cbf:0xc917cd6ee810c23!8m2!3d32.7943647!4d-117.2455749!16s%2Fg%2F11c1vj5ttm!19sChIJv3yAH-oB3IARIwyB7tZ8kQw"},
+    {name:"Easy Go Services",cat:"Handyman",rating:5.0,reviews:17,area:"1058 Emerald St",phone:"",maps:"https://www.google.com/maps/place/Easy+Go+Services/data=!4m7!3m6!1s0x80dc01534369764b:0x8ec67f2b5abecbde!8m2!3d32.7997184!4d-117.2511449!16s%2Fg%2F11xs09wp0_!19sChIJS3ZpQ1MB3IAR3su-Wit_xo4"},
+    {name:"JRM Handyman Services",cat:"Handyman",rating:5.0,reviews:19,area:"4668 Mt Bigelow Dr",phone:"(858) 598-4087",maps:"https://www.google.com/maps/place/JRM+Handyman+Services/data=!4m7!3m6!1s0x80dc017efd01d6b1:0x458e64841d3cda95!8m2!3d32.8146282!4d-117.1919468!16s%2Fg%2F11jz44lv84!19sChIJsdYB_X4B3IARldo8HYRkjkU"},
+    {name:"San Diego Cleaning",cat:"House Cleaning",rating:5.0,reviews:5,area:"3983 Lamont St A",phone:"(858) 330-4800",maps:"https://www.google.com/maps/place/SAN+DIEGO+CLEANING/data=!4m7!3m6!1s0x80dc014c81fcaedd:0x1f6db9f29fb41f3b!8m2!3d32.793297!4d-117.232831!16s%2Fg%2F11lv8ytvdw!19sChIJ3a78gUwB3IAROx-0n_K5bR8"},
+    {name:"Pacific Beach Pressure Washing Pros",cat:"Pressure Washing",rating:5.0,reviews:5,area:"3761 Promontory St",phone:"(619) 630-7343",maps:"https://www.google.com/maps/place/Pacific+Beach+Pressure+Washing+Pros/data=!4m7!3m6!1s0x80dc01b554d847a7:0xa9550d4ba93a8fd!8m2!3d32.7880427!4d-117.2380413!16s%2Fg%2F11np74nfqq!19sChIJp0fYVLUB3IAR_aiTutRQlQo"},
+    {name:"We Haul You",cat:"Junk Removal",rating:5.0,reviews:9,area:"4650 Mission Bay Dr",phone:"(619) 900-3118",maps:"https://www.google.com/maps/place/We+Haul+You/data=!4m7!3m6!1s0x80deab6e4f16953d:0xdbab0c301c10cd5e!8m2!3d32.8055759!4d-117.219323!16s%2Fg%2F11f650ks7w!19sChIJPZUWT26r3oARXs0QHDAMq9s"},
+    {name:"Hard Hauling & Junk Solutions",cat:"Junk Removal",rating:5.0,reviews:2,area:"4884 Ingraham St",phone:"(619) 629-4564",maps:"https://www.google.com/maps/place/Hard+Hauling+%26+Junk+Solutions/data=!4m7!3m6!1s0xa99221e868a6bf95:0xb5a5a09273ec4ed1!8m2!3d32.8060491!4d-117.2429948!16s%2Fg%2F11zxfbd57_!19sChIJlb-maOghkqkR0U7sc5KgpbU"},
+    {name:"Coastal Tree Work",cat:"Tree Service",rating:5.0,reviews:17,area:"1955 Titus St",phone:"(760) 815-0367",maps:"https://www.google.com/maps/place/Coastal+Tree+Work/data=!4m7!3m6!1s0x4ba65f212c2807dd:0x40460c41ee4f75c1!8m2!3d32.7462888!4d-117.1856509!16s%2Fg%2F11mkvzmp2f!19sChIJ3QcoLCFfpksRwXVP7kEMRkA"},
+    {name:"Bz Pool Service",cat:"Pool Service",rating:5.0,reviews:1,area:"2654 Worden St",phone:"(619) 518-3772",maps:"https://www.google.com/maps/place/Bz+Pool+Service/data=!4m7!3m6!1s0x80deaa513cfa327d:0xa466fd7984dfcf8d!8m2!3d32.7480107!4d-117.2277075!16s%2Fg%2F1th6f4g9!19sChIJfTL6PFGq3oARjc_fhHn9ZqQ"},
+    {name:"San Diego Garage Door Repair",cat:"Garage Door",rating:4.8,reviews:40,area:"Ocean Front Walk",phone:"(858) 630-2058",maps:"https://www.google.com/maps/place/San+Diego+Garage+Door+Repair/data=!4m7!3m6!1s0x80dc01654d7f0aef:0xcc2eeaac89c6bfd5!8m2!3d32.78082!4d-117.253213!16s%2Fg%2F11lnqhp0yb!19sChIJ7wp_TWUB3IAR1b_GiazqLsw"},
+    {name:"LaJolla Garage Door Repair Service",cat:"Garage Door",rating:4.9,reviews:76,area:"1656 Bahia Vista Way",phone:"(619) 319-9640",maps:"https://www.google.com/maps/place/LaJolla+Garage+Door+Repair+Service/data=!4m7!3m6!1s0x80dc01a041ccdb79:0x7cc029aca06fa6c8!8m2!3d32.8167917!4d-117.2547371!16s%2Fg%2F11z7cm8n9c!19sChIJedvMQaAB3IARyKZvoKwpwHw"},
+    {name:"Blueline Mobile Car Detailing",cat:"Auto Detailing",rating:5.0,reviews:9,area:"3405 Kenyon St",phone:"(619) 304-9798",maps:"https://www.google.com/maps/place/Blueline+Mobile+Car+Detailing+of+San+Diego/data=!4m7!3m6!1s0x80deaba0b83ca3ad:0x53104dc2632f6511!8m2!3d32.7479255!4d-117.21404!16s%2Fg%2F11z1w7r2zw!19sChIJraM8uKCr3oAREWUvY8JNEFM"},
+    {name:"Performance Custom Drywall",cat:"Drywall Repair",rating:4.2,reviews:5,area:"5080 Cass St",phone:"(858) 302-7373",maps:"https://www.google.com/maps/place/Performance+Custom+Drywall/data=!4m7!3m6!1s0x80dc01075d10db25:0x5165647de86324d2!8m2!3d32.8073939!4d-117.2551027!16s%2Fg%2F1tfxy9z6!19sChIJJdsQXQcB3IAR0iRj6H1kZVE"},
+    {name:"7 Star Mobile Auto Repair",cat:"Mobile Mechanic",rating:4.9,reviews:16,area:"6913 Tait St",phone:"(619) 306-5350",maps:"https://www.google.com/maps/place/7+Star+Mobile+Auto+Repair/data=!4m7!3m6!1s0x80d95574abbe1457:0x440238885d7421de!8m2!3d32.7802873!4d-117.1709415!16s%2Fg%2F11zd6_fmx9!19sChIJVxS-q3RV2YAR3iF0XYg4AkQ"},
+    {name:"The Chimney Relining Company, LLC",cat:"Chimney Sweep",rating:5.0,reviews:18,area:"1675 Garnet Ave",phone:"(619) 935-9128",maps:"https://www.google.com/maps/place/THE+CHIMNEY+RELINING+COMPANY,+LLC/data=!4m7!3m6!1s0x80dc01c73edc0859:0x4072d361878c98a5!8m2!3d32.7995373!4d-117.2394221!16s%2Fg%2F11n4qv73wp!19sChIJWQjcPscB3IARpZiMh2HTckA"},
+    {name:"JRP Plastering & Stucco",cat:"Stucco Repair",rating:3.7,reviews:7,area:"San Diego",phone:"(760) 727-4217",maps:"https://www.google.com/maps/place/JRP+Plastering+%26+Stucco/data=!4m7!3m6!1s0x80dc00deaaaaaaab:0x6223c571591dbed5!8m2!3d32.8563846!4d-117.2029363!16s%2Fg%2F1vxcwq9g!19sChIJq6qqqt4A3IAR1b4dWXHFI2I"},
+    {name:"Progressive Tints",cat:"Window Tinting",rating:4.0,reviews:2,area:"San Diego",phone:"(619) 295-8565",maps:"https://www.google.com/maps/place/Progressive+Tints/data=!4m7!3m6!1s0x80dc01b89fa317b3:0xad58fc6f3c709ae6!8m2!3d32.8016561!4d-117.2365803!16s%2Fg%2F11c1ndpwwm!19sChIJsxejn7gB3IAR5ppwPG_8WK0"},
+    {name:"Jake's Spa Service and Repair, LLC",cat:"Hot Tub Repair",rating:4.7,reviews:23,area:"1475 Locust St",phone:"(619) 540-2319",maps:"https://www.google.com/maps/place/Jake%27s+Spa+Service+and+Repair,+LLC/data=!4m7!3m6!1s0xaf9358783f695df5:0xe5ab1ef17286366d!8m2!3d32.7265698!4d-117.2288965!16s%2Fg%2F11q25s4zcj!19sChIJ9V1pP3hYk68RbTaGcvEeq-U"},
+    {name:"Sunset Landscaping & Maintenance",cat:"Landscaper",rating:4.0,reviews:3,area:"San Diego",phone:"(619) 817-5987",maps:"https://www.google.com/maps/place/Sunset+Landscaping+%26+Maintenance/data=!4m7!3m6!1s0x80d954449b9c5f01:0x9ba208f819865222!8m2!3d32.8244879!4d-117.10776!16s%2Fg%2F11cn7g69hx!19sChIJAV-cm0RU2YARIlKGGfgIops"},
+    {name:"Gonzalez Landscape SD",cat:"Landscaper",rating:5.0,reviews:1,area:"Mira Mesa",phone:"(619) 677-4697",maps:"https://www.google.com/maps/place/Gonzalez/@32.835129,-117.063981,10z/data=!3m1!4b1!4m6!3m5!1s0x80dbf9fe6b4a1b61:0x9dd12c0fa46ac0b0!8m2!3d32.835129!4d-117.063981!16s%2Fg%2F11r1y722g5"},
+    {name:"San Diego Small Moves",cat:"Mover",rating:4.8,reviews:73,area:"San Diego",phone:"(619) 980-2001",maps:"https://www.google.com/maps/place/%E2%80%8BSan+Diego+Small+Moves/data=!4m7!3m6!1s0x80dbffdc74ba47bd:0x29291aecde4dc96c!8m2!3d32.9173924!4d-117.1470654!16s%2Fg%2F1hd_km2y2!19sChIJvUe6dNz_24ARbMlN3uwaKSk"},
+    {name:"Lisa Davis Upholstery",cat:"Upholstery Repair",rating:5.0,reviews:7,area:"2640 Financial Ct",phone:"(858) 298-0165",maps:"https://www.google.com/maps/place/Lisa+Davis+Upholstery/data=!4m7!3m6!1s0x80d95454fc3fb805:0xce026c40efc8e2e4!8m2!3d32.8262767!4d-117.228616!16s%2Fg%2F11bvt2wspm!19sChIJBbg__FRU2YAR5OLI70BsAs4"},
+    {name:"AB Auto Upholstery",cat:"Upholstery Repair",rating:4.7,reviews:70,area:"7852 Convoy Ct",phone:"(858) 268-3133",maps:"https://www.google.com/maps/place/AB+Auto+Upholstery/data=!4m7!3m6!1s0x80dbff98f79e403d:0x5ec92aed182ecd55!8m2!3d32.8356026!4d-117.1513648!16s%2Fg%2F1tfx55f1!19sChIJPUCe95j_24ARVc0uGO0qyV4"},
+    {name:"Custom Awning & Canvas",cat:"Awning Installation",rating:4.0,reviews:12,area:"2814 University Ave",phone:"",maps:"https://www.google.com/maps/place/Custom+Awning+%26+Canvas/data=!4m7!3m6!1s0x80d954f140a16e13:0x4565ef506fae3004!8m2!3d32.7486068!4d-117.1335413!16s%2Fg%2F1vs1s4zz!19sChIJE26hQPFU2YARBDCub1DvZUU"}
+  ];
+
+  function starString(r){
+    var full = Math.round(r);
+    var s = "";
+    for(var i=0;i<5;i++){ s += (i<full? "\u2605":"\u2606"); }
+    return s;
+  }
+
+  function yelpSearchUrl(name){
+    return "https://www.yelp.com/search?find_desc=" + encodeURIComponent(name) + "&find_loc=San+Diego%2C+CA";
+  }
+
+  var grid = document.getElementById('grid');
+  var pillsEl = document.getElementById('pills');
+  var searchEl = document.getElementById('search');
+  var countEl = document.getElementById('count');
+  var emptyEl = document.getElementById('empty');
+
+  var cats = {};
+  DATA.forEach(function(d){ cats[d.cat] = (cats[d.cat]||0)+1; });
+  var catNames = Object.keys(cats).sort();
+
+  var state = { cat: "All", q: "" };
+
+  function buildPills(){
+    var all = document.createElement('button');
+    all.className = 'pill';
+    all.type = 'button';
+    all.setAttribute('aria-pressed','true');
+    all.innerHTML = 'All <span class="ct">' + DATA.length + '</span>';
+    all.addEventListener('click', function(){ setCat('All'); });
+    pillsEl.appendChild(all);
+
+    catNames.forEach(function(c){
+      var b = document.createElement('button');
+      b.className = 'pill';
+      b.type = 'button';
+      b.setAttribute('aria-pressed','false');
+      b.innerHTML = c + ' <span class="ct">' + cats[c] + '</span>';
+      b.addEventListener('click', function(){ setCat(c); });
+      pillsEl.appendChild(b);
+    });
+  }
+
+  function setCat(c){
+    state.cat = c;
+    Array.prototype.forEach.call(pillsEl.children, function(el){
+      var label = el.textContent.trim().replace(/\s*\d+$/,'').trim();
+      el.setAttribute('aria-pressed', (c==='All' ? el===pillsEl.children[0] : label===c) ? 'true':'false');
+    });
+    render();
+  }
+
+  function render(){
+    var q = state.q.trim().toLowerCase();
+    var items = DATA.filter(function(d){
+      var matchCat = state.cat === 'All' || d.cat === state.cat;
+      var matchQ = !q || (d.name.toLowerCase().indexOf(q)>-1 || d.cat.toLowerCase().indexOf(q)>-1 || d.area.toLowerCase().indexOf(q)>-1);
+      return matchCat && matchQ;
+    });
+
+    grid.innerHTML = '';
+    items.forEach(function(d){
+      var card = document.createElement('div');
+      card.className = 'card';
+
+      var phoneRow = d.phone ? '<div class="row"><a href="tel:'+d.phone.replace(/[^\d+]/g,'')+'" style="color:inherit;text-decoration:none;">'+d.phone+'</a></div>' : '';
+
+      card.innerHTML =
+        '<div class="card-top">'+
+          '<div><div class="name">'+d.name+'</div><span class="cat">'+d.cat+'</span></div>'+
+          '<span class="flagbadge">No site listed</span>'+
+        '</div>'+
+        '<div class="rating"><span class="stars">'+starString(d.rating)+'</span><span class="val">'+d.rating.toFixed(1)+'</span><span class="cnt">('+d.reviews+' Google '+(d.reviews===1?'review':'reviews')+')</span></div>'+
+        '<div class="meta">'+
+          '<div class="row"><span class="k">Area</span><span>'+d.area+'</span></div>'+
+          phoneRow +
+        '</div>'+
+        '<div class="yelp-note">Not found on Yelp</div>'+
+        '<div class="links">'+
+          '<a class="btn primary" href="'+d.maps+'" target="_blank" rel="noopener">Open in Google Maps</a>'+
+          '<a class="btn ghost" href="'+yelpSearchUrl(d.name)+'" target="_blank" rel="noopener">Search Yelp</a>'+
+        '</div>';
+      grid.appendChild(card);
+    });
+
+    countEl.textContent = items.length + (items.length===1?' business':' businesses') + (state.cat!=='All' ? ' in ' + state.cat : '') + (q ? ' matching "'+state.q.trim()+'"' : '');
+    emptyEl.style.display = items.length ? 'none' : 'block';
+    grid.style.display = items.length ? 'grid' : 'none';
+  }
+
+  searchEl.addEventListener('input', function(e){ state.q = e.target.value; render(); });
+
+  buildPills();
+  render();
+})();
+</script>

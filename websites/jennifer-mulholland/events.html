@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Events — Jennifer Mulholland</title>
+<meta name="description" content="Upcoming Soul Sanctuary and Soul Space gatherings with Jennifer Mulholland — in-person circles in Park City and live online sessions." />
+<link rel="icon" type="image/png" href="assets/favicon.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          teal: { DEFAULT: '#12615F', deep: '#0B3E3D', ink: '#0E4E4D' },
+          gold: { DEFAULT: '#CE9F3E', soft: '#E4C377' },
+          cream: { DEFAULT: '#FBF7EE', card: '#FFFDF8', line: '#E7DFCC' },
+        },
+        fontFamily: {
+          serif: ['Fraunces', 'Georgia', 'serif'],
+          sans: ['Inter', 'sans-serif'],
+        },
+      }
+    }
+  }
+</script>
+<style>
+  body { font-family: 'Inter', sans-serif; background: #FBF7EE; color: #24302C; }
+  .font-serif { font-family: 'Fraunces', Georgia, serif; }
+  .eyebrow { letter-spacing: 0.22em; text-transform: uppercase; font-size: 0.72rem; font-weight: 500; }
+</style>
+</head>
+<body class="antialiased">
+
+  <!-- HEADER -->
+  <header class="sticky top-0 z-50 bg-cream/95 backdrop-blur border-b border-cream-line">
+    <input type="checkbox" id="menu-toggle" class="peer hidden" />
+    <div class="max-w-7xl mx-auto px-6 lg:px-10 flex items-center justify-between h-20">
+      <a href="index.html" class="flex items-center gap-2">
+        <img src="assets/Logo.webp" alt="Jennifer Mulholland" class="h-12 w-auto" />
+      </a>
+      <nav class="hidden lg:flex items-center gap-10 text-[0.8rem] tracking-wide uppercase text-teal-deep font-medium">
+        <a href="about.html" class="hover:text-gold transition-colors">About</a>
+        <a href="offerings.html" class="hover:text-gold transition-colors">Offerings</a>
+        <a href="events.html" class="text-gold">Events</a>
+        <a href="resources.html" class="hover:text-gold transition-colors">Resources</a>
+      </nav>
+      <a href="offerings.html#soul-reading" class="hidden lg:inline-flex items-center rounded-full bg-teal text-cream text-sm font-medium tracking-wide px-6 py-3 hover:bg-teal-deep transition-colors">
+        Book a Soul Reading
+      </a>
+      <label for="menu-toggle" class="lg:hidden flex flex-col justify-center gap-1.5 cursor-pointer p-2 -mr-2 w-9 h-9" aria-label="Toggle menu">
+        <span class="block w-5 h-[1.5px] bg-teal-deep mx-auto"></span>
+        <span class="block w-5 h-[1.5px] bg-teal-deep mx-auto"></span>
+        <span class="block w-5 h-[1.5px] bg-teal-deep mx-auto"></span>
+      </label>
+    </div>
+    <!-- Mobile menu panel -->
+    <div class="hidden peer-checked:flex lg:hidden flex-col gap-1 px-6 pb-6 pt-2 border-t border-cream-line bg-cream">
+      <a href="about.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">About</a>
+      <a href="offerings.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">Offerings</a>
+      <a href="events.html" class="py-3 text-gold font-medium border-b border-cream-line">Events</a>
+      <a href="resources.html" class="py-3 text-teal-deep font-medium border-b border-cream-line">Resources</a>
+      <a href="offerings.html#soul-reading" class="mt-4 inline-flex items-center justify-center rounded-full bg-teal text-cream text-sm font-medium tracking-wide px-6 py-3.5 hover:bg-teal-deep transition-colors">
+        Book a Soul Reading
+      </a>
+    </div>
+  </header>
+
+  <!-- PAGE HERO -->
+  <section class="py-20 lg:py-28">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10 grid lg:grid-cols-2 gap-16 items-center">
+      <div>
+        <p class="eyebrow text-teal mb-5">Events</p>
+        <h1 class="font-serif font-medium text-4xl sm:text-5xl lg:text-6xl text-teal-deep leading-[1.1] mb-6">
+          Join a gathering.
+        </h1>
+        <p class="text-teal-ink/80 leading-relaxed text-lg">
+          Soul Sanctuary and Soul Space are Jennifer's recurring circles — small, in-person evenings in
+          Park City and live online sessions for women everywhere. Each one is shaped by what feels
+          alive in the moment: the lunar cycle, the season, and what the group needs.
+        </p>
+      </div>
+      <div class="rounded-2xl overflow-hidden">
+        <img src="assets/Soul-Sanctuary.jpeg" alt="Jennifer Mulholland's Soul Sanctuary gathering space in Park City, with sound bowls and candlelight" class="w-full h-auto object-cover" />
+      </div>
+    </div>
+  </section>
+
+  <!-- UPCOMING EVENTS -->
+  <section class="py-16 lg:py-20 border-t border-cream-line">
+    <div class="max-w-5xl mx-auto px-6 lg:px-10">
+      <p class="eyebrow text-teal mb-4">Upcoming</p>
+      <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep max-w-xl mb-14">
+        The next few gatherings.
+      </h2>
+
+      <div class="space-y-6">
+
+        <!-- Event 1: Soul Sanctuary Sept 22 - FULL -->
+        <div class="flex flex-col sm:flex-row gap-6 sm:gap-10 rounded-2xl border border-cream-line bg-white p-6 sm:p-8">
+          <div class="shrink-0 w-20 text-center">
+            <p class="eyebrow text-teal/60">Sep</p>
+            <p class="font-serif text-4xl text-teal-deep">22</p>
+            <p class="text-xs text-teal-ink/50">2026</p>
+          </div>
+          <div class="flex-1">
+            <div class="flex flex-wrap items-center gap-3 mb-2">
+              <h3 class="font-serif text-xl text-teal-deep">Soul Sanctuary</h3>
+              <span class="eyebrow text-gold bg-gold/10 rounded-full px-3 py-1">Full · Waitlist Available</span>
+            </div>
+            <p class="text-sm text-teal-ink/60 mb-3">Tuesday · 5:00–7:00 PM MT · In-person, Park City</p>
+            <p class="text-teal-ink/75 leading-relaxed mb-4">
+              Gathering on the Autumn Equinox, that beautiful threshold when light and dark meet in
+              equal measure — exploring our relationship with surrender and action.
+            </p>
+            <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jennifer@jennifermulholland.com&amp;su=Soul%20Sanctuary%20Waitlist%20-%20Sept%2022" target="_blank" rel="noopener" class="inline-flex items-center text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Join the Waitlist →</a>
+          </div>
+        </div>
+
+        <!-- Event 2: Soul Space Sept 27 -->
+        <div class="flex flex-col sm:flex-row gap-6 sm:gap-10 rounded-2xl border border-cream-line bg-white p-6 sm:p-8">
+          <div class="shrink-0 w-20 text-center">
+            <p class="eyebrow text-teal/60">Sep</p>
+            <p class="font-serif text-4xl text-teal-deep">27</p>
+            <p class="text-xs text-teal-ink/50">2026</p>
+          </div>
+          <div class="flex-1">
+            <h3 class="font-serif text-xl text-teal-deep mb-2">Soul Space</h3>
+            <p class="text-sm text-teal-ink/60 mb-3">Sunday · 4:30–6:00 PM MT · Live on Zoom</p>
+            <p class="text-teal-ink/75 leading-relaxed mb-4">
+              With the Sun in Libra and Moon in Aries, we'll explore the relationship between ourselves
+              and one another.
+            </p>
+            <a href="https://app.acuityscheduling.com/schedule.php?owner=37326845&amp;appointmentType=98147338" class="inline-flex items-center text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Reserve Your Spot →</a>
+          </div>
+        </div>
+
+        <!-- Event 3: Soul Sanctuary Oct 15 -->
+        <div class="flex flex-col sm:flex-row gap-6 sm:gap-10 rounded-2xl border border-cream-line bg-white p-6 sm:p-8">
+          <div class="shrink-0 w-20 text-center">
+            <p class="eyebrow text-teal/60">Oct</p>
+            <p class="font-serif text-4xl text-teal-deep">15</p>
+            <p class="text-xs text-teal-ink/50">2026</p>
+          </div>
+          <div class="flex-1">
+            <h3 class="font-serif text-xl text-teal-deep mb-2">Soul Sanctuary</h3>
+            <p class="text-sm text-teal-ink/60 mb-3">Thursday · 5:00–7:00 PM MT · In-person, Park City · 8 women</p>
+            <p class="text-teal-ink/75 leading-relaxed mb-4">
+              Gathering a few days after the New Moon, in that tender space when something new may be
+              beginning — with guided meditation, sound and energy healing, Diamond Light transmissions,
+              intuitive exploration, and conscious conversation.
+            </p>
+            <a href="https://app.acuityscheduling.com/schedule.php?owner=37326845&amp;appointmentType=98554862" class="inline-flex items-center text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Reserve Your Spot →</a>
+          </div>
+        </div>
+
+        <!-- Event 4: Soul Space Oct 25 -->
+        <div class="flex flex-col sm:flex-row gap-6 sm:gap-10 rounded-2xl border border-cream-line bg-white p-6 sm:p-8">
+          <div class="shrink-0 w-20 text-center">
+            <p class="eyebrow text-teal/60">Oct</p>
+            <p class="font-serif text-4xl text-teal-deep">25</p>
+            <p class="text-xs text-teal-ink/50">2026</p>
+          </div>
+          <div class="flex-1">
+            <h3 class="font-serif text-xl text-teal-deep mb-2">Soul Space</h3>
+            <p class="text-sm text-teal-ink/60 mb-3">Sunday · 4:00–5:30 PM MT · Online</p>
+            <p class="text-teal-ink/75 leading-relaxed mb-4">
+              Each Soul Space has its own theme, shaped by what feels alive and important as we gather.
+            </p>
+            <a href="https://jennifermulholland.com/event/soul-space-4/" class="inline-flex items-center text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Reserve Your Spot →</a>
+          </div>
+        </div>
+
+        <!-- Event 5: Soul Space Nov 29 -->
+        <div class="flex flex-col sm:flex-row gap-6 sm:gap-10 rounded-2xl border border-cream-line bg-white p-6 sm:p-8">
+          <div class="shrink-0 w-20 text-center">
+            <p class="eyebrow text-teal/60">Nov</p>
+            <p class="font-serif text-4xl text-teal-deep">29</p>
+            <p class="text-xs text-teal-ink/50">2026</p>
+          </div>
+          <div class="flex-1">
+            <h3 class="font-serif text-xl text-teal-deep mb-2">Soul Space</h3>
+            <p class="text-sm text-teal-ink/60 mb-3">Sunday · 4:00–5:30 PM MT · Online</p>
+            <p class="text-teal-ink/75 leading-relaxed mb-4">
+              Step into the soothing glow of the full moon — a healing circle blending gentle yoga,
+              guided meditation, sound bowls, and breathwork to release emotional heaviness and recharge
+              your energy.
+            </p>
+            <a href="https://jennifermulholland.com/event/soul-space-5/" class="inline-flex items-center text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">Reserve Your Spot →</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- WHAT ARE THESE GATHERINGS -->
+  <section class="py-24 lg:py-32 bg-cream-card border-y border-cream-line">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <p class="eyebrow text-teal mb-4 text-center">Two Ways to Gather</p>
+      <h2 class="font-serif font-medium text-3xl sm:text-4xl text-teal-deep text-center max-w-xl mx-auto mb-14">
+        Not sure which one is for you?
+      </h2>
+      <div class="grid md:grid-cols-2 gap-6">
+        <div class="rounded-2xl overflow-hidden bg-white border border-cream-line">
+          <div class="h-56 overflow-hidden">
+            <img src="assets/Soul-Sanctuary-2.jpeg" alt="Soul Sanctuary gathering space with sound bowls" class="w-full h-full object-cover" />
+          </div>
+          <div class="p-8">
+            <p class="text-xs eyebrow text-teal/60 mb-2">In Person · Park City · $44</p>
+            <h3 class="font-serif text-xl text-teal-deep mb-3">Soul Sanctuary</h3>
+            <p class="text-teal-ink/70 leading-relaxed text-sm mb-5">
+              An intimate, two-hour evening at Jennifer's home for up to eight women — sound, meditation,
+              energy work, and Conscious Conversation.
+            </p>
+            <a href="offerings.html#soul-sanctuary" class="text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">More about Soul Sanctuary →</a>
+          </div>
+        </div>
+        <div class="rounded-2xl overflow-hidden bg-white border border-cream-line">
+          <div class="h-56 overflow-hidden">
+            <img src="assets/Soul-Space-Hero-Image-Landscape.png" alt="Soul Space online community" class="w-full h-full object-cover" />
+          </div>
+          <div class="p-8">
+            <p class="text-xs eyebrow text-teal/60 mb-2">Live Online · Zoom</p>
+            <h3 class="font-serif text-xl text-teal-deep mb-3">Soul Space</h3>
+            <p class="text-teal-ink/70 leading-relaxed text-sm mb-5">
+              A live online sanctuary for women to arrive as they are, wherever they are — meditation,
+              intuitive exploration, and community, gathered around the lunar cycle.
+            </p>
+            <a href="offerings.html#soul-space" class="text-sm text-teal-deep border-b border-teal-deep/40 hover:text-gold hover:border-gold transition-colors">More about Soul Space →</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CLOSING CTA -->
+  <section class="relative py-28 lg:py-36 bg-teal-deep overflow-hidden">
+    <div class="max-w-3xl mx-auto px-6 text-center relative">
+      <h2 class="font-serif font-medium text-4xl sm:text-5xl text-cream mb-6 leading-tight">
+        Never miss a gathering.
+      </h2>
+      <p class="text-cream/70 mb-10 max-w-lg mx-auto">
+        Soul Notes — monthly essays, meditations, and practices for soul-led living, delivered straight to your inbox.
+      </p>
+      <form data-newsletter class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
+        <input type="email" required placeholder="Your email address" class="flex-1 rounded-full px-6 py-4 bg-cream/10 border border-cream/25 text-cream placeholder:text-cream/50 focus:outline-none focus:border-gold" />
+        <button type="submit" class="rounded-full bg-gold text-teal-deep font-medium px-7 py-4 hover:bg-gold-soft transition-colors">Subscribe</button>
+      </form>
+      <p data-newsletter-success hidden class="text-cream/80 text-sm mt-2"></p>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-teal-deep pt-16 pb-10 border-t border-cream/10">
+    <div class="max-w-7xl mx-auto px-6 lg:px-10">
+      <div class="grid md:grid-cols-4 gap-12 mb-14">
+        <div class="md:col-span-2">
+          <img src="assets/Jennifer-Mulholland-HD-Logo-name-white-1.png" alt="Jennifer Mulholland" class="h-14 w-auto mb-5" />
+          <p class="text-cream/60 text-sm max-w-sm leading-relaxed">
+            Soul guide, author, and retreat leader based in Park City, Utah — helping people trust their
+            inner knowing and live attuned to the wisdom of their soul.
+          </p>
+        </div>
+        <div>
+          <p class="eyebrow text-gold-soft mb-4">Explore</p>
+          <ul class="space-y-2 text-cream/70 text-sm">
+            <li><a href="about.html" class="hover:text-cream">About</a></li>
+            <li><a href="offerings.html" class="hover:text-cream">Offerings</a></li>
+            <li><a href="events.html" class="hover:text-cream">Events</a></li>
+            <li><a href="resources.html" class="hover:text-cream">Resources</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="eyebrow text-gold-soft mb-4">Connect</p>
+          <ul class="space-y-2 text-cream/70 text-sm">
+            <li><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jennifer@jennifermulholland.com" target="_blank" rel="noopener" class="hover:text-cream">jennifer@jennifermulholland.com</a></li>
+            <li><a href="https://www.instagram.com/jennifermulholland.soulguide/" target="_blank" rel="noopener" class="hover:text-cream">Instagram</a></li>
+            <li><a href="https://www.facebook.com/jennifer.h.mulholland" target="_blank" rel="noopener" class="hover:text-cream">Facebook</a></li>
+            <li><a href="https://www.linkedin.com/in/jennifermulholland/" target="_blank" rel="noopener" class="hover:text-cream">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="border-t border-cream/10 pt-8 flex flex-col sm:flex-row justify-between gap-4 text-xs text-cream/40">
+        <p>© 2026 Jennifer Mulholland. All rights reserved.</p>
+        <p>Park City, Utah</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/site.js"></script>
+
+</body>
+</html>
