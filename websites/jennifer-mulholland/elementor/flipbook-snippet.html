@@ -1,0 +1,188 @@
+<!--
+  Jennifer Mulholland — "Flip to Meet Jennifer" book
+  Paste this whole file into an Elementor "HTML" widget.
+  Self-contained: no Tailwind, all styles scoped to #jm-flipbook, images served
+  from jennifermulholland.com's own Media Library.
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+  #jm-flipbook { display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 860px; margin: 0 auto; }
+  #jm-flipbook * { box-sizing: border-box; }
+  #jm-flipbook .jm-eyebrow {
+    font-family: 'Inter', sans-serif; letter-spacing: 0.22em; text-transform: uppercase;
+    font-size: 0.72rem; font-weight: 500; color: rgb(18 97 95 / 0.6); margin: 0 0 1.25rem; text-align: center;
+  }
+  #jm-flipbook .jm-book { margin: 0 auto; }
+  #jm-flipbook .page { background: #FBF7EE; }
+  #jm-flipbook .page-content {
+    width: 100%; height: 100%; padding: 2.25rem 1.75rem; display: flex; flex-direction: column;
+    justify-content: center; position: relative; overflow: hidden; box-shadow: inset 0 0 0 1px #E7DFCC;
+  }
+  #jm-flipbook .cover-content { padding: 0; box-shadow: none; }
+  #jm-flipbook .cover-content img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  #jm-flipbook .cover-content--back { background: #0B3E3D; align-items: center; justify-content: center; }
+  #jm-flipbook .cover-content--back img { width: 10rem; height: auto; object-fit: contain; }
+  #jm-flipbook .page-content--dark { background: #0E4E4D; box-shadow: none; }
+  #jm-flipbook .page-eyebrow {
+    font-family: 'Inter', sans-serif; letter-spacing: 0.18em; text-transform: uppercase;
+    font-size: 0.65rem; font-weight: 600; color: #12615F; margin: 0 0 0.9rem;
+  }
+  #jm-flipbook .page-eyebrow--light { color: #E4C377; }
+  #jm-flipbook .page-body { font-family: 'Inter', sans-serif; font-size: 0.85rem; line-height: 1.6; color: #24302C; margin: 0; }
+  #jm-flipbook .page-body--light { color: rgb(251 247 238 / 0.75); margin-top: 0.75rem; }
+  #jm-flipbook .page-body--gap { margin-bottom: 1rem; }
+  #jm-flipbook .page-quote { font-family: 'Fraunces', Georgia, serif; font-size: 1.25rem; line-height: 1.4; color: #FBF7EE; margin: 0; }
+  #jm-flipbook .page-list { font-family: 'Inter', sans-serif; font-size: 0.82rem; line-height: 2; color: #24302C; list-style: none; padding: 0; margin: 0; }
+  #jm-flipbook .page-badges { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 1.25rem; }
+  #jm-flipbook .page-badges img { height: 1.1rem; width: auto; display: block; }
+  #jm-flipbook .page-link {
+    font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #12615F; text-decoration: none;
+    border-bottom: 1px solid rgb(18 97 95 / 0.4); width: fit-content;
+  }
+  #jm-flipbook .page-link:hover { color: #CE9F3E; border-color: #CE9F3E; }
+  #jm-flipbook .page-number { position: absolute; bottom: 1rem; right: 1.25rem; font-size: 0.7rem; color: rgb(36 48 44 / 0.35); font-family: 'Inter', sans-serif; }
+  #jm-flipbook .page-number--light { color: rgb(251 247 238 / 0.4); }
+  #jm-flipbook .jm-controls { display: flex; align-items: center; gap: 2rem; margin-top: 2rem; }
+  #jm-flipbook .jm-hint { font-family: 'Inter', sans-serif; font-size: 0.75rem; letter-spacing: 0.05em; text-transform: uppercase; color: rgb(14 78 77 / 0.5); margin: 0; }
+  #jm-flipbook .book-nav-btn {
+    width: 2.5rem; height: 2.5rem; border-radius: 9999px; border: 1px solid #E7DFCC; padding: 0;
+    color: #0B3E3D; font-size: 1.1rem; line-height: 1; display: flex; align-items: center; justify-content: center;
+    background: #FFFDF8; cursor: pointer; transition: background-color .2s;
+  }
+  #jm-flipbook .book-nav-btn:hover { background: #E4C377; color: #0B3E3D; }
+</style>
+
+<div id="jm-flipbook">
+  <p class="jm-eyebrow">A Preview — Flip to Meet Jennifer</p>
+  <div class="jm-book">
+    <div class="page page-cover" data-density="hard">
+      <div class="page-content cover-content">
+        <img src="https://jennifermulholland.com/wp-content/uploads/2025/10/image-521-1.png" alt="Leading with Light book cover, by Jennifer Mulholland and Jeff Shuck" />
+      </div>
+    </div>
+    <div class="page">
+      <div class="page-content">
+        <p class="page-eyebrow">Meet Jennifer</p>
+        <p class="page-body">
+          Jennifer Mulholland is a soul guide, modern mystic, spiritual teacher, retreat leader,
+          author, and craftswoman of sacred containers — helping people embody their light and
+          trust their inner knowing.
+        </p>
+        <span class="page-number">1</span>
+      </div>
+    </div>
+    <div class="page">
+      <div class="page-content">
+        <p class="page-eyebrow">Her Story</p>
+        <p class="page-body">
+          Guided by intuition since childhood, Jennifer followed an inner pull from a Division I
+          lacrosse career at Delaware to the University of Utah, where a Jungian psychologist
+          mentored her in meditation, dreamwork, and past-life integration.
+        </p>
+        <span class="page-number">2</span>
+      </div>
+    </div>
+    <div class="page">
+      <div class="page-content page-content--dark">
+        <p class="page-eyebrow page-eyebrow--light">Her Philosophy</p>
+        <p class="page-quote">
+          "Business and spirit are not separate. Transformation emerges when we slow down, listen
+          more deeply, and reconnect with ourselves."
+        </p>
+        <span class="page-number page-number--light">3</span>
+      </div>
+    </div>
+    <div class="page">
+      <div class="page-content">
+        <p class="page-eyebrow">Training &amp; Modalities</p>
+        <ul class="page-list">
+          <li>Reiki</li>
+          <li>Soul Reading</li>
+          <li>Shamanic Energy Medicine</li>
+          <li>Quantum &amp; Theta Healing</li>
+          <li>Mediumship</li>
+          <li>Past-Life Regression</li>
+          <li>Sound Therapy</li>
+          <li>Matrix Energetics</li>
+        </ul>
+        <span class="page-number">4</span>
+      </div>
+    </div>
+    <div class="page">
+      <div class="page-content page-content--dark">
+        <p class="page-eyebrow page-eyebrow--light">In Her Words</p>
+        <p class="page-quote">"When we learn to truly listen, life speaks."</p>
+        <p class="page-body page-body--light">
+          A lesson that crystallized the day her intuition led her family to exactly the care her
+          son needed.
+        </p>
+        <span class="page-number page-number--light">5</span>
+      </div>
+    </div>
+    <div class="page">
+      <div class="page-content">
+        <p class="page-eyebrow">Continue Her Story</p>
+        <p class="page-body page-body--gap">Leading with Light is available wherever you get your books.</p>
+        <div class="page-badges">
+          <img src="https://jennifermulholland.com/wp-content/uploads/2025/10/book.jpg" alt="Amazon Books" />
+          <img src="https://jennifermulholland.com/wp-content/uploads/2025/10/audible.jpg" alt="Audible" />
+          <img src="https://jennifermulholland.com/wp-content/uploads/2025/10/kindle.jpg" alt="Kindle" />
+        </div>
+        <a href="https://www.amazon.com/dp/1951692381" target="_blank" rel="noopener" class="page-link">Get the book →</a>
+        <span class="page-number">6</span>
+      </div>
+    </div>
+    <div class="page page-cover" data-density="hard">
+      <div class="page-content cover-content cover-content--back">
+        <img src="https://jennifermulholland.com/wp-content/uploads/2025/10/Jennifer-Mulholland-HD-Logo-name-white-1.png" alt="Jennifer Mulholland" />
+      </div>
+    </div>
+  </div>
+  <div class="jm-controls">
+    <button type="button" aria-label="Previous page" class="book-nav-btn jm-prev">‹</button>
+    <p class="jm-hint">Drag or tap to flip</p>
+    <button type="button" aria-label="Next page" class="book-nav-btn jm-next">›</button>
+  </div>
+</div>
+
+<script>
+  (function () {
+    var LIB = 'https://cdn.jsdelivr.net/npm/page-flip@2.0.7/dist/js/page-flip.browser.js';
+
+    function init() {
+      var root = document.getElementById('jm-flipbook');
+      if (!root || root.dataset.ready) return;
+      root.dataset.ready = '1';
+      var book = root.querySelector('.jm-book');
+      var pageFlip = new St.PageFlip(book, {
+        width: 320,
+        height: 460,
+        size: 'stretch',
+        minWidth: 240,
+        maxWidth: 420,
+        minHeight: 345,
+        maxHeight: 600,
+        maxShadowOpacity: 0.4,
+        showCover: true,
+        usePortrait: window.innerWidth < 640,
+        mobileScrollSupport: false,
+        useMouseEvents: true,
+      });
+      pageFlip.loadFromHTML(book.querySelectorAll('.page'));
+      root.querySelector('.jm-prev').addEventListener('click', function () { pageFlip.flipPrev(); });
+      root.querySelector('.jm-next').addEventListener('click', function () { pageFlip.flipNext(); });
+    }
+
+    // Load the flip library once, even if Elementor re-renders the widget in the editor.
+    if (window.St && window.St.PageFlip) return init();
+    var existing = document.querySelector('script[src="' + LIB + '"]');
+    if (existing) return existing.addEventListener('load', init);
+    var s = document.createElement('script');
+    s.src = LIB;
+    s.onload = init;
+    document.head.appendChild(s);
+  })();
+</script>
