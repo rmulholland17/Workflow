@@ -1,0 +1,443 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Arctic AC Rentals</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=Figtree:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+  /* Layout: equipment-rental spec sheet. A cold "readout" hero, then a fleet table of real units with BTU and rates, a room-size sizing tool, and a 4-step delivery sequence. */
+  :root {
+    --bg: #f3f7f9;
+    --surface: #ffffff;
+    --ink: #0e2230;
+    --muted: #4f6573;
+    --line: #d5e1e7;
+    --frost: #d9eef6;
+    --accent: #0b6e99;
+    --heat: #d9541e;
+    --on-accent: #ffffff;
+    --display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+    --body: "Figtree", -apple-system, "Segoe UI", Roboto, sans-serif;
+    --mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #08141c; --surface: #0f212c; --ink: #e6f1f6; --muted: #92aab7; --line: #1f3a49;
+      --frost: #12303f; --accent: #5cc4ee; --heat: #ff8a52; --on-accent: #04202e; color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #08141c; --surface: #0f212c; --ink: #e6f1f6; --muted: #92aab7; --line: #1f3a49;
+    --frost: #12303f; --accent: #5cc4ee; --heat: #ff8a52; --on-accent: #04202e; color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+  body { background: var(--bg); color: var(--ink); font: 16px/1.55 var(--body); }
+  .wrap { max-width: 1120px; margin: 0 auto;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+  h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; line-height: 1; letter-spacing: .01em; }
+  h2 { font-size: clamp(2rem, 5vw, 3rem); font-weight: 800; text-transform: uppercase; }
+  p { margin: 0; }
+  a { color: var(--accent); }
+  :focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  .label { font: 600 .75rem/1 var(--mono); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+  section { padding-block: clamp(48px, 8vw, 88px); }
+
+  /* sample notice */
+  .notice { background: var(--ink); color: var(--bg); font: 500 .8rem/1.4 var(--mono); text-align: center; padding-block: 8px; }
+
+  /* header */
+  header { border-bottom: 1px solid var(--line); background: var(--surface); }
+  header .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding-block: 14px; }
+  .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); }
+  .brand b { font: 800 1.6rem/1 var(--display); text-transform: uppercase; letter-spacing: .03em; }
+  .brand svg { width: 30px; height: 30px; }
+  nav { display: flex; gap: 20px; flex-wrap: wrap; align-items: center; }
+  nav a { color: var(--ink); text-decoration: none; font-weight: 500; }
+  nav a:hover { color: var(--accent); }
+  .btn { display: inline-flex; align-items: center; gap: 8px; background: var(--accent); color: var(--on-accent);
+    border: 0; border-radius: 6px; padding: 12px 18px; font: 600 1rem/1 var(--body); text-decoration: none; cursor: pointer; }
+  .btn:hover { filter: brightness(1.08); }
+  .btn.ghost { background: transparent; color: var(--ink); border: 1.5px solid var(--line); }
+
+  /* hero */
+  .hero { background: linear-gradient(180deg, var(--frost), var(--bg)); padding-block: clamp(40px, 7vw, 80px); }
+  .hero .wrap { display: grid; grid-template-columns: 1.25fr 1fr; gap: clamp(28px, 5vw, 64px); align-items: center; }
+  .hero h1 { font-size: clamp(3rem, 9vw, 6.2rem); font-weight: 800; text-transform: uppercase; }
+  .hero h1 span { color: var(--accent); }
+  .hero .lede { font-size: 1.15rem; color: var(--muted); max-width: 52ch; margin-top: 20px; }
+  .hero .ctas { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
+  .hero .facts { display: flex; gap: 28px; flex-wrap: wrap; margin-top: 32px; }
+  .hero .facts div { display: grid; gap: 6px; }
+  .hero .facts strong { font: 800 1.9rem/1 var(--display); }
+
+  .readout { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 22px; min-width: 0;
+    box-shadow: 0 18px 40px -24px rgba(11, 60, 90, .45); }
+  .readout header { all: unset; display: flex; justify-content: space-between; align-items: center; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); display: inline-block; margin-right: 6px; animation: blink 2s infinite; }
+  @keyframes blink { 50% { opacity: .3; } }
+  .temps { display: grid; grid-template-columns: 1fr auto 1fr; align-items: end; gap: 12px; margin-block: 22px 18px; }
+  .temp { display: grid; gap: 4px; }
+  .temp .v { font: 800 clamp(3rem, 8vw, 4.4rem)/.9 var(--display); font-variant-numeric: tabular-nums; }
+  .temp.out .v { color: var(--heat); }
+  .temp.in .v { color: var(--accent); }
+  .arrow { font: 600 1.4rem/1 var(--mono); color: var(--muted); padding-bottom: 12px; }
+  .bar { height: 8px; border-radius: 4px; background: linear-gradient(90deg, var(--heat), var(--accent)); }
+  .readout dl { display: grid; grid-template-columns: 1fr 1fr; gap: 12px 16px; margin: 18px 0 0; }
+  .readout dt { font: .72rem/1 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+  .readout dd { margin: 4px 0 0; font: 600 .95rem/1.2 var(--mono); }
+
+  /* fleet */
+  .head { display: flex; justify-content: space-between; align-items: end; gap: 16px; flex-wrap: wrap; margin-bottom: 28px; }
+  .head p { color: var(--muted); max-width: 48ch; }
+  .fleet { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .unit { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 20px; display: grid; gap: 14px; align-content: start; min-width: 0; }
+  .unit .tag { justify-self: start; font: 600 .7rem/1 var(--mono); letter-spacing: .08em; text-transform: uppercase;
+    background: var(--frost); color: var(--accent); padding: 6px 8px; border-radius: 4px; }
+  .unit h3 { font-size: 1.7rem; font-weight: 800; text-transform: uppercase; }
+  .unit .btu { font: 600 1rem/1 var(--mono); color: var(--accent); }
+  .unit ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; color: var(--muted); font-size: .93rem; }
+  .unit ul li::before { content: "— "; color: var(--line); }
+  .rates { display: grid; grid-template-columns: 1fr 1fr 1fr; border-top: 1px solid var(--line); padding-top: 14px; }
+  .rates div { display: grid; gap: 4px; }
+  .rates strong { font: 600 1.05rem/1 var(--mono); font-variant-numeric: tabular-nums; }
+  .rates span { font: .68rem/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  .unit.featured { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+
+  /* sizing tool */
+  .sizer { background: var(--ink); color: var(--bg); }
+  .sizer .label { color: color-mix(in srgb, var(--bg) 65%, transparent); }
+  .sizer .wrap { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(28px, 5vw, 64px); align-items: center; }
+  .sizer p.sub { color: color-mix(in srgb, var(--bg) 75%, transparent); margin-top: 14px; max-width: 46ch; }
+  .tool { background: color-mix(in srgb, var(--bg) 6%, var(--ink)); border: 1px solid color-mix(in srgb, var(--bg) 18%, transparent); border-radius: 10px; padding: 24px; display: grid; gap: 18px; min-width: 0; }
+  .tool label { display: grid; gap: 8px; font-weight: 500; }
+  .tool .row { display: flex; justify-content: space-between; gap: 12px; }
+  .tool output { font: 600 1rem/1 var(--mono); }
+  input[type="range"] { width: 100%; accent-color: var(--accent); }
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; }
+  .chips button { font: 500 .9rem/1 var(--body); padding: 9px 12px; border-radius: 6px; cursor: pointer;
+    background: transparent; color: var(--bg); border: 1px solid color-mix(in srgb, var(--bg) 30%, transparent); }
+  .chips button[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
+  .result { border-top: 1px solid color-mix(in srgb, var(--bg) 18%, transparent); padding-top: 18px; display: grid; gap: 6px; }
+  .result .big { font: 800 2.4rem/1 var(--display); text-transform: uppercase; }
+  .result .meta { font: .9rem/1.4 var(--mono); color: color-mix(in srgb, var(--bg) 75%, transparent); }
+
+  /* steps */
+  .steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; counter-reset: s; border-top: 2px solid var(--ink); }
+  .step { padding: 22px 20px 0 0; display: grid; gap: 10px; align-content: start; min-width: 0; }
+  .step::before { counter-increment: s; content: "0" counter(s); font: 600 .85rem/1 var(--mono); color: var(--accent); }
+  .step h3 { font-size: 1.5rem; font-weight: 800; text-transform: uppercase; }
+  .step p { color: var(--muted); }
+
+  /* uses + area */
+  .split { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(28px, 5vw, 64px); }
+  .uses { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 24px; }
+  .uses div { border-left: 3px solid var(--accent); padding: 4px 0 4px 14px; }
+  .uses b { display: block; }
+  .uses span { color: var(--muted); font-size: .93rem; }
+  .zones { margin-top: 24px; display: grid; gap: 0; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); overflow: hidden; }
+  .zones div { display: flex; justify-content: space-between; gap: 12px; padding: 13px 16px; border-top: 1px solid var(--line); }
+  .zones div:first-child { border-top: 0; }
+  .zones b { font-weight: 600; }
+  .zones span { font: .9rem/1.4 var(--mono); color: var(--muted); text-align: right; }
+
+  /* quote */
+  .quote { background: var(--frost); }
+  .quote .wrap { display: grid; grid-template-columns: 1fr 1.2fr; gap: clamp(28px, 5vw, 64px); }
+  .contact { display: grid; gap: 16px; margin-top: 24px; }
+  .contact div { display: grid; gap: 4px; }
+  .contact strong { font: 600 1.15rem/1.2 var(--mono); user-select: all; }
+  form { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 24px; display: grid; gap: 16px; min-width: 0; }
+  .fields { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  form label { display: grid; gap: 6px; font-weight: 500; font-size: .93rem; min-width: 0; }
+  form input, form select, form textarea { font: 1rem/1.3 var(--body); padding: 11px 12px; border: 1px solid var(--line); border-radius: 6px;
+    background: var(--bg); color: var(--ink); width: 100%; }
+  form .full { grid-column: 1 / -1; }
+  .ok { background: var(--frost); border-radius: 6px; padding: 12px 14px; font-weight: 500; }
+
+  footer { border-top: 1px solid var(--line); padding-block: 28px; color: var(--muted); font-size: .9rem; }
+  footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+
+  @media (max-width: 900px) {
+    .hero .wrap, .sizer .wrap, .split, .quote .wrap { grid-template-columns: 1fr; }
+    .fleet { grid-template-columns: 1fr 1fr; }
+    .steps { grid-template-columns: 1fr 1fr; row-gap: 24px; }
+  }
+  @media (max-width: 560px) {
+    .fleet, .steps, .uses, .fields { grid-template-columns: 1fr; }
+    nav a:not(.btn) { display: none; }
+  }
+  @media (prefers-reduced-motion: reduce) { .dot { animation: none; } }
+</style>
+</head>
+<body style="margin:0">
+
+<div class="notice">Sample website concept for Arctic AC Rentals. Prices, phone and details are placeholders.</div>
+
+<header>
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Arctic AC Rentals home">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><g stroke="currentColor" stroke-width="2.4" stroke-linecap="round" fill="none" style="color:var(--accent)"><path d="M16 3v26M4.7 9.5l22.6 13M4.7 22.5l22.6-13"/><path d="M12 5.5l4 3 4-3M12 26.5l4-3 4 3"/></g></svg>
+      <b>Arctic AC Rentals</b>
+    </a>
+    <nav>
+      <a href="#fleet">Units</a>
+      <a href="#sizer">Sizing</a>
+      <a href="#how">How it works</a>
+      <a class="btn" href="#quote">Get a quote</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero">
+    <div class="wrap">
+      <div>
+        <p class="label">Portable AC rentals · San Diego County</p>
+        <h1 style="margin-top:16px">Cold air,<br><span>delivered today.</span></h1>
+        <p class="lede">Portable air conditioners for homes, offices, server rooms and events. We deliver, vent it through your window, and pick it up when the heat breaks. No installs, no contracts.</p>
+        <div class="ctas">
+          <a class="btn" href="#quote">Book a unit</a>
+          <a class="btn ghost" href="#sizer">Find my size</a>
+        </div>
+        <div class="facts">
+          <div><strong>4 hr</strong><span class="label">Same-day window</span></div>
+          <div><strong>$39</strong><span class="label">From, per day</span></div>
+          <div><strong>8K–60K</strong><span class="label">BTU range</span></div>
+        </div>
+      </div>
+
+      <aside class="readout" aria-label="Example cooling result">
+        <header>
+          <span class="label"><span class="dot"></span>Job #2417 · El Cajon living room</span>
+          <span class="label">2:40 PM</span>
+        </header>
+        <div class="temps">
+          <div class="temp out"><span class="label">Outside</span><span class="v">97°</span></div>
+          <div class="arrow">→</div>
+          <div class="temp in"><span class="label">Inside</span><span class="v">72°</span></div>
+        </div>
+        <div class="bar" role="presentation"></div>
+        <dl>
+          <div><dt>Unit</dt><dd>Glacier 14K</dd></div>
+          <div><dt>Room</dt><dd>520 sq ft</dd></div>
+          <div><dt>Time to 72°</dt><dd>48 min</dd></div>
+          <div><dt>Power</dt><dd>115 V · 12 A</dd></div>
+        </dl>
+      </aside>
+    </div>
+  </section>
+
+  <section id="fleet">
+    <div class="wrap">
+      <div class="head">
+        <div><p class="label">The fleet</p><h2 style="margin-top:10px">Pick your cooling</h2></div>
+        <p>Every unit is cleaned and tested between rentals, and ships with a window vent kit, condensate hose and remote.</p>
+      </div>
+      <div class="fleet">
+        <article class="unit">
+          <span class="tag">Bedrooms · offices</span>
+          <h3>Frost 8K</h3>
+          <span class="btu">8,000 BTU</span>
+          <ul><li>Up to 250 sq ft</li><li>Standard 115 V outlet</li><li>Sleep mode, 52 dB</li></ul>
+          <div class="rates"><div><strong>$39</strong><span>Day</span></div><div><strong>$149</strong><span>Week</span></div><div><strong>$349</strong><span>Month</span></div></div>
+        </article>
+        <article class="unit featured">
+          <span class="tag">Most booked</span>
+          <h3>Glacier 14K</h3>
+          <span class="btu">14,000 BTU</span>
+          <ul><li>Up to 550 sq ft</li><li>Standard 115 V outlet</li><li>Dual hose, built-in dehumidifier</li></ul>
+          <div class="rates"><div><strong>$59</strong><span>Day</span></div><div><strong>$219</strong><span>Week</span></div><div><strong>$499</strong><span>Month</span></div></div>
+        </article>
+        <article class="unit">
+          <span class="tag">Server rooms · shops</span>
+          <h3>Tundra 24K</h3>
+          <span class="btu">24,000 BTU</span>
+          <ul><li>Up to 1,000 sq ft</li><li>Needs 208–230 V outlet</li><li>Auto-restart after outages</li></ul>
+          <div class="rates"><div><strong>$119</strong><span>Day</span></div><div><strong>$449</strong><span>Week</span></div><div><strong>$1,090</strong><span>Month</span></div></div>
+        </article>
+        <article class="unit">
+          <span class="tag">Events · tents</span>
+          <h3>Polar 60K</h3>
+          <span class="btu">5 ton · 60,000 BTU</span>
+          <ul><li>Tents and halls up to 2,500 sq ft</li><li>Ducted, generator ready</li><li>Tech on call during event</li></ul>
+          <div class="rates"><div><strong>$295</strong><span>Day</span></div><div><strong>$995</strong><span>Week</span></div><div><strong>Call</strong><span>Month</span></div></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="sizer" id="sizer">
+    <div class="wrap">
+      <div>
+        <p class="label">Sizing tool</p>
+        <h2 style="margin-top:10px">How much cooling do you need?</h2>
+        <p class="sub">Rule of thumb: about 20 BTU per square foot, plus more for afternoon sun, a busy kitchen, or a room full of people or equipment. We'll double-check on the phone before we load the truck.</p>
+      </div>
+      <div class="tool">
+        <label for="sqft">
+          <span class="row"><span>Room size</span><output id="sqftOut" for="sqft">450 sq ft</output></span>
+          <input id="sqft" type="range" min="100" max="2500" step="25" value="450">
+        </label>
+        <div>
+          <p style="font-weight:500;margin-bottom:8px">The room gets…</p>
+          <div class="chips" id="factors">
+            <button type="button" id="f-sun" data-add="0.1" aria-pressed="true">Afternoon sun</button>
+            <button type="button" id="f-kitchen" data-btu="4000" aria-pressed="false">A kitchen</button>
+            <button type="button" id="f-people" data-btu="1200" aria-pressed="false">4+ people</button>
+            <button type="button" id="f-gear" data-btu="6000" aria-pressed="false">Servers or machines</button>
+          </div>
+        </div>
+        <div class="result" aria-live="polite">
+          <span class="label">We recommend</span>
+          <span class="big" id="pick">Glacier 14K</span>
+          <span class="meta" id="pickMeta">You need ~9,900 BTU · from $59/day</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="how">
+    <div class="wrap">
+      <div class="head">
+        <div><p class="label">How it works</p><h2 style="margin-top:10px">Booked to cool in one afternoon</h2></div>
+      </div>
+      <div class="steps">
+        <div class="step"><h3>Book</h3><p>Call or send the form by noon. We confirm the unit, your outlet and your window type.</p></div>
+        <div class="step"><h3>Delivery</h3><p>A tech arrives in your 4-hour window. Delivery is free within 15 miles of our Kearny Mesa yard.</p></div>
+        <div class="step"><h3>Setup</h3><p>We fit the window vent, run the drain line, and leave once the room is dropping.</p></div>
+        <div class="step"><h3>Pickup</h3><p>Text us when you're done. We collect the unit and you only pay for the days you kept it.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding-top:0">
+    <div class="wrap split">
+      <div>
+        <p class="label">Who rents from us</p>
+        <h2 style="margin-top:10px">When central air isn't an option</h2>
+        <div class="uses">
+          <div><b>Heat waves</b><span>Older homes and rentals with no AC</span></div>
+          <div><b>HVAC down</b><span>Cover the week until the repair crew arrives</span></div>
+          <div><b>Server closets</b><span>Keep racks under 80° through an outage</span></div>
+          <div><b>Events</b><span>Weddings, tents and pop-ups that need real cooling</span></div>
+          <div><b>Job sites</b><span>Remodels, film sets, and warehouse floors</span></div>
+          <div><b>Recovery rooms</b><span>Seniors and patients who can't take the heat</span></div>
+        </div>
+      </div>
+      <div>
+        <p class="label">Delivery area</p>
+        <h2 style="margin-top:10px">Where we deliver</h2>
+        <div class="zones">
+          <div><b>Central San Diego</b><span>Free · same day</span></div>
+          <div><b>Mission Valley, Clairemont, La Mesa</b><span>Free · same day</span></div>
+          <div><b>El Cajon, Santee, Poway</b><span>$25 · same day</span></div>
+          <div><b>Chula Vista, National City</b><span>$25 · same day</span></div>
+          <div><b>Escondido, Oceanside, Ramona</b><span>$45 · next morning</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="quote" id="quote">
+    <div class="wrap">
+      <div>
+        <p class="label">Get a quote</p>
+        <h2 style="margin-top:10px">Tell us about the room</h2>
+        <p style="color:var(--muted);margin-top:14px;max-width:44ch">Most quotes go out within 15 minutes, 7 am to 8 pm, seven days a week through the summer.</p>
+        <div class="contact">
+          <div><span class="label">Call or text</span><strong>(619) 555-0142</strong></div>
+          <div><span class="label">Email</span><strong>hello@arcticacrentals.example</strong></div>
+          <div><span class="label">Yard</span><strong>Kearny Mesa, San Diego, CA</strong></div>
+        </div>
+      </div>
+      <form id="quoteForm" novalidate>
+        <div class="fields">
+          <label for="q-name">Name<input id="q-name" name="name" autocomplete="name" required value="Dana Ortiz"></label>
+          <label for="q-phone">Phone<input id="q-phone" name="phone" type="tel" autocomplete="tel" required value="(619) 555-0187"></label>
+          <label for="q-zip">ZIP code<input id="q-zip" name="zip" inputmode="numeric" maxlength="5" required value="92020"></label>
+          <label for="q-unit">Unit<select id="q-unit" name="unit">
+            <option>Not sure yet</option><option>Frost 8K</option><option selected>Glacier 14K</option><option>Tundra 24K</option><option>Polar 60K</option>
+          </select></label>
+          <label for="q-start">Start date<input id="q-start" name="start" type="date"></label>
+          <label for="q-length">Rental length<select id="q-length" name="length">
+            <option>A few days</option><option selected>About a week</option><option>A month or more</option>
+          </select></label>
+          <label class="full" for="q-notes">Room and window details<textarea id="q-notes" name="notes" rows="3">Living room, about 500 sq ft, sliding window. Central AC is out until the 30th.</textarea></label>
+        </div>
+        <button class="btn" type="submit" id="q-submit">Request my quote</button>
+        <p class="ok" id="q-ok" hidden>Thanks. This is a sample site, so nothing was sent. On the live site this request would go to the Arctic team.</p>
+        <p id="q-err" hidden style="color:var(--heat);font-weight:500"></p>
+      </form>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Arctic AC Rentals · San Diego, CA</span>
+    <span>Portable air conditioner rental · Delivery, setup and pickup included</span>
+  </div>
+</footer>
+
+<script>
+  (function () {
+    var units = [
+      { name: "Frost 8K", btu: 8000, day: 39 },
+      { name: "Glacier 14K", btu: 14000, day: 59 },
+      { name: "Tundra 24K", btu: 24000, day: 119 },
+      { name: "Polar 60K", btu: 60000, day: 295 }
+    ];
+    var sqft = document.getElementById("sqft");
+    var out = document.getElementById("sqftOut");
+    var chips = document.querySelectorAll("#factors button");
+
+    function update() {
+      var area = +sqft.value;
+      var need = area * 20;
+      var mult = 1, extra = 0;
+      chips.forEach(function (c) {
+        if (c.getAttribute("aria-pressed") !== "true") return;
+        if (c.dataset.add) mult += +c.dataset.add;
+        if (c.dataset.btu) extra += +c.dataset.btu;
+      });
+      need = Math.round((need * mult + extra) / 100) * 100;
+      var pick = units.find(function (u) { return u.btu >= need; });
+      out.textContent = area.toLocaleString() + " sq ft";
+      document.getElementById("pick").textContent = pick ? pick.name : "Two Polar 60K units";
+      document.getElementById("pickMeta").textContent = "You need ~" + need.toLocaleString() + " BTU · " +
+        (pick ? "from $" + pick.day + "/day" : "call us for a site visit");
+    }
+    sqft.addEventListener("input", update);
+    chips.forEach(function (c) {
+      c.addEventListener("click", function () {
+        c.setAttribute("aria-pressed", c.getAttribute("aria-pressed") === "true" ? "false" : "true");
+        update();
+      });
+    });
+    update();
+
+    var start = document.getElementById("q-start");
+    var d = new Date(); d.setDate(d.getDate() + 1);
+    start.value = d.toISOString().slice(0, 10);
+
+    document.getElementById("quoteForm").addEventListener("submit", function (e) {
+      e.preventDefault();
+      var err = document.getElementById("q-err");
+      var missing = ["q-name", "q-phone", "q-zip"].filter(function (id) { return !document.getElementById(id).value.trim(); });
+      if (missing.length) {
+        err.textContent = "Add your name, phone and ZIP code so we can quote delivery.";
+        err.hidden = false; document.getElementById("q-ok").hidden = true; return;
+      }
+      err.hidden = true;
+      document.getElementById("q-ok").hidden = false;
+    });
+  })();
+</script>
+</body>
+</html>
