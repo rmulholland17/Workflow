@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Harbor Sites &mdash; Got it, thanks</title>
+<title>Questionnaire received | Harbor Sites</title>
 <meta name="robots" content="noindex">
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23AD8232' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 17c1.5 1.5 3 1.5 4.5 0s3-1.5 4.5 0 3 1.5 4.5 0 3-1.5 4.5 0'/%3E%3Cpath d='M12 3v8'/%3E%3Cpath d='M8 6h8l-1.5 5h-5z'/%3E%3C/svg%3E">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='24' fill='none' stroke='%23173B4C' stroke-width='11'/%3E%3Ccircle cx='32' cy='32' r='24' fill='none' stroke='%23C9A24E' stroke-width='11' stroke-dasharray='12.566 25.133' stroke-dashoffset='6.283'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:wght@400;600;700&display=swap">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,24 +14,55 @@
 <nav class="topnav">
   <div class="topnav-inner side">
     <a class="wordmark" href="index.html">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 17c1.5 1.5 3 1.5 4.5 0s3-1.5 4.5 0 3 1.5 4.5 0 3-1.5 4.5 0"/><path d="M12 3v8"/><path d="M8 6h8l-1.5 5h-5z"/></svg>
+      <svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="24" fill="none" stroke="#173B4C" stroke-width="10"/><circle cx="32" cy="32" r="24" fill="none" stroke="#C9A24E" stroke-width="10" stroke-dasharray="12.566 25.133" stroke-dashoffset="6.283"/></svg>
       Harbor Sites
     </a>
     <a class="nav-cta" href="index.html">Back home</a>
   </div>
 </nav>
 
-<div class="wrap side">
+<main id="main" class="wrap side">
   <div class="confirm-wrap">
-    <div class="confirm-mark">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+    <ol class="form-steps" aria-label="Where you are in the process">
+      <li class="now" aria-current="step">Free sample</li>
+      <li>Sign up</li>
+      <li>Launch Kit</li>
+      <li>Build</li>
+      <li>Launch</li>
+    </ol>
+    <div class="confirm-mark big pop">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
     </div>
-    <h1 style="max-width:18ch;">Got it &mdash; thanks.</h1>
-    <p class="sub" style="max-width:44ch;">We're already looking at what you sent. Expect a free sample homepage in your inbox within a few days &mdash; no cost, no obligation to move forward.</p>
-    <p class="sub" style="max-width:44ch;">Questions in the meantime? Just reply with anything you forgot to mention &mdash; we'll fold it into the sample before we send it back.</p>
+    <h1 style="max-width:20ch;">Your questionnaire is in<span id="bizName"></span></h1>
+    <p class="sub" style="max-width:48ch;">Thanks for telling us about your business. We have everything we need to start your free sample homepage.</p>
+    <div class="confirm-card" aria-label="Submission details">
+      <div class="confirm-row"><span>Status</span><strong>Received</strong></div>
+      <div class="confirm-row"><span>Form</span><strong>Questionnaire</strong></div>
+      <div class="confirm-row" id="refRow" hidden><span>Reference</span><strong id="refNum"></strong></div>
+      <div class="confirm-row"><span>Received</span><strong id="when"></strong></div>
+    </div>
+    <h2 style="font-family:var(--font-display);color:var(--navy);margin:0 0 4px;">What happens next</h2>
+    <ol class="confirm-next">
+      <li><span class="dot ok">&#10003;</span><div><strong>Questionnaire received</strong><span>It's with us now, saved under the reference above.</span></div></li>
+      <li><span class="dot ok">&#10003;</span><div><strong>Confirmation email sent</strong><span>Check your inbox for a copy from forms@harborsites.org. Not there? Look in spam or promotions.</span></div></li>
+      <li><span class="dot">3</span><div><strong>We build your sample</strong><span>We look up your business and design your homepage, usually within a few days.</span></div></li>
+      <li><span class="dot">4</span><div><strong>You see it first</strong><span>We email you a private link. Like it? We'll send the next steps. Not for you? No charge.</span></div></li>
+    </ol>
+    <p class="sub" style="max-width:52ch;font-size:18px;">Remembered something? Reply to the confirmation email, or write to <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=harborsitess@gmail.com" target="_blank" rel="noopener">harborsitess@gmail.com</a> or call <a href="tel:+14356407665">(435) 640-7665</a>.</p>
     <a class="btn-primary" href="index.html">Back to the homepage</a>
   </div>
-</div>
+</main>
+
+<script>
+(function(){
+  var q = new URLSearchParams(location.search);
+  var ref = (q.get('ref') || '').replace(/[^A-Z0-9-]/gi, '').slice(0, 12);
+  var biz = (q.get('biz') || '').slice(0, 80);
+  if(ref){ document.getElementById('refNum').textContent = ref; document.getElementById('refRow').hidden = false; }
+  if(biz){ document.getElementById('bizName').textContent = ', ' + biz; }
+  document.getElementById('when').textContent = new Date().toLocaleString([], {month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
+})();
+</script>
 
 </body>
 </html>

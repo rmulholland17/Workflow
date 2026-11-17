@@ -1,0 +1,3 @@
+# Dev files live in this folder but must never be served.
+/docs/*         /index.html  404!
+/screenshots/*  /index.html  404!

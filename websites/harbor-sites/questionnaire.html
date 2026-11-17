@@ -9,9 +9,10 @@
 <meta property="og:site_name" content="Harbor Sites">
 <meta property="og:title" content="Tell us about your business &mdash; Harbor Sites">
 <meta property="og:description" content="About 5 minutes. We'll send back a free sample homepage built from your real business.">
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23AD8232' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 17c1.5 1.5 3 1.5 4.5 0s3-1.5 4.5 0 3 1.5 4.5 0 3-1.5 4.5 0'/%3E%3Cpath d='M12 3v8'/%3E%3Cpath d='M8 6h8l-1.5 5h-5z'/%3E%3C/svg%3E">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='24' fill='none' stroke='%23173B4C' stroke-width='11'/%3E%3Ccircle cx='32' cy='32' r='24' fill='none' stroke='%23C9A24E' stroke-width='11' stroke-dasharray='12.566 25.133' stroke-dashoffset='6.283'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:wght@400;600;700&display=swap">
 <link rel="stylesheet" href="style.css">
+<script src="motion.js"></script>
 </head>
 <body>
 
@@ -28,7 +29,7 @@
 <nav class="topnav">
   <div class="topnav-inner side">
     <a class="wordmark" href="index.html">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 17c1.5 1.5 3 1.5 4.5 0s3-1.5 4.5 0 3 1.5 4.5 0 3-1.5 4.5 0"/><path d="M12 3v8"/><path d="M8 6h8l-1.5 5h-5z"/></svg>
+      <svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="24" fill="none" stroke="#173B4C" stroke-width="10"/><circle cx="32" cy="32" r="24" fill="none" stroke="#C9A24E" stroke-width="10" stroke-dasharray="12.566 25.133" stroke-dashoffset="6.283"/></svg>
       Harbor Sites
     </a>
     <a class="nav-cta" href="index.html">Back home</a>
@@ -57,10 +58,19 @@
     <h1 style="max-width:20ch;">Tell us about your business</h1>
     <p class="sub">The more specific you are, the better the sample homepage will be. Skip anything you're not sure about &mdash; we'll follow up if we need it.</p>
 
+    <ol class="form-steps" aria-label="Where you are in the process">
+      <li class="now" aria-current="step">Free sample</li>
+      <li>Sign up</li>
+      <li>Launch Kit</li>
+      <li>Build</li>
+      <li>Launch</li>
+    </ol>
+
     <div class="form-shell">
-      <form name="intake" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/thank-you.html" enctype="multipart/form-data">
+      <form name="intake" method="POST" action="/api/contact" enctype="multipart/form-data" data-resize-uploads>
+        <input type="hidden" name="_next" value="/thank-you.html">
         <input type="hidden" name="form-name" value="intake">
-        <p style="position:absolute;left:-9999px;" aria-hidden="true">
+        <p hidden>
           <label>Leave this field blank: <input name="bot-field"></label>
         </p>
 
@@ -156,6 +166,43 @@
         </fieldset>
 
         <fieldset>
+          <legend>What the website is for</legend>
+          <p class="field-hint">This shapes what goes front and center on your sample.</p>
+
+          <div class="field">
+            <label for="focus">What should your website be centered around? <span class="opt">(optional)</span></label>
+            <input type="text" id="focus" name="site_focus" placeholder="e.g. Our 24/7 emergency repairs, or the custom cakes we're known for">
+          </div>
+
+          <div class="field" role="group" aria-labelledby="goals-l">
+            <p class="field-label" id="goals-l">What should the website help you do? <span class="opt">(pick any)</span></p>
+            <div class="choice-grid">
+              <label><input type="checkbox" name="site_goals" value="Get more phone calls"> Get more phone calls</label>
+              <label><input type="checkbox" name="site_goals" value="Get quote or estimate requests"> Get quote or estimate requests</label>
+              <label><input type="checkbox" name="site_goals" value="Take bookings or appointments"> Take bookings or appointments</label>
+              <label><input type="checkbox" name="site_goals" value="Show off your work with photos"> Show off your work with photos</label>
+              <label><input type="checkbox" name="site_goals" value="Share a menu, price list or services list"> Share a menu, price list or services list</label>
+              <label><input type="checkbox" name="site_goals" value="Sell products online"> Sell products online</label>
+              <label><input type="checkbox" name="site_goals" value="Build trust with reviews"> Build trust with reviews</label>
+              <label><input type="checkbox" name="site_goals" value="Help people find your location and hours"> Help people find your location and hours</label>
+              <label><input type="checkbox" name="site_goals" value="Hire staff"> Hire staff</label>
+            </div>
+          </div>
+
+          <div class="field" role="radiogroup" aria-labelledby="main-l">
+            <p class="field-label" id="main-l">What's the one thing you most want visitors to do? <span class="opt">(optional)</span></p>
+            <div class="choice-grid">
+              <label><input type="radio" name="main_action" value="Call you"> Call you</label>
+              <label><input type="radio" name="main_action" value="Request a quote"> Request a quote</label>
+              <label><input type="radio" name="main_action" value="Book online"> Book online</label>
+              <label><input type="radio" name="main_action" value="Visit in person"> Visit in person</label>
+              <label><input type="radio" name="main_action" value="Buy something"> Buy something</label>
+              <label><input type="radio" name="main_action" value="Something else"> Something else</label>
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset>
           <legend>Look and feel</legend>
 
           <div class="field">
@@ -194,6 +241,7 @@
           </div>
         </fieldset>
 
+        <div class="cf-turnstile" data-sitekey="0x4AAAAAAFX7PqgIB3T2Qw4U" data-theme="light"></div>
         <div class="submit-row">
           <button class="btn-submit" type="submit">Send it to us</button>
           <p class="submit-note">We'll follow up within a couple of days with a free sample homepage.</p>
@@ -205,8 +253,8 @@
 
 <footer>
   <div class="footer-inner side">
-    <div>Harbor Sites &middot; San Diego, CA</div>
-    <div><a href="index.html">Back home</a></div>
+    <div>Harbor Sites &middot; Web design for small businesses</div>
+    <div class="footer-links"><a href="pricing.html">Pricing</a> <a href="terms.html">Terms</a> <a href="index.html">Back home</a></div>
   </div>
 </footer>
 
@@ -336,5 +384,7 @@
 })();
 </script>
 
+<script src="upload-resize.js" defer></script>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </body>
 </html>

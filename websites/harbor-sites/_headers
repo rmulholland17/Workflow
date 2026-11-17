@@ -1,0 +1,14 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; form-action 'self'; frame-ancestors 'none'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+
+# Keep preview/review links out of search results. The production pages.dev host is NOT noindexed on purpose:
+# harborsites.org is served from it through the Netlify proxy until the nameservers move, and a noindex here
+# would be passed through and drop harborsites.org from Google. Every page's canonical tag points to
+# harborsites.org, so the pages.dev copy doesn't compete. Re-add the production rule after the nameserver move.
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex

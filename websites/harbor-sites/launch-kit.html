@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harbor Sites &mdash; Launch Kit</title>
+<meta name="description" content="The details we need to build and launch your full website.">
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='24' fill='none' stroke='%23173B4C' stroke-width='11'/%3E%3Ccircle cx='32' cy='32' r='24' fill='none' stroke='%23C9A24E' stroke-width='11' stroke-dasharray='12.566 25.133' stroke-dashoffset='6.283'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="topnav-inner side">
+    <a class="wordmark" href="index.html">
+      <svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="24" fill="none" stroke="#173B4C" stroke-width="10"/><circle cx="32" cy="32" r="24" fill="none" stroke="#C9A24E" stroke-width="10" stroke-dasharray="12.566 25.133" stroke-dashoffset="6.283"/></svg>
+      Harbor Sites
+    </a>
+    <a class="nav-cta" href="index.html">Back home</a>
+  </div>
+</nav>
+
+<section class="noborder">
+  <div class="wrap side">
+    <ol class="form-steps" aria-label="Where you are in the process">
+      <li class="done">Free sample</li>
+      <li class="done">Sign up</li>
+      <li class="now" aria-current="step">Launch Kit</li>
+      <li>Build</li>
+      <li>Launch</li>
+    </ol>
+    <div class="eyebrow">Launch Kit, about 10 minutes</div>
+    <h1 style="max-width:20ch;">Everything we need to build your full site</h1>
+    <p class="sub">You've seen your sample and signed up. The first questionnaire was about your business, so we could design the sample. This one is about launching the real site: which pages you want, your hours, your domain and more photos. Skip anything you're unsure about and we'll look it up or ask.</p>
+
+    <div class="form-shell">
+      <p class="kit-note"><strong>We will never ask for a password.</strong> If your domain or email needs connecting, we set up a short call and you click the buttons on your own account while we walk you through it.</p>
+
+      <form name="launch-kit" method="POST" action="/api/contact" enctype="multipart/form-data" data-resize-uploads>
+        <input type="hidden" name="_next" value="/launch-kit-thanks.html">
+        <input type="hidden" name="form-name" value="launch-kit">
+        <p hidden>
+          <label>Leave this field blank: <input name="bot-field"></label>
+        </p>
+
+        <fieldset>
+          <legend>Your details</legend>
+          <p class="field-hint">Who we work with on the build and send things to for approval.</p>
+          <div class="field">
+            <label for="legal-name">Legal business name <span class="opt">(required)</span></label>
+            <input type="text" id="legal-name" name="legal_business_name" autocomplete="organization" required placeholder="As it appears on your license or LLC paperwork">
+          </div>
+          <div class="two-col">
+            <div class="field">
+              <label for="signer">Your name <span class="opt">(required)</span></label>
+              <input type="text" id="signer" name="signer_name" autocomplete="name" required>
+            </div>
+            <div class="field">
+              <label for="signer-title">Your title <span class="opt">(optional)</span></label>
+              <input type="text" id="signer-title" name="signer_title" autocomplete="organization-title" placeholder="e.g. Owner">
+            </div>
+          </div>
+          <div class="two-col">
+            <div class="field">
+              <label for="signer-email">Email <span class="opt">(required)</span></label>
+              <input type="email" id="signer-email" name="signer_email" autocomplete="email" required>
+            </div>
+            <div class="field">
+              <label for="signer-phone">Phone <span class="opt">(optional)</span></label>
+              <input type="tel" id="signer-phone" name="signer_phone" autocomplete="tel">
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Your domain and current website</legend>
+          <p class="field-hint">Your domain always stays in your name. No domain yet? We'll register one for you, in your name. "Not sure" is a fine answer for any of these.</p>
+          <div class="field">
+            <span class="lbl-fake" style="display:block;font-size:13.5px;font-weight:600;margin-bottom:8px;">Do you have a website right now?</span>
+            <div class="choices inline">
+              <label><input type="radio" name="has_website" value="yes"> Yes</label>
+              <label><input type="radio" name="has_website" value="no"> No</label>
+            </div>
+          </div>
+          <div class="field">
+            <label for="current-url">Current website or domain name <span class="opt">(if you have one)</span></label>
+            <input type="text" id="current-url" name="current_website" placeholder="e.g. yourbusiness.com">
+          </div>
+          <div class="field">
+            <label for="wanted-domain">Domain you'd like, if you don't have one yet <span class="opt">(optional)</span></label>
+            <input type="text" id="wanted-domain" name="wanted_domain" placeholder="e.g. smithplumbingsd.com">
+          </div>
+          <div class="two-col">
+            <div class="field">
+              <label for="registrar">Where did you buy the domain?</label>
+              <select id="registrar" name="domain_registrar"><option value="Not sure">Not sure</option><option value="GoDaddy">GoDaddy</option><option value="Squarespace (incl. former Google Domains)">Squarespace (incl. former Google Domains)</option><option value="Namecheap">Namecheap</option><option value="Wix">Wix</option><option value="Network Solutions">Network Solutions</option><option value="Cloudflare">Cloudflare</option><option value="Other">Other</option></select>
+            </div>
+            <div class="field">
+              <label for="email-provider">Email at that domain</label>
+              <select id="email-provider" name="email_provider"><option value="Not sure">Not sure</option><option value="No email at my domain">No email at my domain</option><option value="Google Workspace (Gmail)">Google Workspace (Gmail)</option><option value="Microsoft 365 / Outlook">Microsoft 365 / Outlook</option><option value="GoDaddy email">GoDaddy email</option><option value="Other">Other</option></select>
+            </div>
+          </div>
+          <div class="field">
+            <label for="who-manages">Who built or manages your current site? <span class="opt">(optional)</span></label>
+            <input type="text" id="who-manages" name="current_site_manager" placeholder="Me, a friend, a freelancer, an agency...">
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Hours and details</legend>
+          <div class="field">
+            <label for="hours">Business hours <span class="opt">(optional)</span></label>
+            <textarea id="hours" name="business_hours" placeholder="e.g. Mon-Fri 7am-5pm, Sat 8am-noon, 24/7 emergency line"></textarea>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>What the full site needs</legend>
+          <div class="field">
+            <span style="display:block;font-size:13.5px;font-weight:600;margin-bottom:8px;">Pages you want</span>
+            <div class="choices">
+              <label><input type="checkbox" name="pages_wanted[]" value="Services"> Services</label>
+              <label><input type="checkbox" name="pages_wanted[]" value="About us"> About us</label>
+              <label><input type="checkbox" name="pages_wanted[]" value="Reviews"> Reviews</label>
+              <label><input type="checkbox" name="pages_wanted[]" value="Service areas"> Service areas</label>
+              <label><input type="checkbox" name="pages_wanted[]" value="Photo gallery"> Photo gallery</label>
+              <label><input type="checkbox" name="pages_wanted[]" value="FAQ"> FAQ</label>
+              <label><input type="checkbox" name="pages_wanted[]" value="Contact / quote request"> Contact / quote request</label>
+              <label><input type="checkbox" name="pages_wanted[]" value="Blog or news"> Blog or news</label>
+            </div>
+          </div>
+          <div class="field">
+            <span style="display:block;font-size:13.5px;font-weight:600;margin-bottom:8px;">Features you want</span>
+            <div class="choices">
+              <label><input type="checkbox" name="features_wanted[]" value="Quote request form"> Quote request form</label>
+              <label><input type="checkbox" name="features_wanted[]" value="Online booking link"> Online booking link</label>
+              <label><input type="checkbox" name="features_wanted[]" value="Click-to-call button"> Click-to-call button</label>
+              <label><input type="checkbox" name="features_wanted[]" value="Google reviews on the site"> Google reviews on the site</label>
+              <label><input type="checkbox" name="features_wanted[]" value="Spanish-language version"> Spanish-language version</label>
+            </div>
+          </div>
+          <div class="field">
+            <label for="changes">Anything to change from the sample homepage? <span class="opt">(optional)</span></label>
+            <textarea id="changes" name="sample_changes"></textarea>
+          </div>
+          <div class="field">
+            <label for="launch-date">When would you like it live? <span class="opt">(optional)</span></label>
+            <input type="date" id="launch-date" name="target_launch_date">
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>More photos</legend>
+          <p class="field-hint">Jobs, your team, your truck or shop. If you have lots, send a few here and we'll collect the rest by email.</p>
+          <div class="field">
+            <label for="kit-photos">Upload photos <span class="opt">(optional, multiple allowed)</span></label>
+            <input type="file" id="kit-photos" name="more_photos" accept="image/*" multiple>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Permissions</legend>
+          <div class="field">
+            <div class="choices" style="grid-template-columns:1fr">
+              <label><input type="checkbox" name="ok_quote_google_reviews" value="yes"> You can quote my Google reviews on the site</label>
+              <label><input type="checkbox" name="ok_portfolio" value="yes"> Harbor Sites can show my site in its portfolio</label>
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Connecting your domain</legend>
+          <div class="field">
+            <label for="call-time">Best times for a short setup call <span class="opt">(optional)</span></label>
+            <input type="text" id="call-time" name="setup_call_times" placeholder="e.g. weekday mornings, or Tue/Thu after 4pm">
+          </div>
+          <div class="field">
+            <label for="kit-notes">Anything else? <span class="opt">(optional)</span></label>
+            <textarea id="kit-notes" name="notes"></textarea>
+          </div>
+        </fieldset>
+
+        <div class="cf-turnstile" data-sitekey="0x4AAAAAAFX7PqgIB3T2Qw4U" data-theme="light"></div>
+        <div class="submit-row">
+          <button class="btn-submit" type="submit">Send my Launch Kit</button>
+          <p class="submit-note">We'll confirm what we received and reach out to schedule the setup call.</p>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner side">
+    <div>Harbor Sites &middot; Web design for small businesses</div>
+    <div class="footer-links"><a href="pricing.html">Pricing</a> <a href="terms.html">Terms</a> <a href="index.html">Back home</a></div>
+  </div>
+</footer>
+
+<script src="upload-resize.js" defer></script>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+</body>
+</html>
