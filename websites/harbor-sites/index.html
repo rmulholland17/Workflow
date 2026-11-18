@@ -44,9 +44,9 @@
 
 <main id="main">
 
-<header class="hero side">
+<header class="hero side" data-water>
   <div class="hero-grid">
-  <div class="hero-single">
+  <div class="hero-single" data-reveal-group>
     <p class="kicker">Websites for small businesses, whatever you do and wherever you are</p>
     <h1>We'll build your site first. You decide if it's worth paying for.</h1>
     <p class="sub">Tell us about your business in one short form. We send back a sample homepage built from your real name, services and reviews, in the style you want. You only pay if you want it launched.</p>
@@ -56,17 +56,18 @@
     </div>
     <p class="microcopy">About 5 minutes. No card, no commitment.</p>
   </div>
-  <a class="fan" href="#styles" aria-label="See style examples">
+  <a class="fan" href="#styles" aria-label="See style examples" data-reveal style="--i:3">
     <div class="shot s-lux" aria-hidden="true"><span class="line"></span><div class="mnav"><span class="brand">MAISON FLORALS</span><span class="dots"><i></i><i></i><i></i></span></div><div class="pic"><img src="assets/styles/lux.jpg" alt="" width="560" height="373"></div><div class="txt"><p class="mh">Flowers for quiet moments</p><p class="mp">Weddings, events and weekly arrangements.</p><span class="mb">ENQUIRE</span></div></div>
     <div class="shot s-rustic" aria-hidden="true"><span class="stamp">baked<br>daily</span><div class="mnav"><span class="brand">Oak Hollow</span><span class="dots"><i></i><i></i><i></i></span></div><div class="pic"><img src="assets/styles/rustic.jpg" alt="" width="560" height="373"></div><div class="txt"><p class="mh">Baked this morning</p><p class="mp">Sourdough, pies and cinnamon rolls by 7.</p><span class="mb">See today's menu</span></div></div>
     <div class="shot s-bold" aria-hidden="true"><span class="stripe"></span><div class="mnav"><span class="brand">FRESH CUT</span><span class="dots"><i></i><i></i><i></i></span></div><div class="pic"><img src="assets/styles/bold.jpg" alt="" width="560" height="373"></div><div class="txt"><p class="mh">Fresh cuts. <span>No wait.</span></p><p class="mp">Walk-ins welcome seven days a week.</p><span class="mb">BOOK A CHAIR</span></div></div>
   </a>
   </div>
+  <svg class="waterline" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true"><path class="w2" d="M0 36 C 180 66 360 8 540 32 S 900 64 1080 34 S 1350 16 1440 38 V80 H0Z"/><path class="w1" d="M0 54 C 200 32 380 76 600 54 S 980 30 1180 52 S 1380 70 1440 56 V80 H0Z"/></svg>
 </header>
 
 <section class="facts side" aria-label="Why a website matters">
   <div class="wrap">
-    <dl class="fact-row">
+    <dl class="fact-row" data-reveal-group>
       <div>
         <svg class="fact-viz fact-ring" viewBox="0 0 64 64" aria-hidden="true"><circle class="fr-track" cx="32" cy="32" r="26"/><circle class="fr-fill" cx="32" cy="32" r="26" data-pct="17" style="stroke-dashoffset:135.59"/></svg>
         <dt>17%</dt><dd>of small businesses still have no website at all</dd>
@@ -86,7 +87,7 @@
 
 <section class="reel-sec" id="styles" aria-labelledby="styles-h">
   <div class="side">
-    <div class="wrap reel-head">
+    <div class="wrap reel-head" data-reveal>
       <div>
         <h2 id="styles-h">Any style you want</h2>
         <p class="section-lede">Classic, bold, handmade, retro, minimal. Every site is designed around your business, so no two look alike. Scroll through a few directions.</p>
@@ -97,7 +98,7 @@
       </div>
     </div>
   </div>
-  <div class="reel" id="reel" tabindex="0" aria-label="Style examples, scroll sideways">
+  <div class="reel" id="reel" tabindex="0" aria-label="Style examples, scroll sideways" data-reveal>
     <figure class="style-card">
       <div class="shot s-classic" aria-hidden="true"><div class="rule"></div><div class="mnav"><span class="brand">HALE &amp; PORTER</span><span class="dots"><i></i><i></i><i></i></span></div><div class="pic"><img src="assets/styles/classic.jpg" alt="" loading="lazy" width="560" height="373"></div><div class="txt"><p class="mh">Trusted counsel for Main Street</p><p class="mp">Estate planning and small business law, explained plainly.</p><span class="mb">Book a consultation</span></div></div>
       <figcaption><b>Classic and trusted</b><span>For firms where reputation does the selling.</span></figcaption>
@@ -152,8 +153,8 @@
 
 <section class="band side" id="how">
   <div class="wrap">
-    <h2>How it works</h2>
-    <ol class="steps">
+    <h2 data-reveal>How it works</h2>
+    <ol class="steps" data-reveal-group>
       <li>
         <h3>Tell us about your business</h3>
         <p>One form, about five minutes. What you do, where you work, the look you like, and why customers pick you over the next name on the list.</p>
@@ -174,10 +175,10 @@
   </div>
 </section>
 
-<section class="side" aria-labelledby="next-h">
+<section class="side next-sec" aria-labelledby="next-h">
   <div class="wrap">
-    <h2 id="next-h">Learn more</h2>
-    <ul class="next-links">
+    <h2 id="next-h" data-reveal>Learn more</h2>
+    <ul class="next-links" data-reveal-group>
       <li><a href="what-you-get.html"><strong>What you get</strong><span>How we customize your site, and what every build includes.</span></a></li>
       <li><a href="switching.html"><strong>Switching sites</strong><span>Moving off Wix, Squarespace or GoDaddy without going offline.</span></a></li>
       <li><a href="questions.html"><strong>Questions</strong><span>Cost, timing, content, ownership and more.</span></a></li>
@@ -185,8 +186,9 @@
   </div>
 </section>
 
-<section class="closing side">
-  <div class="wrap">
+<section class="closing side" data-water data-water-seed="21">
+  <svg class="waterline top" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true"><path class="w2" d="M0 36 C 180 66 360 8 540 32 S 900 64 1080 34 S 1350 16 1440 38 V80 H0Z"/><path class="w1" d="M0 54 C 200 32 380 76 600 54 S 980 30 1180 52 S 1380 70 1440 56 V80 H0Z"/></svg>
+  <div class="wrap" data-reveal>
     <h2>See your business online before you pay for it.</h2>
     <div class="cta-row">
       <a class="btn-primary light" href="questionnaire.html">Start the free sample</a>
@@ -276,6 +278,7 @@ document.querySelectorAll('.copy-btn').forEach(function(btn){
   }
 })();
 </script>
+<script src="sea.js" defer></script>
 <script src="rope.js" defer></script>
 </body>
 </html>
