@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>You're signed up | Harbor Sites</title>
+<meta name="description" content="Payment received. Next step: your Launch Kit.">
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='24' fill='none' stroke='%23173B4C' stroke-width='11'/%3E%3Ccircle cx='32' cy='32' r='24' fill='none' stroke='%23C9A24E' stroke-width='11' stroke-dasharray='12.566 25.133' stroke-dashoffset='6.283'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="topnav-inner side">
+    <a class="wordmark" href="index.html">
+      <svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="24" fill="none" stroke="#173B4C" stroke-width="10"/><circle cx="32" cy="32" r="24" fill="none" stroke="#C9A24E" stroke-width="10" stroke-dasharray="12.566 25.133" stroke-dashoffset="6.283"/></svg>
+      Harbor Sites
+    </a>
+    <a class="nav-cta" href="index.html">Back home</a>
+  </div>
+</nav>
+
+<main id="main" class="wrap side">
+  <div class="confirm-wrap">
+    <ol class="form-steps" aria-label="Where you are in the process">
+      <li class="done">Free sample</li>
+      <li class="done">Sign up</li>
+      <li>Launch Kit</li>
+      <li>Build</li>
+      <li>Launch</li>
+    </ol>
+    <div class="confirm-mark big pop">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+    </div>
+    <h1 style="max-width:20ch;">You&rsquo;re signed up. Welcome to Harbor Sites.</h1>
+    <p class="sub" style="max-width:48ch;">Your payment went through, and Stripe has emailed your receipt. One short form left, then we start building.</p>
+    <div class="confirm-card" aria-label="Payment details">
+      <div class="confirm-row"><span>Status</span><strong>Payment received</strong></div>
+      <div class="confirm-row"><span>Website build</span><strong>$500, paid</strong></div>
+      <div class="confirm-row"><span>Care plan</span><strong id="plan">See your receipt</strong></div>
+      <div class="confirm-row"><span>Date</span><strong id="when"></strong></div>
+    </div>
+    <a class="btn-primary" href="launch-kit.html">Start your Launch Kit</a>
+    <h2 style="font-family:var(--font-display);color:var(--navy);margin:36px 0 4px;">What happens next</h2>
+    <ol class="confirm-next">
+      <li><span class="dot ok">&#10003;</span><div><strong>Payment received</strong><span>Your receipt is in your inbox from Stripe. Not there? Look in spam or promotions.</span></div></li>
+      <li><span class="dot">2</span><div><strong>Fill out your Launch Kit</strong><span>About 10 minutes: your logo, photos, services and the details for the full site.</span></div></li>
+      <li><span class="dot">3</span><div><strong>We build your full site</strong><span>Usually within a couple of weeks. You review everything and get 2 rounds of changes.</span></div></li>
+      <li><span class="dot">4</span><div><strong>Launch</strong><span>Once you approve it, your site goes live on your domain.</span></div></li>
+    </ol>
+    <p class="sub" style="max-width:52ch;font-size:18px;">Questions about your order? Write to <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=harborsitess@gmail.com" target="_blank" rel="noopener">harborsitess@gmail.com</a> or call <a href="tel:+14356407665">(435) 640-7665</a>. You can read the <a href="terms.html">service terms</a> you agreed to any time.</p>
+    <p><a href="index.html">Back to the homepage</a></p>
+  </div>
+</main>
+
+<script>
+(function(){
+  var plan = new URLSearchParams(location.search).get('plan');
+  var el = document.getElementById('plan');
+  if (plan === 'care'){
+    var d = new Date(); d.setDate(d.getDate() + 14);
+    el.textContent = '$59/mo, starts ' + d.toLocaleDateString([], {month:'short', day:'numeric'});
+  } else if (plan === 'build'){
+    el.textContent = 'Not added';
+  }
+  document.getElementById('when').textContent = new Date().toLocaleDateString([], {month:'short', day:'numeric', year:'numeric'});
+})();
+</script>
+
+</body>
+</html>

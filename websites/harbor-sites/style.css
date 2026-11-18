@@ -911,3 +911,6 @@ body.home .closing .btn-primary.light:hover{background:var(--brass);}
 .water-toggle:hover{background:rgba(6,28,37,.7);color:#fff;}
 .water-toggle:focus-visible{outline:3px solid #E9CF8E;outline-offset:3px;}
 body.home .hero[data-water] .water-toggle{bottom:calc(clamp(36px,5vw,72px) + 14px);}
+
+/* "optional" tag beside the Care plan heading (pricing) */
+.price-card h3 .opt{font-family:var(--font-body);font-size:15px;font-weight:600;color:var(--ink-soft);vertical-align:middle;margin-left:8px;padding:3px 10px;border:1px solid currentColor;border-radius:999px;}
